@@ -1,0 +1,62 @@
+id: lib-1788131478378-ab8mba
+name: Lizard Pose
+description: >-
+  A low lunge with both hands — or forearms — inside the front foot, sinking the hips toward the floor. It is one of the
+  deepest hip openers, targeting the hip flexors of the back leg and the inner thigh of the front. Work toward the
+  forearms gradually; blocks under the hands are the honest starting point.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+  - Adductors
+secondaryMuscles:
+  - Hamstrings
+  - Glutes
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Stretching
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Take a low lunge
+    detail: Step one foot forward outside the same-side hand with the back knee down or lifted.
+  - title: Walk the foot wide
+    detail: Edge the front foot toward the mat's edge and let the knee fall slightly open.
+  - title: Lower toward forearms
+    detail: Descend onto the forearms or blocks as the hips allow.
+  - title: Sink and breathe
+    detail: Let the hips settle heavier with each exhale.
+  - title: Rise and switch
+    detail: Press back up slowly and repeat on the other side.
+safetyNotes: >-
+  Ease into the depth over several breaths rather than dropping straight down; keep the front knee tracking over the
+  foot and pad the back knee if it complains.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478378-ab8mba/img-female-mtkq6rufnjsm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478378-ab8mba/img-male-mtkq65kzlp8z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478378-ab8mba/img-female-mtkq6rufnjsm.webp
+youtubeSearchQuery: Lizard Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.640Z"
+updatedAt: "2026-09-02T23:26:48.816Z"

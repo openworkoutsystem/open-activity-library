@@ -1,0 +1,56 @@
+id: lib-1788127165046-nirvlp
+name: Squat Jump
+description: >-
+  Jump from a half squat, land soft, and go again — elastic leg power in its simplest repeatable form. It builds the
+  spring in the quads and calves that box jumps and sprints draw on. Keep the landings quiet; noise is wasted force.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Lower Body
+modality: resistance
+metValue: 8
+instructions:
+  - title: Set the squat
+    detail: Lower to a half squat with the arms swung back.
+  - title: Jump straight up
+    detail: Extend hard through hips, knees, and ankles.
+  - title: Land quiet
+    detail: Absorb through the same half squat you left from.
+  - title: Repeat with rhythm
+    detail: Go again immediately, keeping every landing silent.
+safetyNotes: >-
+  Quality drops fast under fatigue — end the set when landings get loud or the knees start caving. Not a good pick on
+  cranky knees; use step-ups or sled work instead.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165046-nirvlp/img-female-mtkviwvemriv.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165046-nirvlp/img-male-mtkv7d4p8nw9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165046-nirvlp/img-female-mtkviwvemriv.webp
+youtubeSearchQuery: Squat Jump proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.345Z"
+updatedAt: "2026-09-03T01:56:12.967Z"

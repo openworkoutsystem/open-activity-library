@@ -1,0 +1,58 @@
+id: lib-1788127165438-sanptt
+name: Lateral Bound
+description: >-
+  Push off one leg and land balanced on the other, bounding sideways. This is frontal-plane power the straight-ahead
+  jump family never touches — glute med and ankle stability under real force. Stick each landing for a beat before
+  pushing back the other way.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Abductors
+secondaryMuscles:
+  - Quadriceps
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Agility Drills
+modality: resistance
+metValue: 8
+instructions:
+  - title: Load one leg
+    detail: Shift your weight onto the outside leg and dip.
+  - title: Bound sideways
+    detail: Push off hard and travel laterally.
+  - title: Stick the landing
+    detail: Land on the opposite foot and hold for a beat.
+  - title: Rebound back
+    detail: Push off the other way and keep alternating.
+safetyNotes: >-
+  The single-leg landing is both the point and the risk — a knee caving inward means the bound is too far. Widen the
+  distance gradually and hold every landing before chasing range.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165438-sanptt/img-female-mtkq00ns34f1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165438-sanptt/img-male-mtkpzb9k124r.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165438-sanptt/img-female-mtkq00ns34f1.webp
+youtubeSearchQuery: Lateral Bound proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.735Z"
+updatedAt: "2026-09-02T23:21:33.512Z"

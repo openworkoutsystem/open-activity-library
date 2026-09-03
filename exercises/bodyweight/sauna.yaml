@@ -1,0 +1,61 @@
+id: lib-1788215818951-492cjd
+name: Sauna
+description: >-
+  Sit in a heated room - a traditional dry sauna around 170 to 195 degrees Fahrenheit, or an infrared cabin at a lower
+  temperature - for a timed block. Heat exposure lifts heart rate and drives a heavy sweat with no mechanical load on
+  the joints, which makes it a clean add-on after training or on a rest day. Hydrate before you go in and let the clock,
+  not stubbornness, decide when you come out.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Recovery
+  - Active Recovery
+  - Cool-Down
+  - Low-Impact
+metValue: 1.5
+instructions:
+  - title: Hydrate first
+    detail: >-
+      Drink 8 to 16 ounces of water before entering and bring a bottle with you, because a 15 minute session costs you
+      real fluid.
+  - title: Pick your bench
+    detail: >-
+      Sit on a towel and start on a lower bench where the air is cooler, moving higher only once you know how you handle
+      the heat.
+  - title: Time the session
+    detail: Cap early sessions at 10 to 15 minutes, then step out and cool down, repeating only if you still feel steady.
+  - title: Cool down properly
+    detail: >-
+      Cool off in fresh air or a lukewarm shower and replace fluids with water and a little sodium before you drive or
+      lift.
+safetyNotes: >-
+  Heat stress drops blood pressure, so stand up slowly and leave immediately for dizziness, nausea, or a headache. Skip
+  the sauna entirely if you are pregnant, drinking, already dehydrated, or managing an uncontrolled heart or
+  blood-pressure condition.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 900
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818951-492cjd/img-male-mtku98zi3zbb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818951-492cjd/img-male-mtku98zi3zbb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818951-492cjd/img-female-mtku7go8xc9t.webp
+youtubeSearchQuery: Sauna session protocol proper use
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.335Z"
+updatedAt: "2026-09-03T01:20:42.117Z"

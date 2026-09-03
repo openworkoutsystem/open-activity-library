@@ -1,0 +1,64 @@
+id: lib-1788127149955-20o6u0
+name: Trap Bar Deadlift
+description: >-
+  Deadlift standing inside a hex bar with neutral handles at your sides — more upright torso, less stress on the low
+  back, more forgiving of imperfect setup. For most people it is the best way to pull heavy from the floor. Think of
+  pushing the floor away rather than lifting the bar.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Quadriceps
+secondaryMuscles:
+  - Traps
+  - Lower Back
+  - Forearms
+equipment:
+  - trap_bar
+tags:
+  - Hinge
+  - Compound
+  - Strength
+  - Posterior Chain
+  - Lower Body
+modality: resistance
+metValue: 6
+instructions:
+  - title: Step inside
+    detail: Stand centered in the hex bar with feet hip-width apart.
+  - title: Grip and set
+    detail: Hinge down, grab the handles at their middle, and pull your chest up to flatten the back.
+  - title: Push the floor
+    detail: Brace hard and drive through the whole foot until you are standing tall.
+  - title: Lower with control
+    detail: Hinge the bar back to the floor and reset your position before every rep.
+safetyNotes: >-
+  The upright position is forgiving but doesn't suspend the rules — brace before the pull, keep the spine neutral, and
+  set the bar down between reps instead of bouncing the plates.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149955-20o6u0/img-female-mtkw93kyotid.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149955-20o6u0/img-male-mtkw848cx31j.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149955-20o6u0/img-female-mtkw93kyotid.webp
+youtubeSearchQuery: Trap Bar Deadlift proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.262Z"
+updatedAt: "2026-09-03T02:16:34.357Z"

@@ -1,0 +1,61 @@
+id: lib-1788131476278-972rfz
+name: Downward Dog
+description: >-
+  An inverted V held from hands and feet — the anchor pose nearly every flow returns to. It stretches the hamstrings,
+  calves, and shoulders while building wrist and arm support. Press the floor away and send the hips up and back rather
+  than sinking into the shoulders.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Shoulders
+  - Calves
+secondaryMuscles:
+  - Back
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Stretching
+  - Mobility
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Set your base
+    detail: Start on all fours with hands shoulder-width apart and fingers spread wide.
+  - title: Lift the hips
+    detail: Tuck the toes and push the hips up and back into an inverted V.
+  - title: Press the floor
+    detail: Push the mat away through both palms and let the head hang between the arms.
+  - title: Soften the knees
+    detail: Bend the knees as much as needed to keep the spine long.
+  - title: Hold and breathe
+    detail: Pedal the heels toward the floor and breathe steadily through the hold.
+safetyNotes: >-
+  Spread the weight across the whole hand to protect the wrists, and bend the knees rather than rounding the back when
+  the hamstrings are tight.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476278-972rfz/img-female-mtkn51zuz57s.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476278-972rfz/img-male-mtkn4g2m0wsh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476278-972rfz/img-female-mtkn51zuz57s.webp
+youtubeSearchQuery: Downward Dog yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:15.558Z"
+updatedAt: "2026-09-02T22:01:29.788Z"

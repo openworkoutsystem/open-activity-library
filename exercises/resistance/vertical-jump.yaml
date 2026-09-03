@@ -1,0 +1,57 @@
+id: lib-1788127164850-3ek7xg
+name: Vertical Jump
+description: >-
+  A quick dip and maximal jump for height — the classic power test. It trains the fast stretch-shortening cycle in the
+  hips and ankles that every athletic movement borrows from. Reach tall at the top and land where you took off, soft
+  through the knees.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Hamstrings
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Lower Body
+modality: resistance
+metValue: 8
+instructions:
+  - title: Stand tall
+    detail: Set feet hip-width with arms relaxed at your sides.
+  - title: Dip fast
+    detail: Drop quickly into a quarter squat, arms swinging back.
+  - title: Explode up
+    detail: Drive through the floor and reach as high as you can.
+  - title: Land soft
+    detail: Absorb the landing through bent knees, back where you started.
+safetyNotes: >-
+  Full rest between jumps keeps output high — grinding out tired jumps trains slowness and invites bad landings. Land
+  with the knees tracking over the toes every time.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164850-3ek7xg/img-female-mtkwoopeh3qe.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164850-3ek7xg/img-male-mtkwo38f477c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164850-3ek7xg/img-female-mtkwoopeh3qe.webp
+youtubeSearchQuery: Vertical Jump proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.204Z"
+updatedAt: "2026-09-03T02:28:42.010Z"

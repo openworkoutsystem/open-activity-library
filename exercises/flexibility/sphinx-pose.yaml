@@ -1,0 +1,56 @@
+id: lib-1788131477927-cenitd
+name: Sphinx Pose
+description: >-
+  A gentle backbend propped on the forearms — cobra's milder sibling and a back-friendly opener. It encourages spinal
+  extension and opens the chest and shoulders with far less compression than deeper backbends. Press the forearms down
+  and drag them isometrically back to lift the chest.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+secondaryMuscles:
+  - Chest
+  - Shoulders
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Posture
+  - Low-Impact
+modality: flexibility
+metValue: 2
+instructions:
+  - title: Lie face down
+    detail: Rest on the belly with the legs extended and the tops of the feet on the mat.
+  - title: Prop the forearms
+    detail: Place the elbows under the shoulders with forearms parallel and palms down.
+  - title: Lift the chest
+    detail: Press into the forearms and draw them back without moving them to raise the chest.
+  - title: Relax and hold
+    detail: Keep the glutes soft and the shoulders away from the ears while breathing into the hold.
+safetyNotes: If the lower back pinches, walk the elbows slightly forward to reduce the arch rather than pushing through it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 60
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477927-cenitd/img-female-mtkv3dct6myl.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477927-cenitd/img-male-mtkv2r5oaqzh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477927-cenitd/img-female-mtkv3dct6myl.webp
+youtubeSearchQuery: Sphinx Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.193Z"
+updatedAt: "2026-09-03T01:44:07.811Z"

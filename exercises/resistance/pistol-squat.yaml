@@ -1,0 +1,64 @@
+id: lib-1788127149371-vk0wu6
+name: Pistol Squat
+description: >-
+  Full-depth single-leg squat — strength, balance, and mobility in one hard package. One leg holds your entire
+  bodyweight through full range while the other stays extended in front, demanding ankle dorsiflexion most lifters have
+  to earn first. Counterbalance with your arms reaching forward and keep the working heel welded to the floor.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Abs
+  - Hip Flexors
+equipment: []
+tags:
+  - Squat
+  - Bodyweight
+  - Calisthenics
+  - Unilateral
+  - Balance
+modality: resistance
+metValue: 6
+unilateral: always
+instructions:
+  - title: Stand on one leg
+    detail: Balance on one foot and extend the other leg straight out in front.
+  - title: Reach and counterbalance
+    detail: Extend both arms forward at shoulder height to offset your weight shifting back.
+  - title: Lower to depth
+    detail: Squat down on the standing leg until your hamstring rests on your calf, heel flat the whole way.
+  - title: Drive up
+    detail: Push through the whole foot to stand without touching the free leg down.
+  - title: Switch sides
+    detail: Complete all reps on one leg before switching to the other.
+safetyNotes: >-
+  Limited ankle dorsiflexion is the usual failure point — if the heel lifts at depth, work box pistols or heel-elevated
+  versions first instead of tipping backward under load. The bottom position loads the knee through extreme flexion, so
+  build volume slowly.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149371-vk0wu6/img-female-mtkr8ry89fae.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149371-vk0wu6/img-male-mtkr86oy0x1z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149371-vk0wu6/img-female-mtkr8ry89fae.webp
+youtubeSearchQuery: Pistol Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.672Z"
+updatedAt: "2026-09-02T23:56:21.151Z"

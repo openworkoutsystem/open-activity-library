@@ -1,0 +1,65 @@
+id: lib-1788127162941-ybtrgm
+name: Turkish Get-Up
+description: >-
+  Move from lying on the floor to standing — and back down — under a locked-out weight, one position at a time. It
+  trains shoulder stability, core control, and hip mobility through every transition. Slow is the point: own each
+  position before you leave it.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles:
+  - Shoulders
+  - Abs
+  - Glutes
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Functional
+  - Compound
+  - Stability
+  - Core
+modality: resistance
+metValue: 5
+unilateral: always
+instructions:
+  - title: Set up on floor
+    detail: Lie on your back, press the bell to lockout, and keep your eyes on it.
+  - title: Roll to elbow
+    detail: Drive through the opposite arm and roll up to the elbow, then the hand.
+  - title: Sweep and kneel
+    detail: Lift the hips and sweep the straight leg back to a kneeling position.
+  - title: Stand tall
+    detail: Square the hips and stand up with the bell still locked out.
+  - title: Reverse every step
+    detail: Return to the floor through the same positions in reverse order.
+safetyNotes: >-
+  Keep your eyes on the bell through every position until you're standing, and never rush a transition. Learn the
+  sequence with a shoe or no weight before loading it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 3
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162941-ybtrgm/img-female-mtkwjz236ahc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162941-ybtrgm/img-male-mtkwjagzz1lm.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162941-ybtrgm/img-female-mtkwjz236ahc.webp
+youtubeSearchQuery: Turkish Get-Up technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.231Z"
+updatedAt: "2026-09-03T02:25:01.976Z"

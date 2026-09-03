@@ -1,0 +1,78 @@
+id: lib-1788215814814-566n6v
+name: Smith Machine Bench Press
+description: >-
+  Lie on a flat bench under a Smith machine bar and press it on the machine's fixed vertical track. The guided path
+  removes the balance demand of a free bar, which makes it a solid choice for training close to failure without a
+  spotter or for chasing pure chest fatigue. Position the bench so the bar meets your lower chest, not your throat.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+  - Front Delts
+secondaryMuscles:
+  - Serratus Anterior
+  - Back
+equipment:
+  - smith_machine
+  - weight_plates
+  - bench_flat
+tags:
+  - Compound
+  - Push
+  - Machine Weights
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 5
+instructions:
+  - title: Place the bench
+    detail: >-
+      Slide a flat bench under the bar and shift it until the bar would land on your lower chest, then load the plates
+      evenly and set the safety stops just below your chest.
+  - title: Set your grip
+    detail: >-
+      Lie back with eyes under the bar, take a grip slightly wider than shoulder width, and pull your shoulder blades
+      down and together into the bench.
+  - title: Unrack and descend
+    detail: >-
+      Rotate the hooks to unlock the bar, then lower it to your lower chest over two seconds with elbows at roughly a
+      forty-five degree angle to your torso.
+  - title: Press to lockout
+    detail: >-
+      Drive the bar straight up the track until the elbows lock, keeping your feet planted and your upper back tight on
+      the bench.
+  - title: Rehook safely
+    detail: >-
+      Finish the last rep at full lockout, rotate the bar back into the hooks, and confirm it is caught before letting
+      go.
+safetyNotes: >-
+  The fixed bar path is forced on your shoulders whether it suits them or not - if pressing feels pinchy, move the bench
+  a few inches rather than pushing through it. Always set the safety stops at chest height before your first rep, and
+  confirm the hooks are engaged at the end of the set before releasing the bar.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 4
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814814-566n6v/img-female-mtkv09kds6qn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814814-566n6v/img-male-mtkuzn2qlset.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814814-566n6v/img-female-mtkv09kds6qn.webp
+youtubeSearchQuery: Smith Machine Bench Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.100Z"
+updatedAt: "2026-09-03T01:41:43.005Z"

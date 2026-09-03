@@ -1,0 +1,58 @@
+id: lib-1788127152144-suijs6
+name: Wall Push-Up
+description: >-
+  Push-up against a wall — the most accessible entry to the pattern. Standing at arm's length from a wall, you press
+  your body away with the same rigid line you'll use on the floor later. It trains chest, triceps, and front delts while
+  the low load lets you groove strict form from day one.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Triceps
+  - Front Delts
+  - Abs
+equipment: []
+tags:
+  - Push
+  - Bodyweight
+  - No Equipment
+  - Upper Body
+  - Calisthenics
+modality: resistance
+metValue: 2.8
+instructions:
+  - title: Set your hands
+    detail: Place both palms on the wall at shoulder height and shoulder width.
+  - title: Step back
+    detail: Walk your feet back until your body leans into the wall in one straight line.
+  - title: Lower with control
+    detail: Bend your elbows at about 45 degrees and bring your chest toward the wall.
+  - title: Press away
+    detail: Push through your palms until your arms are fully straight.
+safetyNotes: >-
+  Even at low load, letting the hips sag trains a bad pattern — keep the body one rigid line from head to heels. Step
+  your feet closer to the wall if your shoulders or wrists complain.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152144-suijs6/img-female-mtkww7okp2cd.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152144-suijs6/img-male-mtkwvmnsc117.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152144-suijs6/img-female-mtkww7okp2cd.webp
+youtubeSearchQuery: Wall Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.447Z"
+updatedAt: "2026-09-03T02:34:33.220Z"

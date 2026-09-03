@@ -1,0 +1,64 @@
+id: lib-1788127148706-pkx77o
+name: Sumo Squat
+description: >-
+  Wide-stance squat, toes out — shifts emphasis to adductors and glutes. Hold a dumbbell or kettlebell at the chest or
+  hanging between the legs and let the wide base take you deeper than a standard stance allows. Push the knees out over
+  the toes the entire rep; a caving knee erases the point of the stance.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - dumbbells
+  - kettlebells
+tags:
+  - Squat
+  - Dumbbell
+  - Kettlebell
+  - Compound
+  - Lower Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Take a wide stance
+    detail: Step well outside shoulder width with toes turned out about 30 degrees.
+  - title: Hold the weight
+    detail: Let a dumbbell or kettlebell hang between your legs or hold it at your chest.
+  - title: Sink straight down
+    detail: Squat down between your heels while pushing the knees out over the toes.
+  - title: Squeeze up
+    detail: Drive through the floor and squeeze the glutes and inner thighs to stand.
+safetyNotes: >-
+  The wide stance stretches the adductors hard at depth — warm the groin up first and add range gradually, since a cold
+  adductor strain lingers for weeks. Keep the torso vertical; leaning forward turns it into an awkward deadlift.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148706-pkx77o/img-female-mtkvrsrkvtyx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148706-pkx77o/img-male-mtkvr1ycqld7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148706-pkx77o/img-female-mtkvrsrkvtyx.webp
+youtubeSearchQuery: Sumo Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.063Z"
+updatedAt: "2026-09-03T02:03:07.547Z"

@@ -1,0 +1,57 @@
+id: lib-1788127150708-5yc3xe
+name: Back Extension
+description: >-
+  Hinge over the pad of a 45-degree bench and lift the torso back to a straight line — erectors, glutes, and hamstrings
+  without any axial load. Squeeze the glutes at the top rather than cranking into an arch. Hug a plate to the chest once
+  bodyweight gets easy.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+equipment:
+  - weight_machines
+tags:
+  - Hinge
+  - Posterior Chain
+  - Bodyweight
+  - Lower Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the pad
+    detail: Adjust the pad so its top edge sits at your hip crease, leaving the hips free to hinge.
+  - title: Lock the feet
+    detail: Hook the ankles under the rollers and cross the arms over the chest.
+  - title: Lower with control
+    detail: Hinge the torso down over the pad until the hamstrings stretch, keeping the back long.
+  - title: Lift to straight
+    detail: Squeeze the glutes and raise the torso until the body forms one straight line — no higher.
+safetyNotes: >-
+  Rise to a straight line, not into full hyperextension — cranking past neutral at the top compresses the lumbar spine
+  and defeats the point of an unloaded-spine hinge.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150708-5yc3xe/img-female-mtjknbbcslhx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150708-5yc3xe/img-male-mtjkn9oh1iiy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150708-5yc3xe/img-female-mtjknbbcslhx.webp
+youtubeSearchQuery: Back Extension proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.011Z"
+updatedAt: "2026-09-02T03:45:48.961Z"

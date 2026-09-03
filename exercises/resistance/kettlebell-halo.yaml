@@ -1,0 +1,60 @@
+id: lib-1788127163191-q140y0
+name: Kettlebell Halo
+description: >-
+  Circle the bell around the head in tight, controlled orbits, alternating directions. It warms up the shoulders, upper
+  back, and grip while the core resists the moving load. Keep the circles small and close — the elbows lead and the bell
+  follows.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Rotator Cuff
+  - Traps
+  - Abs
+  - Forearms
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Mobility
+  - Warm-Up
+  - Upper Body
+modality: resistance
+metValue: 3
+instructions:
+  - title: Grip by the horns
+    detail: Hold the bell upside down by the handle at chest height.
+  - title: Circle the head
+    detail: Move the bell in a tight orbit around the head with the elbows leading.
+  - title: Switch directions
+    detail: Complete the reps one way, then reverse the circle.
+safetyNotes: >-
+  Keep the orbit tight to the head — wide, fast circles torque the shoulders and can clip the skull. Skip it if your
+  shoulders lack comfortable range behind the head.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163191-q140y0/img-female-mtkp4ntmz6v4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163191-q140y0/img-male-mtkp43pgvh2r.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163191-q140y0/img-female-mtkp4ntmz6v4.webp
+youtubeSearchQuery: Kettlebell Halo proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.482Z"
+updatedAt: "2026-09-02T22:57:09.985Z"

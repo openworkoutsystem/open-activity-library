@@ -1,0 +1,61 @@
+id: lib-1788127154066-b09o8g
+name: Machine Shoulder Press
+description: >-
+  Guided overhead pressing on a machine — the handles ride a fixed track, so all you do is push. That makes it a simple,
+  stable way to load the delts hard without balancing anything, and a safe place to press to failure without a spotter.
+  Set the seat so the handles start at shoulder height.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+equipment:
+  - weight_machines
+tags:
+  - Push
+  - Machine Weights
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Adjust the seat
+    detail: Set the seat height so the handles sit level with your shoulders at the start.
+  - title: Sit tall
+    detail: Plant your feet, keep your back against the pad, and grip the handles.
+  - title: Press to lockout
+    detail: Drive the handles up until your arms are straight without shrugging into your ears.
+  - title: Lower under control
+    detail: Bring the handles back to shoulder height slowly and repeat.
+safetyNotes: >-
+  A seat set too low forces the shoulders to start in a jammed position — the handles should begin at shoulder level,
+  not at your ears. Stop just short of slamming the stack so the joints, not the machine, end each rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154066-b09o8g/img-female-mtkqgrw7cwfn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154066-b09o8g/img-male-mtkqg3jymcv4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154066-b09o8g/img-female-mtkqgrw7cwfn.webp
+youtubeSearchQuery: Machine Shoulder Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.375Z"
+updatedAt: "2026-09-02T23:34:35.064Z"

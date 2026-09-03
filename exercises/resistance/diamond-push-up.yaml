@@ -1,0 +1,58 @@
+id: lib-1788127152571-3lxo18
+name: Diamond Push-Up
+description: >-
+  Hands together under the chest — the triceps-dominant push-up. Narrowing the hands until thumbs and index fingers
+  nearly touch shifts the work from chest to triceps and demands more elbow control on every rep. Keep the elbows
+  brushing the ribs on the way down; letting them wing out defeats the point.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Chest
+  - Front Delts
+  - Abs
+equipment: []
+tags:
+  - Push
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Form the diamond
+    detail: Place your hands together under your chest so thumbs and index fingers nearly touch.
+  - title: Brace the plank
+    detail: Squeeze glutes and abs into one rigid line from head to heels.
+  - title: Lower to the hands
+    detail: Bend your elbows along your ribs and lower your chest to your hands.
+  - title: Press to lockout
+    detail: Drive up until the elbows are fully straight without letting them flare.
+safetyNotes: >-
+  The narrow hand position is genuinely hard on wrists and elbows — if either aches, widen the hands an inch or two
+  rather than pushing through. Earn solid standard push-ups first; jumping to these early is the fastest route to elbow
+  tendon irritation.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152571-3lxo18/img-female-mtkbhfjnv90g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152571-3lxo18/img-male-mtkbgd8xhkl7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152571-3lxo18/img-female-mtkbhfjnv90g.webp
+youtubeSearchQuery: Diamond Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.874Z"
+updatedAt: "2026-09-02T16:35:11.885Z"

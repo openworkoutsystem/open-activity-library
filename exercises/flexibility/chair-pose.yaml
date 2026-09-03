@@ -1,0 +1,61 @@
+id: lib-1788131477615-c03w31
+name: Chair Pose
+description: >-
+  A deep squat hold with the arms reaching overhead — the legs burn while the posture stays tall. It builds isometric
+  strength in the quadriceps and glutes and endurance through the shoulders and back. Sink the hips as if sitting into a
+  chair while keeping the weight in the heels.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Shoulders
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Yoga
+  - Isometric
+  - Lower Body
+  - No Equipment
+modality: flexibility
+metValue: 3
+instructions:
+  - title: Stand with feet together
+    detail: Start tall with the big toes touching or feet hip-width apart.
+  - title: Sit back
+    detail: Bend the knees and send the hips back as if lowering into a chair.
+  - title: Reach overhead
+    detail: Sweep the arms up alongside the ears with the palms facing in.
+  - title: Shift to the heels
+    detail: Keep enough weight back that you could wiggle the toes.
+  - title: Hold the burn
+    detail: Keep the chest lifted and breathe steadily until time is up.
+safetyNotes: >-
+  Keep the knees tracking over the toes and the lower back long — tucking the tailbone slightly prevents overarching
+  under the overhead reach.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 40
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477615-c03w31/img-female-mtkmiknqncmg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477615-c03w31/img-male-mtkmi0m9ge4m.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477615-c03w31/img-female-mtkmiknqncmg.webp
+youtubeSearchQuery: Chair Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.875Z"
+updatedAt: "2026-09-02T21:44:00.638Z"

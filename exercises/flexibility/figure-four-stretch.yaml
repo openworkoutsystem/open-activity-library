@@ -1,0 +1,60 @@
+id: lib-1788127169895-zwxea6
+name: Figure Four Stretch
+description: >-
+  Lying on your back, cross one ankle over the opposite knee and pull the legs in — pigeon's friendlier sibling. It hits
+  the same deep glute and piriformis territory with the knee fully protected by the floor position. Pushing the crossed
+  knee gently away sharpens the stretch without extra range.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Abductors
+  - Lower Back
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Lie and cross
+    detail: Lie on your back with knees bent and cross one ankle over the opposite thigh just above the knee.
+  - title: Thread the hands
+    detail: Reach through the gap and clasp behind the supporting thigh.
+  - title: Pull in
+    detail: Draw the supporting leg toward the chest until the crossed-side glute lights up.
+  - title: Press and hold
+    detail: Gently press the crossed knee away with your elbow while you hold and breathe.
+safetyNotes: >-
+  Keep the head and shoulders relaxed on the floor — craning the neck up for the whole hold trades one tight spot for
+  another. Pull to a strong stretch, not to pain radiating down the leg.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169895-zwxea6/img-female-mtknj8vu2g2g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169895-zwxea6/img-male-mtkniq1452w3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169895-zwxea6/img-female-mtknj8vu2g2g.webp
+youtubeSearchQuery: Figure Four Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.190Z"
+updatedAt: "2026-09-02T22:12:31.386Z"

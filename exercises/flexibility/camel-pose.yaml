@@ -1,0 +1,62 @@
+id: lib-1788131478675-b313wi
+name: Camel Pose
+description: >-
+  A kneeling backbend reaching back for the heels, opening the chest and hip flexors together. It counters seated
+  posture more directly than almost any other pose. Push the hips forward over the knees as the chest lifts — reaching
+  for the heels comes last, not first.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Hip Flexors
+secondaryMuscles:
+  - Lower Back
+  - Shoulders
+  - Quadriceps
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Posture
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Kneel tall
+    detail: Kneel with hips over knees and the tops of the feet on the mat, toes tucked if needed.
+  - title: Hands to hips
+    detail: Place the hands on the lower back with fingers pointing down.
+  - title: Lift and lean
+    detail: Lift the chest toward the ceiling as the hips press forward.
+  - title: Reach for heels
+    detail: Drop one hand at a time to a heel only if the chest stays open.
+  - title: Exit with care
+    detail: Bring the hands back to the hips and rise slowly with the chin tucked.
+safetyNotes: >-
+  Lead with the chest and keep the hips pressing forward to avoid hinging sharply in the lower back; keep the neck
+  neutral if dropping the head back strains it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478675-b313wi/img-female-mtkmf3ixkvbu.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478675-b313wi/img-male-mtkmeia8prcx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478675-b313wi/img-female-mtkmf3ixkvbu.webp
+youtubeSearchQuery: Camel Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.945Z"
+updatedAt: "2026-09-02T21:41:18.171Z"

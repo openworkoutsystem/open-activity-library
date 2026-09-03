@@ -1,0 +1,65 @@
+id: lib-1772742712610-3u6tge
+name: Bird Dog
+description: >-
+  The bird dog is a balance and core stability exercise performed on all fours, extending opposite arm and leg. It
+  improves coordination and strengthens the posterior chain.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+  - Transverse Abdominis
+secondaryMuscles:
+  - Glutes
+  - Shoulders
+  - Hamstrings
+equipment: []
+tags:
+  - Lower Body
+  - Hinge
+  - Glutes
+  - Core
+  - Beginner-Friendly
+  - Bodyweight
+  - Calisthenics
+modality: resistance
+metValue: 3.8
+muscleActivationMap:
+  Lower Back: 0.3
+  Transverse Abdominis: 0.3
+  Glutes: 0.15
+  Shoulders: 0.15
+  Hamstrings: 0.1
+instructions:
+  - step: 1
+    text: Start on all fours with hands under shoulders and knees under hips, core engaged.
+  - step: 2
+    text: Extend your right arm forward and left leg backward until they are parallel to the floor.
+  - step: 3
+    text: Hold for 2-3 seconds, then return to start and repeat with left arm and right leg.
+safetyNotes: >-
+  Avoid arching your lower back at the top; keep your feet flat and knees aligned. Common mistakes include not fully
+  engaging the glutes or pushing through the heels incorrectly. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - isPrimary: true
+    key: reps
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  repSpeed: 4
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712610-3u6tge/img-female-mtjklz81345s.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712610-3u6tge/img-male-mtjklxu5gqmp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712610-3u6tge/img-female-mtjklz81345s.webp
+youtubeSearchQuery: how to bird dog exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-05T20:31:51.934Z"
+updatedAt: "2026-09-02T03:45:40.652Z"

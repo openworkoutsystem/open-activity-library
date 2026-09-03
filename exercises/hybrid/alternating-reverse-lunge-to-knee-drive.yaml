@@ -1,0 +1,55 @@
+id: lib-1775591938822-jcugjh
+name: Alternating Reverse Lunge to Knee Drive
+description: HIIT lunge + knee drive combo for legs and stability.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+  - Stability
+modality: hybrid
+metValue: 7.5
+unilateral: always
+instructions:
+  - title: Reverse Lunge
+    detail: Step back into lunge, dumbbells at sides.
+  - title: Knee Drive
+    detail: Push up, drive knee high alternate.
+  - title: Repeat
+    detail: 10/side continuous.
+safetyNotes: Knee over toe, upright torso. Low impact on shoulders.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 3
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591938822-jcugjh/img-female-mtklcwl77gzu.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591938822-jcugjh/img-male-mtklc88gjo17.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591938822-jcugjh/img-female-mtklcwl77gzu.webp
+youtubeSearchQuery: reverse lunge knee drive dumbbell Pamela Reif
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:58:58.179Z"
+updatedAt: "2026-09-02T21:11:37.737Z"

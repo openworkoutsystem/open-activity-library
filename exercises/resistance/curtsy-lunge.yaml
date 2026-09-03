@@ -1,0 +1,63 @@
+id: lib-1788127151433-lcvxul
+name: Curtsy Lunge
+description: >-
+  Step behind and across the standing leg — glute med emphasis and hip control that straight-line lunges miss. The
+  crossing angle loads the outer hip of the front leg hard, which is exactly what keeps knees tracking well everywhere
+  else. Keep the front foot planted flat and the hips as square as the pattern allows.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Abductors
+  - Adductors
+  - Abs
+equipment: []
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Functional
+  - Stability
+  - Calisthenics
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Stand tall
+    detail: Set feet hip-width apart with hands at your chest for balance.
+  - title: Step behind and across
+    detail: Sweep one leg behind the standing leg, landing on the ball of the foot.
+  - title: Lower the back knee
+    detail: Bend both knees until the rear knee hovers behind the opposite heel.
+  - title: Stay square
+    detail: Keep the front foot flat and the chest facing forward throughout.
+  - title: Return and repeat
+    detail: Drive off the front leg back to standing and alternate sides.
+safetyNotes: >-
+  The crossed stance puts a rotational stress on the front knee — keep the range shallow at first and skip it entirely
+  if you have a history of knee ligament issues. Depth is earned through control, not forced on day one.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151433-lcvxul/img-female-mtka66xcl4f3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151433-lcvxul/img-male-mtka30fajl58.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151433-lcvxul/img-female-mtka66xcl4f3.webp
+youtubeSearchQuery: Curtsy Lunge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.737Z"
+updatedAt: "2026-09-02T15:58:27.449Z"

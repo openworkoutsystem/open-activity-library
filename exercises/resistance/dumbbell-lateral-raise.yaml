@@ -1,0 +1,53 @@
+id: lib-1774910681038-dz482l
+name: Dumbbell Lateral Raise
+description: Dumbbell lateral raises for medial delt development. Key isolation movement for wider-looking shoulders.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles: []
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Setup
+    detail: Stand with dumbbells at sides, slight bend in elbows, palms facing in.
+  - title: Raise
+    detail: Lift arms out to sides until parallel with floor. Lead with elbows, not hands.
+  - title: Hold
+    detail: Brief pause at the top. Pinky should be slightly higher than thumb.
+  - title: Lower
+    detail: Control the weight back down slowly. Don't swing.
+safetyNotes: Use light weight. Don't shrug traps — keep shoulders down. Avoid swinging or using momentum.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  reps: 11
+  estimatedDurationMinutes: 4
+  restSeconds: 60
+  sets: 3
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910681038-dz482l/img-female-mtjkmouusqlw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910681038-dz482l/img-male-mtjkmnjw58ht.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910681038-dz482l/img-female-mtjkmouusqlw.webp
+youtubeSearchQuery: "\"dumbbell lateral raise form\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:41.054Z"
+updatedAt: "2026-09-02T05:13:33.890Z"

@@ -1,0 +1,59 @@
+id: lib-1788127161653-patyr4
+name: Cable Biceps Curl
+description: >-
+  A biceps curl against a cable, with tension held from bottom to top. That removes the dead spots a free-weight curl
+  has at the turnarounds.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Stand over the anchor
+    detail: Position the low cable between your feet and grip the handle at arm's length.
+  - title: Pin the elbows
+    detail: Lock your upper arms against your sides and keep them there all set.
+  - title: Curl to the top
+    detail: Bend the elbow fully and squeeze the biceps at peak contraction.
+  - title: Lower against tension
+    detail: Straighten the arm slowly, resisting the cable the whole way down.
+safetyNotes: >-
+  Constant tension means no rest at the bottom of the rep — the same weight feels harder than on a bar, so pick your
+  load accordingly rather than heaving with the shoulders.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161653-patyr4/img-female-mtjkotz2299w.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161653-patyr4/img-male-mtjkosncqbwe.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161653-patyr4/img-female-mtjkotz2299w.webp
+youtubeSearchQuery: Digital Cable Biceps Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.963Z"
+updatedAt: "2026-09-02T03:45:58.564Z"

@@ -1,0 +1,66 @@
+id: lib-1788127148115-d9x0nn
+name: Barbell Front Squat
+description: >-
+  Bar racked on the front delts — more upright torso, more quad and upper-back demand. The front rack forces the elbows
+  high and the trunk vertical, making it the squat that punishes any lapse in bracing. Loosen your grip to fingertips if
+  wrist mobility limits the rack position.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Abs
+  - Back
+  - Shoulders
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Squat
+  - Barbell
+  - Compound
+  - Strength
+  - Lower Body
+modality: resistance
+metValue: 6
+instructions:
+  - title: Build the rack
+    detail: Rest the bar across your front delts with elbows driven high and upper arms parallel to the floor.
+  - title: Unrack and set
+    detail: Stand the bar off the pins and take a shoulder-width stance with toes slightly out.
+  - title: Stay vertical
+    detail: Squat straight down between the hips while keeping the elbows up the entire descent.
+  - title: Drive the elbows
+    detail: Stand up by pushing the floor away and leading with the elbows, not the hips.
+safetyNotes: >-
+  If the elbows drop, the bar rolls forward and the upper back rounds under load — dump it forward onto the pins rather
+  than fighting to save it. Wrist or lat tightness that prevents a real rack position needs fixing before the weight
+  goes up.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148115-d9x0nn/img-female-mtjkn2rv7c18.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148115-d9x0nn/img-male-mtjkn1gnwpgb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148115-d9x0nn/img-female-mtjkn2rv7c18.webp
+youtubeSearchQuery: Barbell Front Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.420Z"
+updatedAt: "2026-09-02T03:45:46.587Z"

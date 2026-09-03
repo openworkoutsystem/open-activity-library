@@ -1,0 +1,64 @@
+id: lib-1788127155929-qb4v28
+name: T-Bar Row
+description: >-
+  Straddle a landmine bar and row it to your chest with a V-handle. The strength curve suits heavy loading, which is why
+  it has always been a thickness builder for the mid-back and lats. Keep the hips down and let the chest — not the lower
+  back — meet the weight.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Lower Back
+  - Forearms
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Pull
+  - Barbell
+  - Compound
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Load and straddle
+    detail: Anchor one end of the bar, load plates on the other, and straddle it with the V-handle under the collar.
+  - title: Hinge and grip
+    detail: Push the hips back into a strong hinge with the arms straight.
+  - title: Row to chest
+    detail: Pull the plates toward your chest while keeping the hips low and back flat.
+  - title: Lower under control
+    detail: Extend the arms fully without letting the torso rise.
+safetyNotes: >-
+  The hinge is loaded for the whole set — keep the hips down and the back flat, and if the torso starts pumping up and
+  down, the load is too heavy. Check the landmine anchor before loading plates.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155929-qb4v28/img-female-mtkvyfh16t77.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155929-qb4v28/img-male-mtkvxrdn2lbm.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155929-qb4v28/img-female-mtkvyfh16t77.webp
+youtubeSearchQuery: T-Bar Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.240Z"
+updatedAt: "2026-09-03T02:08:16.454Z"

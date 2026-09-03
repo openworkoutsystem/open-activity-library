@@ -1,0 +1,60 @@
+id: lib-1788132443795-4i483j
+name: Wide-Legged Forward Fold
+description: >-
+  With the feet set wide and parallel, you hinge at the hips and let the torso hang toward the floor. It stretches the
+  hamstrings and inner thighs while giving a gentle, head-below-heart inversion. Hinge from the hips with a long spine
+  before letting the head release down.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Adductors
+secondaryMuscles:
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Yoga
+  - Static Stretching
+  - Flexibility
+  - Lower Body
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Step feet wide
+    detail: Take a stance about one leg-length wide with the feet parallel or slightly turned in.
+  - title: Hinge forward
+    detail: Fold from the hips with a flat back until the torso hangs toward the floor.
+  - title: Ground the feet
+    detail: Press into the outer edges of the feet and keep the weight slightly forward over the arches.
+  - title: Release the head
+    detail: Let the crown of the head drop toward the floor and relax the neck completely.
+  - title: Rise with care
+    detail: Bring hands to the hips and come up with a flat back on an inhale.
+safetyNotes: >-
+  Bend the knees slightly if the hamstrings pull hard or the lower back rounds sharply. Come up slowly to avoid
+  lightheadedness after the inversion.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443795-4i483j/img-female-mtkx8y7sjfno.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443795-4i483j/img-male-mtkx883nyt0h.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443795-4i483j/img-female-mtkx8y7sjfno.webp
+youtubeSearchQuery: Wide-Legged Forward Fold yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:23.046Z"
+updatedAt: "2026-09-03T02:44:27.098Z"

@@ -1,0 +1,61 @@
+id: lib-1788131477323-wwebyu
+name: Triangle Pose
+description: >-
+  A straight-leg standing pose reaching long over the front leg before tilting one hand down and the other to the
+  ceiling. It stretches the hamstrings, inner thighs, and the entire side body while the obliques keep the chest open.
+  Reach forward first, then lower — the length matters more than how far down the hand gets.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Obliques
+secondaryMuscles:
+  - Adductors
+  - Shoulders
+equipment: []
+tags:
+  - Yoga
+  - Flexibility
+  - Stretching
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Set the stance
+    detail: Step the feet wide with the front toes forward and both legs straight.
+  - title: Reach long
+    detail: Extend the front arm forward as far as it will go, lengthening the side body.
+  - title: Tilt and open
+    detail: Lower the front hand to the shin or a block and stack the top arm toward the ceiling.
+  - title: Open the chest
+    detail: Rotate the chest toward the sky rather than folding toward the floor.
+  - title: Hold and switch
+    detail: Breathe into the side stretch, then repeat on the other side.
+safetyNotes: >-
+  Keep a microbend in the front knee rather than locking it out, and rest the lower hand on the shin or a block instead
+  of forcing it to the floor.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477323-wwebyu/img-female-mtkwchwkwobm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477323-wwebyu/img-male-mtkwbgbygc53.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477323-wwebyu/img-female-mtkwchwkwobm.webp
+youtubeSearchQuery: Triangle Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.581Z"
+updatedAt: "2026-09-03T02:19:12.838Z"

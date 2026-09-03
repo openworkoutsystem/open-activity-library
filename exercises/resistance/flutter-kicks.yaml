@@ -1,0 +1,57 @@
+id: lib-1788131479777-zwr7hb
+name: Flutter Kicks
+description: >-
+  Small alternating leg kicks performed with the low back pinned to the floor. They train the lower abs and hip flexors
+  isometrically while the legs cycle, building the bracing endurance that carries over to leg raises and L-sits. The
+  work lives in keeping the lumbar spine glued down, not in kicking big.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Hip Flexors
+  - Quadriceps
+  - Transverse Abdominis
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - No Equipment
+modality: resistance
+metValue: 3.8
+instructions:
+  - title: Pin the back
+    detail: Lie on your back, press your low back into the floor, and hover both legs a few inches up.
+  - title: Start kicking
+    detail: Kick the legs up and down in small alternating pulses from the hips.
+  - title: Stay braced
+    detail: Keep the ribs down and abs tight so the low back never peels off the floor.
+  - title: Finish clean
+    detail: Lower both legs together only after the last rep, keeping tension to the end.
+safetyNotes: >-
+  If the low back arches off the floor, raise the legs higher or slide your hands under your hips — kicking low with a
+  lifted lumbar spine is how this exercise irritates backs.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 20
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479777-zwr7hb/img-female-mtknm58ypell.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479777-zwr7hb/img-male-mtknld1yhukg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479777-zwr7hb/img-female-mtknm58ypell.webp
+youtubeSearchQuery: Flutter Kicks proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.038Z"
+updatedAt: "2026-09-02T22:14:46.750Z"

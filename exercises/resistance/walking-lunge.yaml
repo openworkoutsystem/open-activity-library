@@ -1,0 +1,64 @@
+id: lib-1788127150995-t90fsj
+name: Walking Lunge
+description: >-
+  Continuous alternating lunges across the floor — strength that carries into gait. Each step forward becomes the next
+  rep, so the working leg must both catch the load and launch you into the following stride. Take an honest pause at the
+  bottom of each step instead of bouncing through.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Adductors
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Compound
+  - Functional
+  - Calisthenics
+modality: resistance
+metValue: 4.5
+unilateral: always
+instructions:
+  - title: Find open floor
+    detail: Set up with at least ten meters of clear walking space ahead of you.
+  - title: Lunge forward
+    detail: Step out and lower the back knee to just above the floor with the torso tall.
+  - title: Step through
+    detail: Drive off the front foot and bring the back leg through into the next lunge.
+  - title: Keep the rhythm
+    detail: Alternate legs continuously, pausing briefly at the bottom of each rep.
+  - title: Stay controlled
+    detail: Finish the set standing tall rather than stumbling out of the last rep.
+safetyNotes: >-
+  Fatigue shows up as shorter steps and a collapsing front knee — stop the set when your stride starts shrinking. Add
+  dumbbells only once the bodyweight version stays smooth for the full distance.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150995-t90fsj/img-male-mtkx8upu071q.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150995-t90fsj/img-male-mtkx8upu071q.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150995-t90fsj/img-female-mtkx6325rw14.webp
+youtubeSearchQuery: Walking Lunge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.309Z"
+updatedAt: "2026-09-03T02:44:22.899Z"

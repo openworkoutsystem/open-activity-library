@@ -1,0 +1,73 @@
+id: lib-1788215814125-20h9ij
+name: Cable Lateral Raise
+description: >-
+  Stand beside a low pulley and raise the handle out to the side with a nearly straight arm until it reaches shoulder
+  height. The cable loads the bottom of the range where dumbbells go weightless, so the side delt works from the very
+  first inch instead of only near the top. Lead with the elbow and keep the traps quiet.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Side Delts
+secondaryMuscles:
+  - Traps
+  - Rotator Cuff
+  - Front Delts
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Set the pulley low
+    detail: >-
+      Attach a single handle at the lowest setting, stand side-on with the machine on the far side of your body, and
+      grab the handle with the outside hand across your thighs.
+  - title: Get tall
+    detail: >-
+      Step out until the cable pulls across your body, hold the frame with your free hand, and stand upright with a
+      slight forward lean and a soft elbow.
+  - title: Raise to shoulder height
+    detail: >-
+      Sweep the arm out and up in a wide arc, leading with the elbow, and stop when the hand is level with your shoulder
+      rather than swinging higher.
+  - title: Lower with control
+    detail: >-
+      Take two to three seconds returning across the body, resisting the cable the whole way, then repeat before the
+      stack settles.
+  - title: Switch arms
+    detail: Finish the set, walk around to the other side of the machine, and match the reps with the opposite arm.
+safetyNotes: >-
+  Shrugging the shoulder up to finish the rep hands the work to the traps and pinches the shoulder - keep the shoulder
+  blade down and lighten the load instead. Anyone with impingement history should stop at shoulder height and avoid
+  raising with the thumb rotated down.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814125-20h9ij/img-female-mtjkue8b9rgw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814125-20h9ij/img-male-mtjktln18wq8.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814125-20h9ij/img-female-mtjkue8b9rgw.webp
+youtubeSearchQuery: Cable Lateral Raise proper form side delt
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.419Z"
+updatedAt: "2026-09-02T04:09:27.622Z"

@@ -1,0 +1,51 @@
+id: lib-1775591945423-wq4gg2
+name: Triceps Kickback to Overhead Extension
+description: HIIT tricep combo kickback to extension.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+modality: resistance
+metValue: 6.5
+unilateral: always
+instructions:
+  - title: Kickback
+    detail: Hinge, extend arm back.
+  - title: Overhead Extension
+    detail: Bring overhead, lower behind head.
+  - title: Repeat
+    detail: Alternate or continuous.
+safetyNotes: Elbows fixed, shoulder stable—no pain.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 3
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591945423-wq4gg2/img-female-mtkwfix3mtps.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591945423-wq4gg2/img-male-mtkwes2siodb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591945423-wq4gg2/img-female-mtkwfix3mtps.webp
+youtubeSearchQuery: tricep kickback overhead extension dumbbell HIIT
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:59:04.780Z"
+updatedAt: "2026-09-03T02:21:34.000Z"

@@ -1,0 +1,55 @@
+id: lib-1788127157709-1iwag4
+name: Crunch
+description: >-
+  Curl the ribs toward the pelvis, lifting just the shoulder blades off the floor. It is simple, direct ab flexion — a
+  short range done deliberately, not a sit-up. Exhale hard at the top and the abs do more work in half the range.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Obliques
+equipment: []
+tags:
+  - Core
+  - Isolation
+  - Bodyweight
+  - No Equipment
+  - Calisthenics
+modality: resistance
+metValue: 2.8
+instructions:
+  - title: Set the floor position
+    detail: Lie on your back with knees bent, feet flat, and hands lightly behind the head.
+  - title: Curl the ribs
+    detail: Exhale and lift the shoulder blades off the floor by folding the ribs toward the pelvis.
+  - title: Pause at the top
+    detail: Squeeze the abs for a full second at peak contraction.
+  - title: Lower with control
+    detail: Return the shoulders to the floor slowly without yanking the head.
+safetyNotes: >-
+  Never pull on the neck — the hands are a headrest, not a handle. If the hip flexors take over or the feet lift, you
+  are turning it into a sit-up; keep the range short.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157709-1iwag4/img-female-mtk9zsbbiffg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157709-1iwag4/img-male-mtk9z2hivx4y.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157709-1iwag4/img-female-mtk9zsbbiffg.webp
+youtubeSearchQuery: Crunch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.016Z"
+updatedAt: "2026-09-02T15:53:29.274Z"

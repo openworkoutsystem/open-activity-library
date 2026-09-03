@@ -1,0 +1,75 @@
+id: lib-1772604477874-g98q6h
+name: Bodyweight Squat
+description: >-
+  A fundamental compound lower-body exercise that targets the quads, glutes, and hamstrings using only your body weight.
+  Great for building a movement foundation, warming up, or high-rep endurance work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Compound
+  - Strength
+  - Bodyweight
+  - Beginner-Friendly
+  - Functional
+  - Calisthenics
+modality: resistance
+metValue: 6
+muscleActivationMap:
+  Quadriceps: 0.35
+  Glutes: 0.3
+  Hamstrings: 0.15
+  Abs: 0.1
+  Lower Back: 0.1
+instructions:
+  - title: Setup
+    detail: >-
+      Stand with feet shoulder-width apart, toes slightly turned out. Arms can be extended in front of you or hands
+      clasped at chest height for balance. Brace your core and keep your chest up.
+  - title: Descent
+    detail: >-
+      Push your hips back and bend your knees to lower down. Keep your torso upright and knees tracking over your toes.
+      Go down until your thighs are at least parallel to the floor.
+  - title: Ascent
+    detail: >-
+      Drive through your heels and mid-foot to stand back up. Squeeze your glutes at the top. Maintain a neutral spine
+      throughout the entire movement.
+  - title: Breathing
+    detail: Inhale on the way down, exhale forcefully as you push back up.
+safetyNotes: >-
+  Keep your knees tracking over your toes � avoid caving inward. Maintain a neutral spine throughout. If you have knee
+  or hip issues, limit depth to a comfortable range. Start with a partial range of motion and work deeper as mobility
+  allows. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: depth
+    category: movement
+defaults:
+  reps: 15
+  sets: 1
+  repSpeed: 3
+  restSeconds: 45
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772604477874-g98q6h/img-female-mtjklq8b9tc6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772604477874-g98q6h/img-male-mtjkloj6w6sw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772604477874-g98q6h/img-female-mtjklq8b9tc6.webp
+youtubeSearchQuery: barbell back squat proper form tutorial intermediate
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-04T06:07:57.037Z"
+updatedAt: "2026-09-01T23:46:55.492Z"

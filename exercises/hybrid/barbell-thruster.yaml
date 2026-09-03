@@ -1,0 +1,63 @@
+id: lib-1788127164330-lnayrx
+name: Barbell Thruster
+description: >-
+  A front squat that flows straight into an overhead press — one rep, no pause. It's the conditioning world's heaviest
+  hitter because the legs, shoulders, and lungs all pay at once. Drive the bar off the shoulders with the legs; the
+  press only finishes what the squat started.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Shoulders
+secondaryMuscles:
+  - Glutes
+  - Triceps
+  - Abs
+equipment:
+  - barbell
+tags:
+  - Barbell
+  - Compound
+  - High-Intensity
+  - Squat
+  - Push
+modality: hybrid
+metValue: 9
+instructions:
+  - title: Rack the bar
+    detail: Hold the bar in a full front rack with elbows up and feet shoulder width.
+  - title: Front squat
+    detail: Squat to full depth with the torso tall.
+  - title: Drive and press
+    detail: Stand explosively and let the leg drive carry the bar straight into lockout.
+  - title: Return in rhythm
+    detail: Lower the bar to the rack as you descend into the next squat.
+safetyNotes: >-
+  The heart rate spikes faster than the legs fail — pace the early sets or form dies before the lungs do. Keep the heels
+  down and elbows up; a collapsing front rack dumps the bar forward mid-rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164330-lnayrx/img-female-mtkls4qc4l2w.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164330-lnayrx/img-male-mtklrhqntzh1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164330-lnayrx/img-female-mtkls4qc4l2w.webp
+youtubeSearchQuery: Barbell Thruster proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.624Z"
+updatedAt: "2026-09-02T21:23:27.234Z"

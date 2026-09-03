@@ -1,0 +1,63 @@
+id: lib-1788127162678-0e15ua
+name: Kettlebell Push Press
+description: >-
+  From the rack, a quick dip and leg drive send the bell overhead. It lets you handle more weight than a strict press
+  and teaches the legs and shoulders to work as one unit. The dip is short and straight down — finish the leg drive
+  before the arm takes over.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Abs
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Push
+  - Compound
+  - Strength
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Set the rack
+    detail: Clean the bell to the rack with a straight wrist and a braced trunk.
+  - title: Dip straight down
+    detail: Bend the knees a few inches while keeping the torso vertical.
+  - title: Drive and press
+    detail: Stand up explosively and let the leg drive launch the bell as the arm finishes overhead.
+  - title: Lower to rack
+    detail: Absorb the bell back into the rack with soft knees.
+safetyNotes: >-
+  Finish the leg drive before the arm presses — mistiming turns it into a grinding press with the momentum wasted. Don't
+  lean back to finish lockout; keep the ribs stacked over the pelvis.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162678-0e15ua/img-female-mtkpka5jgbeg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162678-0e15ua/img-male-mtkpjneut01l.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162678-0e15ua/img-female-mtkpka5jgbeg.webp
+youtubeSearchQuery: Kettlebell Push Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.976Z"
+updatedAt: "2026-09-02T23:09:19.290Z"

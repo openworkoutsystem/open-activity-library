@@ -1,0 +1,58 @@
+id: lib-1788131480543-0kvyvb
+name: Plyometric Push-Up
+description: >-
+  Press explosively enough that your hands leave the floor at the top. It converts pressing strength into upper-body
+  power, training the chest, triceps, and shoulders to produce force fast. Think of throwing the floor away rather than
+  jumping off it, and land soft with bent elbows.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+  - Abs
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Plyometrics
+  - Push
+  - High-Impact
+modality: resistance
+metValue: 8
+instructions:
+  - title: Brace the plank
+    detail: Set a strong push-up position with hands under shoulders and body rigid.
+  - title: Load the dip
+    detail: Lower your chest quickly to just above the floor.
+  - title: Explode up
+    detail: Press with maximal intent so your hands pop off the floor at the top.
+  - title: Land soft
+    detail: Catch the floor with slightly bent elbows and flow straight into the next rep.
+safetyNotes: >-
+  The catch loads the wrists and elbows hard — land with bent arms and stop the set the moment reps lose height. Earn 20
+  crisp standard push-ups before adding the jump.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480543-0kvyvb/img-female-mtktmlalx99l.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480543-0kvyvb/img-male-mtktlyfqilda.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480543-0kvyvb/img-female-mtktmlalx99l.webp
+youtubeSearchQuery: Plyometric Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.804Z"
+updatedAt: "2026-09-03T01:03:05.437Z"

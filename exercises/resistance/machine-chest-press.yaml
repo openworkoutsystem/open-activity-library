@@ -1,0 +1,60 @@
+id: lib-1788127153228-xk3yfm
+name: Machine Chest Press
+description: >-
+  Guided pressing — safe loading without a spotter. The fixed track removes the balance demand so you can push the
+  chest, triceps, and front delts hard even when training alone or learning the pattern. Set the seat so the handles
+  line up with mid-chest; that one adjustment decides whether the machine works for you or against you.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Triceps
+  - Front Delts
+equipment:
+  - weight_machines
+tags:
+  - Push
+  - Machine Weights
+  - Compound
+  - Strength
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Adjust the seat
+    detail: Set the seat height so the handles sit level with the middle of your chest.
+  - title: Set your back
+    detail: Sit tall with your upper back and head against the pad and feet planted.
+  - title: Press smoothly
+    detail: Push the handles forward until your arms are straight without shrugging.
+  - title: Return under control
+    detail: Let the handles come back slowly until you feel a stretch across the chest.
+safetyNotes: >-
+  A seat set too low or too high routes the press through the shoulders instead of the chest — adjust it before the
+  first rep, every time. Don't let the shoulders roll forward off the pad at lockout; keep them pinned back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153228-xk3yfm/img-female-mtkkb5rggama.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153228-xk3yfm/img-male-mtkk9okbubli.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153228-xk3yfm/img-female-mtkkb5rggama.webp
+youtubeSearchQuery: Machine Chest Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.531Z"
+updatedAt: "2026-09-02T20:42:15.936Z"

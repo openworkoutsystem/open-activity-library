@@ -1,0 +1,67 @@
+id: lib-1788127163813-kt64n1
+name: Barbell Power Clean
+description: >-
+  Pull the bar from the floor and catch it high at the shoulders in a quarter squat. It's the field-sport power staple:
+  triple extension, speed under the bar, and a braced catch in one rep. The bar stays close from floor to rack — brush
+  the thighs, don't swing it out.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Traps
+secondaryMuscles:
+  - Quadriceps
+  - Shoulders
+  - Forearms
+  - Lower Back
+equipment:
+  - barbell
+tags:
+  - Barbell
+  - Olympic Lifting
+  - Compound
+  - Strength
+  - Posterior Chain
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set up over bar
+    detail: Place the bar over mid-foot with hips down, back flat, and arms straight.
+  - title: Pull to the thigh
+    detail: Push the floor away while the bar brushes up the legs.
+  - title: Explode and shrug
+    detail: Snap the hips at mid-thigh and pull the bar up close to the body.
+  - title: Catch high
+    detail: Drop into a quarter squat with elbows through and the bar on the front delts.
+  - title: Stand and reset
+    detail: Stand tall, then lower the bar and reset fully before the next rep.
+safetyNotes: >-
+  This is a coached skill — learn the positions light and never let the bar loop away from the body. Missed reps get
+  dumped forward, so use bumper plates and keep the area clear.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163813-kt64n1/img-female-mtjkp77800of.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163813-kt64n1/img-male-mtjkp5vjkpae.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163813-kt64n1/img-female-mtjkp77800of.webp
+youtubeSearchQuery: Barbell Power Clean technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.114Z"
+updatedAt: "2026-09-02T03:46:00.660Z"

@@ -1,0 +1,70 @@
+id: lib-1788215814452-re17n5
+name: Machine Reverse Fly
+description: >-
+  Sit chest-down against the pad of a reverse pec deck and sweep the handles out and back until your arms are level with
+  your shoulders. Because the machine supports your torso, nothing leaks into momentum or lower back fatigue, so the
+  rear delts get worked at loads a dumbbell version rarely allows. Think of pulling your elbows apart, not squeezing
+  your shoulder blades.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Rear Delts
+secondaryMuscles:
+  - Rhomboids
+  - Traps
+  - Rotator Cuff
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Pull
+  - Machine Weights
+  - Posture
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the seat height
+    detail: Face the pad and raise or lower the seat until the handles line up with your shoulders when you reach forward.
+  - title: Plant against the pad
+    detail: >-
+      Sit chest-down with your sternum on the pad and feet flat, then take the handles with a neutral grip and elbows
+      slightly bent.
+  - title: Sweep out and back
+    detail: >-
+      Pull the handles apart in a wide arc until your arms are in line with your shoulders, keeping the elbow angle
+      fixed and the neck relaxed.
+  - title: Return slowly
+    detail: >-
+      Take two seconds letting the arms come back together in front of you, allowing a light stretch across the upper
+      back before the next rep.
+safetyNotes: >-
+  Pulling past shoulder line or bending the elbows to muscle the weight back turns this into a row and shifts the work
+  to the traps - shorten the range and drop the load instead. Keep your chest on the pad; pushing off it to swing the
+  handles is how the lower back gets involved on a move that should not touch it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814452-re17n5/img-female-mtkqec4a5h5o.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814452-re17n5/img-male-mtkqdqq57gul.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814452-re17n5/img-female-mtkqec4a5h5o.webp
+youtubeSearchQuery: Machine Reverse Fly rear delt proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.732Z"
+updatedAt: "2026-09-02T23:32:41.612Z"

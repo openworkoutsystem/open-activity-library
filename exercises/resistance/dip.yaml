@@ -1,0 +1,58 @@
+id: lib-1788127159372-46axs4
+name: Dip
+description: >-
+  Full dip on parallel bars — heavy bodyweight pressing for chest and triceps. Lean forward for more chest, stay upright
+  for more triceps, and add a belt when bodyweight gets easy. Descend to about upper-arm parallel with the shoulders
+  down and away from the ears.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Front Delts
+equipment:
+  - dip_station
+tags:
+  - Bodyweight
+  - Calisthenics
+  - Compound
+  - Push
+  - Upper Body
+modality: resistance
+metValue: 5
+instructions:
+  - title: Mount the bars
+    detail: Press to a straight-arm support on the parallel bars, shoulders pushed down.
+  - title: Lower with control
+    detail: Bend the elbows and lower until the upper arms are about parallel to the floor.
+  - title: Pick your lean
+    detail: Lean the torso forward for chest emphasis or stay upright for triceps.
+  - title: Press to lockout
+    detail: Drive back up to full elbow extension without shrugging the shoulders.
+safetyNotes: >-
+  The bottom position stresses the front of the shoulder more than almost any press — earn depth gradually, and cut the
+  range to above parallel at the first sign of shoulder pinching rather than forcing a deep stretch.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159372-46axs4/img-female-mtjko7vcv5zd.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159372-46axs4/img-male-mtjko6he67y6.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159372-46axs4/img-female-mtjko7vcv5zd.webp
+youtubeSearchQuery: Dip proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.681Z"
+updatedAt: "2026-09-02T03:45:56.616Z"

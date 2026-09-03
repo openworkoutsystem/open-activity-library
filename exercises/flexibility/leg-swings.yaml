@@ -1,0 +1,62 @@
+id: lib-1788127171241-a6n3by
+name: Leg Swings
+description: >-
+  Front-back and side-to-side swings while holding a support — dynamic hip prep before squats, hinges, or running. The
+  swing gets bigger each rep as the hip loosens, with the torso staying tall and quiet. It wakes up the hip flexors,
+  hamstrings, and adductors without a single held stretch.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+  - Hamstrings
+secondaryMuscles:
+  - Glutes
+  - Adductors
+  - Abductors
+equipment: []
+tags:
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Hold support
+    detail: Stand beside a wall or rack and rest one hand on it.
+  - title: Swing front-back
+    detail: Swing the outside leg forward and back with a straight, relaxed knee.
+  - title: Grow the arc
+    detail: Let the swing get a little bigger each rep without arching the low back.
+  - title: Swing side-to-side
+    detail: Face the support and swing the leg across the body and out wide.
+  - title: Switch legs
+    detail: Repeat both directions on the other leg.
+safetyNotes: >-
+  Let momentum grow the range gradually — forcing a maximal ballistic swing on a cold hamstring is a strain waiting to
+  happen. Keep the torso still; the swing comes from the hip, not the low back.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171241-a6n3by/img-female-mtkq44zpq2pg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171241-a6n3by/img-male-mtkq3bzihqw5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171241-a6n3by/img-female-mtkq44zpq2pg.webp
+youtubeSearchQuery: Leg Swings proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.535Z"
+updatedAt: "2026-09-02T23:24:45.810Z"

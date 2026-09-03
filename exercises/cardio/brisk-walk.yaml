@@ -1,0 +1,56 @@
+id: lib-1774765233035-hfoj5n
+name: Brisk Walk
+description: >-
+  15-minute brisk walk at moderate pace (3-4 mph) for daily cardio conditioning and fat loss during cut. Low-impact,
+  shoulder-safe. Perfect for all 7 days.",
+
+  <parameter name="experienceLevelRecommended">intermediate
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Shoulders
+equipment: []
+tags:
+  - Cardio
+modality: cardio
+metValue: 3.8
+instructions:
+  - title: Warmup stride
+    detail: Start with 2min easy walk to loosen legs.
+  - title: Brisk pace
+    detail: Increase to 3-4mph comfortable pace where you can talk but not sing. Swing arms naturally.
+  - title: Posture check
+    detail: Keep shoulders relaxed, gaze forward, engage core. Avoid tech-neck by looking 20ft ahead.
+  - title: Cool down
+    detail: Last 2min ease back to slow walk.
+  - title: Track distance
+    detail: Aim ~0.75-1mi total.
+safetyNotes: Shoulder-safe. Stop if sharp pain. Good for tech-neck posture practice.
+trackableMetrics:
+  - key: duration
+    label: Time
+    unit: min
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 900
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774765233035-hfoj5n/img-female-mtkm7n81ovfx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774765233035-hfoj5n/img-male-mtkm71484f47.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774765233035-hfoj5n/img-female-mtkm7n81ovfx.webp
+youtubeSearchQuery: "\"15 minute brisk walk workout\""
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-29T06:20:33.161Z"
+updatedAt: "2026-09-02T21:35:30.951Z"

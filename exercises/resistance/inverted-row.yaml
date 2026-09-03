@@ -1,0 +1,62 @@
+id: lib-test-inverted-row
+name: Inverted Row
+description: Bodyweight horizontal pull using a bar or TRX — targets back and biceps
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Abs
+equipment:
+  - pull_up_bar
+  - trx_suspension
+tags:
+  - Compound
+  - Pull
+  - Upper Body
+  - Bodyweight
+  - Back
+  - Row
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Back: 0.4
+  Rhomboids: 0.3
+  Biceps: 0.15
+  Rear Delts: 0.1
+  Abs: 0.05
+instructions:
+  - title: Setup
+    detail: >-
+      Position a low pull-up bar, rings, or suspension trainer (e.g., TRX) at a height where your body will be at a
+      45-degree angle or horizontal when lying underneath. Lie on your back under the bar/handles, grab with an overhand
+      grip slightly wider than shoulder-width, and extend your arms fully. Lift your hips so your body forms a straight
+      line from heels to shoulders, with heels on the ground and core engaged.
+  - title: Pull
+    detail: >-
+      Pull your chest toward the bar by retracting your shoulder blades, squeezing your upper back, and driving your
+      elbows back toward your hips. Keep your body rigid like a plank—do not let your hips sag or use momentum.
+  - title: Lower
+    detail: >-
+      Slowly lower yourself back to the starting position by extending your arms fully, maintaining control and tension
+      in your back throughout.
+safetyNotes: >-
+  Maintain a straight body line from head to heels; engage core to avoid sagging hips. Retract scapulae without
+  shrugging shoulders. Progress gradually to prevent strain on wrists or elbows.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults: {}
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-inverted-row/img-female-mtkp9kgder4u.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-inverted-row/img-male-mtkp97c8024o.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-inverted-row/img-female-mtkp9kgder4u.webp
+youtubeSearchQuery: inverted row bodyweight tutorial
+usageCount: 7
+createdAt: 1773461209770
+updatedAt: "2026-09-02T23:00:58.932Z"

@@ -1,0 +1,57 @@
+id: lib-1788127157423-1zengi
+name: Ab Wheel Rollout
+description: >-
+  From your knees, you roll the wheel out as far as you can hold a hollow brace, then pull it back with the abs and
+  lats. It is high-end anti-extension strength — the lever gets longer every inch you roll, and the abs have to match
+  it. Earn range gradually; the last few inches are a different exercise.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Back
+  - Transverse Abdominis
+  - Shoulders
+equipment:
+  - ab_wheel
+tags:
+  - Core
+  - Strength
+  - Bodyweight
+modality: resistance
+metValue: 4
+instructions:
+  - title: Kneel and grip
+    detail: Kneel on a pad with both hands on the wheel directly under the shoulders.
+  - title: Set the hollow
+    detail: Tuck the pelvis and round the low back slightly before rolling.
+  - title: Roll out slow
+    detail: Push the wheel forward only as far as you can keep the low back from arching.
+  - title: Pull back
+    detail: Drag the wheel back to the knees using the abs and lats, not the hips.
+safetyNotes: >-
+  The moment the low back arches, the lumbar spine is taking the load — cut the range there and build out over weeks. Do
+  not attempt standing rollouts until kneeling reps to full extension are easy.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157423-1zengi/img-female-mtjknxchxsc5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157423-1zengi/img-male-mtjknvwdu786.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157423-1zengi/img-female-mtjknxchxsc5.webp
+youtubeSearchQuery: Ab Wheel Rollout proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.725Z"
+updatedAt: "2026-09-02T03:45:55.043Z"

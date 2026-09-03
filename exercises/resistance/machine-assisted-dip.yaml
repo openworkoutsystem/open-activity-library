@@ -1,0 +1,77 @@
+id: lib-1788215814609-tvj2mn
+name: Machine-Assisted Dip
+description: >-
+  Kneel or stand on the counterweighted platform of an assisted dip station and press yourself up from the bars while
+  the machine offsets part of your bodyweight. It is the missing rung between bench pressing and a full bodyweight dip,
+  letting you train the exact pattern with clean depth long before you can do one unassisted. Remember the counterweight
+  is backwards: more weight selected means more help.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+  - Chest
+secondaryMuscles:
+  - Front Delts
+  - Serratus Anterior
+  - Abs
+equipment:
+  - weight_machines
+tags:
+  - Compound
+  - Push
+  - Machine Weights
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Pick your assistance
+    detail: >-
+      Set the stack to the amount of help you need, remembering that a higher number subtracts more bodyweight, and
+      start with enough that you can control every rep.
+  - title: Get on the pad
+    detail: >-
+      Grip the parallel bars, step or kneel onto the platform one leg at a time, and press up to a locked-out start with
+      shoulders down and chest tall.
+  - title: Lower to depth
+    detail: >-
+      Bend the elbows and descend under control until your upper arms are roughly parallel to the floor, keeping a
+      slight forward torso lean and elbows tracking back.
+  - title: Press back up
+    detail: >-
+      Drive through the palms to full extension without shrugging or bouncing out of the bottom, then reset your
+      shoulders before the next rep.
+  - title: Progress the load
+    detail: >-
+      Once you can hit the top of your rep range with clean form, reduce the assistance by five to ten pounds rather
+      than adding reps forever.
+safetyNotes: >-
+  The bottom of a dip is a deep shoulder stretch under load - stop at parallel and do not sink until your shoulders roll
+  forward past your elbows. Get on and off the platform with the bars already gripped, since stepping on before you have
+  control is how people drop into the bottom position unexpectedly.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 9
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814609-tvj2mn/img-female-mtkrjlovt3v4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814609-tvj2mn/img-male-mtkrizqu3n6j.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814609-tvj2mn/img-female-mtkrjlovt3v4.webp
+youtubeSearchQuery: Machine-Assisted Dip proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.916Z"
+updatedAt: "2026-09-03T00:04:46.864Z"

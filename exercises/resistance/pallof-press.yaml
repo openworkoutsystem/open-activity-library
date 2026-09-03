@@ -1,0 +1,65 @@
+id: lib-1788127157286-a1vo29
+name: Pallof Press
+description: >-
+  Standing side-on to a cable or band, you press the handle straight out and refuse to let the tension twist you. It is
+  the purest anti-rotation drill there is — the further the hands travel from the chest, the harder the obliques work.
+  Nothing moves except the arms.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Transverse Abdominis
+secondaryMuscles:
+  - Abs
+  - Shoulders
+equipment:
+  - cable_machine
+  - resistance_bands
+tags:
+  - Core
+  - Isometric
+  - Stability
+  - Resistance
+modality: resistance
+metValue: 3.5
+unilateral: always
+instructions:
+  - title: Set the anchor
+    detail: Stand side-on to a chest-height cable or band with the handle held at your sternum.
+  - title: Find your stance
+    detail: Step out until the line has tension, feet shoulder width, knees soft.
+  - title: Press straight out
+    detail: Extend both arms directly in front of the chest without letting the torso rotate toward the anchor.
+  - title: Pause and return
+    detail: Hold the extended position for a beat, then bring the handle back to the chest.
+  - title: Switch sides
+    detail: Complete all reps, then face the other way and repeat.
+safetyNotes: >-
+  Pick a load you can press without the shoulders shrugging or the hips shifting — if the torso twists at all, it is too
+  heavy. This is a control exercise, not a strength contest.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157286-a1vo29/img-female-mtkr2lotnmcj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157286-a1vo29/img-male-mtkr1y8mqcbh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157286-a1vo29/img-female-mtkr2lotnmcj.webp
+youtubeSearchQuery: Pallof Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.590Z"
+updatedAt: "2026-09-02T23:51:33.612Z"

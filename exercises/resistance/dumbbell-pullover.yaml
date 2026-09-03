@@ -1,0 +1,74 @@
+id: lib-1788215814984-924xv1
+name: Dumbbell Pullover
+description: >-
+  Lie on a flat bench holding one dumbbell over your chest with both hands and lower it in an arc behind your head, then
+  pull it back over your chest. It loads the chest and lats together through a deep overhead stretch that pressing and
+  rowing never reach, which is why it survives as a classic upper body finisher. Keep the elbows slightly bent and
+  locked at that angle the whole way.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Back
+secondaryMuscles:
+  - Triceps
+  - Serratus Anterior
+  - Abs
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Isolation
+  - Pull
+  - Dumbbell
+  - Resistance
+  - Upper Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Set the dumbbell
+    detail: >-
+      Sit on the end of a flat bench with one dumbbell on your thigh, then lie back along the bench and press it up over
+      your chest.
+  - title: Cup the head
+    detail: >-
+      Cup both palms flat against the inside of the top plate with thumbs wrapped, arms nearly straight and elbows bent
+      just enough to stay soft.
+  - title: Arc it back
+    detail: >-
+      Lower the dumbbell in a wide arc behind your head over three seconds, keeping the ribs down, until you feel a
+      strong stretch across the chest and lats.
+  - title: Pull it over
+    detail: >-
+      Pull the dumbbell back along the same arc until it is above your chest, driving with the lats and chest rather
+      than bending the elbows.
+safetyNotes: >-
+  This is a deep loaded overhead stretch, so anyone with shoulder impingement or limited overhead range should shorten
+  the arc or skip it. Go conservative on weight and make sure your grip on the plate is secure before the first rep,
+  since the dumbbell travels directly over your face and neck.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814984-924xv1/img-female-mtke6bjn3f3z.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814984-924xv1/img-male-mtke1mvzi1ok.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814984-924xv1/img-female-mtke6bjn3f3z.webp
+youtubeSearchQuery: Dumbbell Pullover proper form flat bench
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.266Z"
+updatedAt: "2026-09-02T17:50:32.500Z"

@@ -1,0 +1,62 @@
+id: lib-1788131476481-m1hnsw
+name: Upward Dog
+description: >-
+  A chest-opening backbend entered by rolling over the toes from a low push-up — the counterpose built into every
+  vinyasa. It opens the chest, shoulders, and hip flexors while the arms and lower back hold the extension. Keeping the
+  thighs lifted off the mat is what separates it from cobra.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Lower Back
+secondaryMuscles:
+  - Shoulders
+  - Triceps
+  - Hip Flexors
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Posture
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Start low
+    detail: Lower from plank into a low push-up with the elbows tucked to the ribs.
+  - title: Roll the toes
+    detail: Roll over the toes so the tops of the feet press into the mat.
+  - title: Straighten the arms
+    detail: Press the palms down and straighten the arms to lift the chest forward and up.
+  - title: Lift the thighs
+    detail: Squeeze the legs so the thighs hover off the mat.
+  - title: Open the chest
+    detail: Draw the shoulders back and gaze slightly upward without crunching the neck.
+safetyNotes: >-
+  Lift through the chest instead of cranking the lower back into a sharp arch; drop back to sphinx or cobra if the low
+  back pinches.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476481-m1hnsw/img-female-mtkwm54hugtm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476481-m1hnsw/img-male-mtkwlkhmitke.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476481-m1hnsw/img-female-mtkwm54hugtm.webp
+youtubeSearchQuery: Upward Dog yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:15.752Z"
+updatedAt: "2026-09-03T02:26:43.185Z"

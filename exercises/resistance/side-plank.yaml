@@ -1,0 +1,60 @@
+id: lib-1788127157018-4d3p2z
+name: Side Plank
+description: >-
+  A hold on one forearm with the hips stacked and lifted high. It trains the lateral core — obliques and the deep
+  muscles along the side of the spine that almost nothing else reaches. The whole job is keeping the hips from dipping
+  toward the floor.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+secondaryMuscles:
+  - Abs
+  - Shoulders
+  - Glutes
+equipment: []
+tags:
+  - Core
+  - Isometric
+  - Unilateral
+  - Bodyweight
+  - Calisthenics
+modality: resistance
+metValue: 3
+unilateral: always
+instructions:
+  - title: Stack the body
+    detail: Lie on one side with the elbow under the shoulder and feet stacked or staggered.
+  - title: Lift the hips
+    detail: Drive the hips up until the body forms one straight line.
+  - title: Hold tall
+    detail: Press the floor away with the forearm and keep the top hip from rolling forward.
+  - title: Switch sides
+    detail: Lower under control and repeat the hold on the other side.
+safetyNotes: >-
+  Keep the supporting elbow directly under the shoulder — letting it drift stresses the shoulder joint. If the wrist or
+  shoulder complains, drop to the knees-bent version rather than shortening the hold.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157018-4d3p2z/img-female-mtkuiqif3bs8.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157018-4d3p2z/img-male-mtkui1thycpc.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157018-4d3p2z/img-female-mtkuiqif3bs8.webp
+youtubeSearchQuery: Side Plank proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.319Z"
+updatedAt: "2026-09-03T01:28:05.131Z"

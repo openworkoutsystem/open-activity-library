@@ -1,0 +1,45 @@
+id: lib-1787797550234-w09v2j
+name: Pull-Up
+description: A compound pulling exercise performed by gripping an overhead bar and lifting the body until the chin passes the bar.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Biceps
+secondaryMuscles:
+  - Traps
+  - Rear Delts
+  - Abs
+equipment:
+  - pull_up_bar
+tags:
+  - Bodyweight
+  - Upper Body
+  - Pull
+  - Strength
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  estimatedDurationMinutes: 3
+  reps: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797550234-w09v2j/img-female-mtkhuyel5f2t.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797550234-w09v2j/img-male-mtkhud2qbbly.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797550234-w09v2j/img-female-mtkhuyel5f2t.webp
+youtubeSearchQuery: how to Pull-Ups exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-27T02:25:50.276Z"
+updatedAt: "2026-09-02T19:33:40.045Z"

@@ -1,0 +1,59 @@
+id: lib-1788127170254-7wo2sp
+name: Doorway Pec Stretch
+description: >-
+  Forearm on the door frame, step through — opens the chest that pressing and desk posture keep shut. Adjusting elbow
+  height moves the stretch through different pec fibers. The step through should be small; the chest opens, the ribs
+  stay down.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+  - Biceps
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Posture
+  - Upper Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: optional
+instructions:
+  - title: Set the arm
+    detail: Place your forearm vertically on the door frame with the elbow at shoulder height.
+  - title: Stagger the feet
+    detail: Step the same-side foot slightly through the doorway.
+  - title: Lean through
+    detail: Shift your weight forward gently until the chest stretches, keeping the ribs down.
+  - title: Change the angle
+    detail: Repeat with the elbow higher or lower to hit different fibers.
+safetyNotes: >-
+  Leaning hard through the doorway cranks the front of the shoulder — a mild stretch across the chest is the goal, not a
+  pull in the joint. Back off if you feel tingling down the arm.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170254-7wo2sp/img-female-mtkn2nxnb81c.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170254-7wo2sp/img-male-mtkn25ii45mt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170254-7wo2sp/img-female-mtkn2nxnb81c.webp
+youtubeSearchQuery: Doorway Pec Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.549Z"
+updatedAt: "2026-09-02T21:59:37.618Z"

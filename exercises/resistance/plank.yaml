@@ -1,0 +1,68 @@
+id: lib-1772742712079-esnvad
+name: Plank
+description: >-
+  The plank is a static core exercise that strengthens the entire core by holding a forearm push-up position. It
+  improves stability and posture while engaging multiple muscle groups.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Transverse Abdominis
+secondaryMuscles:
+  - Obliques
+  - Shoulders
+  - Glutes
+  - Quadriceps
+equipment: []
+tags:
+  - Core
+  - Isometric
+  - Bodyweight
+  - Stability
+  - Calisthenics
+  - Yoga
+modality: resistance
+metValue: 3
+muscleActivationMap:
+  Abs: 0.3
+  Transverse Abdominis: 0.3
+  Obliques: 0.1
+  Shoulders: 0.1
+  Glutes: 0.1
+  Quadriceps: 0.1
+instructions:
+  - step: 1
+    text: >-
+      Start face down on the floor, then prop yourself up on your forearms and toes, keeping your elbows directly under
+      your shoulders.
+  - step: 2
+    text: Keep your body in a straight line from head to heels, engaging your core and glutes.
+  - step: 3
+    text: Hold the position without letting your hips sag or pike up, breathing steadily.
+safetyNotes: >-
+  Avoid letting your lower back sag or hips rise; keep your neck neutral and gaze slightly forward. Stop if you feel
+  strain in your lower back. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712079-esnvad/img-female-mtkra27ahzmz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712079-esnvad/img-male-mtkr9g71q1b4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712079-esnvad/img-female-mtkra27ahzmz.webp
+youtubeSearchQuery: how to plank exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-05T20:31:51.566Z"
+updatedAt: "2026-09-02T23:57:21.360Z"

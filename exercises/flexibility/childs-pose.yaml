@@ -1,0 +1,78 @@
+id: lib-1773070890279-znlgak
+name: Child's Pose
+description: >-
+  Child's Pose is a restorative yoga posture where you kneel on the floor, sit back on your heels, and fold forward with
+  arms extended, resting your forehead on the mat. It gently stretches the back, hips, thighs, and ankles while
+  promoting relaxation and stress relief. Often used in yoga for recovery, it targets the latissimus dorsi, glutes, and
+  erector spinae.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Glutes
+  - Lower Back
+secondaryMuscles:
+  - Hamstrings
+  - Quadriceps
+  - Shoulders
+  - Traps
+  - Rhomboids
+equipment:
+  - yoga_mat
+  - yoga blanket
+  - bolster
+tags:
+  - Yoga
+  - Flexibility
+  - Recovery
+  - Stretching
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Starting Position
+    detail: >-
+      Begin on your hands and knees on a yoga mat, with your wrists directly under your shoulders and your knees
+      directly under your hips. Spread your knees wide apart while keeping your big toes touching.
+  - title: Lower Into the Pose
+    detail: >-
+      Exhale and slowly sit your hips back toward your heels. Extend your arms forward on the mat, palms facing down,
+      and allow your forehead to rest gently on the floor.
+  - title: Adjust for Comfort
+    detail: >-
+      If your forehead does not reach the floor, place a yoga blanket or bolster underneath it. You can also place a
+      bolster between your thighs and torso for extra support.
+  - title: Hold and Breathe
+    detail: >-
+      Relax your shoulders, neck, and back. Breathe deeply and hold the pose for the desired duration, typically 30-60
+      seconds or longer for restorative practice.
+  - title: Exit the Pose
+    detail: >-
+      To come out, inhale and gently walk your hands back toward your body, lifting your torso and returning to a seated
+      or hands-and-knees position.
+safetyNotes: >-
+  Use a blanket or bolster for support if knees or hips are tight; breathe deeply and avoid forcing the stretch. Common
+  mistakes include not relaxing the shoulders or placing too much pressure on the neck.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  estimatedDurationMinutes: 3
+  sets: 3
+  durationSeconds: 45
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070890279-znlgak/img-female-mtkmjvjbem4g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070890279-znlgak/img-male-mtkmj8gb2jnw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070890279-znlgak/img-female-mtkmjvjbem4g.webp
+youtubeSearchQuery: childs pose yoga tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T15:41:29.873Z"
+updatedAt: "2026-09-02T21:45:01.373Z"

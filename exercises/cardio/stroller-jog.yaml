@@ -1,0 +1,73 @@
+id: lib-1773266601437-kk52xg
+name: Stroller Jog
+description: >-
+  A cardiovascular exercise that involves pushing a stroller while jogging, providing a full-body workout while allowing
+  parents to stay active with their child.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Hamstrings
+  - Calves
+secondaryMuscles:
+  - Abs
+  - Shoulders
+  - Chest
+equipment:
+  - Stroller
+tags:
+  - Cardio
+  - Outdoor
+  - Parenting
+  - Full-Body
+  - Aerobic
+  - Running
+modality: cardio
+metValue: 7
+instructions:
+  - step: 1
+    text: Secure your child properly in the stroller with all safety straps fastened
+  - step: 2
+    text: Choose a smooth, flat or gently sloping route suitable for jogging with a stroller
+  - step: 3
+    text: Grip the stroller handle firmly with both hands and maintain good posture with a straight back
+  - step: 4
+    text: Begin with a brisk walk to warm up, then transition into a light jog at a comfortable pace
+  - step: 5
+    text: Keep your arms relatively straight while pushing the stroller, using your core to maintain stability
+  - step: 6
+    text: Monitor your child and the path ahead, avoiding sudden turns or uneven terrain
+safetyNotes: >-
+  Ensure the stroller is designed for jogging (fixed front wheel or swivel lock). Maintain proper posture to avoid back
+  strain. Stay hydrated and be aware of traffic and surroundings. Never leave child unattended.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  sets: 1
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266601437-kk52xg/img-female-mtkvnwzqdq4r.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266601437-kk52xg/img-male-mtkvnb8qvmr4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266601437-kk52xg/img-female-mtkvnwzqdq4r.webp
+youtubeSearchQuery: how to Jogging with Stroller exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-11T22:03:21.413Z"
+updatedAt: "2026-09-03T02:00:06.395Z"

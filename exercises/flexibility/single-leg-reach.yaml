@@ -1,0 +1,61 @@
+id: lib-1788127166587-ahh6u0
+name: Single-Leg Reach
+description: >-
+  Balance on one leg and reach the free foot forward, sideways, and behind you, tapping lightly and returning. This is
+  dynamic stability — the stance hip has to control a moving load, which is what real-world balance actually demands.
+  The stance knee stays soft and tracks over the toes throughout.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Abductors
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Balance
+  - Stability
+  - Unilateral
+  - No Equipment
+modality: flexibility
+metValue: 3
+unilateral: always
+instructions:
+  - title: Set the stance
+    detail: Balance on one leg with a soft knee.
+  - title: Reach forward
+    detail: Tap the free foot as far forward as control allows.
+  - title: Reach side and back
+    detail: Repeat the tap to the side and behind you.
+  - title: Return with control
+    detail: Pull back to standing tall between every reach.
+  - title: Switch legs
+    detail: Complete all directions, then swap sides.
+safetyNotes: >-
+  Reach only as far as you can return from with control — an overstretched tap that dumps your weight teaches nothing.
+  Watch for the stance knee caving inward on the crossing reach.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166587-ahh6u0/img-female-mtkuv1wj2wm1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166587-ahh6u0/img-male-mtkuu4bzyuf0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166587-ahh6u0/img-female-mtkuv1wj2wm1.webp
+youtubeSearchQuery: Single-Leg Reach proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.881Z"
+updatedAt: "2026-09-03T01:37:39.808Z"

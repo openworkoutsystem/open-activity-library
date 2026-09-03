@@ -1,0 +1,72 @@
+id: lib-1788215817328-fnad49
+name: Lateral Shuffle
+description: >-
+  Drop into an athletic stance and push off the outside leg to travel sideways, staying low without letting the feet
+  click together. It trains the side-to-side movement that running and cycling never touch, waking up the hip abductors
+  and adductors that stabilize every change of direction. Keep the hips low and the chest up - popping upright turns it
+  into a side skip.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Adductors
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Cardio
+  - Agility Drills
+  - Warm-Up
+  - Functional
+  - No Equipment
+modality: cardio
+metValue: 7
+instructions:
+  - title: Take the stance
+    detail: >-
+      Set the feet slightly wider than your shoulders, bend the knees and hips into a quarter squat, and hold the hands
+      up in front of your chest.
+  - title: Push, do not step
+    detail: >-
+      Drive off the trailing foot to move sideways so the lead foot lands first and the trail foot follows, never
+      crossing over.
+  - title: Stay low
+    detail: >-
+      Keep the head level and the hips down for the whole distance so your shoulders travel in a flat line instead of
+      bobbing.
+  - title: Work both ways
+    detail: Shuffle five to ten yards in one direction, then return leading with the other foot so both hips get equal work.
+safetyNotes: >-
+  The trail foot clipping the lead foot is the common trip, so keep a fist of space between them the whole way across.
+  On slick floors or worn shoes the plant foot can slide out sideways, so shuffle only on a surface with real grip.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817328-fnad49/img-female-mtkq2l3zq7kq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817328-fnad49/img-male-mtkq1yidn2cw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817328-fnad49/img-female-mtkq2l3zq7kq.webp
+youtubeSearchQuery: Lateral Shuffle drill proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.616Z"
+updatedAt: "2026-09-02T23:23:33.561Z"

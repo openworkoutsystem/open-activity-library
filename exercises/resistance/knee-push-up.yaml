@@ -1,0 +1,79 @@
+id: lib-1773096602368-8e4gfk
+name: Knee Push-Up
+description: >-
+  Knee push-ups are a modified version of the traditional push-up, performed by starting in a plank position with knees
+  on the ground. This exercise primarily targets the chest, shoulders, and triceps while also engaging the core for
+  stability. It serves as an excellent beginner-friendly option to build upper body strength and progress toward full
+  push-ups.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Abs
+equipment: []
+tags:
+  - Upper Body
+  - Push
+  - Chest
+  - Beginner-Friendly
+  - Core
+  - Calisthenics
+modality: resistance
+metValue: 3.8
+muscleActivationMap:
+  Chest: 0.4
+  Triceps: 0.3
+  Shoulders: 0.2
+  Abs: 0.1
+instructions:
+  - title: Kneeling Plank Setup
+    detail: >-
+      Start on all fours, then lower to knees, placing hands slightly wider than shoulders. Extend legs back but keep
+      knees on ground, forming a straight line from head to knees. Engage core, tuck pelvis, and look down to maintain
+      neutral neck.
+  - title: Lower Body
+    detail: >-
+      Bend elbows to lower chest toward floor, keeping body straight. Elbows angle back at 45 degrees. Inhale as you
+      descend slowly, aiming for chest to hover 1-2 inches above ground. Avoid sagging hips.
+  - title: Push Upward
+    detail: >-
+      Press through palms to straighten arms, pushing body back to start. Squeeze chest and triceps at top. Exhale
+      forcefully during push. Keep movements controlled without locking elbows.
+  - title: Form Cues
+    detail: >-
+      Maintain tight core to prevent lower back arch; shoulders over wrists. Knees should stay grounded for
+      modification. Perform 8-12 reps. Breathe rhythmically to build strength.
+  - title: Set Completion
+    detail: >-
+      Complete desired reps, then rest in child's pose. Progress to full push-ups over time. Stretch chest and shoulders
+      afterward for recovery.
+safetyNotes: >-
+  Keep your core engaged and maintain a straight line from your head to your knees to avoid arching or sagging in the
+  back. Common mistakes include flaring elbows out too wide, which can strain the shoulders, and not lowering your chest
+  fully to the ground. Start with a comfortable number of reps and focus on controlled movements.
+trackableMetrics:
+  - category: movement
+    key: reps
+    isPrimary: true
+defaults:
+  sets: 4
+  reps: 10
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096602368-8e4gfk/img-female-mtkbp9p0szv1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096602368-8e4gfk/img-male-mtkbnymzbkv5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096602368-8e4gfk/img-female-mtkbp9p0szv1.webp
+youtubeSearchQuery: how to do knee push ups correctly for beginners instructional video
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T22:50:01.819Z"
+updatedAt: "2026-09-02T16:41:17.207Z"

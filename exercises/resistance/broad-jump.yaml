@@ -1,0 +1,57 @@
+id: lib-1788127164724-zd6ws8
+name: Broad Jump
+description: >-
+  A maximal two-foot jump for distance with a stuck landing — horizontal power. It builds the same forward hip drive
+  that shows up in sprinting and heavy pulls. Swing the arms hard and land in a stable half squat, chest up.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Quadriceps
+secondaryMuscles:
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Lower Body
+modality: resistance
+metValue: 8
+instructions:
+  - title: Set your stance
+    detail: Stand feet hip-width with toes at a line.
+  - title: Swing and load
+    detail: Throw the arms back as the hips hinge.
+  - title: Drive forward
+    detail: Explode out at roughly forty-five degrees, arms swinging through.
+  - title: Stick the landing
+    detail: Land in a half squat, chest up, and hold for a beat.
+safetyNotes: >-
+  The landing absorbs a lot of force — land with knees tracking over the toes and no inward collapse. Skip max-distance
+  attempts on hard concrete or with cold hamstrings.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164724-zd6ws8/img-female-mtjkpeye31p0.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164724-zd6ws8/img-male-mtjkpdnbyxln.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164724-zd6ws8/img-female-mtjkpeye31p0.webp
+youtubeSearchQuery: Broad Jump proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.016Z"
+updatedAt: "2026-09-02T03:46:01.480Z"

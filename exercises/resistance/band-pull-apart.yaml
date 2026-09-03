@@ -1,0 +1,59 @@
+id: lib-1788127159808-5zl00b
+name: Band Pull-Apart
+description: >-
+  Stretch a band across the chest with straight arms — daily-dose rear delts and posture. The band starts at arm's
+  length and finishes touching the chest with the shoulder blades pinched together. Cheap, portable, and worth doing
+  between pressing sets or every desk day.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Rear Delts
+secondaryMuscles:
+  - Rhomboids
+  - Traps
+  - Rotator Cuff
+equipment:
+  - resistance_bands
+tags:
+  - Isolation
+  - Resistance
+  - Posture
+  - Upper Body
+  - Warm-Up
+modality: resistance
+metValue: 2.8
+instructions:
+  - title: Grip the band
+    detail: Hold a light band at shoulder height with straight arms and hands about shoulder-width apart.
+  - title: Pull apart
+    detail: Pull the band outward until it touches your chest, squeezing the shoulder blades together.
+  - title: Keep arms straight
+    detail: Keep the elbows locked and the shoulders down away from the ears.
+  - title: Return slow
+    detail: Let the band come back together under control without letting it snap.
+safetyNotes: >-
+  Inspect the band for nicks and tears before use — a band that snaps at chest height hits the face. Shrugging the
+  shoulders up shifts the work to the upper traps, so keep them pinned down.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159808-5zl00b/img-female-mtjkoahdag8o.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159808-5zl00b/img-male-mtjko96zhdag.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159808-5zl00b/img-female-mtjkoahdag8o.webp
+youtubeSearchQuery: Band Pull-Apart proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.111Z"
+updatedAt: "2026-09-02T03:45:56.964Z"

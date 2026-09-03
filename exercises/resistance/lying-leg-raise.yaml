@@ -1,0 +1,77 @@
+id: lib-1772682450740-gi8q51
+name: Lying Leg Raise
+description: >-
+  A core strengthening exercise that targets the lower abs and hip flexors by lifting the legs while keeping the torso
+  stable. Great for building core stability and definition.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Obliques
+equipment:
+  - yoga_mat
+tags:
+  - Bodyweight
+  - Core
+  - Stability
+  - Strength
+  - Calisthenics
+modality: resistance
+metValue: 4.5
+muscleActivationMap:
+  Abs: 0.55
+  Hip Flexors: 0.35
+  Quadriceps: 0.1
+instructions:
+  - title: Starting Position
+    detail: >-
+      Lie flat on your back on a mat with your legs extended straight and arms by your sides, palms down for support.
+      Keep your lower back pressed into the floor.
+  - title: Execution
+    detail: >-
+      Engage your core and slowly raise your straight legs upward until they form a 90-degree angle with your torso or
+      as high as you can comfortably go without lifting your lower back.
+  - title: Peak Contraction
+    detail: Pause briefly at the top, squeezing your lower abs. Keep your legs straight and toes pointed or flexed.
+  - title: Return
+    detail: >-
+      Slowly lower your legs back down toward the floor in a controlled manner, stopping just before they touch the
+      ground to maintain tension in the core.
+  - title: Repetition
+    detail: Repeat for the desired reps, focusing on smooth, controlled movement throughout.
+safetyNotes: >-
+  Do not perform if you have lower back issues. Keep your lower back pressed into the floor throughout. Avoid swinging
+  or using momentum. If you feel strain in your lower back, bend your knees or reduce the range of motion. Stop
+  immediately if you experience pain. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: reps
+    label: Reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    label: Weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  restSeconds: 60
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772682450740-gi8q51/img-female-mtkqacnagbl5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772682450740-gi8q51/img-male-mtkq9whk8bfg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772682450740-gi8q51/img-female-mtkqacnagbl5.webp
+youtubeSearchQuery: leg raises proper form tutorial
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-05T03:47:30.886Z"
+updatedAt: "2026-09-02T23:29:35.539Z"

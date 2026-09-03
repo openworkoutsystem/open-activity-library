@@ -1,0 +1,57 @@
+id: lib-1788127159239-035tg3
+name: Bench Dip
+description: >-
+  Dip with hands on a bench behind you — bodyweight triceps, easily scaled by foot position. Feet close and knees bent
+  make it easy; legs straight or heels elevated make it hard. Hips stay close to the bench so the triceps, not the
+  shoulders, take the load.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Chest
+  - Front Delts
+equipment:
+  - bench_flat
+tags:
+  - Bodyweight
+  - Calisthenics
+  - Push
+  - Upper Body
+modality: resistance
+metValue: 3.8
+instructions:
+  - title: Set your hands
+    detail: Sit on the bench edge, grip it beside your hips, then slide your hips just off the front.
+  - title: Position the feet
+    detail: Walk the feet out — bent knees for easier, straight legs for harder.
+  - title: Lower down
+    detail: Bend the elbows straight back until the upper arms are near parallel to the floor.
+  - title: Press up
+    detail: Drive through the palms to full lockout, keeping the hips near the bench.
+safetyNotes: >-
+  The hands-behind-body position puts the shoulders in deep internal rotation — stop the descent at upper-arm parallel
+  and keep the hips close to the bench, because sinking too low is a common cause of front-of-shoulder pain.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159239-035tg3/img-female-mtjko55lufke.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159239-035tg3/img-male-mtjko3vh9ucl.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159239-035tg3/img-female-mtjko55lufke.webp
+youtubeSearchQuery: Bench Dip proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.538Z"
+updatedAt: "2026-09-02T03:45:56.500Z"

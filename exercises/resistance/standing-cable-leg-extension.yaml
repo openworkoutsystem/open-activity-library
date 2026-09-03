@@ -1,0 +1,69 @@
+id: lib-1788213140641-47gvmk
+name: Standing Cable Leg Extension
+description: >-
+  Stand facing away from a low pulley with an ankle cuff on the working leg, thigh lifted slightly, and straighten the
+  knee against the cable's backward pull. It isolates the quadriceps without a leg extension machine, and the standing
+  position adds a light balance and hip-flexor demand the seated version never asks for. Light weight, strict reps, full
+  squeeze at lockout.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Hip Flexors
+  - Abs
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Resistance
+  - Strength
+  - Lower Body
+modality: resistance
+metValue: 3.5
+unilateral: always
+instructions:
+  - title: Set up the cuff
+    detail: >-
+      Attach an ankle cuff to a low pulley, strap it to your working ankle, and take a step forward so the cable has
+      light tension with your back to the stack.
+  - title: Find your balance
+    detail: >-
+      Hold the frame or a sturdy upright with one hand, stand tall on the support leg, and lift the working thigh
+      slightly so the knee sits bent at about 90 degrees.
+  - title: Extend the knee
+    detail: >-
+      Straighten the knee smoothly until the leg is fully extended in front of you, keeping the thigh still so the
+      movement comes from the knee, not the hip.
+  - title: Control the return
+    detail: >-
+      Take two to three seconds letting the cable bend the knee back to the start, then finish all reps before switching
+      legs.
+safetyNotes: >-
+  Open-chain knee extension puts direct shear on the knee joint - with patellar tendon or ACL history, start very light
+  and stop shy of a snapped-out lockout. Keep the weight light enough that the torso never lurches for momentum; this is
+  a strict isolation move.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788213140641-47gvmk/img-male-mtjkpkcoy740.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788213140641-47gvmk/img-male-mtjkpkcoy740.webp
+youtubeSearchQuery: Standing Cable Leg Extension ankle strap proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T21:52:19.976Z"
+updatedAt: "2026-09-02T03:46:14.928Z"

@@ -1,0 +1,59 @@
+id: lib-1788127173914-uj2guz
+name: Double Unders
+description: >-
+  Two rope passes for every jump — a timing and elasticity skill more than a strength one. The jump gets slightly higher
+  and the wrists much faster; big arm circles are the classic fault that kills the rhythm. Once they click, few tools
+  deliver more conditioning per minute.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles:
+  - Forearms
+  - Shoulders
+  - Quadriceps
+equipment:
+  - jump_rope
+tags:
+  - Jumping Rope
+  - HIIT
+  - Plyometrics
+  - High-Impact
+modality: cardio
+metValue: 12.3
+instructions:
+  - title: Jump slightly higher
+    detail: Bounce a touch higher than a single under while staying vertical and tight.
+  - title: Speed the wrists
+    detail: Whip the rope through two full turns per jump using wrists only.
+  - title: Keep hands low
+    detail: Hold the hands near the hips — rising arms shorten the rope and cause trips.
+  - title: Build in singles
+    detail: Practice single-single-double patterns before chasing unbroken sets.
+safetyNotes: >-
+  The rope whip stings and the repeated impact is real — high volume too soon irritates calves and Achilles tendons.
+  Practice in short sets while fresh instead of chasing big numbers on a fatigued bounce.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 60
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173914-uj2guz/img-female-mtkn3u1ptqwr.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173914-uj2guz/img-male-mtkn38rdl6ea.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173914-uj2guz/img-female-mtkn3u1ptqwr.webp
+youtubeSearchQuery: Double Unders technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.207Z"
+updatedAt: "2026-09-02T22:00:33.147Z"

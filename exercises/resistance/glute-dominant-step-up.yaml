@@ -1,0 +1,74 @@
+id: lib-1788380793729-9lkq8o
+name: Glute-Dominant Step-Up
+description: >-
+  A step-up rebuilt to load the glutes instead of the quads: a lower box, a forward torso lean from the hips, a vertical
+  shin, and a drive through the heel with the trailing leg kept completely passive. Hold dumbbells at your sides once
+  bodyweight sets stop being hard. Popularized by Bret Contreras as a hip-dominant alternative to the tall-box step-up,
+  it trains the glutes through a long range in a single-leg stance without the knee taking the work.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Quadriceps
+  - Calves
+  - Abs
+equipment:
+  - plyo_box
+tags:
+  - Lower Body
+  - Unilateral
+  - Strength
+  - Compound
+  - Functional
+modality: resistance
+metValue: 5
+unilateral: always
+instructions:
+  - title: Set a low box
+    detail: >-
+      Use a box or step at or just below knee height, lower than you would for a regular step-up. Place one whole foot
+      on it with the shin vertical and stand close enough that the knee does not drift forward over the toes.
+  - title: Hinge forward
+    detail: >-
+      Lean the torso forward from the hips to roughly forty-five degrees with a flat back, so the hips sit behind the
+      front heel. This forward lean is what shifts the work from the quads to the glutes.
+  - title: Drive through the heel
+    detail: >-
+      Push the front heel into the box and squeeze the glute to stand up on the box. Keep the trailing leg passive: no
+      push-off from the floor, and let its heel lift or its toes pull up so it cannot help.
+  - title: Lower with control
+    detail: >-
+      Sit the hips back and lower the trailing foot to the floor slowly, keeping the front shin vertical and the torso
+      lean throughout. Touch the floor lightly and go again; finish all reps on one leg before switching.
+safetyNotes: >-
+  Keep the front knee tracking over the middle of the foot; if it caves inward, lower the box or drop the weight. The
+  forward lean comes from the hips with a neutral spine, not from rounding the back. Choose a box you can control on the
+  way down, and if the trailing leg keeps helping, slow the descent rather than adding load.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 9
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788380793729-9lkq8o/img-female-mtkjwq42sql9.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788380793729-9lkq8o/img-male-mtkjvts11s76.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788380793729-9lkq8o/img-female-mtkjwq42sql9.webp
+youtubeSearchQuery: Glute-Dominant Step-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-09-02T20:26:33.097Z"
+updatedAt: "2026-09-02T20:31:01.910Z"

@@ -1,0 +1,65 @@
+id: lib-1788127167509-lsp0lp
+name: Tempo Run
+description: >-
+  A sustained comfortably-hard pace — roughly what you could race for an hour — that pushes the lactate ceiling up.
+  Conversation drops to a few words at a time. Held for 20 to 40 minutes, it is the highest-value single workout in
+  distance training.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Hip Flexors
+  - Abs
+equipment: []
+tags:
+  - Running
+  - Endurance
+  - High-Intensity
+  - Steady State
+  - Outdoor
+modality: cardio
+metValue: 11
+instructions:
+  - title: Warm up thoroughly
+    detail: Jog easy for ten minutes and add a few pickups.
+  - title: Lock in tempo
+    detail: Settle at a comfortably-hard pace you could hold for about an hour.
+  - title: Check the effort
+    detail: Confirm you can still speak a short phrase — if not, back off.
+  - title: Cool down
+    detail: Jog easy for five to ten minutes after the tempo block.
+safetyNotes: >-
+  Tempo pace is seductive — going slightly too hard turns it into a race effort you can't recover from this week. If you
+  can't speak a short sentence, slow down.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167509-lsp0lp/img-male-mtkwoqg33q4j.jpg
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167509-lsp0lp/img-male-mtkwoqg33q4j.jpg
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167509-lsp0lp/img-female-mtkw0ljg9wd5.webp
+youtubeSearchQuery: Tempo Run proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.800Z"
+updatedAt: "2026-09-03T02:28:43.314Z"

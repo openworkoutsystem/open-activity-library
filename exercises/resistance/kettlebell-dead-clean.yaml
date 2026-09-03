@@ -1,0 +1,64 @@
+id: lib-1788127163567-ar5o2j
+name: Kettlebell Dead Clean
+description: >-
+  Clean the bell from a dead stop on the floor every rep — no swing, no stretch reflex to borrow from. Each rep is pure
+  hip power generated from stillness. Set the hinge fresh before every pull; sloppy setup is exactly what this drill
+  exists to eliminate.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Quadriceps
+  - Traps
+  - Forearms
+  - Abs
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Hinge
+  - Compound
+  - Strength
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Start from stillness
+    detail: Set the bell between the feet and take a fresh hinge every rep.
+  - title: Pull with the hips
+    detail: Stand explosively while keeping the bell close to the body.
+  - title: Catch in the rack
+    detail: Roll the bell around the wrist into a clean rack position.
+  - title: Reset completely
+    detail: Place the bell down, let it settle, then set up again.
+safetyNotes: >-
+  Re-set the hinge from stillness every rep — pulling from a slack, rounded start is how backs get tweaked. Keep the
+  bell tight to the body so it doesn't cast forward and yank the shoulder.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163567-ar5o2j/img-female-mtkp110dprdy.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163567-ar5o2j/img-male-mtkp0dktclhc.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163567-ar5o2j/img-female-mtkp110dprdy.webp
+youtubeSearchQuery: Kettlebell Dead Clean proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.859Z"
+updatedAt: "2026-09-02T22:54:20.592Z"

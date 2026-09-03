@@ -1,0 +1,56 @@
+id: lib-1774910650940-tk0ky8
+name: Barbell Bent-Over Row
+description: Bent-over barbell row for back thickness. Targets lats, rhomboids, and traps with heavy compound pulling.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Traps
+secondaryMuscles:
+  - Biceps
+  - Abs
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Compound
+  - Barbell
+modality: resistance
+metValue: 6
+instructions:
+  - title: Setup
+    detail: Stand with feet hip-width, hinge forward ~45 degrees. Grip barbell slightly wider than shoulder width.
+  - title: Pull
+    detail: Row the bar to your lower chest/upper belly. Drive elbows back, squeeze shoulder blades.
+  - title: Hold
+    detail: Pause briefly at the top, squeezing back muscles.
+  - title: Lower
+    detail: Control the bar back down to full arm extension. Maintain flat back throughout.
+safetyNotes: Keep back flat — don't round. Brace core throughout. Start lighter to establish form.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910650940-tk0ky8/img-female-mtjkmj330az8.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910650940-tk0ky8/img-male-mtjkmhq7yb8b.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910650940-tk0ky8/img-female-mtjkmj330az8.webp
+youtubeSearchQuery: "\"barbell bent over row form tutorial\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:10.956Z"
+updatedAt: "2026-09-02T19:54:32.918Z"

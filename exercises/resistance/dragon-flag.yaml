@@ -1,0 +1,62 @@
+id: lib-1788131481361-f58zo7
+name: Dragon Flag
+description: >-
+  Anchor the shoulders on a bench and lower the whole body straight as a beam, pivoting only at the shoulder blades.
+  Made famous by Bruce Lee, it is one of the hardest anterior core exercises there is, training the abs to resist
+  extension under a huge lever. Only the upper back touches the bench — the hips never sag or bend.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Obliques
+  - Back
+  - Hip Flexors
+  - Lower Back
+equipment:
+  - bench_flat
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - Strength
+modality: resistance
+metValue: 6
+instructions:
+  - title: Anchor the shoulders
+    detail: Lie on a flat bench and grip it firmly beside or behind your head.
+  - title: Sweep to vertical
+    detail: Drive your legs and hips up until your body points toward the ceiling on your shoulder blades.
+  - title: Lower as one
+    detail: Descend slowly with hips locked and body rigid from shoulders to toes.
+  - title: Stop above bench
+    detail: Halt the descent just before your body touches down, keeping full tension.
+  - title: Raise back up
+    detail: Pull the whole line back toward vertical without bending at the hips.
+safetyNotes: >-
+  The controlled lowering is the entire exercise — if the hips break or the low back arches on the way down, the lumbar
+  spine takes the load instead of the abs. Start with tucked or single-leg negatives and shorten the range before form
+  degrades.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481361-f58zo7/img-male-mtkpo4dy4rre.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481361-f58zo7/img-male-mtkpo4dy4rre.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481361-f58zo7/img-female-mtkbi3zhiq6q.webp
+youtubeSearchQuery: Dragon Flag proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:20.620Z"
+updatedAt: "2026-09-02T23:12:18.528Z"

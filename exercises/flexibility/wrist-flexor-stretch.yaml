@@ -1,0 +1,66 @@
+id: lib-1788215819359-z24r94
+name: Wrist Flexor Stretch
+description: >-
+  Kneel with your palms flat on the floor and fingers pointing back toward your knees, then rock the hips back to
+  stretch the underside of the forearms. It buys back the wrist extension that front racks, push-ups, and long keyboard
+  days quietly take away. Move in small increments - you want a stretch through the forearm, never a pinch inside the
+  wrist joint.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+secondaryMuscles:
+  - Biceps
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Warm-Up
+  - No Equipment
+modality: flexibility
+metValue: 2
+unilateral: optional
+instructions:
+  - title: Set the hands
+    detail: >-
+      Kneel and place both palms flat on the floor in front of you with the fingers pointing back toward your knees and
+      the elbows soft.
+  - title: Rock back slowly
+    detail: >-
+      Shift your hips back an inch at a time, keeping the palms pressed flat, until you feel a stretch along the inside
+      of the forearms.
+  - title: Hold and breathe
+    detail: Hold 20 to 30 seconds with easy breathing and let the tension fade before you rock any further back.
+  - title: Flip for balance
+    detail: >-
+      Turn the hands over so the backs of the hands rest on the floor and repeat, which stretches the extensor side and
+      keeps the joint balanced.
+safetyNotes: >-
+  Tingling or numbness in the fingers is nerve, not muscle - back off immediately, since forcing it can flare carpal
+  tunnel symptoms. Keep more weight on the knees rather than fully loading the wrists if you have a recent sprain or
+  fracture history.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819359-z24r94/img-female-mtkxhwmne51i.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819359-z24r94/img-male-mtkxhbriy8c3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819359-z24r94/img-female-mtkxhwmne51i.webp
+youtubeSearchQuery: Wrist Flexor Stretch kneeling proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.640Z"
+updatedAt: "2026-09-03T02:51:25.242Z"

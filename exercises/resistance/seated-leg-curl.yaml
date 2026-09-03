@@ -1,0 +1,60 @@
+id: lib-1788127160351-9z0jml
+name: Seated Leg Curl
+description: >-
+  A hamstring curl performed sitting upright with the hips flexed, which puts the hamstrings on stretch at the start of
+  every rep. That longer working length makes it the better growth stimulus of the two curl machines for most lifters.
+  Set the lap pad snug so the hips can't hinge to help.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Posterior Chain
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Align the pivot
+    detail: Adjust the seat so your knee joint lines up with the machine's axis of rotation.
+  - title: Lock the lap pad
+    detail: Cinch the thigh pad down snug so your hips cannot lift or hinge.
+  - title: Curl under
+    detail: Pull your heels down and under the seat as far as they will travel.
+  - title: Resist the return
+    detail: Let the legs straighten slowly, controlling the stretch at the top.
+safetyNotes: >-
+  The stretched start position is exactly where hamstrings strain — take the first rep of each set deliberately instead
+  of snapping into it. Line the knee up with the machine's pivot before loading.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160351-9z0jml/img-female-mtkucg8m1eap.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160351-9z0jml/img-male-mtkubqgmb3jl.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160351-9z0jml/img-female-mtkucg8m1eap.webp
+youtubeSearchQuery: Seated Leg Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.653Z"
+updatedAt: "2026-09-03T01:23:11.941Z"

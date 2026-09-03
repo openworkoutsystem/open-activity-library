@@ -1,0 +1,62 @@
+id: lib-1788127153078-mo65pa
+name: Close-Grip Bench Press
+description: >-
+  Bench with a narrow grip — triceps-driven pressing strength. Bringing the hands to about shoulder width keeps the
+  elbows tucked along the ribs and shifts the workload from chest to triceps, making it the heaviest direct triceps
+  builder there is. The grip is close, not touching — hands at shoulder width, wrists stacked straight over forearms.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Chest
+  - Front Delts
+equipment:
+  - barbell
+  - bench_flat
+tags:
+  - Push
+  - Barbell
+  - Compound
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Take the grip
+    detail: Grip the bar at shoulder width with thumbs wrapped and wrists straight.
+  - title: Set the bench base
+    detail: Pin your shoulder blades to the bench and plant your feet flat.
+  - title: Lower with tucked elbows
+    detail: Pull the bar down to your lower chest keeping your elbows close to your ribs.
+  - title: Press through lockout
+    detail: Drive the bar up and finish by fully straightening the elbows.
+safetyNotes: >-
+  A grip narrower than shoulder width strains the wrists without adding triceps work — close means shoulder width, not
+  hands touching. Use a spotter or safeties like any other bench press; failing with tucked elbows still leaves the bar
+  on your chest.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153078-mo65pa/img-female-mtk9y7pp6ppf.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153078-mo65pa/img-male-mtk9wzzyu5ue.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153078-mo65pa/img-female-mtk9y7pp6ppf.webp
+youtubeSearchQuery: Close-Grip Bench Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.379Z"
+updatedAt: "2026-09-02T15:52:15.764Z"

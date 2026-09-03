@@ -1,0 +1,76 @@
+id: lib-1772957758262-661hm8
+name: Dead Bug
+description: >-
+  A foundational core stability exercise performed lying on your back. It strengthens the deep core muscles (transverse
+  abdominis), improves coordination, and is extremely safe for the lower back and neck. Excellent for beginners to
+  advanced trainees working on core control.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Transverse Abdominis
+  - Abs
+secondaryMuscles:
+  - Hip Flexors
+  - Lower Back
+equipment:
+  - yoga_mat
+tags:
+  - Stability
+  - Bodyweight
+  - Strength
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+muscleActivationMap:
+  Transverse Abdominis: 0.4
+  Abs: 0.2
+  Obliques: 0.15
+  Hip Flexors: 0.15
+  Lower Back: 0.1
+instructions:
+  - title: Starting Position
+    detail: >-
+      Lie on your back on a mat with your arms extended straight up toward the ceiling and knees bent at 90 degrees
+      (tabletop position). Press your lower back firmly into the floor.
+  - title: Movement
+    detail: >-
+      Slowly extend your right arm straight back overhead while simultaneously extending your left leg straight out,
+      hovering just above the floor. Keep your lower back pressed down and core braced.
+  - title: Return
+    detail: Slowly bring your right arm and left leg back to the starting tabletop position with control.
+  - title: Alternate
+    detail: >-
+      Repeat on the opposite side, extending your left arm and right leg. Continue alternating sides in a slow,
+      controlled manner.
+  - title: Breathing
+    detail: Exhale as you extend your arm and leg, inhale as you return to center.
+safetyNotes: >-
+  Keep your lower back pressed into the floor at all times — this is the most important cue. Move slowly and with
+  control. Stop immediately if you feel any lower back pain or arching. Great exercise for those with lower back issues
+  or tech neck. Modify by keeping knees bent and only moving arms if needed. This is a bodyweight exercise - no weight
+  load applies.
+trackableMetrics:
+  - isPrimary: true
+    category: movement
+    key: reps
+defaults:
+  repSpeed: 4
+  estimatedDurationMinutes: 4
+  restSeconds: 45
+  reps: 12
+  sets: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957758262-661hm8/img-female-mtjky8l8rgcw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957758262-661hm8/img-male-mtjkwf4lfc7k.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957758262-661hm8/img-female-mtjky8l8rgcw.webp
+youtubeSearchQuery: dead bug exercise proper form tutorial
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-08T08:15:57.304Z"
+updatedAt: "2026-09-02T04:12:26.905Z"

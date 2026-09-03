@@ -1,0 +1,59 @@
+id: lib-1788127173160-e0sqk1
+name: Foam Roll Upper Back
+description: >-
+  Roll the thoracic spine with the arms hugged across the chest to spread the shoulder blades — extension over the
+  roller is welcome here. Slow passes from mid-back to the top of the shoulders undo a day of sitting, and a gentle arch
+  over the roller at each level adds mobility work for free. Support the head with the hands during extensions.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Traps
+  - Rhomboids
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Posture
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Set the roller
+    detail: Lie back with the roller across the mid-back and knees bent.
+  - title: Hug the chest
+    detail: Cross the arms over the chest to pull the shoulder blades apart.
+  - title: Roll the region
+    detail: Lift the hips and roll slowly between mid-back and shoulders.
+  - title: Extend gently
+    detail: Pause at a stiff level, support the head, and arch back over the roller.
+safetyNotes: >-
+  Keep the roller above the bottom of the ribcage — the low back doesn't tolerate direct rolling or extension over a
+  roller. Support the head with the hands so the neck isn't hanging during extensions.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 60
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173160-e0sqk1/img-female-mtknujj4nr91.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173160-e0sqk1/img-male-mtkntz0cfi14.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173160-e0sqk1/img-female-mtknujj4nr91.webp
+youtubeSearchQuery: Foam Roll Upper Back technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.467Z"
+updatedAt: "2026-09-02T22:21:18.742Z"

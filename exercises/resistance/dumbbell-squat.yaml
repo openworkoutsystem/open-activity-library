@@ -1,0 +1,63 @@
+id: lib-1788127148564-lt01zw
+name: Dumbbell Squat
+description: >-
+  Squat with a dumbbell in each hand at the sides — simple loading without a rack. It trains the quads and glutes and
+  adds a grip-and-trap tax the barbell version doesn't have. Keep the dumbbells hanging quiet at your sides rather than
+  letting them swing forward.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Forearms
+  - Traps
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Squat
+  - Dumbbell
+  - Compound
+  - Lower Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Grab the dumbbells
+    detail: Hold a dumbbell in each hand with arms hanging straight at your sides.
+  - title: Set your stance
+    detail: Stand shoulder-width apart with toes turned out slightly.
+  - title: Squat to depth
+    detail: Sit between the hips until your thighs reach parallel while the dumbbells track beside your legs.
+  - title: Drive up tall
+    detail: Push through the whole foot and stand fully without shrugging the weights.
+safetyNotes: >-
+  Grip usually fails before the legs do — chase leg work by adding reps or slowing the tempo rather than jumping to
+  dumbbells you can't hold. Set the weights down with a flat back, not a rounded one.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148564-lt01zw/img-female-mtkeg5a7fd22.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148564-lt01zw/img-male-mtkefobouy3p.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148564-lt01zw/img-female-mtkeg5a7fd22.webp
+youtubeSearchQuery: Dumbbell Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.878Z"
+updatedAt: "2026-09-02T17:58:10.843Z"

@@ -1,0 +1,60 @@
+id: lib-1788127173785-5afjv4
+name: Jump Rope High Knees
+description: >-
+  The rope turning while you run in place, knees driving toward waist height — the intensity dial turned well up from
+  steady bouncing. It trains hip-flexor drive and top-end conditioning in short bursts. Keep the bounce quiet and the
+  chest tall even as the legs work hard.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Hip Flexors
+secondaryMuscles:
+  - Quadriceps
+  - Shoulders
+equipment:
+  - jump_rope
+tags:
+  - Jumping Rope
+  - HIIT
+  - High-Intensity
+  - Cardio
+  - High-Impact
+modality: cardio
+metValue: 12
+instructions:
+  - title: Start steady
+    detail: Establish a normal single-bounce rhythm for a few turns.
+  - title: Switch to running
+    detail: Alternate feet under the rope as if running in place.
+  - title: Drive the knees
+    detail: Lift each knee toward waist height while keeping the torso tall.
+  - title: Hold the rhythm
+    detail: Match rope speed to foot speed and finish the interval before form fades.
+safetyNotes: >-
+  This doubles the impact volume of steady rope work — earn it with regular jump rope first and cap the intervals short.
+  Tripping the rope at speed is normal early on, so keep clear space around you.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 60
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173785-5afjv4/img-female-mtkox5j68ggt.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173785-5afjv4/img-male-mtkowl8y1nr5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173785-5afjv4/img-female-mtkox5j68ggt.webp
+youtubeSearchQuery: Jump Rope High Knees proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.077Z"
+updatedAt: "2026-09-02T22:51:20.249Z"

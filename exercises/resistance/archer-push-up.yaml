@@ -1,0 +1,58 @@
+id: lib-1788131480405-x9kmnb
+name: Archer Push-Up
+description: >-
+  One arm takes the load while the other extends straight out wide — the standard progression toward the one-arm
+  push-up. It builds unilateral pressing strength in the chest and triceps while the core fights the twist. Keep the
+  straight arm's hand flat and let it assist only as much as the working side needs.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+  - Abs
+  - Serratus Anterior
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Push
+  - Strength
+  - No Equipment
+modality: resistance
+metValue: 6
+unilateral: always
+instructions:
+  - title: Set wide
+    detail: Take a push-up position with hands well wider than shoulders and fingers angled out.
+  - title: Shift and lower
+    detail: Bend one elbow and lower your chest toward that hand while the other arm stays straight.
+  - title: Press one-sided
+    detail: Drive up through the bent arm, using the straight arm as a light outrigger.
+  - title: Switch sides
+    detail: Return to center and repeat toward the opposite hand, matching reps per side.
+safetyNotes: >-
+  The straight arm's shoulder and elbow are in a vulnerable extended position — keep that elbow soft-locked and stop the
+  set if the inner elbow complains. Square hips throughout; twisting shifts the load into the low back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 6
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480405-x9kmnb/img-male-mtjkpj1n5c6c.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480405-x9kmnb/img-male-mtjkpj1n5c6c.webp
+youtubeSearchQuery: Archer Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.662Z"
+updatedAt: "2026-09-02T03:46:13.158Z"

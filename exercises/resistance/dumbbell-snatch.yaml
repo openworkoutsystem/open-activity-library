@@ -1,0 +1,65 @@
+id: lib-1788127164069-o8eprk
+name: Dumbbell Snatch
+description: >-
+  One dumbbell from the floor to locked out overhead in a single motion. It's the accessible entry to snatching — the
+  same hip drive with no barbell mobility demands, and honest single-arm power. Keep the bell close to the body and
+  punch through at the top.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Shoulders
+secondaryMuscles:
+  - Traps
+  - Forearms
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+  - Compound
+  - Hinge
+  - Unilateral
+  - Functional
+modality: resistance
+metValue: 7
+unilateral: always
+instructions:
+  - title: Hinge over the bell
+    detail: Stand over the dumbbell and grip it with a flat back.
+  - title: Drive and pull
+    detail: Snap the hips and pull the dumbbell up close to the body.
+  - title: Punch overhead
+    detail: As it passes the head, punch the hand to a full lockout.
+  - title: Lower and switch
+    detail: Bring the dumbbell down with control, then switch hands.
+safetyNotes: >-
+  Keep the dumbbell close on the pull and punch through the catch — an arced pull ends in a jarring overhead stop. Lower
+  it to the shoulder or the floor with control rather than dropping from lockout.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164069-o8eprk/img-female-mtkekwz18pr5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164069-o8eprk/img-male-mtkek5m8glwt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164069-o8eprk/img-female-mtkekwz18pr5.webp
+youtubeSearchQuery: Dumbbell Snatch technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.362Z"
+updatedAt: "2026-09-02T18:01:53.323Z"

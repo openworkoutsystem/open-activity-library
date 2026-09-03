@@ -1,0 +1,64 @@
+id: lib-1773074704963-vgf7vi
+name: Chin Tuck
+description: >-
+  A simple neck exercise that strengthens the deep neck flexors and helps correct forward head posture (tech neck). It
+  involves gently tucking your chin toward your neck while keeping your head level. Excellent for people with desk jobs
+  or neck pain.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Neck
+secondaryMuscles: []
+equipment: []
+tags:
+  - Mobility
+  - Bodyweight
+  - Strength
+modality: flexibility
+metValue: 2.5
+muscleActivationMap:
+  Neck: 0.9
+  Traps: 0.1
+instructions:
+  - title: Starting Position
+    detail: Sit or stand tall with your shoulders relaxed and spine neutral. Look straight ahead.
+  - title: Perform the Tuck
+    detail: >-
+      Gently draw your chin straight back toward the back of your neck (like making a double chin). Keep your head level
+      — do not tilt your head down or up.
+  - title: Hold
+    detail: Hold the tucked position for 3-5 seconds while maintaining normal breathing.
+  - title: Release
+    detail: Slowly return to the starting position. Avoid pushing your head forward.
+  - title: Repetitions
+    detail: Repeat for the desired number of reps or holds.
+safetyNotes: >-
+  Stop immediately if you feel sharp pain. Move slowly and gently. This exercise is generally safe for most people with
+  tech neck but consult a doctor or physical therapist if you have diagnosed neck issues, recent injury, or severe pain.
+  Do not force the movement. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  restSeconds: 30
+  repSpeed: 3
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773074704963-vgf7vi/img-female-mtkml689alx1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773074704963-vgf7vi/img-male-mtkmkll0l3q8.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773074704963-vgf7vi/img-female-mtkml689alx1.webp
+youtubeSearchQuery: chin tuck exercise proper form tutorial
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T16:45:04.664Z"
+updatedAt: "2026-09-02T21:46:01.906Z"

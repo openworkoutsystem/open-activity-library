@@ -1,0 +1,57 @@
+id: lib-1788131479938-c6ifjh
+name: Reverse Crunch
+description: >-
+  Curl the hips off the floor instead of the shoulders — the crunch flipped upside down. It biases the lower portion of
+  the abs and teaches posterior pelvic tilt, a skill most floor core work skips. Roll the pelvis toward the ribs rather
+  than swinging the legs for momentum.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Obliques
+  - Hip Flexors
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - No Equipment
+  - Low-Impact
+modality: resistance
+metValue: 3.8
+instructions:
+  - title: Load the start
+    detail: Lie on your back with knees bent to ninety degrees over your hips and arms flat at your sides.
+  - title: Curl the hips
+    detail: Exhale and roll your pelvis up and toward your ribs, lifting the tailbone off the floor.
+  - title: Pause at top
+    detail: Hold the top for a beat with the knees drawn toward your chest.
+  - title: Lower slowly
+    detail: Uncurl the spine back down segment by segment without dropping the hips.
+safetyNotes: >-
+  Avoid swinging the legs to throw the hips up — momentum shifts the work to the hip flexors and jars the low back.
+  Press the arms into the floor for stability instead.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479938-c6ifjh/img-female-mtktw53j7rro.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479938-c6ifjh/img-male-mtktved3gwsx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479938-c6ifjh/img-female-mtktw53j7rro.webp
+youtubeSearchQuery: Reverse Crunch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.202Z"
+updatedAt: "2026-09-03T01:10:31.025Z"

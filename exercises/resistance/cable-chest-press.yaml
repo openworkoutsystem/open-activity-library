@@ -1,0 +1,60 @@
+id: lib-1788127161383-jg0mru
+name: Cable Chest Press
+description: >-
+  A horizontal pressing pattern against a cable — bench-press mechanics from a standing or split stance, with tension
+  that never disappears at lockout. Trains the chest, front delts, and triceps.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Triceps
+  - Front Delts
+equipment:
+  - cable_machine
+tags:
+  - Push
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Anchor at chest height
+    detail: Set the cable anchor behind you at roughly chest level and face away from the unit.
+  - title: Stagger the stance
+    detail: Split your feet front-to-back so the cable's pull cannot rock you backward.
+  - title: Press to lockout
+    detail: Drive the handle straight forward until the arm is fully extended.
+  - title: Return under control
+    detail: Let the handle travel back to chest level slowly without the shoulder rolling forward.
+safetyNotes: >-
+  Set your stance before adding load — a cable press pulls you backward at lockout, and losing balance under tension is
+  the failure mode. Learn each resistance profile at a light setting first.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161383-jg0mru/img-female-mtjkoojxp5c6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161383-jg0mru/img-male-mtjkon7cvlzj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161383-jg0mru/img-female-mtjkoojxp5c6.webp
+youtubeSearchQuery: Digital Cable Chest Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.681Z"
+updatedAt: "2026-09-02T03:45:58.298Z"

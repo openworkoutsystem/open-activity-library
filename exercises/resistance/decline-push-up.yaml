@@ -1,0 +1,59 @@
+id: lib-1788127152429-shr81h
+name: Decline Push-Up
+description: >-
+  Feet elevated — shifts load up and toward the shoulders. Putting the feet on a box moves more bodyweight over the
+  hands and biases the upper chest and front delts, making it the natural next step once flat push-ups get easy. The cue
+  that separates it: keep the head and chest reaching forward past the hands rather than piking the hips up.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+  - Abs
+equipment:
+  - plyo_box
+tags:
+  - Push
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Elevate the feet
+    detail: Place your toes on a box or bench with hands shoulder-width on the floor.
+  - title: Set the plank
+    detail: Brace your trunk so your body forms one straight line down the slope.
+  - title: Lower the chest
+    detail: Bend your elbows and bring your chest to the floor between your hands.
+  - title: Press away hard
+    detail: Push to full lockout without letting the hips pike or sag.
+safetyNotes: >-
+  The extra load lands on the shoulders and wrists first — if either complains, lower the box height before changing
+  anything else. Don't let the hips pike upward; that turns it into a different exercise and dumps stress on the
+  shoulders unevenly.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152429-shr81h/img-female-mtkb9huz2hsf.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152429-shr81h/img-male-mtka7q0myyzx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152429-shr81h/img-female-mtkb9huz2hsf.webp
+youtubeSearchQuery: Decline Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.734Z"
+updatedAt: "2026-09-02T16:29:01.045Z"

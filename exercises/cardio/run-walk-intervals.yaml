@@ -1,0 +1,77 @@
+id: lib-1773070891730-j8f90h
+name: Run/Walk Intervals
+description: >-
+  Run/Walk involves alternating between running and walking intervals or maintaining a continuous pace, making it ideal
+  for beginners to build cardiovascular fitness and endurance. This exercise enhances heart health, burns calories, and
+  improves overall stamina. It primarily targets the quadriceps, hamstrings, calves, and glutes.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Hamstrings
+  - Calves
+  - Glutes
+secondaryMuscles:
+  - Abs
+  - Hip Flexors
+equipment: []
+tags:
+  - Cardio
+  - Endurance
+  - Locomotion
+  - Beginner-Friendly
+  - Running
+modality: cardio
+metValue: 5
+instructions:
+  - title: Setup
+    detail: >-
+      Find a clear, flat surface or use a treadmill if available. Wear comfortable running shoes and loose-fitting
+      clothes. If outdoors, choose a safe route without traffic. Stand tall with shoulders relaxed, arms at sides, and
+      core lightly engaged. For beginners, start with a 5-10 minute warm-up walk at a comfortable pace.
+  - title: Start Walking Phase
+    detail: >-
+      Begin by walking at a moderate pace, swinging arms naturally for balance. Keep head up, looking forward, and
+      maintain an upright posture. Breathe steadily: inhale through nose, exhale through mouth. Aim for 2-5 minutes of
+      walking to build rhythm.
+  - title: Transition to Running
+    detail: >-
+      Increase speed gradually to a light jog or run. Land mid-foot or forefoot, not heel first, to reduce impact. Keep
+      steps short and quick, elbows bent at 90 degrees swinging back and forth. Inhale deeply during easier efforts,
+      exhale during higher intensity. Alternate run/walk intervals, e.g., 1 min run, 2 min walk.
+  - title: Maintain Form During Intervals
+    detail: >-
+      Focus on relaxed shoulders and neutral spine; avoid leaning forward excessively. Engage core for stability and
+      drive knees forward without high kicks. Monitor breathing: aim for rhythmic pattern matching your pace to prevent
+      side stitches. If on treadmill, adjust speed/incline as needed.
+  - title: Cool Down and Monitor
+    detail: >-
+      Slow to a walk for 3-5 minutes to lower heart rate. Stretch calves, quads, and hamstrings gently post-session.
+      Listen to body for fatigue or pain; hydrate well. Track duration and distance to progress endurance over time.
+safetyNotes: >-
+  Start with a proper warm-up and wear supportive shoes to prevent joint strain. Maintain an upright posture and avoid
+  overstriding; common mistakes include slouching or increasing pace too quickly, which can lead to injury.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  estimatedDurationMinutes: 30
+  sets: 1
+  durationSeconds: 1800
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070891730-j8f90h/img-female-mtku40h22dtw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070891730-j8f90h/img-male-mtku3aujukf1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070891730-j8f90h/img-female-mtku40h22dtw.webp
+youtubeSearchQuery: beginner run walk intervals tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T15:41:31.312Z"
+updatedAt: "2026-09-03T01:16:38.240Z"

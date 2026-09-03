@@ -1,0 +1,62 @@
+id: lib-1788131477144-1akope
+name: Warrior III
+description: >-
+  A single-leg balance with the torso, arms, and lifted leg forming one horizontal line. It trains the standing leg's
+  glutes and hamstrings, the deep core, and the balance system all at once. Keep the lifted-leg hip pointing down —
+  letting it splay open is the common leak.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Abs
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Yoga
+  - Balance
+  - Lower Body
+  - Isometric
+modality: flexibility
+metValue: 2.8
+unilateral: always
+instructions:
+  - title: Shift the weight
+    detail: Stand tall and shift all your weight into one leg with a soft knee.
+  - title: Hinge forward
+    detail: Tip the torso forward as the back leg lifts behind you.
+  - title: Find the line
+    detail: Level the hips and extend the arms until head, torso, and lifted leg form one line.
+  - title: Flex the foot
+    detail: Point the lifted-leg toes at the floor to keep the hip square.
+  - title: Hold and switch
+    detail: Fix the gaze on one spot for the hold, then change legs.
+safetyNotes: >-
+  Practice near a wall or with fingertips on a chair until the balance is steady, and keep a microbend in the standing
+  knee.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477144-1akope/img-female-mtkx21qyxkst.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477144-1akope/img-male-mtkx1ibs741g.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477144-1akope/img-female-mtkx21qyxkst.webp
+youtubeSearchQuery: Warrior III yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.406Z"
+updatedAt: "2026-09-03T02:39:04.746Z"

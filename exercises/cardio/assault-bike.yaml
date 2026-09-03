@@ -1,0 +1,64 @@
+id: lib-1788127169012-qylx1d
+name: Assault Bike
+description: >-
+  Air bike work — arms and legs driving against a fan that pushes back exactly as hard as you push it. Sprints on it are
+  among the most demanding conditioning available; steady work on it is honest, if joyless. The fan never lets you
+  coast.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Upper Body
+  - Abs
+equipment:
+  - stationary_bike
+tags:
+  - Cycling
+  - HIIT
+  - High-Intensity
+  - Cardio
+  - Interval
+modality: cardio
+metValue: 10
+instructions:
+  - title: Set the seat
+    detail: Adjust saddle height so the knee keeps a slight bend at the bottom.
+  - title: Drive arms and legs
+    detail: Push and pull the handles in rhythm with the pedals.
+  - title: Pace by watts or effort
+    detail: Hold a steady output, or alternate hard and easy blocks.
+  - title: Ease off gradually
+    detail: Spin light for a couple of minutes before stopping.
+safetyNotes: >-
+  The fan's unlimited resistance makes all-out efforts genuinely maximal — nausea from overreaching is common for
+  newcomers, so build interval intensity over several sessions.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169012-qylx1d/img-female-mtklp64qtjdz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169012-qylx1d/img-male-mtklod9pm73f.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169012-qylx1d/img-female-mtklp64qtjdz.webp
+youtubeSearchQuery: Assault Bike technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.305Z"
+updatedAt: "2026-09-02T21:21:09.218Z"

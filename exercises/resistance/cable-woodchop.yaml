@@ -1,0 +1,64 @@
+id: lib-1788127158112-bf1lf9
+name: Cable Woodchop
+description: >-
+  A diagonal pull across the body at a cable stack — high to low or low to high — with the hips and trunk driving the
+  movement. It builds rotational power against constant tension, the pattern behind throwing, swinging, and striking.
+  The arms stay long; the rotation comes from the hips and mid-back.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Abs
+secondaryMuscles:
+  - Shoulders
+  - Glutes
+equipment:
+  - cable_machine
+tags:
+  - Core
+  - Rotation
+  - Functional
+  - Resistance
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Set the cable
+    detail: Anchor the handle high or low and stand side-on with feet shoulder width.
+  - title: Grip with both hands
+    detail: Hold the handle with both hands and arms nearly straight.
+  - title: Chop across
+    detail: Rotate the hips and torso to pull the handle diagonally across the body.
+  - title: Pivot the back foot
+    detail: Let the trailing foot pivot so the hips turn fully with the chop.
+  - title: Return and repeat
+    detail: Reverse under control, finish the set, then face the other way.
+safetyNotes: >-
+  Rotate through the hips and upper back, not by wringing the lumbar spine — the low back should transfer force, not
+  create it. Start light; this pattern punishes loads chosen by ego.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158112-bf1lf9/img-female-mtjko04pgk39.png
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158112-bf1lf9/img-male-mtjknyqaz83z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158112-bf1lf9/img-female-mtjko04pgk39.png
+youtubeSearchQuery: Cable Woodchop proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.417Z"
+updatedAt: "2026-09-02T03:45:55.668Z"

@@ -1,0 +1,65 @@
+id: lib-1788127149654-6yxzdy
+name: Barbell Hip Thrust
+description: >-
+  Shoulders on a bench, bar over the hips, drive up hard until the torso is level with the floor. Nothing loads the
+  glutes more directly or lets them handle more weight. Keep the chin tucked and ribs down so the movement ends at the
+  hips, not the lower back.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Quadriceps
+  - Lower Back
+equipment:
+  - barbell
+  - bench_flat
+tags:
+  - Hinge
+  - Barbell
+  - Strength
+  - Posterior Chain
+  - Lower Body
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set the bench
+    detail: Sit on the floor with your upper back against a bench edge and roll the padded bar over your hip crease.
+  - title: Plant the feet
+    detail: Place feet flat so your shins are vertical when the hips reach the top.
+  - title: Drive up
+    detail: Push through the heels and drive the hips up until your torso is parallel to the floor.
+  - title: Lock with glutes
+    detail: Finish by squeezing the glutes with chin tucked and ribs down — no back arch.
+  - title: Lower controlled
+    detail: Lower the hips a few inches short of the floor and repeat.
+safetyNotes: >-
+  Always pad the bar — an unpadded bar on the hip bones is genuinely painful. Lock out by squeezing the glutes with ribs
+  down; hyperextending the lower back at the top is the common mistake that turns this into a back exercise.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149654-6yxzdy/img-female-mtjkn8afex69.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149654-6yxzdy/img-male-mtjkn6y21zo4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149654-6yxzdy/img-female-mtjkn8afex69.webp
+youtubeSearchQuery: Barbell Hip Thrust proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.957Z"
+updatedAt: "2026-09-02T03:45:48.015Z"

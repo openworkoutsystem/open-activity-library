@@ -1,0 +1,62 @@
+id: lib-1788131478086-t2oc7c
+name: Thread the Needle
+description: >-
+  From all fours, one arm slides under the body and through, lowering the shoulder and ear to the mat. It releases the
+  outer shoulder, rhomboids, and the mid-back rotation that desk hours lock up. Rest the weight on the shoulder, not the
+  neck, and breathe into the twist.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Rhomboids
+secondaryMuscles:
+  - Traps
+  - Neck
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Mobility
+  - Stretching
+  - Recovery
+modality: flexibility
+metValue: 2
+unilateral: always
+instructions:
+  - title: Start on all fours
+    detail: Set the hands under the shoulders and knees under the hips.
+  - title: Thread the arm
+    detail: Slide one arm palm-up under the opposite armpit until the shoulder reaches the mat.
+  - title: Lower the head
+    detail: Rest the ear and shoulder on the mat and keep the hips stacked over the knees.
+  - title: Deepen gently
+    detail: Walk the top hand forward or reach it skyward to increase the twist.
+  - title: Unwind and switch
+    detail: Press back to all fours slowly and repeat on the other side.
+safetyNotes: >-
+  Keep the weight on the back of the shoulder rather than the head or neck, and come out slowly if any tingling appears
+  in the threaded arm.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478086-t2oc7c/img-female-mtkw3l24q1zg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478086-t2oc7c/img-male-mtkw2vwrxrjy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478086-t2oc7c/img-female-mtkw3l24q1zg.webp
+youtubeSearchQuery: Thread the Needle yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.352Z"
+updatedAt: "2026-09-03T02:12:16.932Z"

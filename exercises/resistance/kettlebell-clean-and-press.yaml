@@ -1,0 +1,64 @@
+id: lib-1788127162812-vnbnfj
+name: Kettlebell Clean and Press
+description: >-
+  Clean the bell to the rack, then press it to lockout — the classic kettlebell strength pairing. Every rep trains the
+  hinge, the rack, and the press in one sequence. Re-set the brace at the rack before you press; the clean is not
+  permission to rush.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Triceps
+  - Forearms
+  - Abs
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Compound
+  - Strength
+  - Functional
+modality: resistance
+metValue: 7
+unilateral: optional
+instructions:
+  - title: Clean to rack
+    detail: Hike and clean the bell to the rack in one crisp arc.
+  - title: Re-brace
+    detail: Pause in the rack, squeeze the glutes, and lock the ribs down.
+  - title: Press to lockout
+    detail: Press the bell overhead until the elbow is fully locked.
+  - title: Return and repeat
+    detail: Lower to the rack, then back into the swing, and start again.
+safetyNotes: >-
+  Don't press out of a moving clean — settle the rack and re-brace first. Leaning back to grind a stuck press loads the
+  low back, so drop the weight instead.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162812-vnbnfj/img-female-mtkp509as0rc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162812-vnbnfj/img-male-mtkp4dhyxtew.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162812-vnbnfj/img-female-mtkp509as0rc.webp
+youtubeSearchQuery: Kettlebell Clean and Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.104Z"
+updatedAt: "2026-09-02T22:57:26.096Z"

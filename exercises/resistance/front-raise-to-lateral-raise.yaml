@@ -1,0 +1,52 @@
+id: lib-1775591942889-erort1
+name: Front Raise to Lateral Raise
+description: HIIT shoulder combo front to side raise.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Traps
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Front Raise
+    detail: Raise arms front to shoulder height.
+  - title: Lateral Raise
+    detail: Open to sides.
+  - title: Lower
+    detail: Controlled eccentric.
+safetyNotes: Light weights only, lead with elbows, stop at first shoulder twinge—risk for your left shoulder.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  reps: 12
+  estimatedDurationMinutes: 1
+  repSpeed: 3
+  sets: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591942889-erort1/img-female-mtkp7z5zu9ha.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591942889-erort1/img-male-mtkp7fikb8cg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591942889-erort1/img-female-mtkp7z5zu9ha.webp
+youtubeSearchQuery: front raise lateral raise dumbbell HIIT
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:59:02.248Z"
+updatedAt: "2026-09-02T22:59:44.755Z"

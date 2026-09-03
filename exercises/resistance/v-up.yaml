@@ -1,0 +1,57 @@
+id: lib-1788131479625-fldfd0
+name: V-Up
+description: >-
+  Fold in half from flat on the floor to touch your toes at the top — the sit-up's harder sibling. It hits the entire
+  abdominal wall while demanding hip flexor strength and hamstring flexibility. Lift the legs and torso together so the
+  body closes like a book, not one half at a time.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Hip Flexors
+  - Quadriceps
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - No Equipment
+  - Compound
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Lie long
+    detail: Extend flat on your back with arms overhead and legs straight.
+  - title: Fold together
+    detail: Lift your legs and torso at the same time, reaching your hands toward your toes.
+  - title: Touch the top
+    detail: Meet hands to feet with your balance resting on your tailbone.
+  - title: Lower slowly
+    detail: Extend back to flat without letting your heels or shoulders slam the floor.
+safetyNotes: >-
+  Keep the low back from arching hard as the limbs lower — stop the descent where you can stay braced. Bend the knees to
+  a tuck-up if straight legs pull you out of position.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479625-fldfd0/img-female-mtkwnfujy83g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479625-fldfd0/img-male-mtkwmw4udk28.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479625-fldfd0/img-female-mtkwnfujy83g.webp
+youtubeSearchQuery: V-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.886Z"
+updatedAt: "2026-09-03T02:27:43.708Z"

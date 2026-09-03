@@ -1,0 +1,61 @@
+id: lib-1788127160690-o09jm9
+name: Hip Abduction
+description: >-
+  Drive the knees or legs apart against the machine pads or a band, loading the glute medius and minimus on the outside
+  of the hip. These muscles keep the pelvis level on every step and stop the knee caving in every squat. Push with
+  control and pause at the widest point instead of letting the load snap the legs back together.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+secondaryMuscles:
+  - Glutes
+equipment:
+  - weight_machines
+  - resistance_bands
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Stability
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Sit tall
+    detail: Set your back against the pad with the outside of your knees on the rollers.
+  - title: Press apart
+    detail: Drive your knees outward as far as your range allows.
+  - title: Pause wide
+    detail: Hold the widest position for a one-count and feel the outer hips work.
+  - title: Return controlled
+    detail: Resist the pads back together without letting the stack drop.
+safetyNotes: >-
+  Do not force end range by twisting in the seat — if the outside of the hip pinches, shorten the range. Control the
+  return; letting the pads slam the knees together defeats the point.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160690-o09jm9/img-female-mtkocccrdnwo.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160690-o09jm9/img-male-mtkobqohvyzw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160690-o09jm9/img-female-mtkocccrdnwo.webp
+youtubeSearchQuery: Hip Abduction proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.995Z"
+updatedAt: "2026-09-02T22:35:08.763Z"

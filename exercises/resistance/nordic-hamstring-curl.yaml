@@ -1,0 +1,61 @@
+id: lib-1788127160552-kfegp1
+name: Nordic Hamstring Curl
+description: >-
+  Kneel with the ankles anchored and lower the entire body toward the floor using nothing but the hamstrings, catching
+  yourself with the hands at the bottom. It is the gold-standard eccentric hamstring exercise, with strong evidence for
+  reducing hamstring-strain risk in sprinting athletes. Almost nobody can do a full rep at first — fight the descent as
+  long as possible and push back up with the arms.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Lower Back
+equipment: []
+tags:
+  - Isolation
+  - Bodyweight
+  - Posterior Chain
+  - Strength
+  - Calisthenics
+modality: resistance
+metValue: 5
+instructions:
+  - title: Anchor the ankles
+    detail: Kneel on padding with your heels wedged firmly under a loaded bar, pad, or partner's hands.
+  - title: Set a straight line
+    detail: Squeeze the glutes so your body forms one rigid line from knees to head.
+  - title: Lower by the hamstrings
+    detail: Lean forward as slowly as you can, resisting the fall with the backs of your thighs.
+  - title: Catch and press
+    detail: Land softly on your hands in a push-up position at the bottom.
+  - title: Assist the return
+    detail: Push off the floor with your arms while the hamstrings pull you back to kneeling.
+safetyNotes: >-
+  The eccentric load here is enormous — expect severe soreness the first weeks, and start with a few assisted reps
+  rather than full sets. Pad the knees and make certain the ankle anchor cannot slip mid-rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160552-kfegp1/img-female-mtkqw52z8f50.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160552-kfegp1/img-male-mtkqvic6xevz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160552-kfegp1/img-female-mtkqw52z8f50.webp
+youtubeSearchQuery: Nordic Hamstring Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.855Z"
+updatedAt: "2026-09-02T23:46:32.492Z"

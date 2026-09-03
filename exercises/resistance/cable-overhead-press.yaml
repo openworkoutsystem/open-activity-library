@@ -1,0 +1,62 @@
+id: lib-1788127161510-woss4z
+name: Cable Overhead Press
+description: >-
+  An overhead press against a cable, with resistance that stays smooth through the whole arc instead of stacking up at
+  lockout. Trains the delts and triceps with the core braced against the pull.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Triceps
+  - Traps
+  - Abs
+equipment:
+  - cable_machine
+tags:
+  - Push
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Stand on the base
+    detail: Position your feet over the unit's low anchor so the cable runs straight up your body.
+  - title: Rack the handle
+    detail: Bring the handle to shoulder height with the elbow under the wrist.
+  - title: Brace and press
+    detail: Tighten the glutes and abs, then press straight up to full lockout.
+  - title: Lower on a line
+    detail: Bring the handle back to the shoulder along the same vertical path.
+safetyNotes: >-
+  The cable pulls straight down rather than balancing overhead like a dumbbell — keep the ribs down and glutes tight so
+  the low back does not arch to finish reps. Check overhead clearance before the first rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  reps: 7
+  restSeconds: 90
+  estimatedDurationMinutes: 7
+  sets: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161510-woss4z/img-female-mtjkord6gp0m.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161510-woss4z/img-male-mtjkoq3es1hx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161510-woss4z/img-female-mtjkord6gp0m.webp
+youtubeSearchQuery: Digital Cable Overhead Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.812Z"
+updatedAt: "2026-09-02T05:03:53.211Z"

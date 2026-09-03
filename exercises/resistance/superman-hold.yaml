@@ -1,0 +1,74 @@
+id: lib-1773092799229-fb1ixe
+name: Superman Hold
+description: >-
+  Superman Holds are done by lying face down on the floor with arms extended overhead, then simultaneously lifting your
+  arms, chest, and legs off the ground while squeezing your back and glutes. This isometric exercise strengthens the
+  posterior chain and core for better posture and stability. It primarily targets the lower back and glutes.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Back
+  - Shoulders
+  - Abs
+equipment: []
+tags:
+  - Bodyweight
+  - Core
+  - Posterior-Chain
+  - Isometric
+  - Calisthenics
+modality: resistance
+metValue: 3.8
+muscleActivationMap:
+  Lower Back: 0.4
+  Glutes: 0.3
+  Back: 0.2
+  Abs: 0.1
+instructions:
+  - title: Starting Position
+    detail: >-
+      Lie face down on a mat with your legs straight and arms extended overhead, palms facing down. Keep your neck in a
+      neutral position by looking at the floor.
+  - title: Lift Phase
+    detail: >-
+      Simultaneously raise your arms, chest, and legs a few inches off the floor by contracting your lower back, glutes,
+      and upper back muscles. Squeeze your shoulder blades together and keep your core engaged.
+  - title: Hold Phase
+    detail: >-
+      Hold the elevated Superman position for the desired time (typically 3-5 seconds per rep), breathing steadily.
+      Focus on keeping your arms and legs straight without bending at the elbows or knees.
+  - title: Return Phase
+    detail: >-
+      Slowly lower your arms, chest, and legs back to the starting position in a controlled manner. Rest briefly before
+      the next repetition.
+safetyNotes: >-
+  Keep your neck neutral and avoid hyperextending the spine; start with short holds if you're a beginner. Common errors
+  include looking up too much or lifting only the legs without engaging the upper body.
+trackableMetrics:
+  - isPrimary: true
+    category: movement
+    key: reps
+defaults:
+  durationSeconds: 20
+  reps: 10
+  sets: 3
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773092799229-fb1ixe/img-female-mtkvu4x589xr.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773092799229-fb1ixe/img-male-mtkvtm6jfc40.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773092799229-fb1ixe/img-female-mtkvu4x589xr.webp
+youtubeSearchQuery: superman hold exercise tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T21:46:38.544Z"
+updatedAt: "2026-09-03T02:04:56.663Z"

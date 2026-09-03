@@ -1,0 +1,61 @@
+id: lib-1788131479157-vmry59
+name: Sun Salutation
+description: >-
+  The flowing warm-up sequence linking fold, plank, low push-up, upward dog, and downward dog into one breath-paced
+  circuit. It warms every major joint, wakes the posterior chain, and sets the breathing rhythm for the rest of the
+  practice. Move one breath per movement — the pace is the point.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles: []
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Warm-Up
+  - Mobility
+  - Compound
+  - Flexibility
+modality: flexibility
+metValue: 4
+instructions:
+  - title: Start in mountain
+    detail: Stand tall at the top of the mat and inhale the arms overhead.
+  - title: Fold forward
+    detail: Exhale and hinge into a standing forward fold.
+  - title: Step to plank
+    detail: Plant the hands, step or hop back, and hold a strong plank.
+  - title: Lower with control
+    detail: Bend the elbows along the ribs into a low push-up.
+  - title: Roll to upward dog
+    detail: Inhale over the toes, straighten the arms, and open the chest.
+  - title: Press to down dog
+    detail: Exhale the hips up and back, hold for a few breaths, then step forward to stand.
+safetyNotes: >-
+  Drop the knees during the low push-up whenever form degrades — the sequence repeats too often to let sloppy lowering
+  accumulate on the shoulders and lower back.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 300
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479157-vmry59/img-male-mtkwk5ltf7fe.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479157-vmry59/img-male-mtkwk5ltf7fe.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479157-vmry59/img-female-mtkw49hzugt2.webp
+youtubeSearchQuery: Sun Salutation yoga flow
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.418Z"
+updatedAt: "2026-09-03T02:25:10.477Z"

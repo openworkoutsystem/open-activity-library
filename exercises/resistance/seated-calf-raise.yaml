@@ -1,0 +1,58 @@
+id: lib-1788127159950-x2n4pf
+name: Seated Calf Raise
+description: >-
+  A calf raise done with the knees bent at ninety degrees, which slackens the gastrocnemius and shifts the work to the
+  soleus underneath. Load sits on a pad across the thighs; press through the balls of the feet from a full stretch and
+  squeeze at the top. The soleus responds to higher reps and pauses — don't rush the bottom.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles: []
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Strength
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the pad
+    detail: Sit with the balls of your feet on the platform and the pad snug across your lower thighs.
+  - title: Find the stretch
+    detail: Release the safety and lower your heels as far as they will comfortably go.
+  - title: Press and squeeze
+    detail: Drive up onto the toes and pause a full second at the top.
+  - title: Control the descent
+    detail: Lower slowly back into the stretch without bouncing.
+safetyNotes: >-
+  Ease into the bottom stretch instead of bouncing out of it — the Achilles takes the load there. Keep the pad on the
+  thighs, not on the kneecaps.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159950-x2n4pf/img-female-mtjkod7gcpod.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159950-x2n4pf/img-male-mtjkobusuhlj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159950-x2n4pf/img-female-mtjkod7gcpod.webp
+youtubeSearchQuery: Seated Calf Raise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.252Z"
+updatedAt: "2026-09-02T03:45:57.080Z"

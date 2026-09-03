@@ -1,0 +1,52 @@
+id: lib-1775591941437-d9plhc
+name: Push-Up to Renegade Row
+description: HIIT pushup with alternating dumbbell row.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Back
+secondaryMuscles:
+  - Triceps
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Bodyweight
+  - Dumbbell
+modality: hybrid
+metValue: 8
+unilateral: optional
+instructions:
+  - title: Pushup
+    detail: Plank on dumbbells, lower chest.
+  - title: Row
+    detail: Row one dumbbell while stabilizing.
+  - title: Alternate
+    detail: 10/side.
+safetyNotes: Core tight, no shoulder rotation. Modify to knees if needed.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 3
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591941437-d9plhc/img-female-mtktsrvpulaq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591941437-d9plhc/img-male-mtkts2hlomkz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591941437-d9plhc/img-female-mtktsrvpulaq.webp
+youtubeSearchQuery: push up renegade row Pamela Reif
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:59:00.792Z"
+updatedAt: "2026-09-03T01:07:53.514Z"

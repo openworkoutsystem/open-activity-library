@@ -1,0 +1,72 @@
+id: lib-1788215815322-v69am3
+name: Concentration Curl
+description: >-
+  Sit on a flat bench, brace the back of your working arm against the inside of the same-side thigh, and curl a single
+  dumbbell up to your shoulder. Bracing the elbow removes every bit of swing, so the biceps get a strict, fully isolated
+  contraction that heavier standing curls tend to hide. Use it as a finisher after your compound pulling work, and
+  squeeze hard at the top before lowering.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Isolation
+  - Dumbbell
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 3
+unilateral: always
+instructions:
+  - title: Sit and brace
+    detail: >-
+      Sit on the end of a flat bench with your feet wide and take a dumbbell in one hand. Lean forward slightly and
+      plant the back of that upper arm firmly against the inside of the same-side thigh.
+  - title: Hang the arm
+    detail: >-
+      Let the dumbbell hang straight down with the arm fully extended and the palm facing away from your leg. Rest the
+      free hand on the other thigh for support.
+  - title: Curl to the shoulder
+    detail: >-
+      Curl the weight up toward your shoulder without letting the elbow slide off the thigh, and pause for a beat at the
+      top with the biceps fully shortened.
+  - title: Lower under control
+    detail: >-
+      Take two to three seconds to lower the dumbbell back to a full stretch, then finish all reps on that side before
+      switching arms.
+safetyNotes: >-
+  The braced elbow means the biceps tendon absorbs everything at the bottom, so avoid dropping into a hard, fast stretch
+  at the end of each rep. If your elbow aches, rotate the palm slightly inward or drop the load rather than pushing
+  through it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815322-v69am3/img-female-mtka0gmb3qsl.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815322-v69am3/img-male-mtk9zia5um5o.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815322-v69am3/img-female-mtka0gmb3qsl.webp
+youtubeSearchQuery: Concentration Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.597Z"
+updatedAt: "2026-09-02T15:54:00.437Z"

@@ -1,0 +1,64 @@
+id: lib-1788127151297-dbjicw
+name: Lateral Lunge
+description: >-
+  Lunge sideways over a bent knee — frontal-plane strength and adductor mobility in one move. Most training lives
+  front-to-back, so this fills the sideways gap that sport and real life demand. Sit the hips back over the bent leg
+  while the trailing leg stays straight and stretched.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Adductors
+secondaryMuscles:
+  - Hamstrings
+  - Abductors
+  - Abs
+equipment: []
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Functional
+  - Mobility
+  - Calisthenics
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Stand wide-ready
+    detail: Start with feet together and hands clasped in front of your chest.
+  - title: Step sideways
+    detail: Take a wide lateral step and plant the whole foot with toes pointing forward.
+  - title: Sit into the hip
+    detail: Push the hips back and bend the stepping knee while the other leg stays straight.
+  - title: Keep the chest up
+    detail: Let the torso hinge slightly forward but keep the spine long.
+  - title: Push back to center
+    detail: Drive off the bent leg to return to standing and repeat or alternate.
+safetyNotes: >-
+  Cold adductors do not appreciate a deep sideways lunge — warm up the groin and work into depth gradually. Keep the
+  bent knee tracking over the foot rather than diving inward.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151297-dbjicw/img-female-mtkq1965edji.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151297-dbjicw/img-male-mtkq0n3vjuyg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151297-dbjicw/img-female-mtkq1965edji.webp
+youtubeSearchQuery: Lateral Lunge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.603Z"
+updatedAt: "2026-09-02T23:22:31.161Z"

@@ -1,0 +1,59 @@
+id: lib-1788127169656-ik8iko
+name: Kneeling Hip Flexor Stretch
+description: >-
+  Half-kneel, tuck the pelvis, and shift forward — the desk-life antidote. It opens the front of the hip that shortens
+  through hours of sitting, and it pairs well before squats or after long drives. The tuck comes first; without it you
+  just arch the back and feel nothing.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+secondaryMuscles:
+  - Quadriceps
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Half-kneel
+    detail: Kneel on one knee with the front foot flat and both knees at roughly ninety degrees.
+  - title: Tuck the pelvis
+    detail: Squeeze the rear-side glute and tilt the pelvis under until you feel the front of the hip tighten.
+  - title: Shift forward
+    detail: Glide the hips forward an inch or two while staying tall — small moves are enough.
+  - title: Hold and breathe
+    detail: Hold the position with slow breaths, keeping the ribs stacked over the hips.
+safetyNotes: >-
+  Lunging far forward with an arched back stretches nothing and compresses the lumbar spine — keep the shift small and
+  the pelvis tucked. Put a pad under the down knee.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169656-ik8iko/img-female-mtkpse4lp24y.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169656-ik8iko/img-male-mtkprx18snql.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169656-ik8iko/img-female-mtkpse4lp24y.webp
+youtubeSearchQuery: Kneeling Hip Flexor Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.948Z"
+updatedAt: "2026-09-02T23:15:37.731Z"

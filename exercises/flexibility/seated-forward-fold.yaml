@@ -1,0 +1,59 @@
+id: lib-1788127169271-xv5h1k
+name: Seated Forward Fold
+description: >-
+  Sit with legs extended and reach toward the toes — a slow, patient stretch for the hamstrings and low back. It rewards
+  time in position more than range on day one. Lead with the chest toward the shins rather than diving the head at the
+  knees.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+instructions:
+  - title: Sit tall
+    detail: Sit on the floor with legs straight in front and toes pointing up.
+  - title: Hinge from hips
+    detail: Reach the chest toward the shins, folding at the hips with a long spine.
+  - title: Grab what you reach
+    detail: Hold the shins, ankles, or feet — wherever you land without forcing it.
+  - title: Settle in
+    detail: Breathe slowly and let each exhale sink you slightly deeper.
+safetyNotes: >-
+  Forcing depth by yanking on the feet strains the low back more than it stretches the hamstrings. If you have disc
+  issues, keep the spine long and stop at a mild stretch.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169271-xv5h1k/img-male-mtkui30j1nux.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169271-xv5h1k/img-male-mtkui30j1nux.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169271-xv5h1k/img-female-mtkuavol6h19.webp
+youtubeSearchQuery: Seated Forward Fold proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.563Z"
+updatedAt: "2026-09-03T01:27:34.864Z"

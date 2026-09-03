@@ -1,0 +1,58 @@
+id: lib-1788127157855-2mhhqc
+name: Hanging Knee Raise
+description: >-
+  From a dead hang on the bar, curl the knees up to the chest and lower them without swinging. It pairs grip and loaded
+  ab flexion — the trunk has to flex while the shoulders stay packed and the body stays quiet. Tilting the pelvis up at
+  the top is what separates it from a leg swing.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Forearms
+  - Back
+equipment:
+  - pull_up_bar
+tags:
+  - Core
+  - Bodyweight
+  - Grip
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Hang tall
+    detail: Grip the bar shoulder width and hang with shoulders lightly engaged, body still.
+  - title: Curl the knees
+    detail: Draw the knees up past hip height, tilting the pelvis toward the ribs at the top.
+  - title: Lower with control
+    detail: Extend the legs back down slowly without letting the body start swinging.
+  - title: Kill the sway
+    detail: Pause at the bottom until fully still before the next rep.
+safetyNotes: >-
+  Swinging turns every rep into momentum — reset to a dead hang whenever sway creeps in. If grip gives out before the
+  abs do, build dead hang time separately rather than dropping mid-set.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157855-2mhhqc/img-female-mtkg25vn4w4m.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157855-2mhhqc/img-male-mtkg1fa6w9e8.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157855-2mhhqc/img-female-mtkg25vn4w4m.webp
+youtubeSearchQuery: Hanging Knee Raise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.159Z"
+updatedAt: "2026-09-02T18:43:18.024Z"

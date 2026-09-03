@@ -1,0 +1,60 @@
+id: lib-1788127159087-ht6rqw
+name: Triceps Kickback
+description: >-
+  Extend the arm straight back from a hinge — peak-contraction triceps work. With the upper arm held parallel to the
+  floor, the hardest point of the rep is full lockout, exactly where pushdowns and extensions go easy. It rewards light
+  weight and strict form over ego loading.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Rear Delts
+equipment:
+  - dumbbells
+tags:
+  - Isolation
+  - Dumbbell
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Hinge and brace
+    detail: Hinge at the hips with a flat back, supporting one hand on a bench or thigh.
+  - title: Lift the elbow
+    detail: Raise the working upper arm until it is parallel to the floor and hold it there.
+  - title: Kick back
+    detail: Straighten the arm fully behind you and squeeze at lockout.
+  - title: Return under control
+    detail: Bend the elbow back to 90 degrees without dropping the upper arm.
+safetyNotes: >-
+  Too much weight turns this into arm swinging with zero triceps tension — if the upper arm drops or the dumbbell moves
+  with momentum, go lighter.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159087-ht6rqw/img-female-mtkwdz9csd60.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159087-ht6rqw/img-male-mtkwd94oaohi.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159087-ht6rqw/img-female-mtkwdz9csd60.webp
+youtubeSearchQuery: Triceps Kickback proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.394Z"
+updatedAt: "2026-09-03T02:20:22.001Z"

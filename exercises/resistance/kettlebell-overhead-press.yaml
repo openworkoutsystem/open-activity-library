@@ -1,0 +1,78 @@
+id: lib-1788215815152-hudgso
+name: Kettlebell Overhead Press
+description: >-
+  From a racked kettlebell at the shoulder, press the bell straight overhead without any leg drive and lock it out over
+  the midline. The offset weight sits on the back of the forearm and pulls the arm out of line, so the shoulder and core
+  have to work harder than a dumbbell press at the same load. Strict means strict - if your knees dip, it is a push
+  press.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Abs
+  - Traps
+  - Forearms
+equipment:
+  - kettlebells
+tags:
+  - Compound
+  - Push
+  - Kettlebell
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 5
+unilateral: optional
+instructions:
+  - title: Rack the bell
+    detail: >-
+      Clean or curl the kettlebell into the rack position so the handle sits diagonally in your palm and the bell rests
+      on the back of your forearm against your chest.
+  - title: Build tension
+    detail: >-
+      Stand with feet hip width, squeeze your glutes and abs hard, and pull the ribs down so the torso is a solid
+      platform before you press.
+  - title: Press to lockout
+    detail: >-
+      Drive the bell straight up, letting the wrist rotate naturally as the elbow extends, and finish with the arm
+      locked and the biceps beside your ear.
+  - title: Lower to rack
+    detail: >-
+      Pull the bell back down into the rack position under control over two seconds, keeping the wrist straight, then
+      reset your brace before the next rep.
+  - title: Switch arms
+    detail: >-
+      Complete all reps on one side, pass the bell to the other hand, and match the count so both shoulders get the same
+      work.
+safetyNotes: >-
+  A collapsed wrist is the main issue here - keep the forearm and hand in a straight line so the bell is stacked over
+  the joint rather than bending it back. Do not turn a grinding rep into a leg-driven one; if the bell stalls, lower it
+  to the rack and end the set rather than arching the lower back to finish.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 6
+  estimatedDurationMinutes: 9
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815152-hudgso/img-female-mtkp5son96de.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815152-hudgso/img-male-mtkp59zw0svg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815152-hudgso/img-female-mtkp5son96de.webp
+youtubeSearchQuery: Kettlebell Overhead Press strict proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.435Z"
+updatedAt: "2026-09-02T22:58:03.052Z"

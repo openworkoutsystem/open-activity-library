@@ -1,0 +1,73 @@
+id: lib-1788215817646-ee2qfp
+name: Shadow Boxing
+description: >-
+  Throw punches at the air from a boxer's stance, moving the feet and rotating the hips through every combination for
+  timed rounds. It is the most accessible combat-sport conditioning there is - no bag, no gloves, barely any space - and
+  it trains coordination and rotational endurance alongside the heart rate. Punch through the target and snap the hand
+  straight back to guard rather than leaving the arm hanging out.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+  - Shoulders
+secondaryMuscles:
+  - Obliques
+  - Abs
+  - Triceps
+  - Calves
+equipment: []
+tags:
+  - Cardio
+  - Sports-Specific
+  - Aerobic
+  - No Equipment
+  - Boxing
+modality: cardio
+metValue: 7
+instructions:
+  - title: Set your stance
+    detail: >-
+      Stand with the lead foot forward and the feet about shoulder width apart, knees soft, hands up by your cheeks and
+      elbows tucked to the ribs.
+  - title: Punch from the hips
+    detail: >-
+      Rotate the hip and pivot the rear foot as each punch extends so the power comes from the ground rather than the
+      shoulder alone.
+  - title: Recover the hand
+    detail: Bring every punch back to your guard along the same line it went out, keeping the other hand up the entire time.
+  - title: Move between combos
+    detail: Step, pivot, and slip between two- and three-punch combinations so you are never standing flat for long.
+  - title: Work in rounds
+    detail: Go two to three minutes per round with a minute of easy movement between, building intensity as you warm up.
+safetyNotes: >-
+  Never snap the elbow into a hard lockout on an unloaded punch - keep a slight bend at full extension or the joint
+  absorbs all of the deceleration. Throwing full speed cold is how shoulders get strained, so keep the first round at
+  half power.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817646-ee2qfp/img-female-mtkuf18z8owj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817646-ee2qfp/img-male-mtkuei1iy22u.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817646-ee2qfp/img-female-mtkuf18z8owj.webp
+youtubeSearchQuery: Shadow Boxing proper form for beginners
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.929Z"
+updatedAt: "2026-09-03T01:25:12.478Z"

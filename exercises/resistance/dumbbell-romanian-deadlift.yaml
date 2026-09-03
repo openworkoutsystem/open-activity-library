@@ -1,0 +1,75 @@
+id: lib-1773070706149-iuj3vj
+name: Dumbbell Romanian Deadlift
+description: >-
+  The Dumbbell Romanian Deadlift is a hinge-pattern strength exercise performed by holding dumbbells in front of your
+  thighs, hinging at the hips with a slight knee bend, and lowering the weights while keeping a neutral spine. It builds
+  strength in the hamstrings and glutes while enhancing lower-back stability and grip. This compound movement emphasizes
+  controlled hip hinging for posterior chain development.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Glutes
+secondaryMuscles:
+  - Lower Back
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+  - Strength
+  - Posterior Chain
+  - Compound
+modality: resistance
+metValue: 6
+muscleActivationMap:
+  Hamstrings: 0.4
+  Glutes: 0.3
+  Lower Back: 0.2
+  Abs: 0.1
+instructions:
+  - title: Setup
+    detail: >-
+      Stand with feet hip-width apart holding a dumbbell in each hand. Grip the dumbbells firmly with palms facing your
+      thighs. Keep a slight bend in your knees and maintain a neutral spine with chest proud.
+  - title: Hinge and Lower
+    detail: >-
+      Take a deep breath and hinge at your hips by pushing your glutes back. Keep the dumbbells close to your legs as
+      you lower them toward the ground. Maintain a flat back and only bend your knees slightly.
+  - title: Bottom Position
+    detail: >-
+      Lower until you feel a strong stretch in your hamstrings or until the dumbbells reach about mid-shin level. Keep
+      your shoulders pulled back and avoid rounding your lower back.
+  - title: Stand Up
+    detail: >-
+      Drive your hips forward to return to the starting position while squeezing your glutes at the top. Exhale as you
+      stand tall. Repeat for the desired number of repetitions.
+safetyNotes: >-
+  Maintain a flat back and avoid rounding the spine or locking the knees. Common mistakes include using too much weight,
+  leading to poor form, or bending the knees excessively like a squat.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 4
+  reps: 8
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070706149-iuj3vj/img-female-mtkbmfmq50yy.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070706149-iuj3vj/img-male-mtkbkr2cmmsv.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773070706149-iuj3vj/img-female-mtkbmfmq50yy.webp
+youtubeSearchQuery: dumbbell romanian deadlift proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T15:38:25.866Z"
+updatedAt: "2026-09-03T03:30:48.856Z"

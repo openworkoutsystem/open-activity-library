@@ -1,0 +1,54 @@
+id: lib-1788127173536-rusbqp
+name: Half Burpee
+description: >-
+  The burpee with the push-up and jump removed — squat, kick to plank, return, stand. It keeps the full-body pattern and
+  heart-rate demand while stripping out the parts that break down first under fatigue. The right choice for circuits and
+  for anyone still building the plank strength the full move demands.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles: []
+equipment: []
+tags:
+  - Bodyweight
+  - No Equipment
+  - HIIT
+  - Circuit Training
+modality: hybrid
+metValue: 6
+instructions:
+  - title: Squat and plant
+    detail: Squat down and place both hands flat on the floor.
+  - title: Step or hop back
+    detail: Move the feet back to a straight-line plank.
+  - title: Bring feet forward
+    detail: Step or hop the feet back up outside the hands.
+  - title: Stand tall
+    detail: Stand fully upright before starting the next rep.
+safetyNotes: >-
+  Same rule as the full burpee — the plank position has to stay rigid on the way back. Step the feet instead of hopping
+  if the hips sag or the wrists complain.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173536-rusbqp/img-female-mtko5apy79x2.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173536-rusbqp/img-male-mtko4t0c0fj9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173536-rusbqp/img-female-mtko5apy79x2.webp
+youtubeSearchQuery: Half Burpee proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.831Z"
+updatedAt: "2026-09-02T22:29:40.652Z"

@@ -1,0 +1,60 @@
+id: lib-1788127160208-eij5ik
+name: Lying Leg Curl
+description: >-
+  Lie face-down on the machine and curl the heels toward the glutes — direct hamstring work with the spine and hips out
+  of the equation. It is the counterpart to the leg extension: pure knee-flexion volume for the back of the thigh. Keep
+  the hips pinned to the pad the whole rep; if they rise, the low back is stealing the work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Posterior Chain
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Set the pad
+    detail: Lie prone with the roller pad just above your heels and your knees off the edge of the bench.
+  - title: Pin the hips
+    detail: Press your pelvis into the pad and keep it there for the entire set.
+  - title: Curl the heels
+    detail: Pull your heels toward your glutes as far as they will go.
+  - title: Lower slowly
+    detail: Resist the weight back down over two to three seconds without letting the stack slam.
+safetyNotes: >-
+  If your hips lift off the pad you are arching the lumbar spine under load — lighten the weight and press the pelvis
+  down. Hamstrings cramp easily when fully shortened, so pause at the top rather than yanking into it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160208-eij5ik/img-female-mtjkoj5x2bfx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160208-eij5ik/img-male-mtjkohf8qoja.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160208-eij5ik/img-female-mtjkoj5x2bfx.webp
+youtubeSearchQuery: Lying Leg Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.510Z"
+updatedAt: "2026-09-02T03:45:57.332Z"

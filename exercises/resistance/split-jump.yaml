@@ -1,0 +1,57 @@
+id: lib-1788127165183-oug1uk
+name: Split Jump
+description: >-
+  Jump from a lunge stance and switch legs mid-air, landing in the opposite split. It trains single-leg power and the
+  landing control that protects knees in sport. The torso stays tall and the switch happens at the top of the jump, not
+  on the way down.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Lower Body
+modality: resistance
+metValue: 8
+instructions:
+  - title: Start in a lunge
+    detail: Set a split stance with both knees near ninety degrees.
+  - title: Jump and switch
+    detail: Drive up and swap legs at the top of the jump.
+  - title: Land balanced
+    detail: Land in the opposite lunge with the torso tall.
+  - title: Repeat alternating
+    detail: Keep switching sides with quiet, controlled landings.
+safetyNotes: >-
+  The back knee dips close to the floor at speed — control the depth before adding pace. Stop when the landing stance
+  narrows or wobbles; that is balance failing before muscle does.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165183-oug1uk/img-male-mtkvguf4nco7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165183-oug1uk/img-male-mtkvguf4nco7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165183-oug1uk/img-female-mtkv4jdf7mb1.webp
+youtubeSearchQuery: Split Jump proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.476Z"
+updatedAt: "2026-09-03T01:54:36.782Z"

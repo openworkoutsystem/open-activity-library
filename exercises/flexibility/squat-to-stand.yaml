@@ -1,0 +1,68 @@
+id: lib-1788215819211-6aywbf
+name: Squat to Stand
+description: >-
+  Hook your fingers under your toes, sink into a deep squat with the chest tall, then straighten the legs back into a
+  folded stretch while keeping hold of the feet. The bottom half opens the adductors and hips, the top half loads the
+  hamstrings, which makes it a strong two-for-one before squatting or deadlifting. Keep the grip on your toes the whole
+  rep so the chest stays up instead of collapsing forward.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Adductors
+secondaryMuscles:
+  - Glutes
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Dynamic Stretching
+  - Mobility
+  - Warm-Up
+  - Bodyweight
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Grab your toes
+    detail: >-
+      Stand with your feet slightly wider than your hips, hinge forward with soft knees, and hook the fingers of each
+      hand under the toes of that foot.
+  - title: Drop into the squat
+    detail: >-
+      Pull lightly on your toes as you sink the hips straight down into a deep squat, driving the knees out against your
+      arms.
+  - title: Lift the chest
+    detail: >-
+      Keep hold of the toes and use your elbows against the inside of your knees to press the chest tall and the spine
+      long, then hold for a beat.
+  - title: Straighten to stretch
+    detail: >-
+      Push the hips up toward the ceiling with the hands still on your toes until the hamstrings pull, then re-squat for
+      the next rep.
+safetyNotes: >-
+  If tight hamstrings pull your low back into a hard round on the way up, bend the knees more instead of forcing the
+  legs straight. Skip the deep bottom position if you have hip impingement or a knee that pinches at full flexion.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  reps: 8
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819211-6aywbf/img-female-mtkvki60xexh.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819211-6aywbf/img-male-mtkvjtr5p6x4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819211-6aywbf/img-female-mtkvki60xexh.webp
+youtubeSearchQuery: Squat to Stand mobility drill proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.484Z"
+updatedAt: "2026-09-03T01:57:27.218Z"

@@ -1,0 +1,58 @@
+id: lib-1775591936138-we2udo
+name: Deadlift to Upright Row
+description: "HIIT combo: Dumbbell Romanian deadlift transitioning to upright row for full body pull."
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Traps
+  - Shoulders
+secondaryMuscles:
+  - Back
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+modality: hybrid
+metValue: 8.5
+instructions:
+  - title: Setup
+    detail: Stand feet shoulder-width, dumbbells in front.
+  - title: Deadlift Phase
+    detail: Hinge hips back, lower dumbbells to shins, keep back flat.
+  - title: Upright Row Phase
+    detail: Explode up, pull elbows high to form triangle with chest, shoulders down.
+  - title: Repeat
+    detail: 20 reps continuous, fast tempo.
+  - title: Rest
+    detail: 15s between rounds.
+safetyNotes: Keep shoulders retracted, no shrugging to prevent impingement—critical for left shoulder pain. Light weights.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 2
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591936138-we2udo/img-female-mtkn09jow53v.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591936138-we2udo/img-male-mtkmzniswc4g.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591936138-we2udo/img-female-mtkn09jow53v.webp
+youtubeSearchQuery: deadlift to upright row dumbbell Pamela Reif
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:58:55.655Z"
+updatedAt: "2026-09-02T21:57:45.677Z"

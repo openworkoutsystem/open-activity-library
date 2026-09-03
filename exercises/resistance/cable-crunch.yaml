@@ -1,0 +1,70 @@
+id: lib-1788215813954-p3kdji
+name: Cable Crunch
+description: >-
+  Kneel below a high pulley holding a rope beside your head and curl your ribs down toward your pelvis against the
+  cable. It is the most practical way to load spinal flexion progressively, which bodyweight crunches cannot do once you
+  can rep them out endlessly. Move the ribs, not the hips - if your butt drops toward your heels you are pulling with
+  the hip flexors.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Obliques
+  - Hip Flexors
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Core
+  - Resistance
+  - Strength
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set up kneeling
+    detail: >-
+      Clip a rope to a high pulley, kneel about a foot in front of the stack on a pad, and pull the rope down so your
+      hands sit beside your ears with elbows tucked.
+  - title: Lock the hips
+    detail: >-
+      Sit your hips back slightly and hold them still for the whole set so the only thing moving is your spine above the
+      pelvis.
+  - title: Crunch the ribs down
+    detail: >-
+      Exhale and round your upper back, driving your elbows toward your thighs until your abs are fully shortened and
+      cramped.
+  - title: Uncurl slowly
+    detail: >-
+      Take two to three seconds letting the cable pull you back to an upright spine, stopping just before the plates
+      touch so tension never drops.
+safetyNotes: >-
+  Loaded spinal flexion is not for anyone with disc issues or an active lower back flare - substitute an anti-extension
+  hold instead. Add weight only when you can still curl the spine segment by segment, since heavy sets tend to turn into
+  hip-flexor tugging with a rigid back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813954-p3kdji/img-female-mtjkpn2cu6dg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813954-p3kdji/img-male-mtjkplpcmii5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813954-p3kdji/img-female-mtjkpn2cu6dg.webp
+youtubeSearchQuery: Cable Crunch kneeling rope proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.236Z"
+updatedAt: "2026-09-02T03:46:15.269Z"

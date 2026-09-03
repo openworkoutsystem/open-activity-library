@@ -1,0 +1,68 @@
+id: lib-1788127151712-1z7fqz
+name: Dumbbell Step-Up
+description: >-
+  Step-up holding dumbbells — the loaded progression once bodyweight box work is strict. The bells hang at your sides so
+  the leg drives all the added load, and grip and posture get taxed on every rep. Same rule as unloaded: the floor leg
+  is a passenger, not an engine.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Forearms
+  - Abs
+equipment:
+  - dumbbells
+  - plyo_box
+tags:
+  - Lower Body
+  - Unilateral
+  - Dumbbell
+  - Strength
+  - Compound
+modality: resistance
+metValue: 5.5
+unilateral: always
+instructions:
+  - title: Hold the dumbbells
+    detail: Grip a dumbbell in each hand at your sides with shoulders back.
+  - title: Set the foot
+    detail: Place your entire foot on the box, heel included.
+  - title: Press to the top
+    detail: Drive through the top leg to stand fully upright on the box.
+  - title: Descend slowly
+    detail: Lower yourself under control with the working leg doing the braking.
+  - title: Repeat then switch
+    detail: Finish all reps on one leg before changing sides.
+safetyNotes: >-
+  A missed step with dumbbells in hand has no free hand to catch you — pick a box height you can own every rep, and drop
+  the bells to the sides rather than fighting a fall. Lower the height before you lower your standards on the eccentric.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151712-1z7fqz/img-female-mtkfk9z5ie6m.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151712-1z7fqz/img-male-mtkfja7hsjf0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151712-1z7fqz/img-female-mtkfk9z5ie6m.webp
+youtubeSearchQuery: Dumbbell Step-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.014Z"
+updatedAt: "2026-09-02T18:29:23.046Z"

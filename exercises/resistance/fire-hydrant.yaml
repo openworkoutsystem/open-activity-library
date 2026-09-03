@@ -1,0 +1,67 @@
+id: lib-1788215816728-n2pf1u
+name: Fire Hydrant
+description: >-
+  On hands and knees, lift one bent knee out to the side without letting the torso tip over with it. It targets the
+  gluteus medius and the hip abductors, which makes it a staple of warm-ups and hip stability work for anyone who sits
+  all day or runs. Keep the supporting side heavy and still so the lift comes from the hip, not from rolling the whole
+  body away.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+  - Glutes
+secondaryMuscles:
+  - Obliques
+  - Abs
+equipment: []
+tags:
+  - Isolation
+  - Bodyweight
+  - No Equipment
+  - Warm-Up
+  - Mobility
+modality: resistance
+metValue: 3
+unilateral: always
+instructions:
+  - title: Set the base
+    detail: >-
+      Start on all fours with hands under the shoulders, knees under the hips, and the spine long from the crown of your
+      head to your tailbone.
+  - title: Anchor the torso
+    detail: Push evenly through both hands and brace the abs so your shoulders and hips stay level and square to the floor.
+  - title: Open the hip
+    detail: >-
+      Keeping the knee bent, lift one leg out to the side until you feel the outer hip working, stopping before the
+      torso starts to lean the other way.
+  - title: Lower slowly
+    detail: >-
+      Take two seconds to bring the knee back down without resting it fully on the floor, then complete all reps on that
+      side before switching.
+safetyNotes: >-
+  Most people cheat height by tilting the torso and rotating the low back, which turns a hip exercise into lumbar
+  rotation - a smaller, honest range with level shoulders is far more effective. Pad the knees on a mat or towel if a
+  hard floor is uncomfortable.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816728-n2pf1u/img-female-mtknktgjngjw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816728-n2pf1u/img-male-mtknjww6terd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816728-n2pf1u/img-female-mtknktgjngjw.webp
+youtubeSearchQuery: Fire Hydrant glute exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.004Z"
+updatedAt: "2026-09-02T22:13:44.739Z"

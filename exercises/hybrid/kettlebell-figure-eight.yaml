@@ -1,0 +1,60 @@
+id: lib-1788127163443-z6xe58
+name: Kettlebell Figure Eight
+description: >-
+  Pass the bell hand to hand around and between the legs in a continuous figure-eight path. It trains grip,
+  coordination, and a maintained hinge under fatigue. The back stays flat the entire time — the legs and hips make room,
+  not the spine.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+  - Abs
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Obliques
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Functional
+  - Grip
+  - Core
+modality: hybrid
+metValue: 6
+instructions:
+  - title: Set a half squat
+    detail: Take a wide stance with the hips back and the chest up.
+  - title: Pass between the legs
+    detail: Hand the bell from one hand to the other between the knees.
+  - title: Circle around
+    detail: Bring the bell around the outside of the leg and pass again in a figure-eight path.
+  - title: Keep the back flat
+    detail: Move the bell with the arms and hips while the spine stays still.
+safetyNotes: >-
+  Fatigue makes the back round mid-pass — end the set the moment the flat back goes. Keep the path close to the legs so
+  a missed pass drops the bell on floor, not foot.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163443-z6xe58/img-female-mtkpb2uasshj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163443-z6xe58/img-male-mtkpabugs0ln.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163443-z6xe58/img-female-mtkpb2uasshj.webp
+youtubeSearchQuery: Kettlebell Figure Eight proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.737Z"
+updatedAt: "2026-09-02T23:02:09.355Z"

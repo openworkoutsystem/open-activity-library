@@ -1,0 +1,73 @@
+id: lib-1788278975053-3ihvgs
+name: Low-to-High Cable Chest Press
+description: >-
+  Set both pulleys at the lowest setting, take a staggered stance facing away from the stack, and press up and forward
+  on a 30 to 45 degree diagonal until the handles meet in front of your collarbones. The upward press angle biases the
+  upper chest the same way an incline bench does, so this is the standing cable answer to an incline press. Standing
+  costs you load but adds a real anti-extension demand through the trunk.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+  - Triceps
+  - Abs
+equipment:
+  - cable_machine
+tags:
+  - Push
+  - Compound
+  - Upper Body
+  - Resistance
+  - Strength
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Set the pulleys low
+    detail: >-
+      Drop both pulleys to the bottom of the uprights and fit single handles. Pulley height is what sets the press angle
+      - low for upper chest, chest height for a flat press.
+  - title: Stagger and brace
+    detail: >-
+      Step forward out of the stack with one foot ahead of the other, lean the torso slightly into the movement, and
+      brace the abs so your lower back does not arch as the cables pull back.
+  - title: Press up and in
+    detail: >-
+      Drive the handles forward and upward on a diagonal until they meet around collarbone height, letting the elbows
+      extend and the hands travel toward each other.
+  - title: Return under tension
+    detail: >-
+      Let the cables draw your hands back down and apart to chest level over two to three seconds, keeping tension on
+      the chest the whole way.
+safetyNotes: >-
+  Standing removes the bench's back support, so the cables will pull you into extension if the core is loose - keep the
+  ribs down and go lighter than you would on an incline bench. Step back into the stack under control at the end of the
+  set rather than dropping the handles.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788278975053-3ihvgs/img-female-mtkq850uicai.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788278975053-3ihvgs/img-male-mtkq7cjed6cp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788278975053-3ihvgs/img-female-mtkq850uicai.webp
+youtubeSearchQuery: Low to High Cable Chest Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-09-01T16:09:33.593Z"
+updatedAt: "2026-09-02T23:27:52.429Z"

@@ -1,0 +1,64 @@
+id: lib-1788131480904-lcfgyc
+name: One-Arm Push-Up
+description: >-
+  The unilateral pressing milestone — feet wide, free hand off the floor, whole body braced against rotation. It demands
+  maximal chest and triceps strength on one side plus oblique and glute tension everywhere else. Screw the working hand
+  into the floor and keep the shoulders as square as the position allows.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+  - Abs
+  - Obliques
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Push
+  - Strength
+  - No Equipment
+modality: resistance
+metValue: 6.5
+unilateral: always
+instructions:
+  - title: Set the base
+    detail: >-
+      Place one hand under your sternum, spread your feet well wider than shoulders, and tuck the free hand behind your
+      back.
+  - title: Brace everything
+    detail: Squeeze the glutes and abs so the hips cannot rotate open.
+  - title: Lower steady
+    detail: Bend the working elbow and lower your chest as close to the floor as control allows.
+  - title: Press back up
+    detail: Drive through the palm to full lockout without letting the free-side hip lift.
+  - title: Match both sides
+    detail: Complete equal reps on each arm every set.
+safetyNotes: >-
+  Hip rotation is the failure mode — the twist dumps load into the low back and working shoulder. Regress to archer or
+  elevated one-arm push-ups until you can keep the torso square through the full range.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 3
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480904-lcfgyc/img-female-mtkqxi2gj7y0.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480904-lcfgyc/img-male-mtkqws7hpoak.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480904-lcfgyc/img-female-mtkqxi2gj7y0.webp
+youtubeSearchQuery: One-Arm Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:20.165Z"
+updatedAt: "2026-09-02T23:47:35.701Z"

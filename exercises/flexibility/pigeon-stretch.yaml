@@ -1,0 +1,60 @@
+id: lib-1788127169773-mus09y
+name: Pigeon Stretch
+description: >-
+  Front shin across the body, hips square, torso folding over — a deep stretch for the glute and external rotators of
+  the front hip. Runners and lifters with cranky hips get more from this than almost any other floor stretch. Keep the
+  front foot flexed to protect the knee before you sink in.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Abductors
+  - Hip Flexors
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Set the front shin
+    detail: From all fours, bring one shin forward and lay it across the floor beneath your chest.
+  - title: Extend the rear leg
+    detail: Slide the back leg straight behind you with the kneecap facing down.
+  - title: Square the hips
+    detail: Level both hips toward the floor instead of collapsing onto the front side.
+  - title: Fold and hold
+    detail: Walk the hands forward and lower the torso only as far as the hips stay square.
+safetyNotes: >-
+  Tight hips push torque into the front knee — keep that foot flexed and place a folded towel under the front hip rather
+  than forcing depth. If the knee hurts at all, switch to the figure four stretch.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 60
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169773-mus09y/img-female-mtkr695schoq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169773-mus09y/img-male-mtkr5qil0if2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169773-mus09y/img-female-mtkr695schoq.webp
+youtubeSearchQuery: Pigeon Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.063Z"
+updatedAt: "2026-09-02T23:54:24.848Z"

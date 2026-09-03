@@ -1,0 +1,59 @@
+id: lib-1788127169527-vdc43b
+name: Couch Stretch
+description: >-
+  From a half-kneel, run the rear shin up a wall or couch — the deepest hip-flexor and quad opener in the toolbox. It
+  targets the rectus femoris, which crosses both hip and knee and shortens badly with sitting. The whole stretch lives
+  or dies on a tucked pelvis and a squeezed rear glute.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+  - Quadriceps
+secondaryMuscles:
+  - Abs
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Lower Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Set the rear leg
+    detail: Kneel facing away from a wall and slide the rear shin up it, knee in the corner where wall meets floor.
+  - title: Plant the front foot
+    detail: Step the front foot forward flat on the floor into a half-kneeling position.
+  - title: Tuck the pelvis
+    detail: Squeeze the rear glute and tuck the pelvis under before you lift the torso.
+  - title: Rise gradually
+    detail: Raise the torso only as upright as you can keep the pelvis tucked, and hold there.
+safetyNotes: >-
+  This stretch is intense — arching the low back to get more upright defeats it and irritates the spine, so earn height
+  with the glute squeeze instead. Pad the down knee, and back off if the kneecap hurts.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 60
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169527-vdc43b/img-female-mtkn516buel6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169527-vdc43b/img-male-mtkn4i2itzjn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169527-vdc43b/img-female-mtkn516buel6.webp
+youtubeSearchQuery: Couch Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.820Z"
+updatedAt: "2026-09-02T22:01:28.574Z"

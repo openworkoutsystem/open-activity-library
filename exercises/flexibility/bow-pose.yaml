@@ -1,0 +1,62 @@
+id: lib-1788132443336-z6b2xi
+name: Bow Pose
+description: >-
+  Lying prone, you reach back to grab the ankles and kick the feet into the hands, lifting chest and thighs off the
+  floor. The whole front body — chest, hip flexors, and quads — opens at once while the back muscles work. Kick into the
+  hands rather than pulling with the arms; the legs power the lift.
+experienceLevelRecommended: Intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+  - Hip Flexors
+secondaryMuscles:
+  - Chest
+  - Quadriceps
+  - Shoulders
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Posture
+modality: flexibility
+metValue: 2.8
+instructions:
+  - title: Lie face down
+    detail: Rest your forehead on the mat with arms alongside the body and knees bent.
+  - title: Grab the ankles
+    detail: Reach back one hand at a time and take hold of the outside of each ankle.
+  - title: Kick and lift
+    detail: Press the feet firmly into the hands so the chest and thighs rise off the floor.
+  - title: Hold and breathe
+    detail: Keep the knees roughly hip-width and breathe into the belly during the hold.
+  - title: Release with control
+    detail: Lower the chest and thighs slowly, then let go of the ankles.
+safetyNotes: >-
+  Skip this pose with any acute lower back pain, and never yank into depth — the kick of the legs should create the lift
+  gradually. If the low back pinches, lower until the sensation moves into the front body.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443336-z6b2xi/img-female-mtkm2b249rho.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443336-z6b2xi/img-male-mtkm1l1d2jm2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443336-z6b2xi/img-female-mtkm2b249rho.webp
+youtubeSearchQuery: Bow Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.585Z"
+updatedAt: "2026-09-02T21:31:21.484Z"

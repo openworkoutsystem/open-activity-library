@@ -1,0 +1,78 @@
+id: lib-1772575885848-661m77
+name: Dumbbell Biceps Curl
+description: >-
+  Classic isolation exercise targeting the biceps brachii using dumbbells. Great for building arm size and strength.
+  Suitable for all levels with proper weight selection.
+experienceLevelRecommended: beginner,intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - dumbbells
+tags:
+  - Upper Body
+  - Isolation
+  - Pull
+  - Strength
+  - Beginner-Friendly
+modality: resistance
+metValue: 3.5
+muscleActivationMap:
+  Biceps: 0.75
+  Forearms: 0.15
+  Front Delts: 0.05
+  Abs: 0.05
+instructions:
+  - title: Setup
+    detail: >-
+      Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing forward (supinated grip).
+      Let arms hang fully extended at your sides, elbows close to torso.
+  - title: Concentric Phase
+    detail: >-
+      Inhale and curl the weights upward by contracting your biceps, keeping elbows tucked and stationary. Rotate wrists
+      so palms face shoulders at the top. Squeeze biceps at peak contraction.
+  - title: Peak Contraction
+    detail: Hold briefly at the top (1 second) for maximum biceps activation. Avoid swinging or using momentum.
+  - title: Eccentric Phase
+    detail: >-
+      Exhale and slowly lower the weights back to starting position over 2-3 seconds, maintaining control and tension in
+      the biceps.
+  - title: Repeat
+    detail: Perform reps with smooth, controlled motion. Switch arms if doing single-arm variation.
+safetyNotes: >-
+  Keep elbows pinned to your sides and avoid swinging or using momentum. Stop if you feel elbow, wrist, or shoulder pain
+  (especially left shoulder). Use controlled tempo. Beginners should start lighter or use seated variation. Exhale on
+  the curl, inhale on the way down.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+  - key: duration
+    unit: s
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  restSeconds: 90
+  repSpeed: 3
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772575885848-661m77/img-female-mtkdughfo35z.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772575885848-661m77/img-male-mtkdj91wojhf.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772575885848-661m77/img-female-mtkdughfo35z.webp
+youtubeSearchQuery: how to Biceps Curl exercise proper form
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-03T22:11:25.262Z"
+updatedAt: "2026-09-02T17:41:19.080Z"

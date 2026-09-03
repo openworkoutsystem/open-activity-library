@@ -1,0 +1,69 @@
+id: lib-1788215817966-40bdik
+name: Fartlek Run
+description: >-
+  Run continuously while varying the pace by feel, surging to a landmark then easing back to a conversational effort and
+  repeating for the whole session. Swedish for 'speed play', it delivers interval-style stress without a track, a
+  stopwatch, or fixed rest, which makes it the most flexible way to add intensity to an easy run. Choose the next surge
+  target before you start pushing and hold pace until you reach it, not until you feel tired.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Quadriceps
+  - Calves
+equipment: []
+tags:
+  - Cardio
+  - Endurance
+  - Aerobic
+  - HIIT
+  - High-Impact
+modality: cardio
+metValue: 9
+instructions:
+  - title: Warm up easy
+    detail: Run five to ten minutes at a conversational pace until the breathing settles and the legs feel loose.
+  - title: Pick a target
+    detail: Choose a landmark ahead - a lamppost, a tree, the crest of a hill - and commit to it as your next surge.
+  - title: Surge to it
+    detail: >-
+      Lift to a strong controlled pace all the way to that landmark, staying tall with quick turnover instead of
+      overstriding.
+  - title: Float, do not stop
+    detail: Drop back to an easy running pace until the breathing recovers, then choose the next target and go again.
+  - title: Cool it down
+    detail: Finish with five minutes of easy running so the session ends well below your surge effort.
+safetyNotes: >-
+  Unstructured surges tempt you into sprinting on cold legs, so keep the first two efforts moderate. Watch footing on
+  curbs and trails once the pace picks up, and end the surges early if a calf or achilles starts complaining.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817966-40bdik/img-female-mtkncnpcxlvh.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817966-40bdik/img-male-mtknc1wp4ukh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817966-40bdik/img-female-mtkncnpcxlvh.webp
+youtubeSearchQuery: Fartlek Run workout how to
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.257Z"
+updatedAt: "2026-09-02T22:07:24.833Z"

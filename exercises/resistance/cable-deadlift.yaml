@@ -1,0 +1,65 @@
+id: lib-1788127162196-hbyid1
+name: Cable Deadlift
+description: >-
+  A hip hinge against a low cable — the deadlift pattern with constant tension through the pull. Grip the handles,
+  brace, and stand tall against the line of resistance.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Glutes
+secondaryMuscles:
+  - Lower Back
+  - Traps
+  - Forearms
+equipment:
+  - cable_machine
+tags:
+  - Hinge
+  - Resistance
+  - Strength
+  - Posterior Chain
+  - Compound
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set your feet
+    detail: Stand centered over the unit with the cable running straight up between your feet.
+  - title: Hinge to the handles
+    detail: Push the hips back with a flat spine and grip the handles at shin height.
+  - title: Brace hard
+    detail: Fill your trunk with air and lock the lats down before taking tension.
+  - title: Stand tall
+    detail: Drive through the floor and snap the hips forward to full lockout.
+  - title: Hinge back down
+    detail: Push the hips back and lower the handles under control, spine neutral throughout.
+safetyNotes: >-
+  The same spine rules as a barbell deadlift apply — neutral back, full brace before the pull. Introduce
+  eccentric-overload profiles gradually; elevated lowering loads produce serious hamstring soreness if you jump in at
+  working weight.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162196-hbyid1/img-female-mtjkoz8m503o.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162196-hbyid1/img-male-mtjkoxt9yrli.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162196-hbyid1/img-female-mtjkoz8m503o.webp
+youtubeSearchQuery: Digital Cable Deadlift proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.488Z"
+updatedAt: "2026-09-02T03:45:59.040Z"

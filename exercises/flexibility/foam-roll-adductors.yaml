@@ -1,0 +1,67 @@
+id: lib-1788215818631-fgu9jy
+name: Foam Roll Adductors
+description: >-
+  Lie face down with one thigh flared out to the side on a foam roller and work the inner-thigh line from just above the
+  knee up toward the groin. Adductors get hammered by squatting, lateral work, and long hours seated, and they are the
+  tissue most people skip because the position feels awkward. Roll slowly and stop short of the top, where the tendon
+  attaches near the pubic bone.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+secondaryMuscles:
+  - Hip Flexors
+  - Quadriceps
+equipment:
+  - foam_roller
+tags:
+  - Mobility
+  - Flexibility
+  - Recovery
+  - Cool-Down
+  - Low-Impact
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Set the position
+    detail: >-
+      Lie face down on your forearms and place the roller under one thigh, angled so it runs along the inner line of the
+      leg with that knee bent out to about 90 degrees.
+  - title: Find the tissue
+    detail: >-
+      Shift weight onto the working leg until you feel firm pressure on the inner thigh, then roll slowly from just
+      above the knee up toward the groin.
+  - title: Pause on hot spots
+    detail: >-
+      When you hit a tender spot, stop and hold for 20 to 30 seconds while you breathe out and let the muscle soften
+      instead of bracing against the pressure.
+  - title: Switch sides
+    detail: Work one leg for 45 to 60 seconds, then swap and repeat so both hips get the same amount of time.
+safetyNotes: >-
+  Stop a few inches short of the groin - the tendon and lymph nodes at the top of the adductors are not tissue to grind
+  on. Back off if you feel sharp or nerve-like pain rather than the dull ache of tight muscle.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 60
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818631-fgu9jy/img-female-mtknna09b25j.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818631-fgu9jy/img-male-mtknmpq5lij5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818631-fgu9jy/img-female-mtknna09b25j.webp
+youtubeSearchQuery: Foam Roll Adductors inner thigh proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.910Z"
+updatedAt: "2026-09-02T22:15:39.585Z"

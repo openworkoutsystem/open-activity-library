@@ -1,0 +1,60 @@
+id: lib-1788127164596-bggl3p
+name: Box Jump
+description: >-
+  Jump onto a box and step down rather than rebounding — lower-body power with the landing stress kept low. Trains
+  explosive hip and knee extension while the step-down spares the joints the eccentric abuse. Pick a height that lets
+  you land in a quarter squat, not a deep crouch.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment:
+  - plyo_box
+tags:
+  - Plyometrics
+  - High-Impact
+  - Lower Body
+  - Functional
+modality: resistance
+metValue: 8
+instructions:
+  - title: Set the box
+    detail: Choose a height you can land on in a quarter squat.
+  - title: Load the jump
+    detail: Hinge slightly and swing the arms back.
+  - title: Jump and land
+    detail: Explode up and land on the full foot with quiet knees.
+  - title: Stand tall
+    detail: Finish each rep fully upright on top of the box.
+  - title: Step down
+    detail: Step off one foot at a time instead of jumping down.
+safetyNotes: >-
+  Step down every rep — jumping down doubles the landing load and is where most box jump injuries happen. Scraped shins
+  come from too-high boxes; pick a height you can land tall on.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164596-bggl3p/img-female-mtjkpccf9tul.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164596-bggl3p/img-male-mtjkpb19ftnp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164596-bggl3p/img-female-mtjkpccf9tul.webp
+youtubeSearchQuery: Box Jump proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.892Z"
+updatedAt: "2026-09-02T03:46:01.367Z"

@@ -1,0 +1,84 @@
+id: lib-1772577805327-jyv4y7
+name: Hiking
+description: >-
+  A cardiovascular endurance exercise involving brisk walking on varied terrain, building stamina, leg strength, and
+  cardiovascular fitness. Ideal for 5K training and weight loss goals.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Hamstrings
+  - Calves
+secondaryMuscles:
+  - Abs
+  - Obliques
+  - Back
+  - Shoulders
+  - Hip Flexors
+equipment:
+  - hiking boots
+  - backpack
+  - trekking poles
+  - water bottle
+  - trail map
+  - first aid kit
+tags:
+  - Cardio
+  - Outdoor
+  - Hiking
+  - Walking
+  - Strength
+modality: cardio
+metValue: 5.5
+muscleActivationMap:
+  Quadriceps: 0.25
+  Glutes: 0.2
+  Hamstrings: 0.15
+  Calves: 0.2
+  Abs: 0.1
+  Hip Flexors: 0.1
+instructions:
+  - title: Preparation
+    detail: >-
+      Choose a trail with moderate elevation. Wear supportive shoes and weather-appropriate clothing. Start with a 5-min
+      easy walk to warm up.
+  - title: Walking Phase
+    detail: Maintain brisk pace (3-4 mph). Swing arms naturally. Keep posture upright, engage core.
+  - title: Elevation Handling
+    detail: On inclines, shorten stride, lean forward slightly from ankles. On declines, control speed to protect knees.
+  - title: Pacing and Breathing
+    detail: >-
+      Breathe deeply and rhythmically. Aim for conversational pace (can talk but not sing). Use heart rate monitor if
+      available (60-80% max HR).
+  - title: Cool Down
+    detail: Finish with 5-min easy flat walk. Stretch calves, hamstrings, and quads.
+safetyNotes: >-
+  Start with easy trails. Use proper footwear. Stay hydrated and check weather. Stop if you experience knee, ankle, hip
+  or lower back pain (especially important at current bodyweight). Use trekking poles for stability if needed. Avoid
+  steep descents if you have knee issues.
+trackableMetrics:
+  - key: duration
+    unit: minutes
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  distanceValue: 3
+  distanceUnit: miles
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772577805327-jyv4y7/img-female-mtko9vlimcgx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772577805327-jyv4y7/img-male-mtko97tm6emj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772577805327-jyv4y7/img-female-mtko9vlimcgx.webp
+youtubeSearchQuery: hiking proper form technique for beginners
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-03T22:43:24.683Z"
+updatedAt: "2026-09-02T22:33:14.167Z"

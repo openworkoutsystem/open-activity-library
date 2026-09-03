@@ -1,0 +1,62 @@
+id: lib-1788131476970-mdli1f
+name: Warrior II
+description: >-
+  A wide-stance hold with the front knee bent, arms stretched long, and gaze over the front hand — the strength pose of
+  standing yoga. It builds isometric endurance in the quadriceps, glutes, and shoulders while opening the hips and inner
+  thighs. Keep the torso stacked upright over the hips rather than leaning toward the front leg.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Adductors
+  - Shoulders
+  - Calves
+equipment: []
+tags:
+  - Yoga
+  - Lower Body
+  - Isometric
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Open the stance
+    detail: Step the feet wide with the front toes forward and the back foot parallel to the mat's short edge.
+  - title: Bend the front knee
+    detail: Sink until the front thigh approaches parallel with the knee over the ankle.
+  - title: Extend the arms
+    detail: Reach both arms long at shoulder height, palms down.
+  - title: Set the gaze
+    detail: Turn the head to look out over the front fingertips.
+  - title: Hold and switch
+    detail: Stay tall through the torso for the hold, then change sides.
+safetyNotes: >-
+  Do not let the front knee collapse inward — press it toward the pinky-toe side of the foot, and shorten the stance if
+  the hold shakes early.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476970-mdli1f/img-female-mtkx0zbzvkeb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476970-mdli1f/img-male-mtkx09psy5v1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476970-mdli1f/img-female-mtkx0zbzvkeb.webp
+youtubeSearchQuery: Warrior II yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.241Z"
+updatedAt: "2026-09-03T02:38:15.611Z"

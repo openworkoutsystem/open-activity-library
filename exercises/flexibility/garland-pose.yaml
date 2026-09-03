@@ -1,0 +1,59 @@
+id: lib-1788132443649-4wcyvu
+name: Garland Pose
+description: >-
+  A deep squat with the heels down and the elbows pressing the knees wide, torso upright between the thighs. It opens
+  the hips, inner thighs, ankles, and low back all at once. Press the elbows into the knees and the knees back into the
+  elbows to lift the chest.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Lower Back
+  - Hip Flexors
+equipment: []
+tags:
+  - Yoga
+  - Mobility
+  - Lower Body
+  - Flexibility
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Set your stance
+    detail: Stand with feet slightly wider than hips and toes turned out about thirty degrees.
+  - title: Squat all the way
+    detail: Lower the hips between the thighs, keeping the heels on the floor.
+  - title: Press knees wide
+    detail: Bring palms together at the chest and press the elbows into the inner knees.
+  - title: Lift the chest
+    detail: Lengthen the spine upward and breathe into the hips for the full hold.
+safetyNotes: >-
+  If the heels lift or the knees complain, place a folded blanket or wedge under the heels rather than forcing depth.
+  Come out of the pose slowly if the knees have been fully flexed for a long hold.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443649-4wcyvu/img-female-mtknzo7br820.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443649-4wcyvu/img-male-mtknz25t7cjl.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443649-4wcyvu/img-female-mtknzo7br820.webp
+youtubeSearchQuery: Garland Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.902Z"
+updatedAt: "2026-09-02T22:25:18.036Z"

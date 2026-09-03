@@ -1,0 +1,59 @@
+id: lib-1788127154645-66fz3f
+name: Scapular Pull-Up
+description: >-
+  From a dead hang, pull the shoulder blades down and together without bending the elbows — a small movement that
+  teaches the initiation of every pull-up. Your body rises an inch or two purely from scapular motion. It builds the lat
+  and lower-trap engagement that separates a strong pull from an arms-only grind.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Traps
+  - Back
+secondaryMuscles:
+  - Rhomboids
+  - Forearms
+equipment:
+  - pull_up_bar
+tags:
+  - Pull
+  - Bodyweight
+  - Calisthenics
+  - Posture
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Start in a dead hang
+    detail: Hang from the bar with straight arms and relaxed shoulders up by your ears.
+  - title: Pull the blades down
+    detail: Without bending the elbows, draw your shoulder blades down and slightly together.
+  - title: Feel the lift
+    detail: Let your chest rise an inch or two toward the bar from the blade movement alone.
+  - title: Return slowly
+    detail: Release back to the full passive hang under control and repeat.
+safetyNotes: >-
+  The rep is ruined the moment the elbows bend — if they do, you are doing a tiny pull-up, not a scap pull. Keep the
+  range small and deliberate; jerking into the bottom position yanks on the shoulder capsule.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154645-66fz3f/img-female-mtku8jok1d83.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154645-66fz3f/img-male-mtku7z2pns2g.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154645-66fz3f/img-female-mtku8jok1d83.webp
+youtubeSearchQuery: Scapular Pull-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.948Z"
+updatedAt: "2026-09-03T01:20:09.179Z"

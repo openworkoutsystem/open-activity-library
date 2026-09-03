@@ -1,0 +1,79 @@
+id: lib-1772519902674-jdjkxi
+name: Run
+description: >-
+  Running is a fundamental cardiovascular exercise where you move at a steady jogging or faster running pace over a
+  distance, either outdoors on trails/roads or indoors on a treadmill. It enhances aerobic capacity, aids in calorie
+  burning and weight management, and builds endurance in the lower body while also boosting mental health through
+  endorphin release. Primary target muscles include the quadriceps, hamstrings, glutes, and calves.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Hamstrings
+  - Glutes
+  - Calves
+secondaryMuscles:
+  - Abs
+  - Hip Flexors
+equipment:
+  - running-shoes
+tags:
+  - Cardio
+  - Endurance
+  - Running
+  - Outdoor
+  - Treadmill
+  - Steady State
+  - Aerobic
+  - Fat-Burning
+  - Lower Body
+  - High-Impact
+modality: cardio
+metValue: 8
+muscleActivationMap:
+  Quadriceps: 0.25
+  Hamstrings: 0.2
+  Glutes: 0.2
+  Calves: 0.25
+  Abs: 0.05
+  Hip Flexors: 0.05
+instructions:
+  - >-
+    Start with a 5-10 minute dynamic warmup: marching in place, leg swings, arm circles, and high knees to prepare
+    muscles and joints.
+  - "Maintain good posture: head up, shoulders relaxed, arms at 90 degrees swinging naturally, land midfoot."
+  - Breathe rhythmically, such as inhaling for 3 steps and exhaling for 2.
+  - Choose appropriate terrain and shoes; start slow if beginner.
+  - Cool down with 5 minutes of walking and static stretches for legs and hips.
+safetyNotes: >-
+  Maintain good posture with a slight forward lean, land mid-foot to avoid excessive impact on joints, and start with a
+  proper warm-up; common mistakes include overstriding, poor arm swing, or ignoring pain in knees/hips which could lead
+  to injury—gradually increase distance and speed to prevent overuse.
+trackableMetrics:
+  - key: distance
+    category: movement
+    isPrimary: true
+  - key: step-count
+    category: movement
+  - key: duration
+    category: movement
+  - key: intensity
+    category: load
+    isPrimary: true
+defaults:
+  sets: 1
+  reps: 0
+  distanceUnit: meters
+  restSeconds: 0
+  repSpeed: 0
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772519902674-jdjkxi/img-female-mtku2qsfg6ve.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772519902674-jdjkxi/img-male-mtku2fcjnszc.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772519902674-jdjkxi/img-female-mtku2qsfg6ve.webp
+youtubeSearchQuery: proper running form technique tutorial for beginners
+usageCount: 0
+createdAt: "2026-03-03T06:38:22.786Z"
+updatedAt: "2026-09-03T01:15:39.077Z"

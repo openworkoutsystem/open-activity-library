@@ -1,0 +1,54 @@
+id: lib-1775591937519-upjsef
+name: Goblet Squat to Woodchop
+description: HIIT lower body squat + rotational core woodchop with dumbbell.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Obliques
+secondaryMuscles:
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+modality: hybrid
+metValue: 8
+unilateral: optional
+instructions:
+  - title: Squat
+    detail: Hold dumbbell at chest, squat deep.
+  - title: Woodchop
+    detail: Stand, rotate torso pulling dumbbell across body high to low.
+  - title: Alternate Sides
+    detail: 20 reps/side or continuous.
+safetyNotes: Controlled rotation, brace core. Shoulder stable.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 3
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591937519-upjsef/img-female-mtko10eo7ozx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591937519-upjsef/img-male-mtko0dbat6n9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591937519-upjsef/img-female-mtko10eo7ozx.webp
+youtubeSearchQuery: goblet squat woodchop dumbbell HIIT
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:58:56.877Z"
+updatedAt: "2026-09-02T22:26:20.467Z"

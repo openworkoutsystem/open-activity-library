@@ -1,0 +1,66 @@
+id: lib-1788215817034-05aulq
+name: Flexed Arm Hang
+description: >-
+  Pull up to the top of a chin-up and hold there, chin above the bar and elbows locked in the bent position, for time.
+  It is the isometric rung between a dead hang and a negative pull-up, building the top-end pulling strength most people
+  are missing when their chin stalls below the bar. The set ends when your eyes drop below the bar, not when your arms
+  straighten.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+  - Back
+secondaryMuscles:
+  - Forearms
+  - Rhomboids
+  - Abs
+equipment:
+  - pull_up_bar
+tags:
+  - Isometric
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+  - Grip
+modality: resistance
+metValue: 4
+instructions:
+  - title: Set your grip
+    detail: Take an underhand grip on the bar just inside shoulder width, then step or jump up until your chin clears the bar.
+  - title: Lock the position
+    detail: >-
+      Pull your chest toward the bar and drive the elbows down and back, pinning your shoulder blades so you hang on
+      your back rather than only your arms.
+  - title: Brace and hold
+    detail: Squeeze the glutes and abs so the legs stop swinging, breathe steadily, and keep the chin clearly above the bar.
+  - title: Lower on purpose
+    detail: >-
+      When the chin starts to sink, resist for two more seconds, then lower under control and step down instead of
+      dropping off the bar.
+safetyNotes: >-
+  Holding to true failure means falling off the bar with straight arms under load, so end the set while you can still
+  control the descent. Keep the shoulders packed down and back - once they creep toward your ears, the hold is finished.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 20
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817034-05aulq/img-female-mtkk351uud0p.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817034-05aulq/img-male-mtkk2f8j3myh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817034-05aulq/img-female-mtkk351uud0p.webp
+youtubeSearchQuery: Flexed Arm Hang proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.312Z"
+updatedAt: "2026-09-02T20:36:01.654Z"

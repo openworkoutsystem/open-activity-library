@@ -1,0 +1,62 @@
+id: lib-1788127154215-sobko1
+name: Handstand Hold
+description: >-
+  Inverted hold with heels resting on a wall — your entire bodyweight supported on locked arms. It builds the shoulder
+  stability, wrist strength, and body tension that all inverted pressing sits on top of. Push the floor away hard so the
+  shoulders stay elevated, not sunk into the ears passively.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Traps
+  - Triceps
+  - Abs
+  - Forearms
+equipment: []
+tags:
+  - Isometric
+  - Calisthenics
+  - Bodyweight
+  - Stability
+  - No Equipment
+modality: resistance
+metValue: 4
+instructions:
+  - title: Kick up to the wall
+    detail: Place your hands a few inches from the wall and kick one leg up until both heels rest on it.
+  - title: Stack the line
+    detail: Lock the elbows and stack wrists, shoulders, and hips into one straight line.
+  - title: Push the floor away
+    detail: Actively press through the palms so the shoulders stay tall by your ears.
+  - title: Squeeze everything
+    detail: Brace the abs and glutes so the body holds as one rigid piece.
+  - title: Exit on purpose
+    detail: Come down the way you went up — one leg at a time, before the arms fail.
+safetyNotes: >-
+  Have a bail-out plan before you kick up: cartwheel out to the side rather than collapsing onto your head. Come down
+  while you still have arm strength left — failed holds end on the neck.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154215-sobko1/img-female-mtko6gsy9qrz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154215-sobko1/img-male-mtko5woqj0v7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154215-sobko1/img-female-mtko6gsy9qrz.webp
+youtubeSearchQuery: Handstand Hold technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.518Z"
+updatedAt: "2026-09-02T22:30:35.012Z"

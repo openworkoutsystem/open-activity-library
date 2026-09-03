@@ -1,0 +1,62 @@
+id: lib-1777740965830-mdewwy
+name: Weighted Walk
+description: >-
+  Brisk walking with light dumbbells (5-10 lbs per hand) or weighted vest to boost calorie burn, leg strength, and
+  endurance. Low-impact cardio perfect for daily conditioning during cut.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Quadriceps
+  - Calves
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Cardio
+  - Dumbbell
+  - Strength
+  - Walking
+modality: cardio
+metValue: 5
+instructions:
+  - title: Setup
+    detail: Hold light dumbbells at sides or wear vest. Stand tall.
+  - title: Walk
+    detail: Brisk pace (3-4 mph), swing arms naturally for 20-40 min.
+  - title: Pace
+    detail: Maintain posture; don't bounce weights.
+  - title: Cool down
+    detail: Slow walk last 2 min.
+safetyNotes: Start light to avoid shoulder strain. Good shoes on even surface.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 91
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1777740965830-mdewwy/img-male-mtkxjrxkpze2.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1777740965830-mdewwy/img-male-mtkxjrxkpze2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1777740965830-mdewwy/img-female-mtkx3dnj4lur.webp
+youtubeSearchQuery: weighted walk dumbbells cardio demo
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-05-02T16:56:05.846Z"
+updatedAt: "2026-09-03T02:52:52.475Z"

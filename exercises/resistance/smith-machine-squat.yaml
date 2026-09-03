@@ -1,0 +1,64 @@
+id: lib-1788127149219-kukop0
+name: Smith Machine Squat
+description: >-
+  Squat on a guided bar — useful for controlled overload or training alone. The fixed bar path removes the balance
+  demand so the quads and glutes can work near failure without a spotter. Set your feet slightly ahead of the bar so the
+  track matches your natural squat line.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - smith_machine
+  - weight_plates
+tags:
+  - Squat
+  - Machine Weights
+  - Compound
+  - Lower Body
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set bar height
+    detail: Position the bar so you can unrack it with a slight knee bend, across your upper traps.
+  - title: Step feet forward
+    detail: Place your feet a few inches in front of the bar's vertical track, shoulder-width apart.
+  - title: Unhook and descend
+    detail: Rotate the bar to release the hooks and squat until your thighs reach parallel.
+  - title: Drive and re-hook
+    detail: Press up through the whole foot and rotate the bar back onto the hooks to finish.
+safetyNotes: >-
+  Practice the hook rotation with an empty bar first — fumbling the re-rack under fatigue is the machine's real hazard.
+  The fixed path won't bend to your mechanics, so adjust foot position until the descent feels natural rather than
+  forcing your knees to comply.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149219-kukop0/img-male-mtkvgbyc0z41.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149219-kukop0/img-male-mtkvgbyc0z41.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149219-kukop0/img-female-mtkv1v1wh3kh.webp
+youtubeSearchQuery: Smith Machine Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.528Z"
+updatedAt: "2026-09-03T01:54:12.621Z"

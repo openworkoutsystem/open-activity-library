@@ -1,0 +1,57 @@
+id: lib-1788127160971-17mlv1
+name: Clamshell
+description: >-
+  Lie on your side with knees bent and stacked, then open the top knee like a hinge while the feet stay together. It is
+  the staple glute medius activation drill — low load, high value before squats, lunges, and runs. The rep only counts
+  if the pelvis stays still; rolling backward to open wider is the classic cheat.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+secondaryMuscles:
+  - Glutes
+equipment:
+  - resistance_bands
+tags:
+  - Isolation
+  - Resistance
+  - Warm-Up
+  - Stability
+modality: resistance
+metValue: 2.8
+unilateral: always
+instructions:
+  - title: Stack the hips
+    detail: Lie on your side with knees bent to ninety degrees and hips stacked vertically.
+  - title: Band the knees
+    detail: Loop a light band just above the knees if you want resistance.
+  - title: Open the clam
+    detail: Lift the top knee as high as you can without the pelvis rolling backward.
+  - title: Close slowly
+    detail: Lower the knee back down with control and keep the feet touching throughout.
+safetyNotes: >-
+  If you feel it in the low back or the front of the hip instead of the side glute, your pelvis is rolling — reduce the
+  range and re-stack the hips.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160971-17mlv1/img-female-mtjkoltre8ul.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160971-17mlv1/img-male-mtjkoki2jgcs.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160971-17mlv1/img-female-mtjkoltre8ul.webp
+youtubeSearchQuery: Clamshell proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.278Z"
+updatedAt: "2026-09-02T03:45:57.924Z"

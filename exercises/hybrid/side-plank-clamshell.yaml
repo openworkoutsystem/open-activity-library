@@ -1,0 +1,60 @@
+id: lib-1776657681638-kwmljk
+name: Side Plank Clamshell
+description: >-
+  A dynamic core and glute exercise combining a side plank hold with clamshell leg lifts to target obliques, transverse
+  abdominis, and glute medius for improved lateral stability and hip strength.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Glutes
+secondaryMuscles:
+  - Abs
+equipment: []
+tags:
+  - Stability
+  - Strength
+modality: hybrid
+metValue: 4.5
+unilateral: always
+instructions:
+  - title: Setup
+    detail: >-
+      Lie on your side with legs stacked and elbow directly under shoulder. Lift hips into side plank position, body in
+      straight line.
+  - title: Engage Core
+    detail: Brace core and squeeze glutes to maintain plank. Place top hand on hip.
+  - title: Clamshell Lift
+    detail: Keeping feet together, lift top knee up and out like opening a clamshell (10-20 degrees), pause 1 sec.
+  - title: Lower and Repeat
+    detail: Lower knee slowly without dropping hips. Do reps then switch sides.
+  - title: Progression
+    detail: Hold longer or add resistance band around knees.
+safetyNotes: Keep hips stacked—don't let top hip sag. Stop if shoulder or wrist pain. Breathe steadily.
+trackableMetrics:
+  - key: reps
+    label: reps/side
+    unit: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  restSeconds: 30
+  repSpeed: 3
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1776657681638-kwmljk/img-female-mtkujy6f2ms2.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1776657681638-kwmljk/img-male-mtkuj8z792wk.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1776657681638-kwmljk/img-female-mtkujy6f2ms2.webp
+youtubeSearchQuery: side plank clamshell exercise demo
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-20T04:01:21.719Z"
+updatedAt: "2026-09-03T01:29:01.249Z"

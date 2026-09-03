@@ -1,0 +1,57 @@
+id: lib-1788127174179-bb6gq0
+name: Crab Walk
+description: >-
+  Walk face-up on hands and feet with the hips lifted — the posterior-side answer to the bear crawl. It trains triceps,
+  glutes, and shoulder extension range while on the move. Keep the hips high; the dragging sag is the move done wrong.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+  - Glutes
+secondaryMuscles:
+  - Shoulders
+  - Hamstrings
+  - Abs
+equipment: []
+tags:
+  - Bodyweight
+  - Functional
+  - No Equipment
+modality: hybrid
+metValue: 7
+instructions:
+  - title: Sit and plant
+    detail: Sit with knees bent, feet flat, and hands planted behind you with fingers pointing forward.
+  - title: Lift the hips
+    detail: Press through hands and heels to raise the hips to knee height.
+  - title: Walk opposites
+    detail: Step the opposite hand and foot together to travel forward or backward.
+  - title: Keep hips up
+    detail: Hold the hips high for the whole distance — no dragging.
+safetyNotes: >-
+  Hands behind the body put the shoulders in loaded extension — stiff or cranky shoulders should shorten the range and
+  take smaller steps. Stop if the front of the shoulder pinches; this one is not worth pushing through.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174179-bb6gq0/img-female-mtkmuipd1v70.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174179-bb6gq0/img-male-mtkmtftbv6yx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174179-bb6gq0/img-female-mtkmuipd1v70.webp
+youtubeSearchQuery: Crab Walk proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.472Z"
+updatedAt: "2026-09-02T21:53:18.103Z"

@@ -1,0 +1,72 @@
+id: lib-test-lat-pulldown
+name: Lat Pulldown
+description: Cable pulldown targeting lats and biceps — great pull-up alternative
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+equipment:
+  - cable_machine
+tags:
+  - Compound
+  - Pull
+  - Upper Body
+  - Back
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Back: 0.5
+  Biceps: 0.15
+  Rear Delts: 0.1
+  Rhomboids: 0.15
+  Traps: 0.1
+instructions:
+  - title: Setup
+    detail: >-
+      Select the desired weight on the cable machine and attach a wide lat pulldown bar. Sit down and adjust the knee
+      pad so it secures your thighs firmly. Grip the bar with a wide overhand grip (palms facing away), hands wider than
+      shoulder-width.
+  - title: Position
+    detail: >-
+      Keep your chest up, shoulders back, core engaged, and feet flat on the floor or foot pads. Your arms should be
+      fully extended upward.
+  - title: Pull
+    detail: >-
+      Initiate the movement by pulling your shoulder blades down and together, then pull the bar down toward your upper
+      chest, leading with your elbows. Squeeze your lats at the bottom without leaning back excessively.
+  - title: Return
+    detail: >-
+      Slowly control the bar back to the starting position by extending your arms fully, resisting the weight to
+      maintain tension in the lats. Repeat for the prescribed reps.
+safetyNotes: >-
+  Maintain neutral spine; avoid excessive leaning back or using momentum. Keep shoulders depressed away from ears and
+  lead with elbows. Use full range of motion without jerking the weight.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-lat-pulldown/img-female-mtkrh3q59tf8.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-lat-pulldown/img-male-mtkrged4x3lk.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-lat-pulldown/img-female-mtkrh3q59tf8.webp
+youtubeSearchQuery: lat pulldown proper form tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 15
+createdAt: 1773461209633
+updatedAt: "2026-09-03T00:02:49.752Z"

@@ -1,0 +1,63 @@
+id: lib-1788127151160-g7nvp9
+name: Split Squat
+description: >-
+  Static split-stance squat — the fixed-feet base of the lunge family. With both feet planted the whole set, you get the
+  single-leg loading of a lunge without the balance cost of stepping, which makes it the right place to groove the
+  pattern. Drop the back knee straight down like an elevator, not forward like an escalator.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Adductors
+  - Hip Flexors
+equipment: []
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Compound
+  - No Equipment
+  - Calisthenics
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Take a split stance
+    detail: Step one foot forward and one back so both knees can bend to 90 degrees.
+  - title: Square the hips
+    detail: Point both hip bones forward and keep the torso tall.
+  - title: Lower straight down
+    detail: Bend both knees to lower the back knee toward the floor without shifting forward.
+  - title: Stand back up
+    detail: Push through the front heel to return to the top with feet staying planted.
+  - title: Repeat then switch
+    detail: Complete all reps on one side before swapping the stance.
+safetyNotes: >-
+  Letting the hips rotate open toward the back leg is the most common fault — keep both hip bones facing forward. A
+  stance that is too short forces the front knee far past the toes; lengthen it until the shin stays near vertical.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151160-g7nvp9/img-male-mtkvn5wzc6ac.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151160-g7nvp9/img-male-mtkvn5wzc6ac.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151160-g7nvp9/img-female-mtkv5q4jsvb4.webp
+youtubeSearchQuery: Split Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.464Z"
+updatedAt: "2026-09-03T01:59:31.279Z"

@@ -1,0 +1,63 @@
+id: lib-1788127156480-scccp9
+name: Front Rack Carry
+description: >-
+  Walk with one or two kettlebells racked at the collarbones, elbows tucked and ribs stacked. The rack position loads
+  the anterior core and upper back, forcing tall posture under fatigue. Breathe behind a firm brace — losing the rib
+  position is the failure mode here, not grip.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Back
+secondaryMuscles:
+  - Shoulders
+  - Biceps
+  - Forearms
+  - Glutes
+equipment:
+  - kettlebells
+tags:
+  - Carry
+  - Functional
+  - Kettlebell
+  - Core
+  - Posture
+modality: resistance
+metValue: 6.5
+unilateral: optional
+instructions:
+  - title: Clean to rack
+    detail: Bring the kettlebells to the rack position with the bells resting on the forearms and elbows tucked.
+  - title: Stack the ribs
+    detail: Pull the ribs down over the pelvis and set a firm brace.
+  - title: Walk upright
+    detail: Take controlled steps while keeping the elbows from flaring out.
+  - title: Lower with control
+    detail: Reverse the bells down to the floor with a flat back.
+safetyNotes: >-
+  The bells rest on the forearms with straight wrists — wrists cranked backward take a beating under rack load. Cut the
+  set when the ribcage flares and the tall posture breaks.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 40
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156480-scccp9/img-female-mtknye7hg98p.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156480-scccp9/img-male-mtknxwm3ok9t.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156480-scccp9/img-female-mtknye7hg98p.webp
+youtubeSearchQuery: Front Rack Carry proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.780Z"
+updatedAt: "2026-09-02T22:24:18.374Z"

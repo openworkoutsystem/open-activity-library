@@ -1,0 +1,74 @@
+id: lib-1788215816876-vybbk3
+name: Toes-to-Bar
+description: >-
+  Hang from a pull-up bar and bring both feet all the way up to touch the bar between your hands, then control the swing
+  on the way down. It is a benchmark gymnastics and CrossFit movement that demands full-range hip flexion, serious grip
+  endurance, and lat engagement to keep the body from swinging out of rhythm. Earn strict hanging leg raises first, then
+  add the kip to link reps.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Back
+  - Obliques
+  - Forearms
+equipment:
+  - pull_up_bar
+tags:
+  - Compound
+  - Core
+  - Bodyweight
+  - Calisthenics
+  - Grip
+modality: resistance
+metValue: 5.5
+instructions:
+  - title: Hang tall
+    detail: >-
+      Take an overhand grip slightly wider than your shoulders and hang with the arms straight, shoulders active, and
+      legs together.
+  - title: Set the hollow
+    detail: >-
+      Pull the ribs down and squeeze the glutes to hold a hollow body position, then push down slightly on the bar to
+      engage the lats.
+  - title: Drive the feet up
+    detail: >-
+      Pull the knees and then the feet up in one motion until both toes touch the bar between your hands, keeping the
+      legs as straight as your hamstrings allow.
+  - title: Control the descent
+    detail: >-
+      Lower the legs actively rather than dropping them, and let the body pass through a tight arch so the next rep
+      starts with rhythm instead of a wild swing.
+  - title: End the set early
+    detail: >-
+      Stop the set while your grip is still solid and your toes are still reaching the bar - partial swinging reps build
+      nothing but fatigue.
+safetyNotes: >-
+  The kipping swing loads the shoulders and low back at the bottom of every rep, so build strict hanging leg raise
+  strength before linking reps, and warm the shoulders up first. Grip failure at the top of a swing means falling from
+  height - chalk up, use a bar you can hang from cleanly, and keep the floor under you clear.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 4
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816876-vybbk3/img-female-mtkw5665465h.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816876-vybbk3/img-male-mtkw4buwezxx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816876-vybbk3/img-female-mtkw5665465h.webp
+youtubeSearchQuery: Toes-to-Bar proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.153Z"
+updatedAt: "2026-09-03T02:13:30.981Z"

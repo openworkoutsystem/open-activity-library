@@ -1,0 +1,64 @@
+id: lib-1788127150848-3p7f4b
+name: Forward Lunge
+description: >-
+  Step forward, lower the back knee toward the floor, and push back to standing — the basic split-stance builder. It
+  trains the quads and glutes one leg at a time while forcing the hips to decelerate and control the step. Keep the
+  front shin roughly vertical and the torso tall as you drop straight down rather than lurching forward.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Adductors
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Compound
+  - No Equipment
+  - Calisthenics
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Set your stance
+    detail: Stand tall with feet hip-width apart and hands on hips or at your sides.
+  - title: Step forward
+    detail: Take a controlled step forward long enough that both knees can bend to about 90 degrees.
+  - title: Lower straight down
+    detail: Drop the back knee toward the floor while keeping the torso upright and the front heel planted.
+  - title: Push back
+    detail: Drive through the front foot to return to standing in one strong push.
+  - title: Alternate legs
+    detail: Repeat on the other side, counting reps per leg.
+safetyNotes: >-
+  The deceleration of the forward step loads the front knee more than other lunge variations — if your knee complains,
+  switch to reverse lunges. Keep the front knee tracking over the toes rather than caving inward.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150848-3p7f4b/img-female-mtkfpxf2e1wm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150848-3p7f4b/img-male-mtkfm7pva73r.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150848-3p7f4b/img-female-mtkfpxf2e1wm.webp
+youtubeSearchQuery: Forward Lunge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.159Z"
+updatedAt: "2026-09-02T18:33:46.756Z"

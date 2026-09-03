@@ -1,0 +1,58 @@
+id: lib-1788127170136-kdqj9l
+name: Calf Stretch
+description: >-
+  Drive the heel down with the ball of the foot on a wall or step — knee angle picks the target. A straight knee
+  stretches the gastrocnemius; a bent knee drops the stretch into the soleus underneath. Both matter for squat depth and
+  healthy ankles, so do both versions.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles:
+  - Hamstrings
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Lower Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Set the foot
+    detail: Place the ball of one foot against a wall or on a step edge with the heel on the floor.
+  - title: Lean in
+    detail: Shift your weight forward over the foot until the calf stretches, keeping the knee straight.
+  - title: Hold and breathe
+    detail: Hold the position without bouncing, letting the heel sink.
+  - title: Bend for soleus
+    detail: Repeat the hold with the knee slightly bent to shift the stretch lower.
+safetyNotes: >-
+  Ease in gradually if you have any Achilles history — that tendon dislikes sudden aggressive stretching, especially
+  cold. Keep the heel grounded rather than chasing a bigger lean.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170136-kdqj9l/img-female-mtkmdvmx0das.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170136-kdqj9l/img-male-mtkmd80kmsnx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170136-kdqj9l/img-female-mtkmdvmx0das.webp
+youtubeSearchQuery: Calf Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.427Z"
+updatedAt: "2026-09-02T21:40:21.278Z"

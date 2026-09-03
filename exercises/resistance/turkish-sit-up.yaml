@@ -1,0 +1,63 @@
+id: lib-1788127174688-ghdii4
+name: Turkish Sit-Up
+description: >-
+  The first half of the Turkish get-up: from lying down, press the kettlebell to lockout and roll up onto the opposite
+  elbow, then hand. It trains loaded trunk flexion, oblique control, and shoulder stability without the full standing
+  sequence. Eyes stay on the bell from start to finish.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Obliques
+secondaryMuscles:
+  - Shoulders
+  - Hip Flexors
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Core
+  - Functional
+  - Unilateral
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Set the start
+    detail: Lie on your back with the bell pressed to lockout, same-side knee bent, and opposite arm angled out on the floor.
+  - title: Roll to elbow
+    detail: Drive through the bent-leg foot and roll up onto the opposite elbow, keeping the bell arm vertical.
+  - title: Press to hand
+    detail: Push from the elbow up onto the flat hand with the chest tall.
+  - title: Reverse with control
+    detail: Lower back through hand and elbow to the floor without letting the bell drift.
+safetyNotes: >-
+  The loaded arm must stay vertical with the wrist stacked — a drifting bell overhead is the real hazard. Learn the
+  sequence with no weight or a shoe balanced on the fist, and guide the bell down with both hands if the arm starts to
+  wobble.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174688-ghdii4/img-male-mtkwvazlv7u7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174688-ghdii4/img-male-mtkwvazlv7u7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174688-ghdii4/img-female-mtkwl2nox47m.webp
+youtubeSearchQuery: Turkish Sit-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.980Z"
+updatedAt: "2026-09-03T02:33:50.741Z"

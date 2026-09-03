@@ -1,0 +1,53 @@
+id: lib-1774910645221-28hu4u
+name: Cable Fly
+description: >-
+  Cable crossover fly for chest isolation. Constant tension throughout the range of motion for superior chest
+  activation.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Shoulders
+equipment:
+  - cable_machine
+tags: []
+modality: resistance
+metValue: 5
+instructions:
+  - title: Setup
+    detail: Set cables at shoulder height. Grab handles and step forward into a split stance.
+  - title: Start position
+    detail: Arms extended out to sides with slight elbow bend, chest up.
+  - title: Squeeze
+    detail: Bring hands together in front of chest in a hugging motion. Squeeze at the peak.
+  - title: Return
+    detail: Slowly open arms back to start, feeling the stretch across chest.
+safetyNotes: Use controlled motion. Don't go too heavy — focus on the squeeze and stretch.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645221-28hu4u/img-female-mtjkmdj9bfqe.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645221-28hu4u/img-male-mtjkmbxt2wec.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645221-28hu4u/img-female-mtjkmdj9bfqe.webp
+youtubeSearchQuery: "\"cable fly chest exercise form\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:05.236Z"
+updatedAt: "2026-09-02T03:45:43.359Z"

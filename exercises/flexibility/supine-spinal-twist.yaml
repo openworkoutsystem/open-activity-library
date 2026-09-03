@@ -1,0 +1,61 @@
+id: lib-1788127170753-keb9be
+name: Supine Spinal Twist
+description: >-
+  Lying on your back, let the knees drop to one side — rotation for the spine and hips with gravity doing the work. It
+  unwinds the mid-back and stretches the outer hip in one quiet position. Keeping both shoulders on the floor is the
+  whole stretch; the knees only fall as far as that allows.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+  - Obliques
+secondaryMuscles:
+  - Glutes
+  - Chest
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Rotation
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Lie and stack
+    detail: Lie on your back and draw both knees up over the hips, bent to ninety degrees.
+  - title: Drop the knees
+    detail: Lower both knees together to one side toward the floor.
+  - title: Anchor the shoulders
+    detail: Reach the opposite arm out and keep both shoulder blades pressed into the floor.
+  - title: Breathe and switch
+    detail: Hold with slow breaths, then bring the knees back through center to the other side.
+safetyNotes: >-
+  Rotation under load is where discs get grumpy — let gravity take the knees down passively and never force them with
+  your hand. Put a pillow under the knees if the floor is out of reach.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170753-keb9be/img-female-mtkvvhaj6flg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170753-keb9be/img-male-mtkvuuyk2pok.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170753-keb9be/img-female-mtkvvhaj6flg.webp
+youtubeSearchQuery: Supine Spinal Twist proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.044Z"
+updatedAt: "2026-09-03T02:05:59.232Z"

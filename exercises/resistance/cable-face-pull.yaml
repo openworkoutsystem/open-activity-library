@@ -1,0 +1,53 @@
+id: lib-1774910662513-tzq965
+name: Cable Face Pull
+description: Cable face pulls for rear delts, rotator cuff health, and upper back. Essential for shoulder balance and posture.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Traps
+secondaryMuscles:
+  - Back
+equipment:
+  - cable_machine
+tags:
+  - Balance
+modality: resistance
+metValue: 4
+instructions:
+  - title: Setup
+    detail: Set cable at face height with rope attachment. Grip rope with thumbs toward you.
+  - title: Pull
+    detail: Pull rope toward face, splitting the rope apart. Drive elbows high and back.
+  - title: Squeeze
+    detail: Externally rotate shoulders at the end — hands should end up beside your ears. Squeeze rear delts.
+  - title: Return
+    detail: Slowly extend arms back to start. Don't let the weight slam.
+safetyNotes: Use light weight — this is a precision movement. Don't lean back or use momentum.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 15
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910662513-tzq965/img-female-mtjkmm81io2t.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910662513-tzq965/img-male-mtjkmkk47au9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910662513-tzq965/img-female-mtjkmm81io2t.webp
+youtubeSearchQuery: "\"cable face pull form rear delts\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:22.530Z"
+updatedAt: "2026-09-02T03:45:43.778Z"

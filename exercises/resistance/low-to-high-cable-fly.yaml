@@ -1,0 +1,71 @@
+id: lib-1788279083464-o9xqmg
+name: Low-to-High Cable Fly
+description: >-
+  From two low pulleys, sweep the handles up and together in an arc until they meet in front of your collarbones,
+  keeping a soft fixed bend in the elbows the whole way. Where the standard cable crossover comes down from high
+  pulleys, reversing the arc puts the tension on the upper chest, so this is the isolation partner to a low-to-high
+  press. The elbows never open and close - if they do, it has become a press.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Push
+  - Upper Body
+  - Resistance
+  - Strength
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Set the pulleys low
+    detail: >-
+      Drop both pulleys to the bottom of the uprights, fit single handles, and take one in each hand with your palms
+      facing forward.
+  - title: Stagger and set the elbows
+    detail: >-
+      Step forward into a staggered stance with a slight forward lean, then set a soft bend in the elbows and lock that
+      angle - it stays fixed for every rep.
+  - title: Sweep up and together
+    detail: >-
+      Draw the handles up and inward along a wide arc until they meet in front of your collarbones, squeezing the upper
+      chest at the top.
+  - title: Open under control
+    detail: >-
+      Let the arms travel back down and out over two to three seconds until you feel a stretch across the chest,
+      stopping before the shoulders roll forward.
+safetyNotes: >-
+  The bottom of the arc is where the shoulder is most vulnerable - stop the stretch at chest level rather than letting
+  the cables pull your arms behind your torso. Straightening the elbows to move more weight turns the load into a
+  shoulder-joint lever, so keep it light enough to hold the fixed bend.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788279083464-o9xqmg/img-female-mtkq9bp6jdag.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788279083464-o9xqmg/img-male-mtkq8nkad73q.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788279083464-o9xqmg/img-female-mtkq9bp6jdag.webp
+youtubeSearchQuery: Low to High Cable Fly proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-09-01T16:11:22.003Z"
+updatedAt: "2026-09-02T23:28:47.619Z"

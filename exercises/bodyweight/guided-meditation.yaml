@@ -1,0 +1,51 @@
+id: lib-1788127175315-fuarq0
+name: Guided Meditation
+description: >-
+  A seated or lying practice led by a voice — attention training, not an attempt to empty the mind. The guide handles
+  the structure, so the only job left is returning attention each time it wanders, and that return is the actual rep.
+  Ten minutes done daily beats an hour done occasionally.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Mind-Body
+  - Recovery
+metValue: 1
+instructions:
+  - title: Choose the session
+    detail: Pick a guided track that roughly matches the time you have.
+  - title: Get comfortable
+    detail: Sit supported or lie down somewhere you won't be interrupted.
+  - title: Follow the voice
+    detail: Let the guide direct your attention without grading your performance.
+  - title: Return when wandering
+    detail: Each time the mind drifts, notice it and come back — that return is the exercise.
+safetyNotes: >-
+  Physically inert; the honest caution is expectations — a restless, busy mind during practice is normal, not failure.
+  People working through trauma may find long silent sits activating and should favor short guided sessions.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 600
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175315-fuarq0/img-female-mtko2frzokqr.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175315-fuarq0/img-male-mtko1mucx1bb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175315-fuarq0/img-female-mtko2frzokqr.webp
+youtubeSearchQuery: Guided Meditation 10 minutes
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:34.610Z"
+updatedAt: "2026-09-02T22:27:26.805Z"

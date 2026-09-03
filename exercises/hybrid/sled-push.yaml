@@ -1,0 +1,61 @@
+id: lib-1788127156883-69wd64
+name: Sled Push
+description: >-
+  Drive a loaded sled down the turf at a forward lean with the arms locked or bent. It builds leg power and conditioning
+  with no eccentric phase, so it leaves almost no soreness behind — hard work you can repeat often. Push through the
+  whole foot and keep the spine long from head to hips.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Hamstrings
+  - Abs
+  - Shoulders
+equipment:
+  - weight_plates
+tags:
+  - Carry
+  - Functional
+  - Lower Body
+  - High-Intensity
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Set your grip
+    detail: Grip the sled posts with the arms locked or bent and set a forward body lean.
+  - title: Find the line
+    detail: Brace the trunk so head, spine, and hips form one straight line.
+  - title: Drive the legs
+    detail: Push through the whole foot with long, powerful strides.
+  - title: Pace the effort
+    detail: Keep the steps rhythmic to the end of the run, then rest fully between pushes.
+safetyNotes: >-
+  Keep the spine long and neutral — letting the hips shoot up and the back round against a heavy sled strains the lower
+  back. Hard sled sprints spike heart rate fast, so build up to all-out efforts over several sessions.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156883-69wd64/img-female-mtkov73eby1a.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156883-69wd64/img-male-mtkou4icmx9o.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156883-69wd64/img-female-mtkov73eby1a.webp
+youtubeSearchQuery: Sled Push proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.189Z"
+updatedAt: "2026-09-02T22:49:48.847Z"

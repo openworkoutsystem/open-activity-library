@@ -1,0 +1,65 @@
+id: lib-1788215817177-u934l9
+name: Reverse Plank
+description: >-
+  Sit with your legs straight and hands under your shoulders, then press the hips up until your body forms one line from
+  heels to head and hold. It is the posterior mirror of the standard plank, loading the glutes, hamstrings, and upper
+  back that the face-down version leaves idle. Drive the hips high and keep the chest open instead of letting the
+  shoulders round forward.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Shoulders
+  - Abs
+  - Triceps
+equipment: []
+tags:
+  - Isometric
+  - Core
+  - Bodyweight
+  - Posterior Chain
+  - No Equipment
+modality: resistance
+metValue: 3
+instructions:
+  - title: Sit and set
+    detail: >-
+      Sit on the floor with the legs extended and heels together, and place your palms flat behind your hips with the
+      fingers pointing toward your feet.
+  - title: Press the hips up
+    detail: Push through the hands and heels to lift the hips until the torso and legs make one straight line.
+  - title: Open the chest
+    detail: Draw the shoulder blades together and keep the chin neutral rather than letting the head fall back.
+  - title: Hold and breathe
+    detail: Squeeze the glutes hard so the hips never sag, and hold for time with slow steady breathing.
+safetyNotes: >-
+  The wrists carry bodyweight in full extension here, so drop to your forearms or turn the fingers slightly outward if
+  that pinches. Come down as soon as the hips start sinking instead of grinding out extra seconds with a collapsed
+  position.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817177-u934l9/img-male-mtkkem205roj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817177-u934l9/img-male-mtkkem205roj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817177-u934l9/img-female-mtkkc86ka338.webp
+youtubeSearchQuery: Reverse Plank proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.451Z"
+updatedAt: "2026-09-02T20:44:56.875Z"

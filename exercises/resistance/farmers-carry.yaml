@@ -1,0 +1,63 @@
+id: lib-1788127156215-7o43qz
+name: Farmer's Carry
+description: >-
+  Deadlift a heavy weight in each hand and walk tall for time or distance. It trains grip, traps, and a braced core
+  doing exactly the work they exist for, with almost no technique barrier. Shoulders back, ribs down, steps short — the
+  weight should feel heavy but the posture should never change.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+  - Traps
+  - Abs
+secondaryMuscles:
+  - Shoulders
+  - Glutes
+  - Legs
+equipment:
+  - dumbbells
+  - kettlebells
+tags:
+  - Carry
+  - Functional
+  - Grip
+  - Core
+  - Strength
+modality: resistance
+metValue: 6.5
+instructions:
+  - title: Deadlift the weights
+    detail: Hinge with a flat back and stand up with a weight in each hand.
+  - title: Set posture
+    detail: Pull the shoulders back and down with the ribs stacked over the hips.
+  - title: Walk tall
+    detail: Take short, quick steps in a straight line for the set distance or time.
+  - title: Lower safely
+    detail: Hinge with a flat back to set the weights down instead of dropping them.
+safetyNotes: >-
+  Pick the weights up and put them down with a flat-back deadlift — most carry injuries happen at the pick-up, not
+  during the walk. Keep the walking path clear and never drop the weights near your feet.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 45
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156215-7o43qz/img-female-mtknbfkku1eb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156215-7o43qz/img-male-mtknax0nu3bt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156215-7o43qz/img-female-mtknbfkku1eb.webp
+youtubeSearchQuery: Farmer's Carry proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.517Z"
+updatedAt: "2026-09-02T22:06:27.192Z"

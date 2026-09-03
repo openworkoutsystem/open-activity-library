@@ -1,0 +1,58 @@
+id: lib-1788127158259-692fjp
+name: Barbell Curl
+description: >-
+  Two-hand bar curl — the heaviest strict biceps loading. Both arms work against one bar, so nothing can hide and the
+  load can climb faster than with dumbbells. Keep the elbows pinned and the body still; the bar moves in an arc, not a
+  heave.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Isolation
+  - Barbell
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Grip the bar
+    detail: Hold the bar with an underhand grip at shoulder width, arms fully extended.
+  - title: Brace and curl
+    detail: Squeeze the glutes and abs, then curl the bar to the collarbone without leaning back.
+  - title: Control down
+    detail: Lower the bar slowly to full elbow extension before the next rep.
+safetyNotes: >-
+  A straight bar locks the wrists into full supination, which irritates some wrists and elbows — switch to an EZ curl
+  bar if either starts complaining.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158259-692fjp/img-female-mtjko2lwqy1k.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158259-692fjp/img-male-mtjko18q9r16.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158259-692fjp/img-female-mtjko2lwqy1k.webp
+youtubeSearchQuery: Barbell Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.566Z"
+updatedAt: "2026-09-02T03:45:55.785Z"

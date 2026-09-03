@@ -1,0 +1,64 @@
+id: lib-1788127168254-8qspnb
+name: Stationary Bike
+description: >-
+  Steady riding indoors — the most controllable zone work there is, with zero impact. Resistance and cadence set the
+  effort exactly, which makes it ideal for recovery spins, zone 2 blocks, or bad-weather volume. Aim for a cadence
+  around 80 to 95 rpm.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Calves
+equipment:
+  - stationary_bike
+tags:
+  - Cycling
+  - Cardio
+  - Steady State
+  - Aerobic
+modality: cardio
+metValue: 7
+instructions:
+  - title: Set saddle height
+    detail: Adjust the seat so your knee keeps a slight bend at the bottom of the stroke.
+  - title: Spin up easy
+    detail: Pedal lightly for a few minutes to warm up.
+  - title: Dial in effort
+    detail: Set resistance so breathing is deep but conversation stays possible.
+  - title: Hold the cadence
+    detail: Keep 80 to 95 rpm for the full duration.
+safetyNotes: >-
+  Set the saddle so the knee keeps a slight bend at the bottom of the stroke — a seat that is too low is the usual cause
+  of knee pain on the bike.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168254-8qspnb/img-female-mtkvk06082uc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168254-8qspnb/img-male-mtkvj49f650a.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168254-8qspnb/img-female-mtkvk06082uc.webp
+youtubeSearchQuery: Stationary Bike proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.549Z"
+updatedAt: "2026-09-03T01:57:03.759Z"

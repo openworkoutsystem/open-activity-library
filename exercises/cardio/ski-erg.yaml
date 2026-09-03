@@ -1,0 +1,65 @@
+id: lib-1788127168630-2agelu
+name: Ski Erg
+description: >-
+  Double-pole pulling cardio on the ski erg — upper-body-dominant engine work driven by the lats, triceps, and trunk.
+  The pull is a crunch-and-drive from the whole torso, not an arm exercise. It pairs well with lower-body-heavy training
+  days.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Triceps
+secondaryMuscles:
+  - Abs
+  - Shoulders
+  - Legs
+equipment:
+  - rowing_machine
+tags:
+  - Cardio
+  - Upper Body
+  - Endurance
+  - Low-Impact
+modality: cardio
+metValue: 6.8
+instructions:
+  - title: Reach tall
+    detail: Grab the handles high with arms long and heels light.
+  - title: Crunch and drive
+    detail: Snap the torso down, driving the handles toward your hips.
+  - title: Finish past the thighs
+    detail: Let the hands sweep behind the hips as the hips hinge back.
+  - title: Ride back up
+    detail: Return tall under control and repeat in rhythm.
+safetyNotes: >-
+  Power comes from hinging the trunk, not yanking with the arms — an all-arm pull cooks the elbows and shoulders fast.
+  Keep a soft knee bend and let the hips share the work.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168630-2agelu/img-female-mtkuyzh791oa.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168630-2agelu/img-male-mtkuycxc3lj8.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168630-2agelu/img-female-mtkuyzh791oa.webp
+youtubeSearchQuery: Ski Erg technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.921Z"
+updatedAt: "2026-09-03T01:40:43.197Z"

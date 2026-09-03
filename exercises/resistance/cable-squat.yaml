@@ -1,0 +1,62 @@
+id: lib-1788127162061-v1svxb
+name: Cable Squat
+description: >-
+  A squat holding cable handles at the chest or sides — goblet-pattern legs with the load pulling from below. The cable
+  pulls slightly forward, so the trunk fights to stay tall.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - cable_machine
+tags:
+  - Squat
+  - Resistance
+  - Strength
+  - Lower Body
+  - Compound
+modality: resistance
+metValue: 5
+instructions:
+  - title: Center your stance
+    detail: Stand on or over the unit's base so the cable runs vertically between your feet.
+  - title: Take the handles
+    detail: Hold the handles at your chest or at your sides with a tall spine.
+  - title: Sit between the hips
+    detail: Squat down with the chest up until the thighs reach at least parallel.
+  - title: Drive up tall
+    detail: Push the floor away and stand fully without the cable tipping you forward.
+safetyNotes: >-
+  Stand centered over the unit's base so the cable tracks vertically — an offset stance turns the pull diagonal and
+  drags you forward out of the squat. Learn eccentric-overload profiles at light settings; the lowering hits harder than
+  the display reads.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162061-v1svxb/img-female-mtjkowikdei7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162061-v1svxb/img-male-mtjkov8uh6l0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162061-v1svxb/img-female-mtjkowikdei7.webp
+youtubeSearchQuery: Digital Cable Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.355Z"
+updatedAt: "2026-09-02T03:45:58.926Z"

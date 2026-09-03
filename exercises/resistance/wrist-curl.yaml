@@ -1,0 +1,59 @@
+id: lib-1788127159673-at9495
+name: Wrist Curl
+description: >-
+  Curl the wrist over the knee or bench edge — direct forearm flexor work. The forearm stays anchored while only the
+  hand moves through its full arc, letting the weight roll to the fingertips at the bottom for extra range. Grip and
+  forearm size respond best to high reps here, not heavy singles.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+secondaryMuscles: []
+equipment:
+  - dumbbells
+tags:
+  - Isolation
+  - Grip
+  - Dumbbell
+  - Strength
+modality: resistance
+metValue: 3
+unilateral: optional
+instructions:
+  - title: Anchor the forearm
+    detail: Sit and rest your forearm on your thigh or a bench with the wrist hanging past the edge, palm up.
+  - title: Lower the weight
+    detail: Let the dumbbell roll down toward the fingertips as the wrist extends.
+  - title: Curl the wrist
+    detail: Close the fingers and curl the wrist upward as high as it will flex.
+  - title: Repeat smoothly
+    detail: Move through the full arc without lifting the forearm off its support.
+safetyNotes: >-
+  Wrists tolerate volume far better than load — jumping in weight too fast is the classic route to nagging wrist and
+  inner-elbow pain, so add reps before you add pounds.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159673-at9495/img-female-mtkxbd97eqop.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159673-at9495/img-male-mtkxaxjm1a35.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159673-at9495/img-female-mtkxbd97eqop.webp
+youtubeSearchQuery: Wrist Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.972Z"
+updatedAt: "2026-09-03T02:46:20.349Z"

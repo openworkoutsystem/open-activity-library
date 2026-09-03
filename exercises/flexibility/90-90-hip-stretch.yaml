@@ -1,0 +1,69 @@
+id: lib-1788215818427-v972mz
+name: 90/90 Hip Stretch
+description: >-
+  Sit on the floor with the front leg bent to ninety degrees in front of you and the rear leg bent to ninety degrees out
+  to the side, then hinge toward the front shin. The front hip works external rotation while the rear hip is held in
+  internal rotation, a range almost no other stretch reaches and the first thing to disappear from a desk-bound hip. Sit
+  tall and fold from the hips rather than rounding the back to get lower.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hip Flexors
+secondaryMuscles:
+  - Adductors
+  - Abductors
+  - Lower Back
+equipment: []
+tags:
+  - Mobility
+  - Flexibility
+  - Static Stretching
+  - Cool-Down
+  - Recovery
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Build the shape
+    detail: >-
+      Sit on the floor and set the front leg with the knee and ankle at right angles in front of you, then place the
+      rear leg out to the side with that knee also bent to ninety degrees.
+  - title: Sit up tall
+    detail: >-
+      Prop on your hands behind you if you need to, and lengthen the spine until you can sit upright over both hips
+      without collapsing backward.
+  - title: Hinge forward
+    detail: >-
+      Keeping the chest long, fold forward over the front shin until you feel a deep stretch through the outside of the
+      front hip.
+  - title: Hold, then switch
+    detail: Breathe slowly through the hold, then rotate the knees across to the other side and repeat with the legs reversed.
+safetyNotes: >-
+  You should feel this in the hip and glute, never in the front knee - if the knee pinches, open the front angle or
+  slide that foot closer to your body. Ease in gradually instead of bouncing, and back off if the inner knee of the rear
+  leg feels strained.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818427-v972mz/img-female-mtklbkncld76.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818427-v972mz/img-male-mtklaqxz7pvk.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818427-v972mz/img-female-mtklbkncld76.webp
+youtubeSearchQuery: 90/90 Hip Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.745Z"
+updatedAt: "2026-09-02T21:10:34.591Z"

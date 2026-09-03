@@ -1,0 +1,63 @@
+id: lib-1788127163067-yybxq3
+name: Kettlebell Windmill
+description: >-
+  With a bell locked out overhead, hinge sideways and reach the free hand down the inside leg. It builds shoulder
+  stability and oblique strength through a range most training never touches. The top arm stays vertical the whole way —
+  the body moves around it.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Shoulders
+secondaryMuscles:
+  - Hamstrings
+  - Glutes
+  - Rotator Cuff
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Mobility
+  - Core
+  - Stability
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Lock out the bell
+    detail: Press the bell overhead and angle both feet about 45 degrees away from it.
+  - title: Hinge sideways
+    detail: Push the hips toward the bell and slide the free hand down the inside of the leg.
+  - title: Keep the arm vertical
+    detail: Watch the bell and keep the top elbow locked through the entire descent.
+  - title: Stand back up
+    detail: Drive through the hips to return tall without bending the top arm.
+safetyNotes: >-
+  This is a mobility-limited lift — load it light and earn range before weight. If the top arm bends or drifts forward,
+  the set is over.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163067-yybxq3/img-female-mtkp6wlf4l25.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163067-yybxq3/img-male-mtkp69gd002a.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163067-yybxq3/img-female-mtkp6wlf4l25.webp
+youtubeSearchQuery: Kettlebell Windmill proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.362Z"
+updatedAt: "2026-09-02T22:58:54.634Z"

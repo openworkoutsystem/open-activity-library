@@ -1,0 +1,67 @@
+id: lib-1788215820183-73hzc9
+name: Stability Ball Pike
+description: >-
+  From a push-up position with your shins on a stability ball, pull the hips straight up until the body folds into an
+  inverted V, then roll back out to the plank. It is the advanced end of the ball core progression: the abs and hip
+  flexors do the folding while the serratus and shoulders hold you up over a rolling base. Drive the hips up first and
+  let the ball follow, instead of kicking the feet toward your hands.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+  - Serratus Anterior
+secondaryMuscles:
+  - Front Delts
+  - Quadriceps
+  - Obliques
+equipment:
+  - stability_ball
+tags:
+  - Core
+  - Bodyweight
+  - Compound
+  - Upper Body
+  - Balance
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Get on the ball
+    detail: >-
+      Start in a push-up position with hands under the shoulders and walk your feet back until the shins rest on top of
+      the ball.
+  - title: Set the plank
+    detail: Push the floor away to spread the shoulder blades, brace the abs, and hold a straight line from head to heels.
+  - title: Pike the hips
+    detail: >-
+      Pull the hips up and back toward the ceiling, letting the ball roll toward your toes until the body forms an
+      upside-down V.
+  - title: Roll back out
+    detail: Lower the hips under control back into a straight plank and end the rep before the low back sags.
+safetyNotes: >-
+  Full bodyweight lands on the wrists and shoulders over an unstable base, so build up with ball knee tucks first and
+  skip this with a wrist or shoulder injury. Work on a mat or near a wall the first time, since a ball that slips out
+  drops you onto your hands and face.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820183-73hzc9/img-female-mtkvbmyuvkmn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820183-73hzc9/img-male-mtkvb0yuggzi.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820183-73hzc9/img-female-mtkvbmyuvkmn.webp
+youtubeSearchQuery: Stability Ball Pike proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:59.453Z"
+updatedAt: "2026-09-03T01:50:32.993Z"

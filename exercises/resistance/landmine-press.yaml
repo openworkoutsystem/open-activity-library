@@ -1,0 +1,66 @@
+id: lib-1788127153916-znel1v
+name: Landmine Press
+description: >-
+  Press the free end of a barbell anchored in a landmine sleeve — the bar travels a fixed arc up and forward instead of
+  straight overhead. That angle is the friendliest pressing line for cranky shoulders, and the offset load quietly
+  trains the trunk and serratus too. Usually done one arm at a time from a half-kneel or standing.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+  - Chest
+  - Serratus Anterior
+  - Abs
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Push
+  - Barbell
+  - Compound
+  - Upper Body
+  - Functional
+modality: resistance
+metValue: 4.5
+unilateral: optional
+instructions:
+  - title: Anchor the bar
+    detail: Seat one end of the barbell in a landmine sleeve or wedge it securely into a corner.
+  - title: Grip at the shoulder
+    detail: Hold the fat end of the bar at shoulder height, elbow tucked, standing or half-kneeling.
+  - title: Press the arc
+    detail: Drive the bar up and away along its natural arc until the arm is straight.
+  - title: Resist the return
+    detail: Lower the bar back to the shoulder slowly without letting the torso twist toward it.
+safetyNotes: >-
+  If you improvise the anchor in a corner, check it before loading — an unanchored bar end can kick out mid-set. The
+  angle is forgiving, but still keep the ribs down rather than leaning back to finish reps.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153916-znel1v/img-female-mtkpvszt6wnv.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153916-znel1v/img-male-mtkpv6x4b9ph.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153916-znel1v/img-female-mtkpvszt6wnv.webp
+youtubeSearchQuery: Landmine Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.225Z"
+updatedAt: "2026-09-02T23:18:17.020Z"

@@ -1,0 +1,57 @@
+id: lib-1788127172532-89md5q
+name: Foam Roll Quads
+description: >-
+  Prone passes down the front of the thigh from hip to just above the knee. Prop on the forearms, roll one thigh or
+  both, and turn slightly in and out to cover the inner and outer quad. A go-to before squats or after a heavy leg day.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Hip Flexors
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: optional
+instructions:
+  - title: Lie prone
+    detail: Support yourself on the forearms with the roller under the front of the thighs.
+  - title: Roll the length
+    detail: Travel slowly from just below the hip to just above the kneecap.
+  - title: Angle in and out
+    detail: Rotate the leg slightly to reach the inner and outer quad.
+  - title: Pause on spots
+    detail: Hold on tender points and breathe until they release.
+safetyNotes: >-
+  Stop above the kneecap — never roll directly over the patella. Shift more weight to the forearms to lighten the
+  pressure if a spot is too intense to breathe through.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 60
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172532-89md5q/img-female-mtknta2vxngh.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172532-89md5q/img-male-mtknsomkljn5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172532-89md5q/img-female-mtknta2vxngh.webp
+youtubeSearchQuery: Foam Roll Quads technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.825Z"
+updatedAt: "2026-09-02T22:20:19.771Z"

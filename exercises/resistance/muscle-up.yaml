@@ -1,0 +1,64 @@
+id: lib-1788131480258-a0mnd9
+name: Muscle-Up
+description: >-
+  A pull-up that keeps going — over the bar and into a dip on top. It chains the strongest pull and push patterns into
+  one rep, training the lats, chest, and triceps through the tricky transition between them. Pull the bar to your
+  sternum and lean forward over it rather than pulling straight up into it.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+  - Biceps
+  - Forearms
+  - Abs
+equipment:
+  - pull_up_bar
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Compound
+  - Pull
+  - Push
+modality: resistance
+metValue: 8
+instructions:
+  - title: Grip false
+    detail: Hang from the bar with a slightly-over-the-top false grip, hands about shoulder width.
+  - title: Pull explosively
+    detail: Drive the bar down toward your hips, pulling your chest as high as possible.
+  - title: Transition over
+    detail: Lean your shoulders forward over the bar as your wrists roll on top of it.
+  - title: Press out
+    detail: Push down through straight-bar dip position until your arms lock out above the bar.
+  - title: Lower controlled
+    detail: Reverse through the transition and descend to a dead hang without dropping.
+safetyNotes: >-
+  Band a spotter or use a low bar for your first attempts — a failed transition can pitch you forward off the bar. Own
+  strict high pull-ups and deep straight-bar dips before chasing the full movement.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 3
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480258-a0mnd9/img-female-mtkr7mm8ol6l.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480258-a0mnd9/img-male-mtkr71omk59w.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480258-a0mnd9/img-female-mtkr7mm8ol6l.webp
+youtubeSearchQuery: Muscle-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.520Z"
+updatedAt: "2026-09-02T23:55:27.546Z"

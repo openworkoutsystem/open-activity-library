@@ -1,0 +1,63 @@
+id: lib-1788127168006-qnxqr1
+name: Stair Climbing
+description: >-
+  Climbing real stairs or a stepmill — honest vertical work that flat walking can't fake. It drives the heart rate up
+  fast and loads the quads, glutes, and calves through a full push-off every step. Whole foot on the step, drive through
+  the heel.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Hamstrings
+equipment: []
+tags:
+  - Stair Climbing
+  - Cardio
+  - Lower Body
+  - Endurance
+modality: cardio
+metValue: 8
+instructions:
+  - title: Plant the whole foot
+    detail: Place your full foot on each step, not just the toes.
+  - title: Drive through the heel
+    detail: Push through the heel and stand tall on every step.
+  - title: Stay off the rails
+    detail: Use the handrail for balance only, not to pull yourself up.
+  - title: Pace the effort
+    detail: Climb at a rhythm you can hold for the full session.
+safetyNotes: >-
+  Going down stairs loads the knees harder than going up — use a rail for balance on descents late in a long session.
+  Keeping only the toes on the step overworks the Achilles.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168006-qnxqr1/img-female-mtkveu0p8z8z.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168006-qnxqr1/img-male-mtkve8xwsrbn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168006-qnxqr1/img-female-mtkveu0p8z8z.webp
+youtubeSearchQuery: Stair Climbing proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.301Z"
+updatedAt: "2026-09-03T01:53:02.611Z"

@@ -1,0 +1,59 @@
+id: lib-1788127170512-4628i9
+name: Overhead Triceps Stretch
+description: >-
+  Elbow pointed at the ceiling, hand sliding down the spine — stretches the triceps and reaches into the lat. It
+  restores the overhead range that pressing and pulldown work quietly steal. Gentle overpressure from the opposite hand
+  on the elbow is all it takes.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles:
+  - Back
+  - Shoulders
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Upper Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Reach overhead
+    detail: Raise one arm overhead and bend the elbow so the hand drops behind your neck.
+  - title: Walk hand down
+    detail: Slide the hand down between the shoulder blades as far as it comfortably goes.
+  - title: Add overpressure
+    detail: Grip the raised elbow with the opposite hand and press it gently back and down.
+  - title: Hold tall
+    detail: Keep the ribs down and hold without arching the low back.
+safetyNotes: >-
+  Flaring the ribs and arching the back fakes extra range — keep the trunk stacked so the stretch stays in the arm and
+  lat. Ease off if the shoulder pinches at the top.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170512-4628i9/img-female-mtkrpe11lpo2.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170512-4628i9/img-male-mtkrows6biz4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170512-4628i9/img-female-mtkrpe11lpo2.webp
+youtubeSearchQuery: Overhead Triceps Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.803Z"
+updatedAt: "2026-09-03T00:09:16.826Z"

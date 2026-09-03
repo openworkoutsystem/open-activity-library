@@ -1,0 +1,70 @@
+id: lib-1772957423019-qjl6cy
+name: Bicycle Crunch
+description: >-
+  Dynamic core exercise that targets the rectus abdominis and obliques with a controlled pedaling and twisting motion.
+  Excellent for rotational strength and much more neck-friendly than traditional sit-ups.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Obliques
+secondaryMuscles:
+  - Hip Flexors
+equipment:
+  - yoga_mat
+tags:
+  - Bodyweight
+  - Dynamic Stretching
+  - Strength
+  - Calisthenics
+modality: resistance
+metValue: 4.5
+muscleActivationMap:
+  Abs: 0.5
+  Obliques: 0.35
+  Hip Flexors: 0.15
+instructions:
+  - title: Starting Position
+    detail: >-
+      Lie flat on your back on a mat with your lower back pressed into the floor. Place your hands lightly behind your
+      head, elbows out wide. Lift your knees to a 90-degree tabletop position.
+  - title: The Movement
+    detail: >-
+      Exhale and crunch up, bringing your right elbow toward your left knee while extending your right leg straight out
+      at about 45 degrees. Keep your lower back pressed down.
+  - title: Switch Sides
+    detail: >-
+      Inhale as you return to center, then immediately twist to the other side, bringing your left elbow toward your
+      right knee while extending your left leg. Continue alternating in a smooth pedaling motion.
+  - title: Form Cues
+    detail: >-
+      Move slowly and with control. Focus on twisting from the torso, not pulling on your neck. Keep your chin slightly
+      tucked as if holding an egg under it.
+safetyNotes: >-
+  Avoid if you have neck pain or cervical issues. Do not pull on your head with your hands. Stop if you feel any lower
+  back discomfort. Keep movements controlled. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - category: movement
+    isPrimary: true
+    key: reps
+defaults:
+  restSeconds: 45
+  repSpeed: 3
+  reps: 20
+  sets: 4
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957423019-qjl6cy/img-female-mtjkm1ydto9u.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957423019-qjl6cy/img-male-mtjkm0jpqmqk.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772957423019-qjl6cy/img-female-mtjkm1ydto9u.webp
+youtubeSearchQuery: bicycle crunches proper form tutorial
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-08T08:10:22.025Z"
+updatedAt: "2026-08-31T23:03:49.899Z"

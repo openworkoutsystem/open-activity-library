@@ -1,0 +1,61 @@
+id: lib-1788127158806-na3g5d
+name: Overhead Triceps Extension
+description: >-
+  Lower the dumbbell behind the head and press up — long-head triceps under stretch. The overhead position is the only
+  common angle that fully lengthens the long head, which is why this move grows the part of the arm the pushdown misses.
+  Elbows point at the ceiling and stay narrow the whole time.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles: []
+equipment:
+  - dumbbells
+tags:
+  - Isolation
+  - Dumbbell
+  - Upper Body
+  - Strength
+  - Push
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Get overhead
+    detail: Hold one dumbbell with both hands under the top plate and press it overhead.
+  - title: Lower behind head
+    detail: Bend the elbows and lower the dumbbell slowly behind your head.
+  - title: Keep elbows narrow
+    detail: Point the elbows at the ceiling and stop them from flaring outward.
+  - title: Press to lockout
+    detail: Straighten the arms fully without letting the elbows drift forward.
+safetyNotes: >-
+  This position demands overhead shoulder mobility — if you cannot get the arms vertical without arching the low back,
+  work seated with back support or pick a different triceps move. Lower slowly; a dropped dumbbell here lands on your
+  head or neck.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158806-na3g5d/img-female-mtkr1a8ivwbk.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158806-na3g5d/img-male-mtkr0oc66ip2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158806-na3g5d/img-female-mtkr1a8ivwbk.webp
+youtubeSearchQuery: Overhead Triceps Extension proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.112Z"
+updatedAt: "2026-09-02T23:50:32.103Z"

@@ -1,0 +1,89 @@
+id: lib-1772653402223-6305oa
+name: Barbell Back Squat
+description: >-
+  A fundamental compound lower body exercise that targets the quads, glutes, and hamstrings while building overall
+  strength and power. Performed with a barbell across the upper back, emphasizing depth and control for maximum
+  effectiveness.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+  - Adductors
+  - Lower Back
+  - Abs
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Strength
+  - Compound
+  - Lower Body
+  - Squat
+  - Barbell
+  - Quads
+  - Glutes
+  - Hamstrings
+modality: resistance
+metValue: 4.5
+muscleActivationMap:
+  Quadriceps: 0.35
+  Glutes: 0.3
+  Hamstrings: 0.15
+  Abs: 0.1
+  Lower Back: 0.1
+instructions:
+  - title: Setup
+    detail: >-
+      Position a barbell at upper chest height in a squat rack. Step under the bar, place it across your upper back
+      (traps), gripping it shoulder-width or wider with wrists straight. Feet shoulder-width apart, toes slightly out.
+  - title: Unrack
+    detail: >-
+      Engage your core, keep chest up, and unrack the bar by straightening your legs. Take 1-2 steps back, feet flat,
+      knees tracking over toes.
+  - title: Descent
+    detail: >-
+      Initiate the squat by pushing hips back and bending knees. Lower until hips are at or below knee level (full
+      depth), keeping torso upright, weight in heels/mid-foot, and knees tracking in line with toes.
+  - title: Ascent
+    detail: >-
+      Drive through heels to stand explosively, pushing hips forward and squeezing glutes at the top. Fully extend hips
+      and knees without locking out harshly.
+  - title: Repeat
+    detail: Control the eccentric (lowering) phase with a 3-second tempo. Maintain neutral spine throughout.
+safetyNotes: >-
+  Consult a professional if you have knee, back, or hip issues. Use a spotter or safety bars for heavy loads. Avoid
+  rounding the back, letting knees cave in, or partial depth. Warm up thoroughly. Stop if you feel pain in joints (vs.
+  muscle burn). Beginners should master bodyweight/air squats first.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  repSpeed: 3
+  sets: 3
+  reps: 11
+  estimatedDurationMinutes: 8
+  restSeconds: 120
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772653402223-6305oa/img-female-mtjklt8x9tl1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772653402223-6305oa/img-male-mtjklrppzvjv.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772653402223-6305oa/img-female-mtjklt8x9tl1.webp
+youtubeSearchQuery: barbell back squat proper form tutorial
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-04T19:43:20.740Z"
+updatedAt: "2026-09-01T23:46:55.627Z"

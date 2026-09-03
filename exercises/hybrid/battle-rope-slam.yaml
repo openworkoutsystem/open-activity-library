@@ -1,0 +1,71 @@
+id: lib-1788215817797-nvbfl0
+name: Battle Rope Slam
+description: >-
+  Hinge back with a rope end in each hand, rip both arms overhead, then slam the ropes into the floor as the hips snap
+  through. Unlike alternating waves, which are a steady grind, the slam is a single full-body power expression where
+  lats, shoulders, and hips fire together on every rep. Reset to a tall stance between reps instead of chasing the rope
+  with your arms only.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Back
+  - Abs
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Quadriceps
+  - Forearms
+equipment:
+  - battle_ropes
+tags:
+  - Compound
+  - Hinge
+  - HIIT
+  - Functional
+  - High-Intensity
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Anchor and grip
+    detail: >-
+      Take a rope end in each hand with the rope anchored in front of you and back up until only a small amount of slack
+      remains.
+  - title: Set the stance
+    detail: Stand with the feet just outside shoulder width, knees bent and hips back, chest up in an athletic quarter squat.
+  - title: Load overhead
+    detail: Extend the hips and pull both rope ends up above your head in one motion, finishing tall with the arms high.
+  - title: Slam it down
+    detail: >-
+      Drive the ropes into the floor as hard as you can while the hips hinge back and the abs brace, ending with the
+      hands near your knees.
+  - title: Reset every rep
+    detail: >-
+      Return to the tall position before the next slam so each rep carries the same effort instead of fading into short
+      chops.
+safetyNotes: >-
+  The overhead-to-slam arc loads the lower back if the spine rounds, so hinge from the hips and keep the back flat
+  through the finish. Check the anchor before you start and keep other people well outside the arc of the ropes.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 4
+  reps: 15
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817797-nvbfl0/img-female-mtkltkt3aad9.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817797-nvbfl0/img-male-mtklss7v4f85.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817797-nvbfl0/img-female-mtkltkt3aad9.webp
+youtubeSearchQuery: Battle Rope Slam proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.078Z"
+updatedAt: "2026-09-02T21:24:34.526Z"

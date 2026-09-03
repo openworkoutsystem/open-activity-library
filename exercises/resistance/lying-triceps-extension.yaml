@@ -1,0 +1,61 @@
+id: lib-1788127158956-db9s5d
+name: Lying Triceps Extension
+description: >-
+  Lower the bar to the forehead from a bench press position — the classic "skullcrusher." Only the elbows bend; the
+  upper arms stay near vertical while the bar arcs to the forehead or just behind the head. It loads the triceps heavier
+  than most isolation work, which is both its value and its risk.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles: []
+equipment:
+  - ez_curl_bar
+  - bench_flat
+tags:
+  - Isolation
+  - Upper Body
+  - Strength
+  - Push
+  - Weightlifting
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set up lying
+    detail: Lie on a flat bench holding the EZ bar over your chest with arms straight.
+  - title: Bend at elbows
+    detail: Lower the bar toward your forehead by bending only the elbows.
+  - title: Hold arm angle
+    detail: Keep the upper arms near vertical instead of letting them drop toward the bench.
+  - title: Extend to lockout
+    detail: Drive the bar back to straight arms and squeeze the triceps.
+safetyNotes: >-
+  This movement is notoriously hard on the elbow tendons — keep loads moderate, progress slowly, and stop the set if you
+  feel elbow pain rather than pushing through. The bar path travels over your face, so control every inch of the
+  descent.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158956-db9s5d/img-female-mtkqbnqqoukl.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158956-db9s5d/img-male-mtkqb1hez3wr.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158956-db9s5d/img-female-mtkqbnqqoukl.webp
+youtubeSearchQuery: Lying Triceps Extension proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.255Z"
+updatedAt: "2026-09-02T23:30:36.557Z"

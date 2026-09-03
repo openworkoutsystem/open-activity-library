@@ -1,0 +1,60 @@
+id: lib-1788127171851-82k31m
+name: Thoracic Rotation
+description: >-
+  All-fours reach-throughs and open-books that put rotation back in the mid-back, where it belongs. One hand goes behind
+  the head or threads under the body while the hips stay square, so the twist comes from the thoracic spine rather than
+  the lumbar. Essential prep before pressing, rowing, or any rotational sport work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Obliques
+  - Shoulders
+equipment:
+  - yoga_mat
+tags:
+  - Warm-Up
+  - Mobility
+  - Rotation
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Set all fours
+    detail: Kneel with hands under shoulders and sit the hips back slightly to lock the low back.
+  - title: Hand behind head
+    detail: Place one hand behind your head with the elbow pointing down.
+  - title: Rotate open
+    detail: Turn the elbow toward the ceiling, following it with your eyes.
+  - title: Thread through
+    detail: Reverse and reach that arm under your body along the floor.
+  - title: Switch sides
+    detail: Complete the time on one side, then repeat on the other.
+safetyNotes: >-
+  Keep the hips square and the low back quiet — the rep only counts if the rotation comes from the mid-back. Sitting
+  back toward the heels before rotating locks the lumbar out of the movement.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171851-82k31m/img-male-mtkwj8969b9m.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171851-82k31m/img-male-mtkwj8969b9m.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171851-82k31m/img-female-mtkw21orkpcj.webp
+youtubeSearchQuery: Thoracic Rotation proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.147Z"
+updatedAt: "2026-09-03T02:24:27.312Z"

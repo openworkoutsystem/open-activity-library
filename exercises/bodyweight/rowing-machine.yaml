@@ -1,0 +1,31 @@
+id: lib-1787797554171-f6f8x0
+name: Rowing Machine
+description: ""
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags: []
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797554171-f6f8x0/img-female-mtku20hqzvks.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797554171-f6f8x0/img-male-mtku1g09dork.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797554171-f6f8x0/img-female-mtku20hqzvks.webp
+youtubeSearchQuery: how to Rowing Machine exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-27T02:25:54.259Z"
+updatedAt: "2026-09-03T01:15:05.320Z"

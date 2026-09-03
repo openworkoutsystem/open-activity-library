@@ -1,0 +1,57 @@
+id: lib-1788131479311-1otwm8
+name: Yoga Flow
+description: >-
+  A free-form vinyasa block — an open container for whatever sequence the day calls for, logged as time on the mat. It
+  trains mobility, breath control, and general capacity in one continuous practice. String the poses together on the
+  breath and keep moving.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles: []
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mind-Body
+  - Mobility
+  - Low-Impact
+modality: flexibility
+metValue: 4
+instructions:
+  - title: Set the space
+    detail: Roll out the mat and pick a rough intention for the block.
+  - title: Warm up first
+    detail: Open with a few rounds of sun salutations or gentle movement.
+  - title: Flow on the breath
+    detail: Link poses continuously, moving with each inhale and exhale.
+  - title: Close it down
+    detail: Wind toward floor poses and finish in a short rest before stopping the timer.
+safetyNotes: >-
+  A flow is only as safe as its hardest position — scale or skip any pose in the sequence that exceeds your current
+  level.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479311-1otwm8/img-female-mtkxf6qw3rek.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479311-1otwm8/img-male-mtkxekz2s2rg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479311-1otwm8/img-female-mtkxf6qw3rek.webp
+youtubeSearchQuery: vinyasa yoga flow
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.577Z"
+updatedAt: "2026-09-03T02:49:17.967Z"

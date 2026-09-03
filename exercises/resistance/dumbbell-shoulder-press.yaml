@@ -1,0 +1,64 @@
+id: lib-1788127153635-zmw65q
+name: Dumbbell Shoulder Press
+description: >-
+  Overhead press with a dumbbell in each hand, seated or standing — the shoulder-friendly staple of vertical pushing.
+  The free path lets each arm find the angle its shoulder prefers, and each side has to earn its own reps. The best
+  first overhead press for most lifters.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+  - Traps
+equipment:
+  - dumbbells
+  - bench_adjustable
+tags:
+  - Push
+  - Dumbbell
+  - Compound
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4.5
+unilateral: optional
+instructions:
+  - title: Set the start
+    detail: Bring the dumbbells to shoulder height with palms facing forward or slightly turned in.
+  - title: Brace your trunk
+    detail: Sit or stand tall with ribs down so the press comes from the shoulders, not a back lean.
+  - title: Press up and in
+    detail: Drive both dumbbells overhead until the arms are straight, finishing with the weights close together.
+  - title: Lower to shoulders
+    detail: Bring the dumbbells back down under control to shoulder height and repeat.
+safetyNotes: >-
+  Getting heavy dumbbells into position is where people get hurt — kick them up one at a time from your knees rather
+  than swinging them from the floor. Stop the set while you can still lower both weights under control.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153635-zmw65q/img-female-mtkeiqf4wvk1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153635-zmw65q/img-male-mtkei4nqo6g0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153635-zmw65q/img-female-mtkeiqf4wvk1.webp
+youtubeSearchQuery: Dumbbell Shoulder Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.935Z"
+updatedAt: "2026-09-02T18:00:11.460Z"

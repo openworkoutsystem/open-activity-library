@@ -1,0 +1,60 @@
+id: lib-1788127154503-mc5vc3
+name: Dead Hang
+description: >-
+  Hang from the bar with straight arms and let gravity do the rest — grip work, shoulder decompression, and the first
+  step toward a pull-up. Time under the bar builds the forearm endurance and comfortable overhead position every
+  vertical pull depends on. Start passive, then learn to pull the shoulders down slightly for an active hang.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+secondaryMuscles:
+  - Back
+  - Shoulders
+  - Rotator Cuff
+equipment:
+  - pull_up_bar
+tags:
+  - Isometric
+  - Grip
+  - Bodyweight
+  - Pull
+  - Calisthenics
+modality: resistance
+metValue: 2.8
+instructions:
+  - title: Grip the bar
+    detail: Take an overhand grip just outside shoulder width and step off the support.
+  - title: Hang long
+    detail: Let your arms straighten fully and your body hang still beneath the bar.
+  - title: Breathe steadily
+    detail: Keep breathing normally instead of holding your breath against the grip effort.
+  - title: Dismount with control
+    detail: Step back onto the support or land softly with bent knees — do not just let go and drop.
+safetyNotes: >-
+  A fully passive hang bothers some shoulders — if yours pinches, pull the shoulder blades down slightly into an active
+  hang instead. Land deliberately with bent knees; most hang injuries are careless dismounts, not the hang itself.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154503-mc5vc3/img-female-mtka1pw8ahd9.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154503-mc5vc3/img-male-mtka13k2waui.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154503-mc5vc3/img-female-mtka1pw8ahd9.webp
+youtubeSearchQuery: Dead Hang proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.805Z"
+updatedAt: "2026-09-02T15:54:59.335Z"

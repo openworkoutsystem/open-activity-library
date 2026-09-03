@@ -1,0 +1,58 @@
+id: lib-1788127169397-n463yj
+name: Standing Quad Stretch
+description: >-
+  Pull the heel to the glute with the knees together — a direct stretch for the front of the thigh. It is the standard
+  finisher after running, cycling, or leg day. Squeezing the glute on the standing-still side keeps the stretch in the
+  quad instead of the low back.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Hip Flexors
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Lower Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Stand tall
+    detail: Stand on one leg, holding a wall or chair if you need balance.
+  - title: Pull heel back
+    detail: Grab the ankle of the free leg and draw the heel toward the glute.
+  - title: Keep knees together
+    detail: Point the bent knee straight down so it stays beside the standing knee.
+  - title: Tuck and hold
+    detail: Tuck the pelvis slightly, squeeze the glute, and hold while breathing.
+safetyNotes: >-
+  Letting the knee drift forward or the back arch shifts the stretch out of the quad and into the lumbar spine — keep
+  the pelvis tucked. Skip the deep pull if the knee itself complains.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169397-n463yj/img-female-mtkvihxfm1nc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169397-n463yj/img-male-mtkvhsliizg4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169397-n463yj/img-female-mtkvihxfm1nc.webp
+youtubeSearchQuery: Standing Quad Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.692Z"
+updatedAt: "2026-09-03T01:55:53.483Z"

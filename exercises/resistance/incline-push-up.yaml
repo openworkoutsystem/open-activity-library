@@ -1,0 +1,58 @@
+id: lib-1788127152283-bzkq6f
+name: Incline Push-Up
+description: >-
+  Hands on a bench or bar — a scaled push-up that keeps strict form available. Raising the hands reduces the load on
+  chest, shoulders, and triceps without changing the pattern, and every notch lower is a built-in progression toward the
+  floor. The distinguishing cue: the plank stays just as rigid as a full push-up, only the angle changes.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Triceps
+  - Front Delts
+  - Abs
+equipment:
+  - bench_flat
+tags:
+  - Push
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Grip the edge
+    detail: Place your hands shoulder-width on a bench, bar, or sturdy edge.
+  - title: Walk feet back
+    detail: Step back until your body forms one straight line from head to heels.
+  - title: Lower to the edge
+    detail: Bend your elbows and lower your chest to the surface under control.
+  - title: Press to lockout
+    detail: Drive through your palms until your arms are fully straight.
+safetyNotes: >-
+  Make sure the bench or bar cannot slide before you load it — a moving surface is how these go wrong. Keep the hips
+  level; sagging shifts stress into the low back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152283-bzkq6f/img-female-mtkol0ij73ge.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152283-bzkq6f/img-male-mtkokdoyqvb5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152283-bzkq6f/img-female-mtkol0ij73ge.webp
+youtubeSearchQuery: Incline Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.590Z"
+updatedAt: "2026-09-02T22:41:53.923Z"

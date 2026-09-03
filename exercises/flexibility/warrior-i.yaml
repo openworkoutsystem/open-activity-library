@@ -1,0 +1,62 @@
+id: lib-1788131476792-pqof89
+name: Warrior I
+description: >-
+  A lunge-stance standing pose with the back heel grounded, hips squared forward, and arms reaching tall. It strengthens
+  the front leg's quadriceps and glutes while opening the back leg's hip flexor and calf. Most of the pose lives in
+  squaring the hips toward the front of the mat.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hip Flexors
+  - Calves
+  - Shoulders
+equipment: []
+tags:
+  - Yoga
+  - Lower Body
+  - Flexibility
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Take the stance
+    detail: Step one foot back about a leg's length and angle the back foot slightly out.
+  - title: Ground the heel
+    detail: Press the entire back foot into the floor, heel included.
+  - title: Square the hips
+    detail: Draw both hip points to face the front of the mat.
+  - title: Bend and reach
+    detail: Bend the front knee over the ankle and sweep the arms overhead.
+  - title: Hold and switch
+    detail: Breathe through the hold, then repeat on the other side.
+safetyNotes: >-
+  Keep the front knee tracking over the ankle, not past the toes, and shorten the stance if the back hip will not square
+  forward.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476792-pqof89/img-female-mtkwzmmh2vsa.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476792-pqof89/img-male-mtkwz33gu1aa.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476792-pqof89/img-female-mtkwzmmh2vsa.webp
+youtubeSearchQuery: Warrior I yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.059Z"
+updatedAt: "2026-09-03T02:37:12.431Z"

@@ -1,0 +1,58 @@
+id: lib-1788127173292-s62df5
+name: Foam Roll Lats
+description: >-
+  Side-lying with the arm overhead, working the armpit wall from just below the shoulder down the side of the ribs. Rock
+  slightly forward and back to cover the lat's width, and pause where it's tender — which for most lifters is everywhere
+  at first. Great before overhead pressing or pull-ups.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Serratus Anterior
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Lie on side
+    detail: Place the roller under the armpit with the bottom arm reached overhead.
+  - title: Roll the wall
+    detail: Travel slowly from below the armpit down the side of the ribcage.
+  - title: Rock and search
+    detail: Tilt slightly toward the back and front to cover the lat's width.
+  - title: Switch sides
+    detail: Complete the time, then repeat on the other lat.
+safetyNotes: >-
+  Stay on the muscular wall behind the armpit — the front of the armpit carries nerves and vessels that don't want a
+  roller on them. Moderate pressure with slow breathing beats crushing this sensitive area.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173292-s62df5/img-female-mtkob6t5xnay.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173292-s62df5/img-male-mtkoaholil77.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173292-s62df5/img-female-mtkob6t5xnay.webp
+youtubeSearchQuery: Foam Roll Lats technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.584Z"
+updatedAt: "2026-09-02T22:34:15.157Z"

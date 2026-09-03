@@ -1,0 +1,52 @@
+id: lib-1774910645748-c7uopf
+name: Cable Triceps Pushdown
+description: Cable tricep pushdowns for tricep isolation. Great for building arm size and lockout strength.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Triceps
+secondaryMuscles: []
+equipment:
+  - cable_machine
+tags:
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Setup
+    detail: Attach straight bar or rope to high cable. Stand facing machine, elbows at sides.
+  - title: Push down
+    detail: Press the bar down by extending elbows until arms are straight. Keep elbows pinned to sides.
+  - title: Squeeze
+    detail: Hold the bottom position briefly, squeezing triceps.
+  - title: Return
+    detail: Slowly let the bar come back up to about 90 degrees at the elbow. Don't let elbows flare.
+safetyNotes: Keep elbows stationary at sides. Don't use momentum or lean into the weight.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  reps: 10
+  restSeconds: 60
+  estimatedDurationMinutes: 4
+  sets: 2
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645748-c7uopf/img-female-mtjkmgb3r3jw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645748-c7uopf/img-male-mtjkmexojs66.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910645748-c7uopf/img-female-mtjkmgb3r3jw.webp
+youtubeSearchQuery: "\"tricep pushdown cable form\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:05.764Z"
+updatedAt: "2026-09-02T04:41:51.431Z"

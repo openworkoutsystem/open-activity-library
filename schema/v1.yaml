@@ -1,0 +1,137 @@
+# Open Activity Library — Exercise Schema v1
+# This defines the canonical format for exercises in the library.
+# All YAML exports and the git repo follow this schema.
+
+exercise:
+  # ── Identity ──
+  id: string                          # lib-{timestamp}-{random}
+  name: string                        # Human-readable exercise name
+  description: string                 # 1-3 sentence description
+  experienceLevelRecommended: enum    # beginner | intermediate | advanced
+  schemaVersion: 1
+
+  # ── Classification ──
+  primaryMuscles: string[]            # Primary muscles targeted
+  secondaryMuscles: string[]          # Secondary/stabilizer muscles
+  equipment: string[]                 # Required equipment (empty = bodyweight)
+  tags: string[]                      # Searchable tags
+  modality: enum                      # resistance | cardio | hybrid | flexibility | sport
+  metValue: number                    # MET intensity (Compendium of Physical Activities)
+  unilateral: enum                    # always | never | optional — per-side execution mode
+
+  # ── Muscle Activation ──
+  muscleActivationMap:                # Weights summing to ~1.0
+    chest: 0.4
+    triceps: 0.3
+    front_delt: 0.2
+    core: 0.1
+
+  # ── Guidance ──
+  instructions:                       # Step-by-step instructions
+    - title: string                   # Optional step title
+      detail: string                  # Required step description
+  safetyNotes: string                 # Safety warnings and precautions
+
+  # ── Tracking Configuration ──
+  trackableMetrics:                   # What can be tracked per set
+    - key: string                     # reps | duration | distance | weight | etc.
+      label: string                   # Display label (optional)
+      unit: string                    # seconds | minutes | lbs | kg | etc.
+      isPrimary: boolean              # Primary movement metric
+      category: enum                  # movement | load
+
+  defaults:                           # Sensible default values
+    sets: number
+    reps: number
+    durationSeconds: number
+    distanceValue: number
+    distanceUnit: string              # miles | km | meters
+    weight: number
+    weightUnit: string                # lbs | kg
+    restSeconds: number
+    repSpeed: number                  # seconds per rep
+    estimatedDurationMinutes: number
+    estimatedCalories: number
+
+  # ── Media ──
+  imageUrl: string                    # Thumbnail URL
+  imageUrlMale: string                # Gender-specific thumbnail
+  imageUrlFemale: string
+  animatedImageUrl: string            # MP4 animation URL
+  animatedImageUrlMale: string
+  animatedImageUrlFemale: string
+  youtubeSearchQuery: string          # YouTube search for form demo
+
+  # ── Extension ──
+  params: object                      # Free-form key/value (device settings, etc.)
+
+  # ── Hardware Enhancements ──
+  hardwareEnhancements:               # Capabilities a connected device adds to this exercise
+    - capability: string              # Capability ID (see vocabulary below)
+      role: enum                      # primary_load | tracking | feedback | environment
+      autoTrack: string[]             # Metrics to auto-record when device connected
+      requiredParams: string[]        # ControllableParam types the exercise needs
+      defaultProgram:                 # Optional pre-configured device program
+        targetCapability: string
+        steps:
+          - trigger:
+              type: enum              # immediate | time | rep_count | metric_threshold | user_input
+              value: number | string
+              unit: string
+              comparison: enum        # gte | lte | eq
+            action: enum              # set | ramp | hold | pulse | stop
+            params: object            # e.g. { resistance_lbs: 50 }
+            duration: number          # Seconds
+            label: string
+        repeat: number                # 0 = run once
+
+  # ── Provenance (read-only in exports) ──
+  provenance:
+    confidence: number                # 0-1, auto-calculated
+    citations:
+      - url: string
+        title: string
+        accessedAt: string            # ISO date
+    lastReviewedAt: string
+    reviewCount: number
+    contributorCount: number
+
+  # ── Feedback (read-only in exports) ──
+  feedbackSummary:
+    thumbsUp: number
+    thumbsDown: number
+    flagCount: number
+
+  # ── Status ──
+  validationStatus: enum              # validated | pending_validation | stale
+  usageCount: number
+
+  # ── Timestamps ──
+  createdAt: string                   # ISO date
+  updatedAt: string                   # ISO date
+
+# ── Canonical Muscle Groups ──
+# chest, back, shoulders, biceps, triceps, forearms, core, abs, obliques,
+# quadriceps, hamstrings, glutes, calves, hip_flexors, adductors, abductors,
+# traps, lats, rhomboids, erector_spinae, front_delt, side_delt, rear_delt,
+# rotator_cuff, neck, tibialis
+
+# ── Canonical Device Capabilities ──
+# Load: variable_resistance, eccentric_control, isometric_hold, speed_control, incline_control, resistance_control
+# Tracking: force_measurement, position_tracking, velocity_tracking, power_tracking, cadence_tracking,
+#           distance_tracking, pace_tracking, heart_rate_monitor, heart_rate_passthrough, step_counter,
+#           gps_tracking, accelerometer, balance_measurement
+# Feedback: haptic_feedback, audio_feedback, visual_feedback
+# Control: programmable_sequence, row_simulation
+
+# ── Canonical Equipment ──
+# (Generated from lib/equipment/vocabulary.ts — the single vocabulary the
+#  app filters by. Common synonyms are accepted and folded onto these.)
+# dumbbells, barbell, weight_plates, ez_curl_bar, trap_bar, kettlebells
+# pull_up_bar, resistance_bands, cable_machine, smith_machine
+# weight_machines, bench_flat, bench_adjustable, squat_rack, leg_press
+# treadmill, rowing_machine, stationary_bike, elliptical, jump_rope
+# yoga_mat, gym_flooring, foam_roller, ab_wheel, dip_station, trx_suspension
+# medicine_ball, stability_ball, battle_ropes, plyo_box, storage
+# accessories, smart_resistance
+# empty array = bodyweight

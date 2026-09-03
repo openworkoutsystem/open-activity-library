@@ -1,0 +1,62 @@
+id: lib-1788127163945-jm65uc
+name: Barbell High Pull
+description: >-
+  An explosive pull that finishes with the bar at chest height and elbows high — no catch to learn. It delivers most of
+  the clean's power training at a fraction of the skill cost. Extend the hips fully before the arms bend; the pull is a
+  jump, not a row.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Traps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Shoulders
+  - Forearms
+equipment:
+  - barbell
+tags:
+  - Barbell
+  - Hinge
+  - Pull
+  - Compound
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set the start
+    detail: Start from mid-thigh or the floor with a flat back and straight arms.
+  - title: Jump first
+    detail: Extend the hips and knees explosively before the arms bend.
+  - title: Pull elbows high
+    detail: Drag the bar up the body until the elbows ride above the wrists at chest height.
+  - title: Lower with control
+    detail: Return the bar down the same close path and reset.
+safetyNotes: >-
+  The pull comes from full hip extension, not an arm yank — bending the elbows early strains the biceps and kills the
+  power. Keep the bar close; a swinging bar drags the low back into extension.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163945-jm65uc/img-female-mtjkp9q06zv4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163945-jm65uc/img-male-mtjkp8gmnqqn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163945-jm65uc/img-female-mtjkp9q06zv4.webp
+youtubeSearchQuery: Barbell High Pull proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.235Z"
+updatedAt: "2026-09-02T03:46:00.780Z"

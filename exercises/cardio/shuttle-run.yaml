@@ -1,0 +1,59 @@
+id: lib-1788127174307-k1y0oj
+name: Shuttle Run
+description: >-
+  Sprint between two lines, touching each one before turning — conditioning with braking and change of direction built
+  in. It trains acceleration, deceleration, and the legs' ability to absorb force and redirect it. The turn is the
+  workout: get low, plant hard, and drive back out.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Calves
+  - Glutes
+equipment: []
+tags:
+  - Agility Drills
+  - Sprint Intervals
+  - HIIT
+  - Cardio
+  - Running
+modality: cardio
+metValue: 10
+instructions:
+  - title: Mark the lines
+    detail: Set two lines ten to twenty yards apart on a grippy surface.
+  - title: Sprint and touch
+    detail: Sprint to the far line and touch it with a hand or foot.
+  - title: Sink into the turn
+    detail: Drop the hips and shorten the steps to decelerate before planting.
+  - title: Drive back out
+    detail: Push hard off the outside leg and accelerate back the other way.
+safetyNotes: >-
+  Decelerating into the turn loads the knees and ankles hardest — warm up thoroughly and run the first rounds at
+  three-quarter speed before going all-out. A grippy surface and stable shoes matter more here than in straight-line
+  running.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 60
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174307-k1y0oj/img-female-mtkuhffjtrf3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174307-k1y0oj/img-male-mtkugvomoqlo.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174307-k1y0oj/img-female-mtkuhffjtrf3.webp
+youtubeSearchQuery: Shuttle Run proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.601Z"
+updatedAt: "2026-09-03T01:27:04.100Z"

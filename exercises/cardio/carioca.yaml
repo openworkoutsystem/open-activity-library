@@ -1,0 +1,73 @@
+id: lib-1788215818132-vo5n2c
+name: Carioca
+description: >-
+  Travel sideways while the trailing leg crosses alternately in front of and behind the lead leg, letting the hips
+  rotate with every cross. It is the standard field-sport warm-up drill for opening hip rotation and teaching the feet
+  to keep up with a turning torso. Stay on the balls of your feet and let the hips do the turning while the shoulders
+  stay roughly square.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+  - Adductors
+  - Hip Flexors
+secondaryMuscles:
+  - Glutes
+  - Obliques
+  - Calves
+equipment: []
+tags:
+  - Agility Drills
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+modality: cardio
+metValue: 6.5
+instructions:
+  - title: Stand sideways
+    detail: >-
+      Face perpendicular to your direction of travel with the feet hip width apart, knees soft, and the arms out for
+      balance.
+  - title: Cross in front
+    detail: Step the trailing leg across the front of the lead leg and let the hip rotate open as that foot lands.
+  - title: Cross behind
+    detail: Move the lead foot out to the side, then step the trailing leg behind it, rotating the hip the other way.
+  - title: Build the rhythm
+    detail: >-
+      Speed the alternating front-and-behind pattern up over ten to twenty yards, staying light on the balls of the
+      feet.
+  - title: Switch directions
+    detail: Come back the other way so the opposite hip leads, and repeat for two to four passes.
+safetyNotes: >-
+  The crossing step is a natural ankle-roll position, so start slow on flat even ground and add speed only once the
+  pattern is smooth. Keep carioca early in the warm-up while you are fresh, because tired legs are where the feet
+  tangle.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818132-vo5n2c/img-female-mtkmq929xdd1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818132-vo5n2c/img-male-mtkmfp14ifxd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818132-vo5n2c/img-female-mtkmq929xdd1.webp
+youtubeSearchQuery: Carioca drill proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.410Z"
+updatedAt: "2026-09-02T21:49:58.336Z"

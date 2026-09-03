@@ -1,0 +1,65 @@
+id: lib-1788215818282-pn2rqw
+name: Box Toe Taps
+description: >-
+  Stand in front of a low box and alternate tapping the ball of each foot on top as fast as you can control while
+  staying tall and light. It is the low-impact regression of the box jump, giving you the same quick-feet demand and
+  heart rate without ever leaving the ground with both feet. Keep the tap light and the tempo fast - you are touching
+  the box, not stepping onto it.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Hip Flexors
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Abs
+  - Tibialis Anterior
+equipment:
+  - plyo_box
+tags:
+  - Cardio
+  - Agility Drills
+  - Low-Impact
+  - Warm-Up
+modality: cardio
+metValue: 6
+instructions:
+  - title: Set the box
+    detail: Use a stable box six to twelve inches high and stand a short stride away from it with the feet hip width apart.
+  - title: Tap and switch
+    detail: >-
+      Touch the ball of one foot to the top of the box, then swap feet so the other foot taps as the first returns to
+      the floor.
+  - title: Stay tall and light
+    detail: Keep the chest up and the arms driving like a run, landing quietly on the floor foot instead of stomping.
+  - title: Hold the tempo
+    detail: Work at a quick sustainable rhythm for the whole interval and slow down before the form gets sloppy, not after.
+safetyNotes: >-
+  A box that slides or compresses will catch the toe, so use a stable box on a non-slip floor and keep the height low.
+  Burning in the front of the shins is normal fatigue, but stop the set if the tapping foot starts clipping the edge of
+  the box.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818282-pn2rqw/img-female-mtkm50remsgy.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818282-pn2rqw/img-male-mtkm44qpoznv.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818282-pn2rqw/img-female-mtkm50remsgy.webp
+youtubeSearchQuery: Box Toe Taps proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:57.563Z"
+updatedAt: "2026-09-02T21:33:28.547Z"

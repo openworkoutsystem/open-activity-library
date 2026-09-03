@@ -1,0 +1,61 @@
+id: lib-1788127171978-mpee9q
+name: Hip Circle
+description: >-
+  Big slow circles of the femur from all fours or standing — the hip capsule taken through its full available range.
+  Each circle sweeps through flexion, abduction, and extension in one smooth arc, done deliberately rather than fast.
+  One of the best drills for keeping hips that squat deep and hinge clean.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+  - Glutes
+secondaryMuscles:
+  - Abductors
+  - Adductors
+equipment: []
+tags:
+  - Warm-Up
+  - Mobility
+  - Dynamic Stretching
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Set position
+    detail: Start on all fours with the spine neutral and core lightly braced.
+  - title: Lift the knee
+    detail: Raise one knee toward the chest without shifting the hips.
+  - title: Circle wide
+    detail: Sweep the knee out to the side, then back and around in a slow full circle.
+  - title: Reverse direction
+    detail: Circle the opposite way for the same number of reps.
+  - title: Switch legs
+    detail: Repeat both directions on the other hip.
+safetyNotes: >-
+  Keep the circles smooth and the torso still — momentum and a rocking pelvis fake range the hip doesn't have. A pinch
+  at the front of the hip means make the circle smaller, not push through it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171978-mpee9q/img-female-mtkota9vdsf9.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171978-mpee9q/img-male-mtkosksreuhq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171978-mpee9q/img-female-mtkota9vdsf9.webp
+youtubeSearchQuery: Hip Circle proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.268Z"
+updatedAt: "2026-09-02T22:48:19.729Z"

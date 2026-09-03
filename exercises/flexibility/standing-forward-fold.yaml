@@ -1,0 +1,55 @@
+id: lib-1788131476640-a7oys9
+name: Standing Forward Fold
+description: >-
+  A standing hinge where the torso hangs over straight or softly bent legs — the hamstring release inside every sun
+  salutation. It stretches the hamstrings and calves and decompresses the lower back. Fold from the hips rather than the
+  waist, and let the head hang heavy.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+  - Lower Back
+equipment: []
+tags:
+  - Yoga
+  - Flexibility
+  - Stretching
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+instructions:
+  - title: Stand tall
+    detail: Start with feet hip-width apart and a soft bend in the knees.
+  - title: Hinge forward
+    detail: Fold from the hips and let the torso pour down over the legs.
+  - title: Hang heavy
+    detail: Release the head and neck completely and hold the elbows or let the arms dangle.
+  - title: Roll up slowly
+    detail: Stack the spine one vertebra at a time to return to standing.
+safetyNotes: Bend the knees generously if the hamstrings pull hard, and come up slowly to avoid lightheadedness.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476640-a7oys9/img-female-mtkwrq74d554.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476640-a7oys9/img-male-mtkwr1mzdm7p.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131476640-a7oys9/img-female-mtkwrq74d554.webp
+youtubeSearchQuery: Standing Forward Fold yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:15.905Z"
+updatedAt: "2026-09-03T02:31:03.942Z"

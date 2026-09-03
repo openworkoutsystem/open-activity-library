@@ -1,0 +1,72 @@
+id: lib-1772569532284-pqwywh
+name: Push-Up
+description: >-
+  Classic bodyweight push-up targeting chest, shoulders, and triceps while building core stability and endurance.
+  Perfect for strength building and 5K prep."
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+  - Shoulders
+secondaryMuscles:
+  - Abs
+equipment: []
+tags:
+  - Bodyweight
+  - Compound
+  - Strength
+  - Stability
+  - Calisthenics
+modality: resistance
+metValue: 7
+muscleActivationMap:
+  Chest: 0.4
+  Triceps: 0.25
+  Front Delts: 0.2
+  Abs: 0.1
+  Serratus Anterior: 0.05
+instructions:
+  - title: Starting Position
+    detail: >-
+      Begin in a high plank position with hands slightly wider than shoulders, fingers spread, body in a straight line
+      from head to heels. Engage core and glutes.
+  - title: Lower Phase
+    detail: >-
+      Bend elbows to lower chest toward floor, keeping elbows at 45-degree angle from body. Maintain straight body
+      line—no sagging hips.
+  - title: Bottom Position
+    detail: Lower until chest nearly touches ground (or forearms if beginner mod). Shoulders stay retracted.
+  - title: Push Phase
+    detail: Press through palms to extend arms, keeping elbows close to body. Exhale as you push up.
+  - title: Top Position
+    detail: Fully extend arms without locking elbows. Body returns to straight plank. Repeat.
+safetyNotes: >-
+  Stop immediately if you feel sharp pain in your left shoulder. Keep elbows at 45° angle, core tight, and body in a
+  straight line. Modify to knee push-ups or wall push-ups if needed due to shoulder pain or tech-neck. Maintain neutral
+  neck position—avoid looking up or dropping your head. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  restSeconds: 60
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772569532284-pqwywh/img-female-mtkvco7xwciz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772569532284-pqwywh/img-male-mtkvc6fo3qmp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772569532284-pqwywh/img-female-mtkvco7xwciz.webp
+youtubeSearchQuery: standard push up proper form tutorial shoulder safe
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-03T20:25:31.781Z"
+updatedAt: "2026-09-03T01:51:21.516Z"

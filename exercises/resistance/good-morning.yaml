@@ -1,0 +1,61 @@
+id: lib-1788127150567-8cpq5y
+name: Good Morning
+description: >-
+  With the bar on your back, hinge at the hips until the torso approaches parallel, then drive back to standing. It
+  hammers the hamstrings and spinal erectors and demands a strict brace the entire time. The leverage is brutal, so
+  weight climbs slowly here.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Lower Back
+secondaryMuscles:
+  - Glutes
+equipment:
+  - barbell
+  - squat_rack
+tags:
+  - Hinge
+  - Barbell
+  - Posterior Chain
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Rack the bar
+    detail: Set the bar on your upper back as for a squat and step back with feet hip-width.
+  - title: Brace hard
+    detail: Take a big breath and lock the ribs down before the first inch of movement.
+  - title: Hinge forward
+    detail: Push the hips back with soft knees until the torso nears parallel or the hamstrings stop you.
+  - title: Stand back up
+    detail: Drive the hips forward to return to standing without losing the brace.
+safetyNotes: >-
+  This lift punishes ego loading more than almost any other — the bar sits far from the hips and the low back pays for
+  any breakdown in position. Start with an empty bar and add weight in small steps only when every rep stays flat.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150567-8cpq5y/img-female-mtkfhlvc7ef0.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150567-8cpq5y/img-male-mtkffhbsfpjq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150567-8cpq5y/img-female-mtkfhlvc7ef0.webp
+youtubeSearchQuery: Good Morning proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.869Z"
+updatedAt: "2026-09-02T18:27:18.528Z"

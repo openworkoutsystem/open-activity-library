@@ -1,0 +1,31 @@
+id: lib-1787797556396-9ichtq
+name: Foam Rolling
+description: ""
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags: []
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797556396-9ichtq/img-female-mtknvxx8nkif.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797556396-9ichtq/img-male-mtknvarajivz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797556396-9ichtq/img-female-mtknvxx8nkif.webp
+youtubeSearchQuery: how to Foam Rolling exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-27T02:25:56.446Z"
+updatedAt: "2026-09-02T22:22:23.948Z"

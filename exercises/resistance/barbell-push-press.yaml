@@ -1,0 +1,59 @@
+id: lib-1774910707126-uxtbrq
+name: Barbell Push Press
+description: Barbell push press — explosive overhead press using leg drive. Bridges strength and power for shoulders and full body.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Quadriceps
+  - Abs
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Compound
+  - Strength
+  - Powerlifting
+  - Barbell
+modality: resistance
+metValue: 7
+instructions:
+  - title: Setup
+    detail: Bar at shoulder height in front rack position. Feet hip-width apart.
+  - title: Dip
+    detail: Quick shallow knee bend (quarter squat depth), keeping torso upright.
+  - title: Drive
+    detail: Explosively extend legs and press bar overhead in one smooth motion.
+  - title: Lockout
+    detail: Lock arms out overhead, bar over mid-foot. Lower under control back to shoulders.
+safetyNotes: Keep the dip shallow and fast. Don't press early before legs drive. Brace core throughout.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  repSpeed: 2
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910707126-uxtbrq/img-female-mtjkmx88e58d.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910707126-uxtbrq/img-male-mtjkmvwgosn7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910707126-uxtbrq/img-female-mtjkmx88e58d.webp
+youtubeSearchQuery: "\"barbell push press form tutorial\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:45:07.142Z"
+updatedAt: "2026-09-02T03:45:44.883Z"

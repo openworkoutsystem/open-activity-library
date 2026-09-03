@@ -1,0 +1,58 @@
+id: lib-1788127172904-sdnnu2
+name: Foam Roll Glutes
+description: >-
+  Sit on the roller, cross an ankle over the opposite knee, and lean into the hip you're working — that figure-four tilt
+  finds the deep spots the flat position misses. Small slow movements beat long passes here. One side at a time, and the
+  tight side usually announces itself.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Abductors
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Sit on roller
+    detail: Sit with the roller under one glute and hands behind you for support.
+  - title: Cross the ankle
+    detail: Place that side's ankle over the opposite knee.
+  - title: Lean and search
+    detail: Tilt toward the working hip and make small slow rolls.
+  - title: Pause and breathe
+    detail: Hold on tender points until they ease, then switch sides.
+safetyNotes: >-
+  Numbness or tingling running down the leg means you're pressing on the sciatic nerve — shift position off it
+  immediately. Deep glute spots are tender by nature; lean off slightly rather than gritting through sharp pain.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172904-sdnnu2/img-female-mtknpq9902fu.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172904-sdnnu2/img-male-mtknp4umdvd9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172904-sdnnu2/img-female-mtknpq9902fu.webp
+youtubeSearchQuery: Foam Roll Glutes technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.196Z"
+updatedAt: "2026-09-02T22:17:34.222Z"

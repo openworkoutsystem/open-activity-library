@@ -1,0 +1,58 @@
+id: lib-1788127157163-6l84s6
+name: Plank Shoulder Tap
+description: >-
+  From a high plank, you lift one hand to tap the opposite shoulder while the hips stay dead level. It adds
+  anti-rotation to the plank — three points of contact instead of four, and the trunk has to refuse the twist. Wide feet
+  make it easier; feet together make it brutal.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Obliques
+secondaryMuscles:
+  - Shoulders
+  - Triceps
+equipment: []
+tags:
+  - Core
+  - Stability
+  - Bodyweight
+  - No Equipment
+  - Calisthenics
+modality: resistance
+metValue: 3.3
+instructions:
+  - title: Set high plank
+    detail: Start in a push-up position with hands under shoulders and feet about hip width.
+  - title: Brace the trunk
+    detail: Squeeze the abs and glutes so the hips are locked in place.
+  - title: Tap the shoulder
+    detail: Lift one hand and touch the opposite shoulder without the hips swaying.
+  - title: Alternate slowly
+    detail: Return the hand and repeat on the other side at a controlled tempo.
+safetyNotes: >-
+  The rep is worthless if the hips rock side to side — slow down or widen the feet until they stay still. Watching your
+  hips in a mirror or on video is the fastest fix.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157163-6l84s6/img-female-mtkrcodpii9c.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157163-6l84s6/img-male-mtkrc1d96jsd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157163-6l84s6/img-female-mtkrcodpii9c.webp
+youtubeSearchQuery: Plank Shoulder Tap proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.463Z"
+updatedAt: "2026-09-02T23:59:23.132Z"

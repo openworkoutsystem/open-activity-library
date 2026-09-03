@@ -1,0 +1,63 @@
+id: lib-1788127155642-o7ytn2
+name: Chest-Supported Dumbbell Row
+description: >-
+  Lie face-down on an incline bench and row dumbbells with the chest pinned to the pad. The support removes the lower
+  back from the exercise entirely, so it is pure mid-back and lat work you can take close to failure. Drive the elbows
+  back and pause with the shoulder blades squeezed.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Forearms
+equipment:
+  - dumbbells
+  - bench_adjustable
+tags:
+  - Pull
+  - Dumbbell
+  - Compound
+  - Upper Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Set the bench
+    detail: Set an incline bench around 30 to 45 degrees and lie chest-down with a dumbbell in each hand.
+  - title: Hang and stretch
+    detail: Let the arms hang straight down with the shoulder blades loose.
+  - title: Row both dumbbells
+    detail: Drive the elbows up and back until the blades pinch together.
+  - title: Lower to stretch
+    detail: Return under control without lifting your chest off the pad.
+safetyNotes: >-
+  Keep the neck neutral rather than craning up off the pad. The chest stays glued down — arching off the bench
+  reintroduces the lower back this setup exists to spare.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155642-o7ytn2/img-female-mtk9x6k0dpsa.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155642-o7ytn2/img-male-mtk9w9lafz3c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155642-o7ytn2/img-female-mtk9x6k0dpsa.webp
+youtubeSearchQuery: Chest-Supported Dumbbell Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.946Z"
+updatedAt: "2026-09-02T15:51:27.602Z"

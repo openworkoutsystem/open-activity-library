@@ -1,0 +1,55 @@
+id: lib-1788127173661-eer4hy
+name: Burpee to Target
+description: >-
+  A full burpee finished with a jump to touch a target overhead — power expressed under fatigue. It trains the same
+  everything-at-once conditioning as the burpee and adds an honest max-effort jump to every rep. The cue that matters:
+  the jump is a real jump every time, not a tired hop.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles: []
+equipment: []
+tags:
+  - HIIT
+  - Plyometrics
+  - High-Intensity
+  - Bodyweight
+  - No Equipment
+modality: hybrid
+metValue: 9.5
+instructions:
+  - title: Pick the target
+    detail: Stand under a target you can touch with a solid but repeatable jump.
+  - title: Complete the burpee
+    detail: Squat, kick to a rigid plank, and bring the feet back under you.
+  - title: Jump and touch
+    detail: Drive up and touch the target with one or both hands at full extension.
+  - title: Land and reset
+    detail: Land soft with knees tracking over toes, then flow into the next rep.
+safetyNotes: >-
+  Jumping while gasping is where landings fall apart — end the set when landings get loud or the knees start caving
+  inward. Keep clear of anything you could clip on the way up.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173661-eer4hy/img-female-mtkm9zg927dn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173661-eer4hy/img-male-mtkm9aulnq96.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173661-eer4hy/img-female-mtkm9zg927dn.webp
+youtubeSearchQuery: Burpee to Target proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.955Z"
+updatedAt: "2026-09-02T21:37:20.122Z"

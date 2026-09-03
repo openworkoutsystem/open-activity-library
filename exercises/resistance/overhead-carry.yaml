@@ -1,0 +1,63 @@
+id: lib-1788127156608-zr0m90
+name: Overhead Carry
+description: >-
+  Press a weight to lockout and walk with the arm vertical, biceps by the ear. It is the honesty test for shoulder
+  stability — every step exposes drift in the lockout that a stationary press hides. Use a weight you can hold
+  motionless, and put it down the moment the elbow starts to bend.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Rotator Cuff
+  - Abs
+secondaryMuscles:
+  - Traps
+  - Forearms
+  - Obliques
+equipment:
+  - dumbbells
+  - kettlebells
+tags:
+  - Carry
+  - Functional
+  - Stability
+  - Core
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Press to lockout
+    detail: Press the weight overhead until the elbow is fully locked with the biceps by your ear.
+  - title: Pack the shoulder
+    detail: Pull the shoulder blade down into its socket and brace the trunk.
+  - title: Walk steady
+    detail: Take slow, deliberate steps while the weight stays motionless overhead.
+  - title: Lower safely
+    detail: If the lockout wavers, bring the weight down to the shoulder in front of you, never behind.
+safetyNotes: >-
+  Only carry overhead if you have the mobility to reach a true vertical lockout — walking on a compromised position
+  loads the shoulder badly with every step. If the arm starts to waver, lower the weight in front of you immediately.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156608-zr0m90/img-female-mtkrfcm5u1dh.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156608-zr0m90/img-male-mtkrerbpi6nr.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156608-zr0m90/img-female-mtkrfcm5u1dh.webp
+youtubeSearchQuery: Overhead Carry proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.914Z"
+updatedAt: "2026-09-03T00:01:27.884Z"

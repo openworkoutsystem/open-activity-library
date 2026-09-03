@@ -1,0 +1,80 @@
+id: lib-1773096605677-uo3a49
+name: Standing Calf Raise
+description: >-
+  Standing calf raises to target the calf muscles (gastrocnemius and soleus) for lower leg strength and development.
+  Simple bodyweight exercise, progressable with added weights.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles: []
+equipment: []
+tags:
+  - Isolation
+  - Lower Body
+  - Calves
+  - Bodyweight
+  - Standing
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+muscleActivationMap:
+  Calves: 0.5
+  Quadriceps: 0.2
+  Glutes: 0.2
+  Abs: 0.1
+instructions:
+  - title: Setup Stance
+    detail: >-
+      Stand with feet hip-width apart, toes pointing forward, near a wall or stable surface for balance if needed. Keep
+      knees slightly bent, core engaged, and shoulders relaxed. Hold arms at sides or place hands on hips. This can be
+      done on flat ground or with toes on an edge for greater range.
+  - title: Lift Heels
+    detail: >-
+      Slowly rise onto the balls of your feet by contracting calves, lifting heels as high as possible. Keep weight
+      evenly distributed across toes. Exhale during the lift for controlled ascent. Pause briefly at the top to maximize
+      muscle contraction.
+  - title: Controlled Lowering
+    detail: >-
+      Lower heels back to ground slowly, taking 3-4 seconds to resist gravity. Feel the stretch in calves at bottom.
+      Inhale as you descend to maintain rhythm. Avoid bouncing; focus on smooth motion to prevent ankle strain.
+  - title: Form and Repetition
+    detail: >-
+      Maintain straight posture without leaning; keep knees soft but not locked. Perform 10-15 reps per set. For
+      variation, do single-leg raises for advanced challenge. Breathe consistently: exhale up (concentric), inhale down
+      (eccentric).
+  - title: Cool Down
+    detail: >-
+      After sets, gently stretch calves by stepping one foot back and pressing heel down. Hydrate and note any
+      tightness. Progress by holding weights or increasing reps for better ankle stability.
+safetyNotes: >-
+  Perform the movement slowly to avoid bouncing; use a wall for balance if needed. Common mistakes include not fully
+  extending or lowering the heels, or using momentum instead of controlled muscle contraction. This exercise can be done
+  bodyweight or progressed with dumbbells or machines for added load.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  reps: 10
+  estimatedDurationMinutes: 4
+  sets: 3
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096605677-uo3a49/img-female-mtjkm4yjldp1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096605677-uo3a49/img-male-mtjkm3dk34l1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096605677-uo3a49/img-female-mtjkm4yjldp1.webp
+youtubeSearchQuery: calf raises exercise how to
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 6
+createdAt: 1773461210049
+updatedAt: "2026-09-02T03:45:42.239Z"

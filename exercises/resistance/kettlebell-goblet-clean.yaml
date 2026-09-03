@@ -1,0 +1,62 @@
+id: lib-1788127162318-gqwv9a
+name: Kettlebell Goblet Clean
+description: >-
+  Clean the bell from the floor and catch it in the goblet position at the chest. It's the gentle entry to kettlebell
+  cleans — the same hip drive, with a two-hand catch that can't bang your forearm. Keep the bell close and let the hips,
+  not the arms, do the lifting.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Quadriceps
+  - Forearms
+  - Abs
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Hinge
+  - Compound
+  - Functional
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set the hinge
+    detail: Stand over the bell, push the hips back, and grip the handle with both hands.
+  - title: Drive the hips
+    detail: Stand up fast and let the hip drive carry the bell upward close to the body.
+  - title: Catch at chest
+    detail: Guide the bell into the goblet position with the elbows tucked in.
+  - title: Return with control
+    detail: Reverse the path and re-set the hinge before the next rep.
+safetyNotes: >-
+  Keep the bell close on the way up — a wide arc flips it over and clips the wrists. Start light until the catch is
+  quiet.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162318-gqwv9a/img-female-mtkp3gsvy80s.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162318-gqwv9a/img-male-mtkp2sd9hrx3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162318-gqwv9a/img-female-mtkp3gsvy80s.webp
+youtubeSearchQuery: Kettlebell Goblet Clean proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.609Z"
+updatedAt: "2026-09-02T22:56:14.252Z"

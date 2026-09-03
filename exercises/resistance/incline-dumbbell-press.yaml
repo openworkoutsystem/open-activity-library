@@ -1,0 +1,59 @@
+id: lib-1774910675245-967tfx
+name: Incline Dumbbell Press
+description: >-
+  Incline dumbbell bench press targeting upper chest and shoulders. Greater range of motion than barbell for balanced
+  development.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Shoulders
+secondaryMuscles:
+  - Triceps
+equipment:
+  - dumbbells
+  - bench_adjustable
+tags:
+  - Compound
+  - Dumbbell
+  - Balance
+  - Barbell
+modality: resistance
+metValue: 6
+instructions:
+  - title: Setup
+    detail: Set bench to 30-45 degree incline. Sit back with a dumbbell in each hand at shoulder level.
+  - title: Press
+    detail: Press dumbbells up and slightly inward until arms are extended. Don't clang them together at top.
+  - title: Lower
+    detail: Slowly lower dumbbells to chest level, elbows at ~45 degrees from torso.
+  - title: Stretch
+    detail: Feel the stretch at the bottom, then drive back up through the chest.
+safetyNotes: Don't set incline too steep (max 45 degrees). Control the weight — don't bounce off chest.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  repSpeed: 3
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910675245-967tfx/img-female-mtkhs4rbe837.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910675245-967tfx/img-male-mtkhrqj76qfh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910675245-967tfx/img-female-mtkhs4rbe837.webp
+youtubeSearchQuery: "\"incline dumbbell press form tutorial\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:35.262Z"
+updatedAt: "2026-09-02T19:31:28.193Z"

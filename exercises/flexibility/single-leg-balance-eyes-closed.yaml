@@ -1,0 +1,60 @@
+id: lib-1788127166459-a4z4uh
+name: Single-Leg Balance (Eyes Closed)
+description: >-
+  The same single-leg stand with vision removed — now the ankle and inner ear carry the whole job. Time drops
+  dramatically for almost everyone; ten quiet seconds is genuinely good. Pure proprioception, and one of the fastest
+  balance skills to improve.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Abductors
+secondaryMuscles:
+  - Tibialis Anterior
+  - Abs
+  - Glutes
+equipment: []
+tags:
+  - Balance
+  - Stability
+  - No Equipment
+  - Low-Impact
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Balance first
+    detail: Establish a quiet single-leg stand with eyes open.
+  - title: Close the eyes
+    detail: Shut the eyes and let the ankle take over.
+  - title: Hold and count
+    detail: Hold as long as control lasts, up to the target time.
+  - title: Switch legs
+    detail: Open your eyes, reset, and repeat on the other side.
+safetyNotes: >-
+  Always do this next to a wall or counter — without vision, a stumble arrives with no warning. Open the eyes the moment
+  you start to tip instead of fighting a lost cause.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 20
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166459-a4z4uh/img-female-mtkuqy5hfrnj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166459-a4z4uh/img-male-mtkuqd1ctbpe.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166459-a4z4uh/img-female-mtkuqy5hfrnj.webp
+youtubeSearchQuery: Single-Leg Balance Eyes Closed proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.752Z"
+updatedAt: "2026-09-03T01:34:28.259Z"

@@ -1,0 +1,63 @@
+id: lib-1788215818784-jwxq7r
+name: Cold Plunge
+description: >-
+  Submerge to the shoulders in cold water, roughly 50 to 59 degrees Fahrenheit, and stay in for a few controlled
+  minutes. It is a recovery and stress-tolerance tool that dulls perceived soreness and trains you to stay calm while
+  your breathing wants to run away. Keep it away from the hours right after lifting, since cold immersion can blunt the
+  muscle-building response to that session.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Recovery
+  - Active Recovery
+  - Cool-Down
+  - Low-Impact
+metValue: 2
+instructions:
+  - title: Check the water
+    detail: >-
+      Aim for 50 to 59 degrees Fahrenheit on early plunges; colder is not better and only shortens the time you can stay
+      calm in it.
+  - title: Enter deliberately
+    detail: >-
+      Step in and lower to the shoulders in one committed motion rather than easing down inch by inch, and keep the
+      hands under the water.
+  - title: Own the first breath
+    detail: >-
+      Expect a hard gasp reflex for the first 20 to 30 seconds, and slow your exhale until the breathing is quiet before
+      you judge the temperature.
+  - title: Exit and rewarm
+    detail: >-
+      Get out at your planned time, towel off, and rewarm by walking or moving rather than jumping straight into a hot
+      shower.
+safetyNotes: >-
+  Cold water triggers a gasp reflex and blood-pressure spike that can be dangerous with heart conditions, uncontrolled
+  hypertension, or pregnancy - clear it with a doctor first and never plunge alone or after drinking. Get out
+  immediately for spreading numbness, dizziness, or shivering you cannot control.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 180
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818784-jwxq7r/img-female-mtkmnrllmoj6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818784-jwxq7r/img-male-mtkmn1qpgobo.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215818784-jwxq7r/img-female-mtkmnrllmoj6.webp
+youtubeSearchQuery: Cold Plunge cold water immersion proper technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.078Z"
+updatedAt: "2026-09-02T21:48:03.001Z"

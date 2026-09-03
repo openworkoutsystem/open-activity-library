@@ -1,0 +1,63 @@
+id: lib-1788127166196-ulubco
+name: Reverse Sled Drag
+description: >-
+  Face away from the sled, hold the strap or handles at your hips, and walk backward with short driving steps. Walking
+  in reverse loads the quads through a long, knee-friendly range with no eccentric phase, which is why it doubles as
+  knee rehab and as a brutal finisher. Keep the chest tall and push the floor away toe to heel.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Hamstrings
+  - Forearms
+equipment:
+  - weight_plates
+tags:
+  - Functional
+  - Carry
+  - High-Intensity
+  - Lower Body
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Set the load
+    detail: Load the sled light enough that your steps never stall - continuous movement is the point, not a grind.
+  - title: Face away
+    detail: Turn your back to the sled, take the strap or handles in front of your hips with the arms long, and stand tall.
+  - title: Walk backward
+    detail: >-
+      Step back toe first, then press the heel down and straighten the knee to pull the sled. Keep the steps short and
+      quick with the chest up.
+  - title: Finish the trip
+    detail: Keep pulling to the end of the lane without letting the sled stall, then rest and repeat.
+safetyNotes: >-
+  You cannot see where you are going, so clear the lane before every trip and keep the turf free of plates and bands.
+  Start lighter than pride suggests: the quads respond to steady continuous steps, and a stalled sled teaches nothing.
+  Stop the set if the knees start tracking inward.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 45
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166196-ulubco/img-female-mtkp75ugalcn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166196-ulubco/img-male-mtkp5b7y9j4u.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166196-ulubco/img-female-mtkp75ugalcn.webp
+youtubeSearchQuery: Reverse Sled Drag proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.489Z"
+updatedAt: "2026-09-02T22:59:06.633Z"

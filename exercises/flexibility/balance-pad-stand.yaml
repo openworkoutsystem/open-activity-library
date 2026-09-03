@@ -1,0 +1,60 @@
+id: lib-1788127166714-8vk1yc
+name: Balance Pad Stand
+description: >-
+  The single-leg stand moved onto a foam pad — the surface gives, so the ankle never gets to rest. A meaningful
+  progression once firm-ground holds are quiet for thirty seconds or more. A staple of ankle-sprain rehab for exactly
+  this reason.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Abductors
+secondaryMuscles:
+  - Tibialis Anterior
+  - Abs
+  - Glutes
+equipment:
+  - stability_ball
+tags:
+  - Balance
+  - Stability
+  - Low-Impact
+modality: flexibility
+metValue: 2.8
+unilateral: always
+instructions:
+  - title: Place the pad
+    detail: Set the foam pad near a wall or counter.
+  - title: Step on centered
+    detail: Stand one foot in the middle of the pad.
+  - title: Lift and hold
+    detail: Raise the other foot and hold tall and quiet.
+  - title: Switch sides
+    detail: Repeat the hold on the other leg.
+safetyNotes: >-
+  The pad amplifies wobble by design — keep a support surface within arm's reach. Progress to it only after mastering
+  the hold on firm ground; skipping ahead just trains flailing.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166714-8vk1yc/img-female-mtklqq9cpkq7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166714-8vk1yc/img-male-mtklpz6eb2qz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166714-8vk1yc/img-female-mtklqq9cpkq7.webp
+youtubeSearchQuery: Balance Pad Stand proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.008Z"
+updatedAt: "2026-09-02T21:22:21.750Z"

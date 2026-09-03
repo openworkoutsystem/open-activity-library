@@ -1,0 +1,58 @@
+id: lib-1788127171124-a4am7y
+name: Frog Stretch
+description: >-
+  From all fours, spread the knees wide and rock the hips back — a deep adductor opener that earns its reputation. It
+  buys squat width and hip room that no standing stretch reaches. The rock-back is small and slow; this position
+  punishes anyone who dives in.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+secondaryMuscles:
+  - Hip Flexors
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+instructions:
+  - title: Set up wide
+    detail: From all fours, slide the knees apart with the shins parallel and feet flexed.
+  - title: Drop to forearms
+    detail: Lower onto the forearms with a flat back.
+  - title: Rock back
+    detail: Push the hips back toward the heels an inch at a time until the inner thighs stretch.
+  - title: Hold and return
+    detail: Hold at the edge, breathing, then rock forward to release before repeating.
+safetyNotes: >-
+  The groin strains easily at end range — move into the rock-back in small increments and never bounce at the bottom.
+  Padded surface under the knees is not optional here.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 60
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171124-a4am7y/img-male-mtkofhes6iyt.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171124-a4am7y/img-male-mtkofhes6iyt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171124-a4am7y/img-female-mtkoejr98gdr.webp
+youtubeSearchQuery: Frog Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.416Z"
+updatedAt: "2026-09-02T22:37:35.160Z"

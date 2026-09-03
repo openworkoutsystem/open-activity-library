@@ -1,0 +1,59 @@
+id: lib-1788127169137-kbg78w
+name: Standing Hamstring Stretch
+description: >-
+  Hinge at the hips to a soft stretch down the back of the leg — hold and breathe. It lengthens the hamstrings without
+  any equipment, which makes it the default post-run and post-lift cool-down. The cue that matters: keep the back flat
+  and hinge from the hips, not the spine.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Calves
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Lower Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: optional
+instructions:
+  - title: Set your stance
+    detail: Stand tall with feet hip-width apart and a soft bend in the knees.
+  - title: Hinge forward
+    detail: Push the hips back and fold forward with a flat back until you feel a stretch behind the thighs.
+  - title: Hold and breathe
+    detail: Relax into the position for the full hold, breathing slowly instead of bouncing.
+  - title: Return tall
+    detail: Brace lightly and hinge back up to standing with the same flat back.
+safetyNotes: >-
+  Do not bounce, and do not round the lumbar spine to reach farther — depth comes from the hips. Keep a slight knee bend
+  if the stretch pulls behind the knee.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169137-kbg78w/img-female-mtkvr04nukc6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169137-kbg78w/img-male-mtkvgm2b9yzs.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127169137-kbg78w/img-female-mtkvr04nukc6.webp
+youtubeSearchQuery: Standing Hamstring Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.428Z"
+updatedAt: "2026-09-03T02:02:30.499Z"

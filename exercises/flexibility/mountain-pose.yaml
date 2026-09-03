@@ -1,0 +1,53 @@
+id: lib-1788131477766-o5lpj8
+name: Mountain Pose
+description: >-
+  Standing tall on purpose: feet grounded, legs active, crown reaching up — the reset every flow returns to. It trains
+  postural alignment and body awareness rather than any single muscle. Stack ears over shoulders over hips over ankles
+  and let the breath settle.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles: []
+equipment: []
+tags:
+  - Yoga
+  - Posture
+  - Mind-Body
+  - No Equipment
+modality: flexibility
+metValue: 2
+instructions:
+  - title: Ground the feet
+    detail: Stand with feet together or hip-width apart and spread the toes into the floor.
+  - title: Activate the legs
+    detail: Lift the kneecaps gently and engage the thighs without locking the knees.
+  - title: Stack the spine
+    detail: Align ears over shoulders over hips over ankles.
+  - title: Reach and breathe
+    detail: Let the arms hang active at the sides and breathe slowly through the nose.
+safetyNotes: Soften the knees rather than locking them out; this pose is otherwise safe for nearly everyone.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 60
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477766-o5lpj8/img-female-mtkqp3oxdpqn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477766-o5lpj8/img-male-mtkqnklvu874.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477766-o5lpj8/img-female-mtkqp3oxdpqn.webp
+youtubeSearchQuery: Mountain Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.040Z"
+updatedAt: "2026-09-02T23:41:03.752Z"

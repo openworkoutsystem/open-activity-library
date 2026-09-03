@@ -1,0 +1,59 @@
+id: lib-1788127172096-3ih9za
+name: Ankle Rocks
+description: >-
+  Drive the knee over the toes toward a wall with the heel pinned down — dorsiflexion work that directly buys squat
+  depth. Rock in and out rhythmically, working the knee slightly inside and outside the foot line to cover the whole
+  joint. If your heels lift at the bottom of a squat, this is the fix.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles:
+  - Tibialis Anterior
+equipment: []
+tags:
+  - Warm-Up
+  - Mobility
+  - Dynamic Stretching
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Face the wall
+    detail: Stand in a split stance with the front toes a hand-width from the wall.
+  - title: Drive the knee
+    detail: Rock the front knee forward over the toes toward the wall.
+  - title: Keep heel down
+    detail: Pin the front heel to the floor through every rep.
+  - title: Vary the angle
+    detail: Track the knee slightly in and out to reach different corners of the ankle.
+  - title: Switch feet
+    detail: Complete the time, then repeat on the other ankle.
+safetyNotes: >-
+  The heel stays glued down — reps where it lifts do nothing for dorsiflexion. A sharp pinch at the front of the ankle
+  means back the foot away from the wall, not push harder into it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172096-3ih9za/img-female-mtkle9znl148.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172096-3ih9za/img-male-mtkldjcuawuz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172096-3ih9za/img-female-mtkle9znl148.webp
+youtubeSearchQuery: Ankle Rocks proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.439Z"
+updatedAt: "2026-09-02T21:12:40.777Z"

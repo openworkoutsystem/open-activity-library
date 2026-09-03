@@ -1,0 +1,52 @@
+id: lib-1788127175045-lo0jwl
+name: Physiological Sigh
+description: >-
+  A full inhale through the nose, a second short top-off inhale, then one long slow exhale — the fastest in-the-moment
+  way to drop arousal. The double inhale reinflates collapsed air sacs so the long exhale can offload more carbon
+  dioxide. One to three sighs works acutely; a few minutes of cycles works as a practice.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Breathwork Exercises
+  - Mind-Body
+  - Recovery
+metValue: 1
+instructions:
+  - title: Inhale fully
+    detail: Breathe in through the nose until the lungs feel comfortably full.
+  - title: Top it off
+    detail: Take a second short sniff of air on top of the first inhale.
+  - title: Exhale long
+    detail: Let the breath out slowly through the mouth until the lungs are empty.
+  - title: Repeat as needed
+    detail: Use one to three sighs in the moment, or keep cycling for up to five minutes.
+safetyNotes: >-
+  About as low-risk as breathwork gets — the only note is to keep the exhale relaxed rather than forced. If several
+  minutes of cycling brings on lightheadedness, pause and breathe normally.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 300
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175045-lo0jwl/img-female-mtkrl14j2973.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175045-lo0jwl/img-male-mtkrkahhwzp5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175045-lo0jwl/img-female-mtkrl14j2973.webp
+youtubeSearchQuery: Physiological Sigh guided
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:34.338Z"
+updatedAt: "2026-09-03T00:05:53.293Z"

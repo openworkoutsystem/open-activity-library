@@ -1,0 +1,73 @@
+id: lib-1788215815817-6cdojm
+name: Barbell Upright Row
+description: >-
+  Stand holding a barbell in front of your thighs and pull it straight up the body by driving the elbows high and wide.
+  It loads the side delts and upper traps together in one vertical pull, which makes it an efficient shoulder-width
+  builder alongside presses and lateral raises. Lead with the elbows, not the hands, and stop the bar at chest height.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Side Delts
+  - Traps
+secondaryMuscles:
+  - Biceps
+  - Forearms
+  - Rear Delts
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Compound
+  - Pull
+  - Barbell
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Grip the bar
+    detail: >-
+      Stand tall with feet hip-width apart and take an overhand grip a little wider than your shoulders, letting the bar
+      rest against the front of your thighs.
+  - title: Set your posture
+    detail: >-
+      Pull the shoulder blades down, brace the abs, and keep a soft bend in the knees so the torso stays upright through
+      the whole pull.
+  - title: Pull the elbows up
+    detail: >-
+      Drive the elbows up and out to the sides, letting the bar travel close to your body until it reaches roughly chest
+      height with the elbows level with the shoulders.
+  - title: Lower with control
+    detail: >-
+      Reverse the path slowly back to the thighs without letting the bar swing away from you, and reset your brace
+      before the next rep.
+safetyNotes: >-
+  Pulling the bar above chest height with a narrow grip drives internal rotation at the top of the shoulder and is the
+  classic upright row impingement setup - use a shoulder-width or wider grip and stop at the chest. If you feel a pinch
+  in the front of the shoulder, swap to lateral raises instead of working around it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815817-6cdojm/img-female-mtjkppo828pp.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815817-6cdojm/img-male-mtjkpocm71x2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815817-6cdojm/img-female-mtjkppo828pp.webp
+youtubeSearchQuery: Barbell Upright Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:55.098Z"
+updatedAt: "2026-09-02T03:46:16.583Z"

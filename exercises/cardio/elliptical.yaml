@@ -1,0 +1,63 @@
+id: lib-1788127168758-mh5481
+name: Elliptical
+description: >-
+  Low-impact striding on the elliptical — joint-friendly steady state that mimics running without the pounding. It's a
+  solid choice for aerobic volume around cranky knees or during a return from injury. Use the moving handles actively to
+  bring the upper body into the work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Upper Body
+equipment:
+  - elliptical
+tags:
+  - Elliptical
+  - Cardio
+  - Steady State
+  - Aerobic
+modality: cardio
+metValue: 5
+instructions:
+  - title: Set real resistance
+    detail: Add enough resistance that your legs actually push each stride.
+  - title: Stand tall
+    detail: Keep an upright posture instead of leaning on the console.
+  - title: Push and pull
+    detail: Drive the moving handles actively with each stride.
+  - title: Hold the effort
+    detail: Keep breathing deep but steady for the full duration.
+safetyNotes: >-
+  Very low risk; the usual mistakes are leaning heavily on the rails and coasting at near-zero resistance, which turns
+  the session into standing still with extra steps.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168758-mh5481/img-female-mtkn90x0cwab.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168758-mh5481/img-male-mtkn8fn5kpng.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168758-mh5481/img-female-mtkn90x0cwab.webp
+youtubeSearchQuery: Elliptical proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.052Z"
+updatedAt: "2026-09-02T22:04:34.873Z"

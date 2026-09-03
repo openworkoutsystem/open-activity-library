@@ -1,0 +1,79 @@
+id: lib-1773096604932-su7m6r
+name: Reverse Lunge
+description: >-
+  Reverse Lunges are performed by stepping backward with one foot into a lunge position, lowering until both knees are
+  bent at about 90 degrees, then pushing back to standing. This lower-body exercise enhances leg strength, balance, and
+  coordination while being joint-friendly. It targets the quadriceps, hamstrings, glutes, and calves.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Lower Body
+  - Lunge
+  - Quad-Dominant
+  - Balance
+  - Beginner-Friendly
+  - Calisthenics
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Quadriceps: 0.4
+  Glutes: 0.3
+  Hamstrings: 0.2
+  Calves: 0.1
+instructions:
+  - title: Starting Position
+    detail: >-
+      Stand tall with feet hip-width apart, hands on hips or holding weights at sides. Engage core and keep gaze
+      forward. Relax shoulders and ensure neutral spine. This setup promotes balance and prepares for backward step.
+  - title: Step Backward
+    detail: >-
+      Take a controlled step back with one foot, landing on ball of foot. Lower body by bending both knees until front
+      thigh is parallel to ground and back knee nearly touches floor. Inhale as you descend, keeping front knee aligned
+      over toes.
+  - title: Push to Return
+    detail: >-
+      Drive through front heel to push back up, bringing rear foot forward to starting stance. Squeeze glute and quad of
+      front leg at top. Exhale during the push for power. Alternate legs or complete one side first.
+  - title: Maintain Form Cues
+    detail: >-
+      Keep torso upright; avoid forward lean or rounding back. Ensure hips stay level and core tight for stability.
+      Steps should be about 2-3 feet back. Breathe rhythmically to support endurance.
+  - title: Reps and Progression
+    detail: >-
+      Aim for 8-12 reps per leg. Rest minimally between sides. For beginners, shorten step; advanced add dumbbells. End
+      with stretches for hip flexors and quads to improve mobility.
+safetyNotes: >-
+  Keep your front knee tracking over your toes and maintain a straight back; avoid leaning forward. Common mistakes
+  include short steps or allowing the knee to go past the toes.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604932-su7m6r/img-female-mtktxai1wxkj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604932-su7m6r/img-male-mtktwn1m3q1u.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604932-su7m6r/img-female-mtktxai1wxkj.webp
+youtubeSearchQuery: reverse lunges proper form tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T22:50:04.204Z"
+updatedAt: "2026-09-03T01:11:24.635Z"

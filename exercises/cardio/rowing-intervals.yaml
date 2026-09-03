@@ -1,0 +1,65 @@
+id: lib-1788127168504-xe75qv
+name: Rowing Intervals
+description: >-
+  Timed hard pieces on the erg — 500-meter repeats, minute-on minute-off — the honest conditioning test. The monitor
+  reports your split every stroke, so pacing discipline is the actual skill being trained. Start conservative; the erg
+  punishes fliers.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Glutes
+  - Abs
+equipment:
+  - rowing_machine
+tags:
+  - Rowing
+  - Interval
+  - HIIT
+  - High-Intensity
+modality: cardio
+metValue: 8.5
+instructions:
+  - title: Warm up rowing
+    detail: Row easy for five minutes with a few ten-stroke builds.
+  - title: Pick a target split
+    detail: Choose a pace you believe you can hold for every rep.
+  - title: Row the piece
+    detail: Hold the split with a legs-back-arms sequence on every stroke.
+  - title: Paddle to recover
+    detail: Row very light between pieces, then repeat.
+safetyNotes: >-
+  Technique decays fast at high stroke rates — if the lower back starts rounding under fatigue, end the piece. The
+  sequence stays legs-back-arms even at sprint pace.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168504-xe75qv/img-female-mtku0r20urkm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168504-xe75qv/img-male-mtku079w7trn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168504-xe75qv/img-female-mtku0r20urkm.webp
+youtubeSearchQuery: Rowing Intervals technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.797Z"
+updatedAt: "2026-09-03T01:14:06.007Z"

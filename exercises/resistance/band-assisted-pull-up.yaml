@@ -1,0 +1,61 @@
+id: lib-1788127154785-e8w69v
+name: Band-Assisted Pull-Up
+description: >-
+  A pull-up with a resistance band looped over the bar and under the feet or knees — full range of motion with a portion
+  of your bodyweight removed. The band helps most at the bottom, where you are weakest, so every rep still finishes on
+  your own strength at the top. Progress by moving to thinner bands, not by adding reps forever.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rhomboids
+  - Forearms
+equipment:
+  - pull_up_bar
+  - resistance_bands
+tags:
+  - Pull
+  - Bodyweight
+  - Resistance
+  - Upper Body
+  - Calisthenics
+modality: resistance
+metValue: 5
+instructions:
+  - title: Rig the band
+    detail: Loop the band over the bar, pull it through itself, and set one foot or knee in the bottom loop.
+  - title: Hang in position
+    detail: Grip the bar overhand, arms straight, body steady over the band.
+  - title: Pull chin over bar
+    detail: Drive the elbows down toward your ribs until your chin clears the bar.
+  - title: Lower all the way
+    detail: Descend under control to a full straight-arm hang before the next rep.
+safetyNotes: >-
+  A loaded band that slips off the foot snaps upward hard — set your foot carefully and take it out deliberately at the
+  end of the set, holding the band as you step free. Do not let the band tempt you into cutting the bottom of the range
+  short.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154785-e8w69v/img-female-mtjknp13k6ne.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154785-e8w69v/img-male-mtjknnmdn1x1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154785-e8w69v/img-female-mtjknp13k6ne.webp
+youtubeSearchQuery: Band-Assisted Pull-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.090Z"
+updatedAt: "2026-09-02T03:45:52.718Z"

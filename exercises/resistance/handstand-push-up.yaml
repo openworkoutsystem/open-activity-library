@@ -1,0 +1,59 @@
+id: lib-1788131481048-lfgdv7
+name: Handstand Push-Up
+description: >-
+  A vertical press performed upside-down with heels resting on the wall. It loads the shoulders and triceps with your
+  full bodyweight, the closest bodyweight equivalent to a heavy overhead press. Stack wrists, elbows, and shoulders in
+  one line and lower until the head lightly touches the floor.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Traps
+  - Serratus Anterior
+  - Abs
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Push
+  - Strength
+  - Balance
+modality: resistance
+metValue: 8
+instructions:
+  - title: Kick to wall
+    detail: Place hands a palm's length from the wall and kick up into a handstand with heels resting on it.
+  - title: Stack the line
+    detail: Lock the elbows, brace the core, and stack hips over shoulders over wrists.
+  - title: Lower to touch
+    detail: Bend the elbows and lower under control until the top of your head lightly touches the floor.
+  - title: Press to lockout
+    detail: Drive through your palms back to straight arms while keeping heels on the wall.
+safetyNotes: >-
+  Never let the head take weight — a lapse in control here loads the neck and cervical spine directly, so keep the
+  descent slow and bail by tucking or cartwheeling out. Build volume with pike push-ups and wall holds first.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481048-lfgdv7/img-male-mtkhck5q34fq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481048-lfgdv7/img-male-mtkhck5q34fq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481048-lfgdv7/img-female-mtkhawrwg78s.webp
+youtubeSearchQuery: Handstand Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:20.314Z"
+updatedAt: "2026-09-02T19:19:21.713Z"

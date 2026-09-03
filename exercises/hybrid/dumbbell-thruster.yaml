@@ -1,0 +1,64 @@
+id: lib-1788127164453-7cae8r
+name: Dumbbell Thruster
+description: >-
+  The thruster with a dumbbell in each hand — the same squat-to-press engine, friendlier setup. The bells sit on the
+  shoulders and travel a natural path, which makes it the version most people should start with. Full squat depth and
+  full lockout, every rep.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Shoulders
+secondaryMuscles:
+  - Glutes
+  - Triceps
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+  - Compound
+  - High-Intensity
+  - Squat
+  - Push
+modality: hybrid
+metValue: 8
+unilateral: optional
+instructions:
+  - title: Bells to shoulders
+    detail: Clean the dumbbells to the shoulders with palms facing in.
+  - title: Squat to depth
+    detail: Sit into a full front squat with the elbows slightly forward.
+  - title: Drive to lockout
+    detail: Stand fast and press the bells overhead in one continuous motion.
+  - title: Cycle smoothly
+    detail: Lower the bells to the shoulders while descending into the next rep.
+safetyNotes: >-
+  Keep the wrists neutral and finish every press to full lockout — a bell stalling overhead at fatigue has nowhere safe
+  to go. Scale the load before scaling the depth.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164453-7cae8r/img-female-mtkn7to4pbk5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164453-7cae8r/img-male-mtkn74rhgpmu.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164453-7cae8r/img-female-mtkn7to4pbk5.webp
+youtubeSearchQuery: Dumbbell Thruster proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.750Z"
+updatedAt: "2026-09-02T22:03:38.806Z"

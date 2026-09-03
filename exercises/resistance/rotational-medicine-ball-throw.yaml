@@ -1,0 +1,64 @@
+id: lib-1788127166080-glmap4
+name: Rotational Medicine Ball Throw
+description: >-
+  Load the back hip and whip the ball sideways into a wall — power flows from the ground through the hips to the hands.
+  This is where hitting, throwing, and striking power lives; the arms only finish what the hips start. Train both sides
+  evenly.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+secondaryMuscles:
+  - Glutes
+  - Abs
+  - Shoulders
+equipment:
+  - medicine_ball
+tags:
+  - Plyometrics
+  - Rotation
+  - Core
+  - Functional
+modality: resistance
+metValue: 6
+unilateral: always
+instructions:
+  - title: Set up sideways
+    detail: Stand side-on to the wall with the ball at the back hip.
+  - title: Load the hip
+    detail: Coil into the rear hip with the ball drawn back.
+  - title: Drive and throw
+    detail: Snap the hips toward the wall and release the ball sideways.
+  - title: Catch and reset
+    detail: Collect the rebound, re-coil, and repeat.
+  - title: Switch sides
+    detail: Do equal work facing the other direction.
+safetyNotes: >-
+  Rotation should come from the hips and mid-back, not the lower back — let the pelvis and chest turn together. Give the
+  wall enough distance that rebounds do not come back hot.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166080-glmap4/img-female-mtktznkmfuam.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166080-glmap4/img-male-mtktyzx4ky18.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166080-glmap4/img-female-mtktznkmfuam.webp
+youtubeSearchQuery: Rotational Medicine Ball Throw technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.370Z"
+updatedAt: "2026-09-03T01:13:15.023Z"

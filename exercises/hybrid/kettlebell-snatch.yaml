@@ -1,0 +1,67 @@
+id: lib-1788127162558-uyrjg6
+name: Kettlebell Snatch
+description: >-
+  One unbroken motion from the hike to a locked-out bell overhead. It's the kettlebell test of hip power, grip, and
+  conditioning — nothing else exposes a weak link faster. Punch the hand through at the top so the bell settles softly
+  instead of crashing onto the forearm.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Shoulders
+secondaryMuscles:
+  - Traps
+  - Forearms
+  - Abs
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Hinge
+  - Compound
+  - High-Intensity
+  - Grip
+modality: hybrid
+metValue: 9.8
+unilateral: always
+instructions:
+  - title: Hike the bell
+    detail: Swing the bell back between the legs with a flat back and packed shoulder.
+  - title: Snap the hips
+    detail: Extend the hips hard so the bell floats upward close to the body.
+  - title: Punch through
+    detail: As the bell rises past the head, punch the hand through so it lands softly on the forearm.
+  - title: Lock out overhead
+    detail: Finish with the elbow locked and the biceps by the ear.
+  - title: Lower and repeat
+    detail: Drop the bell back into the swing arc in one controlled motion.
+safetyNotes: >-
+  A crashing catch bruises the forearm and a sweaty grip can launch the bell — chalk up and keep the space around you
+  clear. Build volume gradually; the snatch tears hands before it tires lungs.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162558-uyrjg6/img-female-mtkqssax0oos.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162558-uyrjg6/img-male-mtkqpckszyhu.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162558-uyrjg6/img-female-mtkqssax0oos.webp
+youtubeSearchQuery: Kettlebell Snatch technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.852Z"
+updatedAt: "2026-09-02T23:43:55.624Z"

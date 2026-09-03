@@ -1,0 +1,59 @@
+id: lib-1788127171004-1u3kvm
+name: Lat Stretch on Bar
+description: >-
+  Hang from a bar or side-bend while holding it — opens the lats and the thoracic side wall that pressing and pulling
+  both stiffen. A passive two-hand hang decompresses the spine; a one-arm hold with a hip shift isolates each side. Let
+  the feet keep some weight so the shoulders can actually relax.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Obliques
+  - Shoulders
+equipment:
+  - pull_up_bar
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Upper Body
+modality: flexibility
+metValue: 2.3
+unilateral: optional
+instructions:
+  - title: Grip the bar
+    detail: Take an overhand grip slightly wider than shoulder width, feet still on the floor or a box.
+  - title: Load gradually
+    detail: Bend the knees and let some body weight sink into the hang while the feet keep the rest.
+  - title: Shift for one side
+    detail: Push the hips away from one hand to lengthen that side wall.
+  - title: Breathe and hold
+    detail: Hold with slow breaths, letting the ribs and armpit open.
+safetyNotes: >-
+  Going straight to a full dead-weight hang can aggravate irritable shoulders — feed weight in gradually with the feet
+  assisting. Skip the loaded side-bend if you have an active shoulder impingement.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171004-1u3kvm/img-female-mtkpyqk6p1g5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171004-1u3kvm/img-male-mtkpy2k2lk4z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171004-1u3kvm/img-female-mtkpyqk6p1g5.webp
+youtubeSearchQuery: Lat Stretch on Bar proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.295Z"
+updatedAt: "2026-09-02T23:20:33.731Z"

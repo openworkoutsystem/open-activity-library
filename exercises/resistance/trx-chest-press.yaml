@@ -1,0 +1,69 @@
+id: lib-1788215819678-iw9r3o
+name: TRX Chest Press
+description: >-
+  Face away from the anchor with a handle in each hand, lean forward into the straps, and press yourself back up like a
+  standing push-up. Foot position sets the difficulty - walk the feet back to make it harder, step them forward to make
+  it easier - so one setup serves beginners and strong pressers alike. Hold a plank from ears to heels through every
+  rep, because the straps expose a sagging hip instantly.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+  - Front Delts
+secondaryMuscles:
+  - Abs
+  - Transverse Abdominis
+  - Serratus Anterior
+equipment:
+  - trx_suspension
+tags:
+  - Compound
+  - Push
+  - Upper Body
+  - Bodyweight
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Set the straps
+    detail: >-
+      Shorten the straps to mid-length, face away from the anchor, and hold a handle in each hand with the arms extended
+      in front of your chest.
+  - title: Walk to your angle
+    detail: >-
+      Step the feet back until your body leans into the straps at a comfortable angle, remembering that more lean means
+      a harder press.
+  - title: Lower under control
+    detail: >-
+      Brace the abs and glutes, then bend the elbows to about 45 degrees from your ribs and lower until the handles are
+      beside your chest.
+  - title: Press back up
+    detail: >-
+      Drive the handles forward and slightly together until the arms are straight, keeping the body in one line and the
+      straps quiet.
+safetyNotes: >-
+  Letting the elbows flare straight out to the sides hands the load to the shoulder joint instead of the chest - keep
+  them tucked to about 45 degrees. Confirm the anchor is rated and locked before you lean any bodyweight into it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819678-iw9r3o/img-female-mtkwh7b9ptjj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819678-iw9r3o/img-male-mtkwgjce9nhf.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819678-iw9r3o/img-female-mtkwh7b9ptjj.webp
+youtubeSearchQuery: TRX Chest Press suspension trainer proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.990Z"
+updatedAt: "2026-09-03T02:22:52.288Z"

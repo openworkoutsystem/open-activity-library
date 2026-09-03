@@ -1,0 +1,62 @@
+id: lib-1788127171730-v3bcrc
+name: Inchworm
+description: >-
+  Fold forward, walk the hands out to a plank, then walk the feet back up to the hands — hamstrings, shoulders, and core
+  in one traveling rep. The legs stay as straight as the hamstrings allow on the fold, and the plank position earns a
+  full beat before returning. A near-complete upper-body and posterior-chain warm-up on its own.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Shoulders
+secondaryMuscles:
+  - Abs
+  - Calves
+  - Chest
+equipment: []
+tags:
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+  - Core
+modality: flexibility
+metValue: 3.5
+instructions:
+  - title: Fold forward
+    detail: Hinge down and plant both palms on the floor in front of the feet.
+  - title: Walk hands out
+    detail: Step the hands forward until you reach a strong straight plank.
+  - title: Hold the plank
+    detail: Pause for a beat with the hips level and core braced.
+  - title: Walk feet in
+    detail: Take small steps toward the hands, keeping the legs as straight as possible.
+  - title: Stand and repeat
+    detail: Roll up to standing and start the next rep.
+safetyNotes: >-
+  Bend the knees as much as needed on the fold — forcing straight legs on cold hamstrings turns a warm-up into a strain.
+  Don't let the hips sag in the plank position; shorten the walkout if they do.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171730-v3bcrc/img-female-mtkogsq9zsum.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171730-v3bcrc/img-male-mtkog8sxw7we.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171730-v3bcrc/img-female-mtkogsq9zsum.webp
+youtubeSearchQuery: Inchworm proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.021Z"
+updatedAt: "2026-09-02T22:38:37.034Z"

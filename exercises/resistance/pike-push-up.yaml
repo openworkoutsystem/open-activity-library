@@ -1,0 +1,60 @@
+id: lib-1788127153498-2c7bsb
+name: Pike Push-Up
+description: >-
+  Hips-high push-up pressing toward the crown of the head — bodyweight shoulder pressing without a bar. The steep hip
+  angle shifts load from the chest to the delts and triceps, making it the natural bridge from push-ups to handstand
+  work. Walk the feet closer to the hands to make it harder.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+  - Traps
+equipment: []
+tags:
+  - Push
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+  - No Equipment
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set the pike
+    detail: >-
+      From a push-up position, walk your feet toward your hands until your hips are high and your torso is near
+      vertical.
+  - title: Lower to the crown
+    detail: Bend the elbows and lower the top of your head toward a spot just in front of your hands.
+  - title: Keep elbows tracking
+    detail: Let the elbows travel forward at roughly 45 degrees rather than flaring straight out.
+  - title: Press to lockout
+    detail: Drive the floor away until the arms are straight, keeping the hips high the whole rep.
+safetyNotes: >-
+  Control the descent so your head touches down lightly — never drop onto the crown of the skull. If your wrists
+  complain, turn the hands out slightly or elevate them on dumbbells.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153498-2c7bsb/img-female-mtkr7jx8cso1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153498-2c7bsb/img-male-mtkr6xmscls9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153498-2c7bsb/img-female-mtkr7jx8cso1.webp
+youtubeSearchQuery: Pike Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.799Z"
+updatedAt: "2026-09-02T23:55:24.196Z"

@@ -1,0 +1,61 @@
+id: lib-1788127154357-0apa5e
+name: Dumbbell Front Raise
+description: >-
+  Raise the dumbbell straight out in front to eye level with a nearly straight arm — direct front-delt isolation. Most
+  pressing already works the front delts hard, so this earns its place as a light finisher or a way to bring up a
+  lagging front shoulder. The weight stays honest: if you have to rock backward, it is too heavy.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Front Delts
+secondaryMuscles:
+  - Side Delts
+equipment:
+  - dumbbells
+tags:
+  - Isolation
+  - Dumbbell
+  - Upper Body
+  - Push
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Stand tall
+    detail: Hold the dumbbells in front of your thighs with a soft bend in the elbows.
+  - title: Raise to eye level
+    detail: Lift the weights straight out in front until they reach shoulder-to-eye height.
+  - title: Pause briefly
+    detail: Hold the top for a beat without shrugging or leaning back.
+  - title: Lower slowly
+    detail: Bring the dumbbells back down on a controlled three-count.
+safetyNotes: >-
+  The tell that it is too heavy is a backward lean and a swing off the thighs — that shifts work into the lower back and
+  momentum. Keep the raise strict and stop at eye level; higher adds nothing for the delt.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  restSeconds: 60
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154357-0apa5e/img-female-mtjknmd43uc1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154357-0apa5e/img-male-mtjknkylqc4h.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154357-0apa5e/img-female-mtjknmd43uc1.webp
+youtubeSearchQuery: Dumbbell Front Raise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.670Z"
+updatedAt: "2026-09-02T04:54:16.254Z"

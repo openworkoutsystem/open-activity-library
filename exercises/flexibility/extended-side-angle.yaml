@@ -1,0 +1,60 @@
+id: lib-1788132443021-xjy3wb
+name: Extended Side Angle
+description: >-
+  From Warrior II, the forearm rests on the front thigh while the top arm reaches long over the ear, creating one
+  straight line from the back heel to the fingertips. It opens the side body and inner thighs while the front leg works.
+  Press the back foot's outer edge into the floor to keep the line honest.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Quadriceps
+secondaryMuscles:
+  - Adductors
+  - Glutes
+  - Shoulders
+equipment: []
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Balance
+modality: flexibility
+metValue: 2.8
+unilateral: always
+instructions:
+  - title: Start in Warrior II
+    detail: Set a wide stance with the front knee bent over the ankle and the back foot turned in slightly.
+  - title: Lower the forearm
+    detail: Rest your front forearm lightly on the front thigh without dumping your weight into it.
+  - title: Reach overhead
+    detail: Extend the top arm past your ear, palm down, so the arm continues the line of the back leg.
+  - title: Rotate the chest
+    detail: Spin the chest toward the ceiling and gaze under the top arm if the neck allows.
+safetyNotes: >-
+  Rest the forearm on the thigh, never press hard into the knee joint. Keep the front knee tracking over the middle toes
+  rather than caving inward.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443021-xjy3wb/img-female-mtkna9j5eafz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443021-xjy3wb/img-male-mtkn9ltuqufr.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443021-xjy3wb/img-female-mtkna9j5eafz.webp
+youtubeSearchQuery: Extended Side Angle yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.268Z"
+updatedAt: "2026-09-02T22:05:32.623Z"

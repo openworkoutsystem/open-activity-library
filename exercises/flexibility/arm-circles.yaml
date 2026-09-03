@@ -1,0 +1,58 @@
+id: lib-1773327890177-nvsrp0
+name: Arm Circles
+description: >-
+  Arm circles are a dynamic warm-up exercise that enhances shoulder mobility, lubricates joints, and prepares the upper
+  body for activity. Stand with arms extended at shoulder height and rotate in forward and backward circles.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Traps
+equipment: []
+tags:
+  - Warm-Up
+  - Mobility
+  - Shoulders
+  - Beginner
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Setup
+    detail: Stand with feet shoulder-width apart, knees slightly bent, core engaged, and shoulders relaxed away from ears.
+  - title: Forward Arm Circles
+    detail: >-
+      Extend arms straight out to sides at shoulder height, palms facing forward. Begin making small forward circles
+      (like stirring a pot), gradually increasing circle size after 10-15 reps. Complete 30 circles.
+  - title: Backward Arm Circles
+    detail: Immediately reverse direction for backward circles, starting small and increasing size. Complete 30 circles.
+  - title: Rest and Repeat
+    detail: Rest 30 seconds, then repeat the sequence for a total of 3 sets.
+safetyNotes: >-
+  Keep shoulders down and away from ears—avoid shrugging. Start with small circles to protect joints; stop if you feel
+  pain beyond mild stretch. Consult a professional if you have shoulder injuries.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 30
+  repSpeed: 1.5
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327890177-nvsrp0/img-female-mtknf413y85y.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327890177-nvsrp0/img-male-mtknejk1gdri.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327890177-nvsrp0/img-female-mtknf413y85y.webp
+youtubeSearchQuery: how to Arm Circles exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-12T15:04:50.198Z"
+updatedAt: "2026-09-02T22:09:19.035Z"

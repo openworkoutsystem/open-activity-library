@@ -1,0 +1,57 @@
+id: lib-1788127149515-6uxo07
+name: Hip Hinge Drill
+description: >-
+  Practice the hip-back pattern with a dowel held along the spine — head, upper back, and tailbone stay in contact the
+  whole rep. It grooves the hinge that every deadlift, RDL, and swing is built on. If the dowel loses contact, the spine
+  moved instead of the hips.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Abs
+equipment: []
+tags:
+  - Hinge
+  - Warm-Up
+  - Mobility
+  - No Equipment
+modality: resistance
+metValue: 2.8
+instructions:
+  - title: Set the dowel
+    detail: Hold a dowel vertically along your spine so it touches the back of your head, upper back, and tailbone.
+  - title: Push hips back
+    detail: Soften the knees and send the hips straight back as the torso tips forward.
+  - title: Keep contact
+    detail: Hinge only as far as you can while all three contact points stay on the dowel.
+  - title: Stand tall
+    detail: Drive the hips forward to return to standing without arching at the top.
+safetyNotes: >-
+  If you can't keep all three points of dowel contact, shorten the range instead of letting the low back round — the
+  drill only teaches the pattern when the contact is honest.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149515-6uxo07/img-female-mtkpgyi06zna.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149515-6uxo07/img-male-mtkou32d88na.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149515-6uxo07/img-female-mtkpgyi06zna.webp
+youtubeSearchQuery: Hip Hinge Drill proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.816Z"
+updatedAt: "2026-09-02T23:06:44.421Z"

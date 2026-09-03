@@ -1,0 +1,60 @@
+id: lib-1788127155207-zgi971
+name: Straight-Arm Pulldown
+description: >-
+  Standing at the cable, sweep the bar from overhead down to your thighs with elbows locked in a slight bend — lat
+  isolation through a long arc. Because the arms never bend, the biceps cannot help, and the lats do all the work from
+  full stretch to full contraction. A smart teaching tool for feeling the lats before rows and pulldowns.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Triceps
+  - Serratus Anterior
+equipment:
+  - cable_machine
+tags:
+  - Pull
+  - Isolation
+  - Machine Weights
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the cable high
+    detail: Attach a straight bar or rope to a high pulley and step back until you feel tension.
+  - title: Hinge slightly
+    detail: Tip forward a little at the hips with arms extended overhead and a soft elbow bend.
+  - title: Sweep to the thighs
+    detail: Pull the bar down in a wide arc until it reaches your thighs, arms staying long.
+  - title: Stretch at the top
+    detail: Return slowly until you feel a full stretch through the lats, then repeat.
+safetyNotes: >-
+  Keep a fixed slight bend in the elbows — a truly locked-straight arm under load stresses the elbow, and a bending arm
+  turns this into a pulldown. If your lower back rounds and heaves to move the weight, drop the load.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155207-zgi971/img-female-mtkvmpsqsm1y.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155207-zgi971/img-male-mtkvm3n7d7sp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155207-zgi971/img-female-mtkvmpsqsm1y.webp
+youtubeSearchQuery: Straight-Arm Pulldown proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.510Z"
+updatedAt: "2026-09-03T01:59:10.449Z"

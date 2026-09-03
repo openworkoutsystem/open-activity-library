@@ -1,0 +1,61 @@
+id: lib-1788127158403-qpylvm
+name: Incline Dumbbell Curl
+description: >-
+  Curl reclined on an incline bench — long-head biceps under stretch. Lying back puts the arms behind the torso, so the
+  biceps start every rep from a deep stretch it never gets standing up. Expect to use noticeably less weight than a
+  standing curl and to feel it more.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - dumbbells
+  - bench_adjustable
+tags:
+  - Isolation
+  - Dumbbell
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Set the bench
+    detail: Set an adjustable bench to roughly 45 to 60 degrees and lie back with a dumbbell in each hand.
+  - title: Let arms hang
+    detail: Let the arms hang straight down and slightly behind the torso, palms forward.
+  - title: Curl without drifting
+    detail: Curl the dumbbells up while keeping the upper arms hanging vertical.
+  - title: Lower to stretch
+    detail: Lower slowly all the way back to the stretched start position.
+safetyNotes: >-
+  The stretched bottom position is where the biceps is most vulnerable — keep the shoulders pinned back against the
+  bench and do not jump to heavy loads before the tendon has adapted.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158403-qpylvm/img-female-mtkojl9efgh7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158403-qpylvm/img-male-mtkoivobi2q0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158403-qpylvm/img-female-mtkojl9efgh7.webp
+youtubeSearchQuery: Incline Dumbbell Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.706Z"
+updatedAt: "2026-09-02T22:40:47.263Z"

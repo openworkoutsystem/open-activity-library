@@ -1,0 +1,65 @@
+id: lib-1788127167635-nrfkcj
+name: Sprint Intervals
+description: >-
+  Short all-out efforts of 10 to 30 seconds separated by full, walking recoveries — top-end speed and power that steady
+  running never touches. The recovery is the point: start each rep fresh or it stops being a sprint. Quality over
+  quantity, always.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Calves
+  - Hip Flexors
+equipment: []
+tags:
+  - Sprint Intervals
+  - Running
+  - HIIT
+  - High-Intensity
+  - High-Impact
+modality: cardio
+metValue: 12.3
+instructions:
+  - title: Warm up progressively
+    detail: Jog, drill, and run several strides building toward full speed.
+  - title: Sprint hard
+    detail: Run 10 to 30 seconds at near-maximal effort.
+  - title: Recover fully
+    detail: Walk for two to four minutes until you feel fresh.
+  - title: Repeat with quality
+    detail: Run six to ten reps and stop when speed drops off.
+safetyNotes: >-
+  Sprinting carries the highest hamstring-strain risk of anything in this library — warm up thoroughly and build to full
+  speed across the first few reps, especially if you haven't sprinted in months.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167635-nrfkcj/img-male-mtkvi31dkmfl.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167635-nrfkcj/img-male-mtkvi31dkmfl.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167635-nrfkcj/img-female-mtkv6qhrpgk6.webp
+youtubeSearchQuery: Sprint Intervals technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.930Z"
+updatedAt: "2026-09-03T01:55:34.171Z"

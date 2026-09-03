@@ -1,0 +1,66 @@
+id: lib-1788215819863-5cdwws
+name: TRX Fallout
+description: >-
+  Hold the straps with straight arms facing away from the anchor, then let the arms travel overhead as your body falls
+  forward in one line before you pull them back to your chest. It is an anti-extension core exercise - the abs fight to
+  keep the low back from arching while the lats and shoulders steer the straps. Ribs down and glutes squeezed the whole
+  time; if the low back arches, you went too far.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Transverse Abdominis
+secondaryMuscles:
+  - Front Delts
+  - Back
+  - Glutes
+equipment:
+  - trx_suspension
+tags:
+  - Core
+  - Bodyweight
+  - Upper Body
+  - Functional
+modality: resistance
+metValue: 4
+instructions:
+  - title: Take the handles
+    detail: >-
+      Face away from the anchor with the straps at chest height, a handle in each hand, arms straight out front and the
+      body leaning slightly forward.
+  - title: Brace hard
+    detail: Squeeze the glutes and tuck the ribs toward the hips to set a plank from ears to heels before anything moves.
+  - title: Fall forward
+    detail: >-
+      Let the straight arms drift up and overhead as your body falls toward the floor, going only as far as you can hold
+      the plank.
+  - title: Pull back to start
+    detail: >-
+      Drive the handles back down toward your chest with the lats, arms still straight, and reset the brace between
+      reps.
+safetyNotes: >-
+  An arching low back is the signal you have passed your range - shorten the fallout rather than grinding out reps. Step
+  the feet closer to the anchor to scale it back, and skip it altogether with an unstable or impinged shoulder.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819863-5cdwws/img-female-mtkx4t25r96g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819863-5cdwws/img-male-mtkx42mtfodb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819863-5cdwws/img-female-mtkx4t25r96g.webp
+youtubeSearchQuery: TRX Fallout suspension trainer proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:59.140Z"
+updatedAt: "2026-09-03T02:41:13.739Z"

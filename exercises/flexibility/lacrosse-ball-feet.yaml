@@ -1,0 +1,57 @@
+id: lib-1788127173413-qk8o6k
+name: Lacrosse Ball Feet
+description: >-
+  Roll the sole of each foot over a lacrosse ball — tiny tool, outsized relief. Slow passes heel to toes with pauses on
+  the tender spots loosen the plantar tissue that stiff calves and long days on your feet lock up. Seated is gentle;
+  standing adds as much pressure as you can stand.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles: []
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2
+unilateral: always
+instructions:
+  - title: Place the ball
+    detail: Sit or stand with the ball under the arch of one foot.
+  - title: Roll heel to toes
+    detail: Sweep the ball slowly along the full length of the sole.
+  - title: Pause on spots
+    detail: Hold on tender points and breathe until they ease.
+  - title: Switch feet
+    detail: Give each foot equal time.
+safetyNotes: >-
+  Start seated — standing on the ball loads pressure fast, and bruising the sole helps nothing. With sharp heel pain
+  suggestive of plantar fasciitis, work the arch and avoid pressing directly on the painful heel insertion.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173413-qk8o6k/img-female-mtkpugjbd0gz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173413-qk8o6k/img-male-mtkptejy0hzh.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173413-qk8o6k/img-female-mtkpugjbd0gz.webp
+youtubeSearchQuery: Lacrosse Ball Feet technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.705Z"
+updatedAt: "2026-09-02T23:17:14.558Z"

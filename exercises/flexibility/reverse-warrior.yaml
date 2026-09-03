@@ -1,0 +1,60 @@
+id: lib-1788132443176-quq9o9
+name: Reverse Warrior
+description: >-
+  Warrior II flipped: the front arm sweeps up and back while the back hand rests lightly on the back leg, opening the
+  entire side body. The front leg keeps working while the ribs and waist lengthen. Keep sinking into the front knee even
+  as the torso arcs back.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Back
+  - Shoulders
+equipment: []
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Balance
+modality: flexibility
+metValue: 2.8
+unilateral: always
+instructions:
+  - title: Set Warrior II
+    detail: Take a wide stance with the front knee bent over the ankle and arms extended.
+  - title: Flip the front palm
+    detail: Turn the front palm up and sweep that arm toward the ceiling and slightly back.
+  - title: Rest the back hand
+    detail: Let the back hand rest lightly on the back thigh without leaning weight into it.
+  - title: Lengthen the side
+    detail: Reach up through the top fingertips to stretch the whole front side of the waist.
+safetyNotes: >-
+  This is a side stretch, not a deep backbend — lengthen up before arcing back, and keep the lean modest. Do not press
+  weight into the back knee with the lower hand.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443176-quq9o9/img-female-mtktyfqp5pbu.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443176-quq9o9/img-male-mtktxwbc7403.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443176-quq9o9/img-female-mtktyfqp5pbu.webp
+youtubeSearchQuery: Reverse Warrior yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.431Z"
+updatedAt: "2026-09-03T01:12:18.264Z"

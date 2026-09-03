@@ -1,0 +1,74 @@
+id: lib-1788297353961-b9h7vj
+name: Wrist Roller
+description: >-
+  Hold a short handle at shoulder height with both arms extended and wind a rope up around it, hand over hand, until the
+  plate hanging from the rope reaches the handle - then unwind it just as deliberately. Every turn of the handle is a
+  full-range wrist flexion or extension under load, so a single roll-up packs in far more forearm work than a set of
+  wrist curls. It is the classic grip and forearm finisher, and the plate creeping upward is the whole rep count.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Forearms
+secondaryMuscles:
+  - Front Delts
+equipment:
+  - weight_plates
+  - Wrist Roller
+tags:
+  - Isolation
+  - Grip
+  - Resistance
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 3
+instructions:
+  - title: Load the roller
+    detail: >-
+      Thread a light plate onto the rope, tie it off, and let the full length of rope hang from the handle. Stand tall
+      and hold the handle in both hands with an overhand grip, arms extended in front of you at shoulder height.
+  - title: Wind it up
+    detail: >-
+      Roll the handle by alternating wrists - one hand turns it through its full range while the other regrips - so the
+      rope wraps around the handle and the plate climbs steadily. Keep the elbows locked and the movement in the wrists
+      only.
+  - title: Reach the top
+    detail: >-
+      Keep winding until the plate touches the handle. That full climb is one rep - a bigger plate means fewer, harder
+      reps, a longer rope means more turns per rep.
+  - title: Unwind under control
+    detail: >-
+      Reverse the wrist action to lower the plate all the way back down without letting the handle spin free. Rolling
+      the top of the handle toward you loads the wrist extensors and away from you loads the flexors, so lowering counts
+      just as much as raising.
+safetyNotes: >-
+  The arms-out hold usually fatigues the shoulders before the forearms give out - resting the handle on a rack's J-hooks
+  or safety pins, or working with the elbows bent, takes the shoulders out of it. Never let the plate free-fall and
+  unspool the rope, which whips the handle and can drop the plate on a foot. Like wrist curls, the wrists tolerate reps
+  far better than load, so add rope length or reps before adding plate weight.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 3
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788297353961-b9h7vj/img-female-mtkxcn3pw90p.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788297353961-b9h7vj/img-male-mtkxc0ndegaj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788297353961-b9h7vj/img-female-mtkxcn3pw90p.webp
+youtubeSearchQuery: Wrist Roller forearm exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-09-01T21:15:52.293Z"
+updatedAt: "2026-09-03T02:47:19.617Z"

@@ -1,0 +1,61 @@
+id: lib-1788127150266-1c7no4
+name: Kettlebell Deadlift
+description: >-
+  Hinge down to a kettlebell sitting between your feet and stand up with it — the cleanest way to learn to pull from the
+  floor. The handle height lets almost anyone find a flat back without the mobility a barbell demands. Own this before
+  swings or barbell pulls.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Forearms
+equipment:
+  - kettlebells
+tags:
+  - Hinge
+  - Kettlebell
+  - Posterior Chain
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Straddle the bell
+    detail: Stand with the kettlebell centered between your feet, stance just wider than hips.
+  - title: Hinge to the handle
+    detail: Push the hips back and hinge down until both hands reach the handle with a flat back.
+  - title: Stand up
+    detail: Brace, then drive through the floor and stand tall with the bell hanging at arm's length.
+  - title: Return it
+    detail: Hinge back down and place the bell on the floor under control each rep.
+safetyNotes: >-
+  If you can't reach the handle without the low back rounding, set the bell on a block and raise the start position — a
+  shortened clean range beats a rounded full one.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150266-1c7no4/img-female-mtkp24kf08cb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150266-1c7no4/img-male-mtkp1l32rb4c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150266-1c7no4/img-female-mtkp24kf08cb.webp
+youtubeSearchQuery: Kettlebell Deadlift proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.572Z"
+updatedAt: "2026-09-02T22:55:11.734Z"

@@ -1,0 +1,63 @@
+id: lib-1774910700271-4ovl5u
+name: Barbell Deadlift
+description: Conventional barbell deadlift — the ultimate full-body strength builder. Targets posterior chain, back, and grip.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Glutes
+  - Back
+secondaryMuscles:
+  - Abs
+  - Forearms
+  - Traps
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Compound
+  - Strength
+  - Barbell
+modality: resistance
+metValue: 8
+instructions:
+  - title: Setup
+    detail: >-
+      Stand with feet hip-width, bar over mid-foot. Grip bar just outside knees. Hips higher than knees, shoulders over
+      bar.
+  - title: Brace
+    detail: Deep breath, brace core, pull slack out of the bar. Chest up, back flat.
+  - title: Pull
+    detail: Drive through the floor with legs. Keep bar close to body. Hips and shoulders rise together.
+  - title: Lockout
+    detail: Stand tall, squeeze glutes at top. Don't hyperextend back.
+  - title: Lower
+    detail: Hinge hips back, then bend knees to return bar to floor under control.
+safetyNotes: Never round your lower back. Start light to nail form. Use mixed grip or straps if grip fails before back does.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 2
+  reps: 9
+  estimatedDurationMinutes: 5
+  repSpeed: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910700271-4ovl5u/img-female-mtjkmuin4r9z.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910700271-4ovl5u/img-male-mtjkmt35dofy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910700271-4ovl5u/img-female-mtjkmuin4r9z.webp
+youtubeSearchQuery: "\"barbell deadlift form tutorial beginner\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:45:00.286Z"
+updatedAt: "2026-09-02T03:45:44.734Z"

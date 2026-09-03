@@ -1,0 +1,64 @@
+id: lib-1788127151858-8cqje7
+name: Lateral Step-Up
+description: >-
+  Step up sideways onto the box — knee-tracking control in the frontal plane. Standing beside the box instead of behind
+  it makes the hip abductors fight to keep the pelvis level while the quad presses you up. Use a lower box than your
+  forward step-up; the sideways angle is honest about weakness.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Abductors
+  - Hamstrings
+  - Calves
+equipment:
+  - plyo_box
+tags:
+  - Lower Body
+  - Unilateral
+  - Stability
+  - Functional
+  - Bodyweight
+  - Calisthenics
+modality: resistance
+metValue: 4.5
+unilateral: always
+instructions:
+  - title: Stand beside the box
+    detail: Position the box at your side and place the near foot fully on top.
+  - title: Level the pelvis
+    detail: Set your hips level before you drive, without leaning over the box.
+  - title: Press straight up
+    detail: Drive through the top leg to stand tall on the box with no push from the floor foot.
+  - title: Lower under control
+    detail: Descend slowly, keeping the top knee tracking over the second toe.
+  - title: Complete the side
+    detail: Do all reps on one leg, then move to the other side of the box.
+safetyNotes: >-
+  A hip that drops or a knee that caves toward the box means the height is too much — go lower and rebuild the pattern.
+  Keep the whole foot on the box; a hanging heel shifts the stress into the knee.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151858-8cqje7/img-female-mtkriavqjv86.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151858-8cqje7/img-male-mtkrhn0rgpbj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151858-8cqje7/img-female-mtkriavqjv86.webp
+youtubeSearchQuery: Lateral Step-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.164Z"
+updatedAt: "2026-09-03T00:03:45.700Z"

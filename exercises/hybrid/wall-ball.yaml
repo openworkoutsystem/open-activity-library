@@ -1,0 +1,63 @@
+id: lib-1788127174563-rgrzdk
+name: Wall Ball
+description: >-
+  Front squat holding a medicine ball, then throw it to a target overhead as you stand — legs and lungs locked into one
+  rhythm. It trains squat power, overhead accuracy, and repeatable conditioning. Catch the ball already sinking into the
+  next squat; catching tall and squatting after doubles the work.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Shoulders
+secondaryMuscles:
+  - Abs
+  - Calves
+equipment:
+  - medicine_ball
+tags:
+  - HIIT
+  - Functional
+  - Compound
+  - Squat
+  - High-Intensity
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Hold at chest
+    detail: Stand an arm's length from the wall with the ball held at the collarbones.
+  - title: Squat to depth
+    detail: Squat until the hips pass below parallel with elbows inside the knees.
+  - title: Drive and throw
+    detail: Stand explosively and throw the ball to the target overhead.
+  - title: Catch and sink
+    detail: Absorb the ball with soft knees and ride it straight into the next squat.
+safetyNotes: >-
+  Catching the ball with an extended, leaned-back spine is the classic mistake — absorb it with soft knees and a
+  vertical torso. Watch the ball all the way down; a missed catch to the face is common once fatigue sets in.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174563-rgrzdk/img-female-mtkos83jkzd0.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174563-rgrzdk/img-male-mtkorggfuw7c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174563-rgrzdk/img-female-mtkos83jkzd0.webp
+youtubeSearchQuery: Wall Ball proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.853Z"
+updatedAt: "2026-09-02T22:47:30.353Z"

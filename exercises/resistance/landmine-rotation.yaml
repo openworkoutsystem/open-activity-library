@@ -1,0 +1,78 @@
+id: lib-1788215815638-rwxfes
+name: Landmine Rotation
+description: >-
+  Stand facing a barbell anchored at one end, hold the loaded sleeve with both hands at chest height, and sweep it in an
+  arc from hip to hip. The long lever turns a small plate into a serious anti-rotation and rotation challenge for the
+  obliques, while the shoulders and hips learn to transfer force the way they do in a throw or a swing. Rotate from the
+  hips and let the back foot pivot - the lumbar spine should stay quiet.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Abs
+secondaryMuscles:
+  - Shoulders
+  - Transverse Abdominis
+  - Glutes
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Rotation
+  - Core
+  - Barbell
+  - Functional
+  - Strength
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Anchor the bar
+    detail: >-
+      Wedge one end of a barbell into a landmine sleeve or a padded corner, then load a light plate on the free sleeve.
+      Start with far less weight than you expect to need.
+  - title: Take your stance
+    detail: >-
+      Face the anchor with feet slightly wider than your shoulders, and hold the sleeve just under the collar with both
+      hands, arms extended at chest height.
+  - title: Sweep across
+    detail: >-
+      Keep the arms long and sweep the bar down and across toward one hip, pivoting the opposite foot and turning the
+      hips so your belt buckle follows the bar.
+  - title: Reverse the arc
+    detail: >-
+      Drive through the hips to bring the bar back up and across to the other side in one smooth arc, resisting the urge
+      to let it fall on the way down.
+  - title: Count both sides
+    detail: >-
+      One pass to each hip is one rep. Keep the ribs stacked over the pelvis the whole set and stop when the arc starts
+      collapsing.
+safetyNotes: >-
+  Rotation must come from the hips and thoracic spine with the pivot foot free to turn - grinding the arc with planted
+  feet forces the lumbar spine to twist under load and is a common way to tweak a low back. Anyone with a disc history
+  should keep this light and slow or skip it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815638-rwxfes/img-female-mtkpxfrnnadu.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815638-rwxfes/img-male-mtkpwjfy5hi3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815638-rwxfes/img-female-mtkpxfrnnadu.webp
+youtubeSearchQuery: Landmine Rotation proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.934Z"
+updatedAt: "2026-09-02T23:19:33.074Z"

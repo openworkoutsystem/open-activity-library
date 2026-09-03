@@ -1,0 +1,80 @@
+id: lib-1788215815992-zpuldp
+name: Rack Pull
+description: >-
+  Pull a loaded barbell from pins or blocks set near knee height to a standing lockout, working only the top half of the
+  deadlift. Cutting the range lets you handle loads above your full deadlift, which overloads the traps, upper back, and
+  lockout portion of the hinge. Treat it as its own lift with its own bar path, not a shortened deadlift to grind
+  through.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Traps
+  - Lower Back
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Forearms
+  - Back
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Compound
+  - Pull
+  - Hinge
+  - Posterior Chain
+  - Powerlifting
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set the pins
+    detail: >-
+      Set the safety pins or blocks in a rack so the bar sits just below, at, or just above your kneecap depending on
+      where you want the overload, and load the bar evenly.
+  - title: Take your stance
+    detail: >-
+      Stand with mid-foot under the bar, shins close, and grip just outside your knees with a double overhand or mixed
+      grip.
+  - title: Build tension
+    detail: >-
+      Push the hips back, chest up, and pull the slack out of the bar until you feel the plates load before anything
+      moves.
+  - title: Drive to lockout
+    detail: >-
+      Push the floor away and drag the bar up your thighs, finishing tall with the hips through and the shoulder blades
+      pulled back - not leaned back behind them.
+  - title: Return to the pins
+    detail: >-
+      Hinge the hips back and lower the bar under control to the pins, letting it settle fully before starting the next
+      rep.
+safetyNotes: >-
+  Because the loads are heavier than a full deadlift, any rounding at the low back or leaning back at lockout puts a lot
+  of shear and compression on the lumbar spine - keep the ribs down and stop the set the moment your back position
+  slips. Set the pins so you can reach the bar without diving under it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 4
+  reps: 5
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815992-zpuldp/img-female-mtktufrsixjt.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815992-zpuldp/img-male-mtkttkzscziz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815992-zpuldp/img-female-mtktufrsixjt.webp
+youtubeSearchQuery: Rack Pull proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:55.279Z"
+updatedAt: "2026-09-03T01:09:11.414Z"

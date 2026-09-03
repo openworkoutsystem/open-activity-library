@@ -1,0 +1,58 @@
+id: lib-1788127172406-gam0lw
+name: Butt Kicks
+description: >-
+  Jog in place flicking the heels to the glutes — hamstring turnover prep before any running. The knees stay pointing
+  down while the heels cycle fast and light, priming the exact motion the hamstrings perform at speed. Pairs naturally
+  with high knees in a pre-run sequence.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+  - Quadriceps
+  - Hip Flexors
+equipment: []
+tags:
+  - Warm-Up
+  - Cardio
+  - No Equipment
+  - Bodyweight
+modality: cardio
+metValue: 7.5
+instructions:
+  - title: Jog in place
+    detail: Start an easy jog with a tall chest.
+  - title: Flick the heels
+    detail: Snap each heel up toward the glute with the knee pointing at the floor.
+  - title: Stay light
+    detail: Keep contacts quick and quiet on the midfoot.
+  - title: Build speed
+    detail: Increase the turnover as the hamstrings warm up.
+safetyNotes: >-
+  Keep the contacts light and build speed gradually — this drill loads the calves and Achilles quickly, so ease into it
+  if they're cranky. The heel flick should be relaxed, not a forced kick.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172406-gam0lw/img-male-mtkmie3oitc5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172406-gam0lw/img-male-mtkmie3oitc5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172406-gam0lw/img-female-mtkmbbjmgcxo.webp
+youtubeSearchQuery: Butt Kicks proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.705Z"
+updatedAt: "2026-09-02T21:43:52.094Z"

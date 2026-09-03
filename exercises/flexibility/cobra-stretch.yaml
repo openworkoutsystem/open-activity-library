@@ -1,0 +1,59 @@
+id: lib-1788127170631-ayte28
+name: Cobra Stretch
+description: >-
+  Press the chest up from lying face-down — gentle spinal extension that counters a day of flexion. It stretches the abs
+  and hip flexors while the low back moves through a range it rarely visits. Keep the hips glued to the floor; the lift
+  comes from the hands, not the back muscles straining.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Hip Flexors
+  - Chest
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Mobility
+  - Posture
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+instructions:
+  - title: Lie prone
+    detail: Lie face-down with hands flat under the shoulders and legs extended.
+  - title: Press up
+    detail: Straighten the arms partway and lift the chest while the hips stay on the floor.
+  - title: Look forward
+    detail: Keep the neck long and gaze slightly ahead rather than craning up.
+  - title: Hold and lower
+    detail: Hold at a comfortable height, breathing, then lower with control.
+safetyNotes: >-
+  Only press as high as the low back tolerates without pinching — a bent-elbow sphinx height is plenty for most people.
+  Anyone with spondylolisthesis or acute back pain should skip loaded extension.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170631-ayte28/img-female-mtkmmd2koq2e.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170631-ayte28/img-male-mtkmlrrmr50p.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170631-ayte28/img-female-mtkmmd2koq2e.webp
+youtubeSearchQuery: Cobra Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.923Z"
+updatedAt: "2026-09-02T21:46:57.536Z"

@@ -1,0 +1,58 @@
+id: lib-1788127147797-k8eiol
+name: Box Squat
+description: >-
+  Squat to a box or bench — the target controls depth and builds confidence in the pattern. It trains the quads and
+  glutes while teaching a consistent bottom position rep after rep. Touch the box under control; never crash onto it.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - plyo_box
+tags:
+  - Squat
+  - Bodyweight
+  - Compound
+  - Lower Body
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the box
+    detail: Place a box or bench behind you at a height that puts your thighs at parallel when seated.
+  - title: Sit back
+    detail: Push the hips back and lower under control until you lightly touch the box.
+  - title: Stay tight
+    detail: Keep your torso braced and shins near vertical as you touch down.
+  - title: Drive up
+    detail: Stand by pushing through the whole foot without rocking forward off the box.
+safetyNotes: >-
+  Touch the box softly and keep tension — plopping down with a rounded low back under any load is how box squats hurt
+  people. Lower the box height gradually as control improves.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147797-k8eiol/img-female-mtjkn01sb3cm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147797-k8eiol/img-male-mtjkmykq8ii4.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147797-k8eiol/img-female-mtjkn01sb3cm.webp
+youtubeSearchQuery: Box Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.125Z"
+updatedAt: "2026-09-02T03:45:46.290Z"

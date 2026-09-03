@@ -1,0 +1,69 @@
+id: lib-1773702783736-zu4ena
+name: Prone Y-T-W Raise
+description: >-
+  Prone Y-T-W shoulder raises for scapular stability, rotator cuff strength, and upper back activation. Ideal rehab for
+  shoulder pain and tech neck—face-down position avoids overhead stress.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Traps
+secondaryMuscles:
+  - Back
+  - Neck
+equipment:
+  - yoga_mat
+tags:
+  - Stability
+  - Strength
+  - Calisthenics
+modality: resistance
+metValue: 3
+muscleActivationMap:
+  Rear Delts: 0.4
+  Traps: 0.2
+  Rhomboids: 0.2
+  Rotator Cuff: 0.1
+  Lower Back: 0.1
+instructions:
+  - title: Setup
+    detail: Lie face-down on mat, forehead on folded towel. Arms relaxed at sides, palms neutral.
+  - title: Y Raise
+    detail: >-
+      Extend arms forward at 45° (Y shape), thumbs up. Lift arms 4-6" off ground squeezing shoulder blades. Hold 2s,
+      lower slowly (3s).
+  - title: T Raise
+    detail: Arms out to sides at shoulder height (T shape), thumbs up. Lift squeezing mid-back. Hold 2s, lower 3s.
+  - title: W Raise
+    detail: Bend elbows 90° (W shape), elbows tucked. Lift elbows back squeezing shoulder blades. Hold 2s, lower 3s.
+  - title: Full Rep
+    detail: Do 8-12 reps per position without rest between Y/T/W. Rest 45-60s between sets. Keep neck neutral—no shrugging.
+safetyNotes: >-
+  Stop if left shoulder pinches. Keep lifts light—no momentum. Neck neutral (look at floor). Avoid if acute shoulder
+  injury.
+trackableMetrics:
+  - key: reps
+    label: Reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  restSeconds: 45
+  repSpeed: 4
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773702783736-zu4ena/img-female-mtktqa75uo4f.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773702783736-zu4ena/img-male-mtktpp2xobbz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773702783736-zu4ena/img-female-mtktqa75uo4f.webp
+youtubeSearchQuery: prone YTW shoulder raises rehab
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-16T23:13:02.607Z"
+updatedAt: "2026-09-03T01:05:57.156Z"

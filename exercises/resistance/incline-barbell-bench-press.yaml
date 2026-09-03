@@ -1,0 +1,61 @@
+id: lib-1788127152851-s8j01u
+name: Incline Barbell Bench Press
+description: >-
+  The barbell incline — heavy upper-chest and front-delt pressing. It carries the same setup discipline as the flat
+  bench with the bar path shifted toward the upper chest, loading the clavicular fibers harder than any dumbbell can.
+  Touch the bar just below the collarbones, never at the neck.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Front Delts
+secondaryMuscles:
+  - Triceps
+equipment:
+  - barbell
+  - bench_adjustable
+tags:
+  - Push
+  - Barbell
+  - Compound
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set up tight
+    detail: Set the bench to 30-45 degrees, pin your shoulder blades back, and plant your feet.
+  - title: Unrack over shoulders
+    detail: Grip just outside shoulder width and bring the bar out over your shoulders.
+  - title: Lower to upper chest
+    detail: Pull the bar down under control to touch just below your collarbones.
+  - title: Drive to lockout
+    detail: Press the bar back up and slightly toward your face until your elbows lock.
+safetyNotes: >-
+  The bar path sits close to the face and throat, so a spotter or safety arms matter even more than on flat bench. Touch
+  below the collarbones — lowering the bar to the neck is how incline pressing injures people.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152851-s8j01u/img-female-mtkoi5jvwuuq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152851-s8j01u/img-male-mtkohhhc4ky3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152851-s8j01u/img-female-mtkoi5jvwuuq.webp
+youtubeSearchQuery: Incline Barbell Bench Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.153Z"
+updatedAt: "2026-09-02T22:39:40.343Z"

@@ -1,0 +1,58 @@
+id: lib-1788127156747-11hou9
+name: Sandbag Carry
+description: >-
+  Bear-hug a sandbag to your chest and walk. The shifting, awkward load works the whole body the way real-world objects
+  do — arms squeezing, upper back holding, hips driving. Hug the bag high on the chest and take short, deliberate steps.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles:
+  - Forearms
+  - Abs
+  - Biceps
+equipment: []
+tags:
+  - Carry
+  - Functional
+  - Strength
+  - Grip
+modality: resistance
+metValue: 7
+instructions:
+  - title: Hug it high
+    detail: Squat down, wrap both arms around the bag, and hug it high onto your chest.
+  - title: Stand with brace
+    detail: Drive through the legs to stand while exhaling against a firm brace.
+  - title: Walk deliberately
+    detail: Take short, controlled steps with the bag held tight to the torso.
+  - title: Set it down
+    detail: Squat straight down to lower the bag instead of folding at the waist.
+safetyNotes: >-
+  Some rounding is inherent to hugging a bag, so protect the spine with a hard brace and lift with the legs from a
+  squat, not by folding at the waist. Start lighter than pride suggests — a shifting load is harder than a barbell of
+  the same weight.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 45
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156747-11hou9/img-female-mtku6ffag3tf.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156747-11hou9/img-male-mtku5r9nktwt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156747-11hou9/img-female-mtku6ffag3tf.webp
+youtubeSearchQuery: Sandbag Carry proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.049Z"
+updatedAt: "2026-09-03T01:18:30.471Z"

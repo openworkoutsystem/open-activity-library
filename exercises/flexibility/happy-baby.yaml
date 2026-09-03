@@ -1,0 +1,59 @@
+id: lib-1788131478249-s9fnhi
+name: Happy Baby
+description: >-
+  Lying on the back with the knees drawn wide toward the armpits and the hands gripping the feet. It opens the inner
+  thighs, hips, and lower back with almost no effort required to hold it. Keep the tailbone heavy on the mat — pulling
+  it off the floor cancels the hip stretch.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Lower Back
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Restorative Yoga
+  - Flexibility
+  - Cool-Down
+modality: flexibility
+metValue: 2
+instructions:
+  - title: Lie on your back
+    detail: Draw both knees toward the chest.
+  - title: Grab the feet
+    detail: Hold the outer edges of the feet with the soles facing the ceiling.
+  - title: Open the knees
+    detail: Pull the knees wide toward the armpits with the shins vertical.
+  - title: Anchor and rock
+    detail: Keep the tailbone heavy on the mat and rock gently side to side if it feels good.
+safetyNotes: >-
+  Hold the shins or thighs instead of the feet if the grip forces the tailbone off the floor; avoid deep hip flexion in
+  late pregnancy or after recent hip surgery.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478249-s9fnhi/img-female-mtko7k094ew3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478249-s9fnhi/img-male-mtko71zunr94.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478249-s9fnhi/img-female-mtko7k094ew3.webp
+youtubeSearchQuery: Happy Baby yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.507Z"
+updatedAt: "2026-09-02T22:31:25.819Z"

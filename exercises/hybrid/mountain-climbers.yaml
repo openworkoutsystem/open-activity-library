@@ -1,0 +1,67 @@
+id: lib-1773267005095-zc2qe7
+name: Mountain Climbers
+description: >-
+  A high-intensity bodyweight cardio and core exercise performed in a plank position by alternately driving your knees
+  toward your chest in a running motion. Classic Jillian Michaels Ripped in 30 move that builds core strength, cardio
+  endurance, and coordination.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Quadriceps
+  - Shoulders
+equipment: []
+tags:
+  - Cardio
+  - HIIT
+  - Bodyweight
+  - High-Intensity
+  - Running
+  - Strength
+modality: hybrid
+metValue: 8
+muscleActivationMap:
+  Abs: 0.65
+  Quadriceps: 0.2
+  Shoulders: 0.15
+instructions:
+  - title: Starting Position
+    detail: Begin in a high plank position with hands directly under shoulders, body in a straight line from head to heels.
+  - title: Movement
+    detail: >-
+      Quickly drive one knee toward your chest, then immediately switch legs in a running motion while keeping your hips
+      low and core tight.
+  - title: Pace
+    detail: Move as fast as possible while maintaining good form. Keep your shoulders stable and avoid letting your hips rise.
+  - title: Breathing
+    detail: Breathe steadily throughout the movement.
+safetyNotes: >-
+  Keep your core engaged to protect your lower back. Start slowly if you're new to the movement. Modify by performing
+  from your knees if needed. Stop if you feel wrist or shoulder pain.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  restSeconds: 30
+  durationSeconds: 30
+  repSpeed: 2
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773267005095-zc2qe7/img-female-mtkqmu6biyxn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773267005095-zc2qe7/img-male-mtkqm9k8jz62.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773267005095-zc2qe7/img-female-mtkqmu6biyxn.webp
+youtubeSearchQuery: mountain climbers proper form Jillian Michaels
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-11T22:10:05.178Z"
+updatedAt: "2026-09-02T23:39:18.064Z"

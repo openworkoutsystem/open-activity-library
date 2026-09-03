@@ -1,0 +1,61 @@
+id: lib-1788127174049-5esji6
+name: Bear Crawl
+description: >-
+  Crawl forward on hands and toes with the knees hovering an inch off the floor — total-body control that has to travel.
+  It trains shoulders, core, and hips to work as one unit while moving. Small, quiet steps beat fast, sloppy ones every
+  time.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Abs
+secondaryMuscles:
+  - Chest
+  - Triceps
+  - Quadriceps
+  - Glutes
+  - Hamstrings
+equipment: []
+tags:
+  - Functional
+  - Bodyweight
+  - Core
+  - No Equipment
+modality: hybrid
+metValue: 7.5
+instructions:
+  - title: Set the position
+    detail: Start on hands and toes with knees bent and hovering an inch off the floor.
+  - title: Flatten the back
+    detail: Keep the hips at shoulder height and the spine level like a tabletop.
+  - title: Move opposites
+    detail: Step the opposite hand and foot forward together in small increments.
+  - title: Stay quiet
+    detail: Crawl slowly enough that the hips never sway or rise.
+safetyNotes: >-
+  The position is the exercise — hips riding above the shoulders or a swaying torso means the crawl is gone. Shrink the
+  steps rather than speeding up, and keep the knees just off the ground the whole way.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174049-5esji6/img-female-mtjkphm87l5h.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174049-5esji6/img-male-mtjkpgc67roq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174049-5esji6/img-female-mtjkphm87l5h.webp
+youtubeSearchQuery: Bear Crawl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.340Z"
+updatedAt: "2026-09-02T03:46:08.365Z"

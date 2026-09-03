@@ -1,0 +1,64 @@
+id: lib-1772516304525-4dqepu
+name: Jumping Jacks
+description: >-
+  Jumping jacks are a classic bodyweight cardio exercise that improves coordination, endurance, and warms up the entire
+  body by jumping while spreading arms and legs.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Quadriceps
+  - Shoulders
+secondaryMuscles:
+  - Glutes
+  - Abs
+  - Back
+equipment: []
+tags:
+  - Cardio
+  - Bodyweight
+  - Plyometrics
+modality: hybrid
+metValue: 3.5
+muscleActivationMap:
+  Calves: 0.2
+  Quadriceps: 0.25
+  Shoulders: 0.3
+  Glutes: 0.1
+  Abs: 0.15
+instructions:
+  - title: Start position
+    detail: Feet together and arms down at your sides
+  - title: Mid position
+    detail: Jump and swing your arms out and up and feet out landing with your body making an X
+  - title: Jump back and repeat
+    detail: Jump back to start position and repeat the cycle
+safetyNotes: >-
+  Start with smaller sets if you're new to plyometrics. Stop if you feel knee, ankle, or shoulder pain. Modify by
+  stepping side to side instead of jumping if you have joint issues or are carrying extra weight. Keep core engaged and
+  land softly. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - isPrimary: true
+    key: reps
+    category: movement
+defaults:
+  sets: 3
+  reps: 45
+  restSeconds: 30
+  repSpeed: 2
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772516304525-4dqepu/img-female-mtkoye0m79j1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772516304525-4dqepu/img-male-mtkoxru0dloy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772516304525-4dqepu/img-female-mtkoye0m79j1.webp
+youtubeSearchQuery: how to Jumping Jacks exercise proper form
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-03T05:38:24.765Z"
+updatedAt: "2026-09-02T22:52:17.809Z"

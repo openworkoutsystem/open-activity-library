@@ -1,0 +1,58 @@
+id: lib-1788127161105-q7qck2
+name: Monster Walk
+description: >-
+  With a band around the legs, sit into a quarter squat and take deliberate lateral steps, keeping tension on the band
+  the whole way. It wakes up the glute medius and teaches the knees to track over the toes — the standard opener before
+  every leg day. Stay low and level; bobbing up between steps lets the glutes off the hook.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+  - Glutes
+secondaryMuscles:
+  - Quadriceps
+equipment:
+  - resistance_bands
+tags:
+  - Warm-Up
+  - Resistance
+  - Lower Body
+  - Stability
+  - Functional
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Band the legs
+    detail: Loop a band above the knees or around the ankles and set feet hip-width apart.
+  - title: Sit into it
+    detail: Drop into a quarter squat with the chest up and knees pressed out.
+  - title: Step sideways
+    detail: Take a controlled lateral step, then follow with the trailing foot without letting the band go slack.
+  - title: Stay low
+    detail: Hold the squat depth for every step, then repeat the set in the other direction.
+safetyNotes: >-
+  Keep the knees pushed out against the band the entire set — letting them collapse inward trains exactly the pattern
+  you are trying to fix. Band above the knees is gentler on the joints than at the ankles.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161105-q7qck2/img-female-mtkqllfjybh3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161105-q7qck2/img-male-mtkql3kwz9h0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127161105-q7qck2/img-female-mtkqllfjybh3.webp
+youtubeSearchQuery: Monster Walk proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.406Z"
+updatedAt: "2026-09-02T23:38:20.161Z"

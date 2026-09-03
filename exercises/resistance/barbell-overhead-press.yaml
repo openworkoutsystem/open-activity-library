@@ -1,0 +1,58 @@
+id: lib-1774910644661-0ut61k
+name: Barbell Overhead Press
+description: Standing barbell overhead press for shoulder strength and upper body power. A fundamental compound pressing movement.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Abs
+  - Chest
+equipment:
+  - barbell
+  - weight_plates
+  - squat_rack
+tags:
+  - Compound
+  - Strength
+  - Barbell
+modality: resistance
+metValue: 6
+instructions:
+  - title: Setup
+    detail: Unrack barbell at shoulder height, grip slightly wider than shoulder width. Feet hip-width apart.
+  - title: Brace
+    detail: Take a deep breath, brace core, squeeze glutes. Bar rests on front delts.
+  - title: Press
+    detail: Press bar straight overhead, moving head slightly back then forward as bar passes. Lock out arms at top.
+  - title: Lower
+    detail: Control the bar back to shoulder height. Reset breath and repeat.
+safetyNotes: Keep core braced to protect lower back. Don't lean back excessively. Start light to establish form.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  repSpeed: 3
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910644661-0ut61k/img-female-mtjkmakzqns1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910644661-0ut61k/img-male-mtjkm94yp3nw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910644661-0ut61k/img-female-mtjkmakzqns1.webp
+youtubeSearchQuery: "\"barbell overhead press form tutorial\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:04.676Z"
+updatedAt: "2026-09-02T03:45:43.221Z"

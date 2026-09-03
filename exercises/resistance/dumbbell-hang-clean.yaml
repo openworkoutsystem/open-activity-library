@@ -1,0 +1,62 @@
+id: lib-1788127164200-1x48v4
+name: Dumbbell Hang Clean
+description: >-
+  The hang clean with dumbbells — dip, drive, and catch the bells at the shoulders. It delivers the power stimulus
+  without barbell rack mobility or platform skill. Catch soft with the knees, not stiff with the arms.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Traps
+  - Shoulders
+  - Forearms
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+  - Compound
+  - Hinge
+  - Strength
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Set the hang
+    detail: Hold the dumbbells at the thighs with the hips hinged and back flat.
+  - title: Dip and drive
+    detail: Extend the hips explosively and shrug the bells upward.
+  - title: Catch on shoulders
+    detail: Bend the knees and receive the bells softly at the shoulders.
+  - title: Stand and reset
+    detail: Stand tall, lower back to the hang, and repeat.
+safetyNotes: >-
+  Catch by re-bending the knees, not by curling the bells — a stiff-armed catch beats up elbows and wrists. Keep the
+  dumbbells close so they land on the shoulders, not the collarbones.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164200-1x48v4/img-female-mtke9ym2tvaj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164200-1x48v4/img-male-mtke98d1y0ej.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127164200-1x48v4/img-female-mtke9ym2tvaj.webp
+youtubeSearchQuery: Dumbbell Hang Clean proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:23.492Z"
+updatedAt: "2026-09-02T17:53:22.240Z"

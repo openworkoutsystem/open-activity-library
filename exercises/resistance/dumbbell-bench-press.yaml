@@ -1,0 +1,63 @@
+id: lib-1788127152711-02shug
+name: Dumbbell Bench Press
+description: >-
+  Bench press with independent dumbbells — more range, more stabilizer demand. Each arm has to control its own load, so
+  the shoulders and chest work through a deeper stretch and any side-to-side strength gap shows up immediately. Let the
+  dumbbells travel slightly out and down to chest level, then press them back up and together over the shoulders.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Triceps
+  - Front Delts
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Push
+  - Dumbbell
+  - Compound
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Kick into position
+    detail: Sit with the dumbbells on your knees, then lie back and kick them up one at a time.
+  - title: Set the base
+    detail: Pin your shoulder blades to the bench and plant your feet flat on the floor.
+  - title: Lower with control
+    detail: Bend your elbows and lower the dumbbells to the sides of your chest.
+  - title: Press up and in
+    detail: Drive both dumbbells up and slightly together until your arms are straight.
+safetyNotes: >-
+  The riskiest moments are getting heavy dumbbells into and out of position — kick them up from your knees and never
+  drop them behind your head. Don't chase maximum stretch at the bottom with heavy loads; stop when your elbows reach
+  chest level.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152711-02shug/img-female-mtjl34hzypvg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152711-02shug/img-male-mtjl2795j88e.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152711-02shug/img-female-mtjl34hzypvg.webp
+youtubeSearchQuery: Dumbbell Bench Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.018Z"
+updatedAt: "2026-09-02T04:16:14.982Z"

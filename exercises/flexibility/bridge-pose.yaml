@@ -1,0 +1,61 @@
+id: lib-1788132442640-c334vd
+name: Bridge Pose
+description: >-
+  A supine backbend where you press the hips toward the ceiling and hold, feet planted under the knees. It opens the
+  chest and hip flexors while the glutes and hamstrings do the lifting. Press evenly through both feet and keep the
+  knees tracking straight ahead.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Hip Flexors
+  - Chest
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Flexibility
+  - Mobility
+  - Low-Impact
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Set your feet
+    detail: Lie on your back with knees bent and feet hip-width apart, heels close enough to brush with your fingertips.
+  - title: Press and lift
+    detail: Push through your feet and lift the hips until your thighs are roughly parallel to the floor.
+  - title: Open the chest
+    detail: Roll the shoulders under and press the arms into the mat to lift the chest toward your chin.
+  - title: Hold and breathe
+    detail: Keep the knees tracking over the ankles and breathe steadily for the full hold.
+  - title: Lower slowly
+    detail: Release one vertebra at a time from the upper back down to the tailbone.
+safetyNotes: >-
+  Lift from the glutes rather than jamming into the lower back; if you feel pinching in the spine, lower the hips an
+  inch. Keep the head still and avoid turning the neck while lifted.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442640-c334vd/img-female-mtkm6c376b71.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442640-c334vd/img-male-mtkm5njwv0w3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442640-c334vd/img-female-mtkm6c376b71.webp
+youtubeSearchQuery: Bridge Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:21.904Z"
+updatedAt: "2026-09-02T21:34:29.877Z"

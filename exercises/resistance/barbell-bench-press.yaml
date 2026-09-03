@@ -1,0 +1,77 @@
+id: lib-1772731699028-eo94qh
+name: Barbell Bench Press
+description: Barbell bench press for chest, shoulders, triceps
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+  - Triceps
+equipment:
+  - barbell
+  - bench_flat
+  - weight_plates
+  - squat_rack
+tags:
+  - Compound
+  - Push
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 6
+muscleActivationMap:
+  Chest: 0.45
+  Triceps: 0.25
+  Front Delts: 0.2
+  Abs: 0.1
+instructions:
+  - title: Setup
+    detail: >-
+      Lie flat on a bench with eyes under the bar. Feet planted on the floor, slight arch in lower back, shoulder blades
+      squeezed back and down.
+  - title: Grip & Unrack
+    detail: >-
+      Grip the bar slightly wider than shoulder width. Unrack the bar and hold it directly over your chest with arms
+      straight.
+  - title: Lowering Phase
+    detail: Lower the bar slowly to your mid-chest (3 seconds). Keep elbows at about 45° from your body.
+  - title: Pressing Phase
+    detail: Drive the bar straight up powerfully until arms are fully extended. Squeeze chest at the top.
+  - title: Breathing
+    detail: Inhale as you lower the bar, exhale forcefully as you press it up.
+safetyNotes: >-
+  Always use a spotter for heavy sets. Keep shoulder blades retracted. Do not bounce the bar off your chest. Stop
+  immediately if you feel sharp shoulder pain (especially left shoulder). Maintain control throughout the movement.
+  Beginners should start with dumbbells or lighter weight.
+trackableMetrics:
+  - key: reps
+    label: Reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    label: Weight
+    unit: lbs
+    isPrimary: true
+    category: load
+defaults:
+  estimatedDurationMinutes: 8
+  reps: 5
+  restSeconds: 90
+  repSpeed: 3
+  sets: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772731699028-eo94qh/img-female-mtjklwbgn2c4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772731699028-eo94qh/img-male-mtjkluouzvws.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772731699028-eo94qh/img-female-mtjklwbgn2c4.webp
+youtubeSearchQuery: barbell bench press proper form tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 12
+createdAt: 1773461209192
+updatedAt: "2026-09-02T04:58:12.870Z"

@@ -1,0 +1,72 @@
+id: lib-1788215816360-ia92wa
+name: Copenhagen Plank
+description: >-
+  Lie on your side with the top leg resting on a bench and lift the hips so the inner thigh of that top leg holds your
+  body off the floor. It is the most effective loaded adductor exercise you can do without a machine, and it has become
+  standard groin-injury-prevention work for field and court athletes. Start with the bottom knee down and a short lever
+  before chasing the full straight-leg version.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+  - Obliques
+secondaryMuscles:
+  - Abs
+  - Transverse Abdominis
+  - Glutes
+equipment:
+  - bench_flat
+tags:
+  - Isometric
+  - Core
+  - Bodyweight
+  - Functional
+  - Lower Body
+modality: resistance
+metValue: 3.3
+unilateral: always
+instructions:
+  - title: Set the bench
+    detail: >-
+      Lie on your side next to a flat bench and rest the inside of your top knee or lower shin on the bench surface,
+      with the bench roughly at knee height.
+  - title: Post the elbow
+    detail: >-
+      Prop yourself on the bottom forearm with the elbow directly under the shoulder, and stack your shoulders and hips
+      in one vertical line.
+  - title: Lift the hips
+    detail: >-
+      Press the top leg down into the bench to raise your hips until your body forms a straight line from head to feet,
+      keeping the bottom leg off the floor if you can.
+  - title: Hold and breathe
+    detail: >-
+      Hold the position with steady breathing and the top hip stacked, not rolled forward or back, then lower under
+      control and switch sides.
+safetyNotes: >-
+  This puts a large isometric load through the adductor tendons, so a full straight-leg version on a cold or previously
+  strained groin is a real strain risk - begin with the knee on the bench, hold 10 to 15 seconds, and add time before
+  adding lever length. Stop immediately at any sharp pinch high in the inner thigh.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 20
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816360-ia92wa/img-female-mtka5yhyr8t9.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816360-ia92wa/img-male-mtka3rphr8v3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816360-ia92wa/img-female-mtka5yhyr8t9.webp
+youtubeSearchQuery: Copenhagen Plank proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:55.650Z"
+updatedAt: "2026-09-02T15:58:17.026Z"

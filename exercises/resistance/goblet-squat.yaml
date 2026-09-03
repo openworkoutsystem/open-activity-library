@@ -1,0 +1,64 @@
+id: lib-1788127147961-jyrgrm
+name: Goblet Squat
+description: >-
+  Squat holding a dumbbell or kettlebell at the chest — self-correcting posture, the best first loaded squat. The front
+  load forces an upright torso and teaches the brace, hitting quads, glutes, and upper back at once. Keep the elbows
+  tucked and the weight glued to your sternum.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+  - Upper Body
+equipment:
+  - dumbbells
+  - kettlebells
+tags:
+  - Squat
+  - Dumbbell
+  - Kettlebell
+  - Compound
+  - Lower Body
+modality: resistance
+metValue: 4
+instructions:
+  - title: Rack the weight
+    detail: Hold a dumbbell vertically or a kettlebell by the horns tight against your chest.
+  - title: Set your stance
+    detail: Stand shoulder-width with toes slightly out and elbows pointed down.
+  - title: Squat down
+    detail: Sit between the hips until your elbows pass inside your knees.
+  - title: Stand strong
+    detail: Drive through the floor and keep the weight pinned to your sternum the whole way up.
+safetyNotes: >-
+  The weight drifting away from the chest turns this into a front-delt hold that fries your arms before your legs — keep
+  it in contact with your body. Pick a load you can rack safely without swinging it up.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147961-jyrgrm/img-female-mtkgildbphz8.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147961-jyrgrm/img-male-mtkgc9t9n7uw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127147961-jyrgrm/img-female-mtkgildbphz8.webp
+youtubeSearchQuery: Goblet Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.266Z"
+updatedAt: "2026-09-02T18:56:03.671Z"

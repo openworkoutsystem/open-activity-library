@@ -1,0 +1,64 @@
+id: lib-1788127155486-9cw82m
+name: Pendlay Row
+description: >-
+  A strict barbell row where every rep starts from a dead stop on the floor with the torso parallel to the ground. It
+  builds explosive pulling strength and removes any stretch reflex or body English from the movement. Reset your flat
+  back before each pull — the dead stop is the whole point.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Lower Back
+  - Forearms
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Pull
+  - Barbell
+  - Compound
+  - Strength
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set up flat
+    detail: Hinge until your torso is parallel with the floor and grip the bar outside your knees.
+  - title: Pull explosively
+    detail: Rip the bar from the floor to your lower chest in one fast motion.
+  - title: Return to floor
+    detail: Lower the bar all the way back down and let it settle.
+  - title: Reset every rep
+    detail: Re-flatten your back and re-brace before each pull.
+safetyNotes: >-
+  This row demands a flat back at floor level on every rep — if hamstring or hip mobility forces rounding down there,
+  elevate the bar or pick a different row. Not the movement to do with an already fatigued lower back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 9
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155486-9cw82m/img-female-mtkr51r21p8w.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155486-9cw82m/img-male-mtkr4f4vywyx.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155486-9cw82m/img-female-mtkr51r21p8w.webp
+youtubeSearchQuery: Pendlay Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.798Z"
+updatedAt: "2026-09-02T23:53:27.940Z"

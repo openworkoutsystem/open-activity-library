@@ -1,0 +1,54 @@
+id: lib-1788127175715-0oa7sh
+name: Legs Up the Wall
+description: >-
+  Lie on your back with the legs resting vertically up a wall — the do-nothing recovery pose. It drains the day out of
+  the legs, settles the nervous system, and asks for exactly zero effort or skill. Scoot the hips close to the wall and
+  let the wall hold everything.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Recovery
+  - Cool-Down
+  - Mind-Body
+  - Yoga
+metValue: 1
+instructions:
+  - title: Set up close
+    detail: Sit sideways against the wall, then swing the legs up as you lie back.
+  - title: Adjust the hips
+    detail: Scoot until the hips are near the wall and the legs rest comfortably vertical.
+  - title: Settle and breathe
+    detail: Rest the arms at the sides and breathe slowly for five to ten minutes.
+  - title: Exit gently
+    detail: Bend the knees, roll to one side, and pause before sitting up.
+safetyNotes: >-
+  It is a mild inversion — anyone with uncontrolled high blood pressure or glaucoma should check with a doctor first.
+  Tingling feet just means bend the knees or come down, and if tight hamstrings pull the hips off the floor, move them
+  back from the wall instead of fighting it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 600
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175715-0oa7sh/img-female-mtkq5c2eznc1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175715-0oa7sh/img-male-mtkq4rd6z0gn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175715-0oa7sh/img-female-mtkq5c2eznc1.webp
+youtubeSearchQuery: Legs Up the Wall proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:35.009Z"
+updatedAt: "2026-09-02T23:25:41.594Z"

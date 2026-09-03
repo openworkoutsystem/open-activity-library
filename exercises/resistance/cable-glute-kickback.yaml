@@ -1,0 +1,75 @@
+id: lib-1788215813531-1bfyy2
+name: Cable Glute Kickback
+description: >-
+  Stand facing a low pulley with an ankle cuff on the working leg and drive that leg straight back behind you against
+  constant cable tension. Unlike a bodyweight donkey kick, the cable keeps load on the glute through the whole range,
+  which makes it a reliable finisher after hip thrusts or squats. Push from the heel and stop the moment your lower back
+  starts arching to get more range.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Lower Back
+  - Abs
+equipment:
+  - cable_machine
+tags:
+  - Isolation
+  - Resistance
+  - Strength
+  - Lower Body
+  - Posterior Chain
+modality: resistance
+metValue: 3.5
+unilateral: always
+instructions:
+  - title: Strap in low
+    detail: >-
+      Set the pulley to its lowest position, buckle an ankle cuff onto the working leg, and face the stack from about
+      two feet away so the cable is already under light tension.
+  - title: Brace and hinge
+    detail: >-
+      Hold the frame with both hands, stand tall on the support leg with a soft knee, and lean forward slightly from the
+      hips so your torso stays fixed for every rep.
+  - title: Kick back
+    detail: >-
+      Drive the working leg straight back and slightly up, squeezing the glute hard at the top without letting your
+      lower back arch to gain extra inches.
+  - title: Return under tension
+    detail: >-
+      Take two seconds bringing the leg forward past the support leg until you feel a stretch, then start the next rep
+      before the stack touches down.
+  - title: Switch sides
+    detail: Finish all reps on one leg, unclip and swap the cuff, and match the rep count exactly on the second side.
+safetyNotes: >-
+  The common failure is arching the lower back to fake range once the glute tires - if your ribs flare or your back
+  extends, the load is too heavy. Keep the support knee soft rather than locked so you are not hanging on the joint for
+  balance.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813531-1bfyy2/img-female-mtk9uqxd4207.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813531-1bfyy2/img-male-mtk9tqati3ke.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813531-1bfyy2/img-female-mtk9uqxd4207.webp
+youtubeSearchQuery: Cable Glute Kickback proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:52.857Z"
+updatedAt: "2026-09-02T15:49:33.844Z"

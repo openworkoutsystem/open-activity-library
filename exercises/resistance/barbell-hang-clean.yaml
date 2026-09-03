@@ -1,0 +1,64 @@
+id: lib-1788127163688-3911zo
+name: Barbell Hang Clean
+description: >-
+  From mid-thigh, an explosive hip extension pulls the bar up into a catch at the shoulders. It builds power without the
+  floor pull, which makes it the easier place to learn the catch. Jump and shrug first — the arms only guide the bar
+  into the rack.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Traps
+secondaryMuscles:
+  - Quadriceps
+  - Shoulders
+  - Forearms
+  - Abs
+equipment:
+  - barbell
+tags:
+  - Barbell
+  - Olympic Lifting
+  - Compound
+  - Strength
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set the hang
+    detail: Deadlift the bar up, then hinge it down to mid-thigh with a flat back.
+  - title: Jump and shrug
+    detail: Extend the hips and knees explosively while shrugging the bar upward.
+  - title: Pull under
+    detail: Drop into a quarter squat as the elbows whip around the bar.
+  - title: Catch in rack
+    detail: Receive the bar on the front delts with elbows high, then stand tall.
+safetyNotes: >-
+  Front-rack mobility comes first — if the elbows can't get up, the wrists take the catch. Use bumper plates and be
+  willing to dump the bar forward on a missed rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 14
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163688-3911zo/img-female-mtjkp4l55yg7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163688-3911zo/img-male-mtjkp37vmzic.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163688-3911zo/img-female-mtjkp4l55yg7.webp
+youtubeSearchQuery: Barbell Hang Clean technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.979Z"
+updatedAt: "2026-09-02T03:46:00.544Z"

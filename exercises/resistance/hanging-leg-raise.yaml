@@ -1,0 +1,59 @@
+id: lib-1788127157987-oytfk5
+name: Hanging Leg Raise
+description: >-
+  From a hang, straight legs rise to horizontal or higher with zero swing. It is advanced anterior-chain strength — long
+  levers, loaded flexion, and grip all taxed at once. The pelvis curling up at the top is the difference between ab work
+  and a hip-flexor swing.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Forearms
+  - Back
+  - Obliques
+equipment:
+  - pull_up_bar
+tags:
+  - Core
+  - Bodyweight
+  - Grip
+  - Calisthenics
+modality: resistance
+metValue: 4
+instructions:
+  - title: Hang engaged
+    detail: Grip the bar and set a light lat engagement so the shoulders are not passive.
+  - title: Raise straight legs
+    detail: Lift both legs together, knees locked, until they reach at least horizontal.
+  - title: Curl the pelvis
+    detail: Finish the rep by tilting the pelvis up toward the ribs at the top.
+  - title: Lower dead slow
+    detail: Control the descent fully so the body never begins to swing.
+safetyNotes: >-
+  Master the hanging knee raise for clean sets of ten before attempting straight legs — bailing on control here means
+  hard swinging on the shoulders. Kipping the reps trains nothing but momentum.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157987-oytfk5/img-female-mtkgbmwgdvaj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157987-oytfk5/img-male-mtkgb0546m0c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157987-oytfk5/img-female-mtkgbmwgdvaj.webp
+youtubeSearchQuery: Hanging Leg Raise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.287Z"
+updatedAt: "2026-09-02T18:50:39.323Z"

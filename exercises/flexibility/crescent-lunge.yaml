@@ -1,0 +1,60 @@
+id: lib-1788132442814-paubk9
+name: Crescent Lunge
+description: >-
+  A high lunge with the back leg straight and strong, arms reaching overhead. The front leg and back calf work hard
+  while the back hip flexor gets a long stretch. Keep the back heel lifted and press through it to keep the back leg
+  active.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Hip Flexors
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Shoulders
+equipment: []
+tags:
+  - Yoga
+  - Balance
+  - Lower Body
+  - Mobility
+modality: flexibility
+metValue: 3
+unilateral: always
+instructions:
+  - title: Step back long
+    detail: From standing, step one foot back into a long lunge with the back heel lifted.
+  - title: Bend the front knee
+    detail: Sink until the front knee stacks directly over the ankle.
+  - title: Reach the arms
+    detail: Sweep both arms overhead with palms facing each other and ribs drawn in.
+  - title: Press the back heel
+    detail: Push back through the lifted heel to straighten and energize the back leg.
+safetyNotes: >-
+  Do not let the front knee drift past the toes or collapse inward. If balance is shaky, narrow your stance length
+  before adding depth.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442814-paubk9/img-female-mtkmw2nte96g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442814-paubk9/img-male-mtkmv9zvntf3.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132442814-paubk9/img-female-mtkmw2nte96g.webp
+youtubeSearchQuery: Crescent Lunge yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.077Z"
+updatedAt: "2026-09-02T21:54:30.532Z"

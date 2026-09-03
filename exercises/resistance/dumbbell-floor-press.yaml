@@ -1,0 +1,77 @@
+id: lib-1788215815461-h0dwpp
+name: Dumbbell Floor Press
+description: >-
+  Lie flat on the floor with knees bent and press two dumbbells from chest height to lockout, letting the triceps touch
+  down between reps. The floor cuts the bottom third of the range, which spares the shoulder joint and shifts emphasis
+  onto the triceps and mid-range chest strength. It is also the go-to horizontal press when you have dumbbells but no
+  bench.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Front Delts
+  - Abs
+equipment:
+  - dumbbells
+tags:
+  - Compound
+  - Push
+  - Dumbbell
+  - Strength
+  - Upper Body
+modality: resistance
+metValue: 4.5
+unilateral: optional
+instructions:
+  - title: Load the position
+    detail: >-
+      Sit on the floor with a dumbbell beside each hip, grip both, and roll back onto your shoulder blades while pulling
+      the weights onto your chest. Bend the knees and plant both feet.
+  - title: Set the press
+    detail: >-
+      Press the dumbbells to arms length above your chest, wrists stacked over elbows, with the shoulder blades pinched
+      down into the floor.
+  - title: Lower to the floor
+    detail: >-
+      Lower under control until the backs of your upper arms rest lightly on the floor, elbows tucked at roughly 45
+      degrees from your ribs.
+  - title: Pause and drive
+    detail: >-
+      Hold that floor contact for a beat with no bounce, then press back to lockout and squeeze the chest before the
+      next rep.
+  - title: Exit safely
+    detail: >-
+      After the last rep, bring the dumbbells back to your chest, tuck your chin, and roll up to seated rather than
+      dropping them overhead.
+safetyNotes: >-
+  Never lower the dumbbells behind your head or let them crash on the floor beside you - the roll-back entry and roll-up
+  exit exist specifically to keep the load off your shoulders. If you are pressing near your limit without a spotter,
+  drop the weight and add reps instead.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 4
+  reps: 10
+  estimatedDurationMinutes: 9
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815461-h0dwpp/img-female-mtkc1ph4p591.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815461-h0dwpp/img-male-mtkc0yhpe3zf.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215815461-h0dwpp/img-female-mtkc1ph4p591.webp
+youtubeSearchQuery: Dumbbell Floor Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:54.751Z"
+updatedAt: "2026-09-02T16:50:57.869Z"

@@ -1,0 +1,58 @@
+id: lib-1788127165568-kkjlvl
+name: Depth Jump
+description: >-
+  Step off a box and rebound upward the instant you touch the ground — advanced reactive strength. The ground contact
+  should be as short as you can make it; a slow, squatty contact means the stimulus is gone. Earn this one with months
+  of consistent jump and landing work first.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment:
+  - plyo_box
+tags:
+  - Plyometrics
+  - High-Impact
+  - Lower Body
+  - Functional
+modality: resistance
+metValue: 9
+instructions:
+  - title: Step off
+    detail: Step, do not jump, off a modest box.
+  - title: Touch and rebound
+    detail: The instant both feet land, jump straight up.
+  - title: Stay stiff
+    detail: Keep the ground contact short and springy, like the floor is hot.
+  - title: Land and reset
+    detail: Absorb the second landing softly and walk back to the box.
+safetyNotes: >-
+  This is the highest-stress plyometric there is — keep the box modest (12 to 24 inches), the volume low, and never run
+  it fatigued. If ground contact turns slow and deep, the box is too high.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165568-kkjlvl/img-male-mtkbb89u7r5z.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165568-kkjlvl/img-male-mtkbb89u7r5z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165568-kkjlvl/img-female-mtkb9gjyui4h.webp
+youtubeSearchQuery: Depth Jump technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.861Z"
+updatedAt: "2026-09-02T16:30:22.133Z"

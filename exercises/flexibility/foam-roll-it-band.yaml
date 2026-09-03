@@ -1,0 +1,59 @@
+id: lib-1788127173034-0g5myq
+name: Foam Roll IT Band
+description: >-
+  Side-lying passes down the outer thigh — gentle, not heroic. The IT band itself is tendon and won't be lengthened by
+  force, so the real value is moderate pressure along the outer quad and hip muscles that feed into it. Two minutes of
+  grimacing agony helps nothing; ease off and slow down.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abductors
+secondaryMuscles:
+  - Quadriceps
+  - Glutes
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Lie on side
+    detail: Place the roller under the outer thigh with the forearm supporting you.
+  - title: Brace with top leg
+    detail: Plant the top foot on the floor in front to control the pressure.
+  - title: Roll hip to knee
+    detail: Travel slowly along the outer thigh, stopping above the knee.
+  - title: Angle forward
+    detail: Tip slightly toward the front of the thigh to catch the outer quad.
+safetyNotes: >-
+  Use the top leg to take weight off — full bodyweight on the IT band is needlessly brutal and no more effective. If the
+  outer knee is already irritated, work the outer quad and glute instead of rolling near the knee.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173034-0g5myq/img-female-mtkns3ct8w9r.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173034-0g5myq/img-male-mtknrfb87ukz.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127173034-0g5myq/img-female-mtkns3ct8w9r.webp
+youtubeSearchQuery: Foam Roll IT Band technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.329Z"
+updatedAt: "2026-09-02T22:19:24.309Z"

@@ -1,0 +1,52 @@
+id: lib-1788127175958-szzx29
+name: Nap
+description: >-
+  Twenty minutes down, alarm set — the most effective recovery tool nobody logs. A short nap restores alertness and
+  takes the edge off a poor night without dropping into deep sleep, which is what keeps you from waking up worse than
+  you lay down. The alarm is not optional.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Recovery
+  - Mind-Body
+metValue: 0.95
+instructions:
+  - title: Set the alarm
+    detail: Set an alarm for twenty minutes before lying down.
+  - title: Darken and cool
+    detail: Make the room dark, quiet, and slightly cool.
+  - title: Time it early
+    detail: Nap in the early-to-mid afternoon rather than after three o'clock.
+  - title: Rest without forcing
+    detail: Close your eyes and rest — drifting without fully sleeping still counts.
+safetyNotes: >-
+  Naps past about twenty-five minutes drop into deeper sleep and produce groggy sleep inertia, and late-afternoon naps
+  steal pressure from night sleep. Keep it short and early — and if you have insomnia, skip napping rather than propping
+  up bad nights.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175958-szzx29/img-female-mtkqrn93rwax.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175958-szzx29/img-male-mtkqr0pl6p39.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175958-szzx29/img-female-mtkqrn93rwax.webp
+youtubeSearchQuery: power nap technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:35.248Z"
+updatedAt: "2026-09-02T23:43:02.524Z"

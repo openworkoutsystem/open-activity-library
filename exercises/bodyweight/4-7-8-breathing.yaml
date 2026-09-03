@@ -1,0 +1,54 @@
+id: lib-1788127174929-66rpa3
+name: 4-7-8 Breathing
+description: >-
+  Inhale for 4, hold for 7, exhale for 8 — the long exhale does the work. It biases the nervous system toward the
+  brakes, which makes it the classic downshift before sleep. Two to four cycles is a full session; this one is
+  deliberately dosed small.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Breathwork Exercises
+  - Mind-Body
+  - Recovery
+metValue: 1
+instructions:
+  - title: Settle in
+    detail: Sit or lie down and rest the tongue lightly behind the top front teeth.
+  - title: Inhale four
+    detail: Breathe in quietly through the nose for a count of four.
+  - title: Hold seven
+    detail: Hold the breath for a count of seven without tensing the face or shoulders.
+  - title: Exhale eight
+    detail: Exhale audibly through the mouth for a full count of eight.
+  - title: Repeat gently
+    detail: Complete three to four cycles, then let the breath return to normal.
+safetyNotes: >-
+  The long hold and exhale commonly cause mild lightheadedness at first — stay seated or lying down and start with two
+  or three cycles. If the counts feel like breath starvation, shorten all three numbers while keeping the same ratio.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 300
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174929-66rpa3/img-female-mtkndynywyur.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174929-66rpa3/img-male-mtkndbjukyor.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174929-66rpa3/img-female-mtkndynywyur.webp
+youtubeSearchQuery: 4-7-8 Breathing guided
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:34.219Z"
+updatedAt: "2026-09-02T22:08:25.136Z"

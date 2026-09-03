@@ -1,0 +1,60 @@
+id: lib-1788127155072-fn7q91
+name: Chin-Up
+description: >-
+  The pull-up with an underhand grip — palms facing you, hands about shoulder width. The supinated grip puts the biceps
+  in a stronger line of pull, which is why it is usually the first bar pull people earn. Same standard applies: dead
+  hang at the bottom, chin over the bar at the top.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Biceps
+secondaryMuscles:
+  - Rhomboids
+  - Forearms
+equipment:
+  - pull_up_bar
+tags:
+  - Pull
+  - Bodyweight
+  - Calisthenics
+  - Compound
+  - Upper Body
+modality: resistance
+metValue: 8
+instructions:
+  - title: Grip underhand
+    detail: Take a palms-facing-you grip at about shoulder width and hang with straight arms.
+  - title: Pull blades down
+    detail: Initiate by drawing the shoulder blades down, then pull the elbows to your ribs.
+  - title: Clear the bar
+    detail: Pull until your chin is over the bar without craning your neck to fake it.
+  - title: Descend fully
+    detail: Lower with control to a complete dead hang before the next rep.
+safetyNotes: >-
+  The underhand grip loads the biceps tendon and inner elbow more than a pull-up — if you feel elbow ache building
+  across sessions, back off the volume or rotate in neutral-grip work. Craning the chin over the bar with the neck is
+  not a completed rep.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155072-fn7q91/img-male-mtkhwp358urg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155072-fn7q91/img-male-mtkhwp358urg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155072-fn7q91/img-female-mtjknrtabgi3.webp
+youtubeSearchQuery: Chin-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.377Z"
+updatedAt: "2026-09-02T19:35:01.199Z"

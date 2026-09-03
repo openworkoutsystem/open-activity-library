@@ -1,0 +1,58 @@
+id: lib-1788127171488-id3bkn
+name: Walking Knee Hug
+description: >-
+  Pull each knee to the chest mid-stride, stand tall on the support leg, then step through to the next one. Wakes up the
+  glutes on the stance side while dynamically stretching the hip of the hugged leg. Rise onto the toes of the support
+  foot for a calf bonus.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hip Flexors
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+modality: flexibility
+metValue: 3
+instructions:
+  - title: Step and lift
+    detail: Step forward and lift the opposite knee toward the chest.
+  - title: Hug the shin
+    detail: Grab the shin with both hands and pull the knee in while standing tall.
+  - title: Release and stride
+    detail: Let go, step through, and hug the other knee.
+  - title: Stay tall
+    detail: Keep the chest up and avoid leaning back as you pull.
+safetyNotes: >-
+  Pull the shin, not the top of the knee, and only to a comfortable range — compressing an irritated knee under a hard
+  hug will make it bark. Balance is part of the drill; slow down rather than stumbling through reps.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 45
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171488-id3bkn/img-female-mtkwt68ncd8l.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171488-id3bkn/img-male-mtkwsftf03cb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171488-id3bkn/img-female-mtkwt68ncd8l.webp
+youtubeSearchQuery: Walking Knee Hug proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.779Z"
+updatedAt: "2026-09-03T02:32:11.292Z"

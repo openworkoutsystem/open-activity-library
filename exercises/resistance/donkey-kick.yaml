@@ -1,0 +1,68 @@
+id: lib-1788215816531-siy09b
+name: Donkey Kick
+description: >-
+  From hands and knees, drive one heel toward the ceiling with the knee bent, squeezing the glute at the top of each
+  rep. It is a low-skill way to isolate hip extension and wake up the glutes before heavier lower body work, and it
+  needs no equipment or space. The range is small on purpose - the moment your low back arches to get more height, the
+  glute has stopped doing the work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment: []
+tags:
+  - Isolation
+  - Bodyweight
+  - No Equipment
+  - Warm-Up
+  - Lower Body
+modality: resistance
+metValue: 3
+unilateral: always
+instructions:
+  - title: Get on all fours
+    detail: >-
+      Set your hands under your shoulders and knees under your hips, with the spine long and neutral and your gaze just
+      in front of your hands.
+  - title: Brace the trunk
+    detail: >-
+      Pull the abs in and tuck the ribs down so the low back stays flat - this is the position you must hold for every
+      rep.
+  - title: Drive the heel up
+    detail: >-
+      Keeping the knee bent at about 90 degrees, press the sole of that foot toward the ceiling until the thigh is
+      roughly in line with your torso.
+  - title: Squeeze and lower
+    detail: >-
+      Pause for a second with the glute fully contracted, then lower the knee back toward the floor without letting it
+      touch, and finish all reps before switching sides.
+safetyNotes: >-
+  Kicking higher than your hip extension allows just tips the pelvis and compresses the low back, which is where people
+  feel this the next day instead of in the glutes. Keep the ribs down and shorten the range if the lumbar spine starts
+  doing the lifting.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816531-siy09b/img-female-mtkbbebexdyl.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816531-siy09b/img-male-mtkbahdisen6.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816531-siy09b/img-female-mtkbbebexdyl.webp
+youtubeSearchQuery: Donkey Kick glute exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:55.806Z"
+updatedAt: "2026-09-02T16:30:29.898Z"

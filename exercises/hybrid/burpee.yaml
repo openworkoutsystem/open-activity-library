@@ -1,0 +1,74 @@
+id: lib-1773266931278-mgdl7t
+name: Burpee
+description: >-
+  A full-body explosive exercise that combines a squat, push-up, and vertical jump. Excellent for building strength,
+  power, and cardiovascular endurance. Signature move in Jillian Michaels workouts.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Chest
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Plyometrics
+  - Cardio
+  - Strength
+modality: hybrid
+metValue: 8
+muscleActivationMap:
+  Quadriceps: 0.2
+  Glutes: 0.15
+  Chest: 0.15
+  Shoulders: 0.1
+  Triceps: 0.1
+  Hamstrings: 0.1
+  Calves: 0.1
+  Abs: 0.1
+instructions:
+  - title: Starting Position
+    detail: Stand with feet shoulder-width apart, arms at your sides.
+  - title: Squat Down
+    detail: Push your hips back and bend your knees to lower into a squat. Place your hands on the floor in front of you.
+  - title: Jump Back to Plank
+    detail: Jump or step your feet back into a high plank position. Keep your body in a straight line.
+  - title: Optional Push-Up
+    detail: Lower your chest to the floor for a push-up (modify on knees if needed).
+  - title: Jump Forward
+    detail: Jump or step your feet back toward your hands into a low squat position.
+  - title: Explosive Jump
+    detail: Stand up quickly and jump vertically, reaching your arms overhead.
+safetyNotes: >-
+  Land softly with bent knees. Modify by stepping instead of jumping. Avoid if you have wrist, shoulder, or lower back
+  issues. Start slowly and focus on form over speed.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  restSeconds: 60
+  repSpeed: 3
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266931278-mgdl7t/img-female-mtkmde14pryc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266931278-mgdl7t/img-male-mtkm85nbtlft.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773266931278-mgdl7t/img-female-mtkmde14pryc.webp
+youtubeSearchQuery: burpee proper form tutorial for beginners
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-11T22:08:51.361Z"
+updatedAt: "2026-09-02T21:39:58.475Z"

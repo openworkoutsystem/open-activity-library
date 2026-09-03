@@ -1,0 +1,54 @@
+id: lib-1774910663899-yw2hnq
+name: Leg Press
+description: Machine leg press for quad, glute, and hamstring development. Allows heavy loading with back support.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+equipment:
+  - leg_press
+tags:
+  - Compound
+  - Machine Weights
+modality: resistance
+metValue: 6
+instructions:
+  - title: Setup
+    detail: Sit in leg press with feet shoulder-width on platform, mid-height. Back flat against pad.
+  - title: Unlock
+    detail: Release safety handles. Lower the platform by bending knees toward chest.
+  - title: Press
+    detail: Push through full foot to extend legs. Don't lock knees completely at the top.
+  - title: Lower
+    detail: Control the weight down until knees are at ~90 degrees. Don't let hips lift off the seat.
+safetyNotes: Never lock knees at top. Don't go so deep that hips curl off the pad. Always use safeties.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  repSpeed: 3
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910663899-yw2hnq/img-female-mtkk7iu200vo.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910663899-yw2hnq/img-male-mtkk6pte5jz7.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910663899-yw2hnq/img-female-mtkk7iu200vo.webp
+youtubeSearchQuery: "\"leg press machine form tutorial\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:23.916Z"
+updatedAt: "2026-09-02T20:39:25.907Z"

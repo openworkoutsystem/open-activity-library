@@ -1,0 +1,53 @@
+id: lib-1788127175446-5lamoq
+name: Body Scan
+description: >-
+  Attention moved slowly from head to toe, noticing each region without trying to change it — and finding that tension
+  noticed tends to be tension released. It trains interoception, the sense of what is happening inside the body, which
+  feeds both recovery and stress management. Slower is better; a rushed scan is just a checklist.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Mind-Body
+  - Recovery
+metValue: 1
+instructions:
+  - title: Lie down
+    detail: Lie on your back somewhere warm and quiet with arms resting at the sides.
+  - title: Start at the head
+    detail: Bring attention to the scalp and face, simply noticing whatever is there.
+  - title: Move down slowly
+    detail: Shift attention region by region through the neck, shoulders, arms, torso, legs, and feet.
+  - title: Notice, don't fix
+    detail: Observe tension without forcing it to release — let the noticing do the work.
+  - title: Finish whole
+    detail: End with a few breaths sensing the whole body at once.
+safetyNotes: >-
+  The most common outcome is falling asleep — fine at night, counterproductive if you're training attention, so scan
+  seated if drowsiness keeps winning. Otherwise there is nothing here to be careful of.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 600
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175446-5lamoq/img-female-mtklzo008y21.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175446-5lamoq/img-male-mtklyy4qc8qp.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175446-5lamoq/img-female-mtklzo008y21.webp
+youtubeSearchQuery: Body Scan guided
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:34.739Z"
+updatedAt: "2026-09-02T21:29:18.214Z"

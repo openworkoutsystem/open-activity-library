@@ -1,0 +1,58 @@
+id: lib-1788127172653-p797r9
+name: Foam Roll Hamstrings
+description: >-
+  Seated passes down the back of the thigh, glute to just above the knee. Hands behind you take the weight; crossing one
+  ankle over the other doubles the pressure on a single leg. Rotate the leg in and out to reach the inner and outer
+  hamstring.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+secondaryMuscles:
+  - Glutes
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: optional
+instructions:
+  - title: Sit on roller
+    detail: Place the roller under the back of the thighs with hands planted behind you.
+  - title: Roll the length
+    detail: Travel slowly from below the glute to just above the knee.
+  - title: Add pressure
+    detail: Cross one ankle over the other to work a single leg harder.
+  - title: Rotate the leg
+    detail: Turn the toes in and out to cover the whole muscle group.
+safetyNotes: >-
+  Stay off the back of the knee — the crease houses vessels and nerves, not muscle. Hamstrings often need real pressure
+  to feel anything, so the single-leg cross is usually worth it.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 60
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172653-p797r9/img-female-mtknqx0ducvs.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172653-p797r9/img-male-mtknqaugim3j.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172653-p797r9/img-female-mtknqx0ducvs.webp
+youtubeSearchQuery: Foam Roll Hamstrings technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.943Z"
+updatedAt: "2026-09-02T22:18:29.529Z"

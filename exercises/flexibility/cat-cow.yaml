@@ -1,0 +1,66 @@
+id: lib-1773327889902-bf9jhl
+name: Cat-Cow
+description: >-
+  Cat-Cow Stretch is a gentle yoga flow that improves spinal mobility by alternating between arching the back (Cow pose)
+  and rounding it (Cat pose), making it ideal for warm-ups and beginners.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Lower Back
+  - Transverse Abdominis
+secondaryMuscles:
+  - Abs
+  - Serratus Anterior
+equipment: []
+tags:
+  - Yoga
+  - Stretch
+  - Warm-Up
+  - Mobility
+  - Spine
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Setup
+    detail: >-
+      Position yourself on all fours in a tabletop stance, with your hands directly under your shoulders and knees under
+      your hips. Maintain a neutral spine.
+  - title: Cow Pose
+    detail: >-
+      Inhale deeply, letting your belly drop toward the floor while lifting your chest, chin, and tailbone upward.
+      Gently arch your back.
+  - title: Cat Pose
+    detail: >-
+      Exhale fully, drawing your belly toward your spine, rounding your back toward the ceiling, and tucking your chin
+      to your chest.
+  - title: Flow
+    detail: >-
+      Continue flowing smoothly between Cow and Cat poses, syncing movement with your breath, for the recommended number
+      of reps per set.
+safetyNotes: >-
+  Perform the movement slowly and with full control to prevent strain. Avoid if you have acute back, neck, or wrist
+  pain; consult a healthcare professional if unsure. Breathe continuously and do not force the arch or round.
+trackableMetrics:
+  - key: reps
+    category: movement
+    isPrimary: true
+defaults:
+  sets: 3
+  reps: 12
+  repSpeed: 4
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889902-bf9jhl/img-female-mtkmhja1yvvt.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889902-bf9jhl/img-male-mtkmguvo1i7e.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889902-bf9jhl/img-female-mtkmhja1yvvt.webp
+youtubeSearchQuery: how to Cat-Cow Stretch exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-12T15:04:49.924Z"
+updatedAt: "2026-09-02T21:43:12.143Z"

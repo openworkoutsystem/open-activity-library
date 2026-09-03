@@ -1,0 +1,63 @@
+id: lib-1788127153772-b45180
+name: Arnold Press
+description: >-
+  Rotating dumbbell press that starts palms-in at the chin and finishes palms-out overhead — long-range delt work
+  through a bigger arc than a standard press. The rotation sweeps the front and side delts through more of their range,
+  which is exactly why it burns more at the same weight. Go lighter than your normal press and own the turn.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Front Delts
+  - Side Delts
+secondaryMuscles:
+  - Triceps
+equipment:
+  - dumbbells
+  - bench_adjustable
+tags:
+  - Push
+  - Dumbbell
+  - Compound
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Start palms-in
+    detail: Hold the dumbbells at chin height with palms facing you, elbows in front of your ribs.
+  - title: Rotate as you press
+    detail: Press upward while turning the palms away from you, elbows sweeping out to the sides.
+  - title: Lock out overhead
+    detail: Finish with arms straight and palms facing forward, weights over your shoulders.
+  - title: Reverse the arc
+    detail: Lower and rotate back to the palms-in start position under full control.
+safetyNotes: >-
+  Rotating under load asks more of the shoulder joint than a straight press, so keep the weight modest and the tempo
+  smooth. Skip this one during a bout of shoulder impingement — press in one plane instead.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153772-b45180/img-female-mtjknjoczz3h.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153772-b45180/img-male-mtjknid8c588.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153772-b45180/img-female-mtjknjoczz3h.webp
+youtubeSearchQuery: Arnold Press proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:13.072Z"
+updatedAt: "2026-09-02T03:45:51.736Z"

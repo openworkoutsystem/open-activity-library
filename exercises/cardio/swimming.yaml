@@ -1,0 +1,62 @@
+id: lib-1788127168892-hb8x0c
+name: Swimming
+description: >-
+  Freestyle laps — full-body aerobic work with zero joint load. The limiter for most adults is breathing technique, not
+  fitness, so expect your engine to outlast your skill at first. Exhale continuously underwater and the whole stroke
+  calms down.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Full Body
+secondaryMuscles:
+  - Back
+  - Shoulders
+equipment: []
+tags:
+  - Swimming
+  - Aerobic
+  - Cardio
+  - Endurance
+modality: cardio
+metValue: 8.3
+instructions:
+  - title: Swim long
+    detail: Reach forward on each stroke and keep the body horizontal.
+  - title: Exhale underwater
+    detail: Blow out steadily through the nose whenever your face is down.
+  - title: Roll to breathe
+    detail: Rotate to the side for air instead of lifting the head.
+  - title: Rest in intervals
+    detail: Swim in repeats with short wall rests rather than one nonstop grind.
+safetyNotes: >-
+  Never swim hard alone in open water. In the pool, respect the shoulder — swimmer's shoulder comes from high volume
+  with a crossover hand entry, so enter each hand in line with its shoulder.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168892-hb8x0c/img-male-mtkw4yo8llj1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168892-hb8x0c/img-male-mtkw4yo8llj1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168892-hb8x0c/img-female-mtkvwuifpa3r.webp
+youtubeSearchQuery: Swimming technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:28.184Z"
+updatedAt: "2026-09-03T02:13:21.891Z"

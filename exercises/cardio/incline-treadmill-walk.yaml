@@ -1,0 +1,63 @@
+id: lib-1788127167367-ielnjb
+name: Incline Treadmill Walk
+description: >-
+  A steep walk on the treadmill — set a serious grade and let the hill do the work. It pushes heart rate into aerobic
+  zones and loads the glutes and calves with almost no impact. Hands off the rails; hanging on erases most of the
+  effort.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Calves
+secondaryMuscles:
+  - Quadriceps
+  - Hamstrings
+equipment:
+  - treadmill
+tags:
+  - Walking
+  - Cardio
+  - Steady State
+modality: cardio
+metValue: 5.3
+instructions:
+  - title: Set the grade
+    detail: Raise the incline to somewhere between 8 and 15 percent.
+  - title: Choose a walking speed
+    detail: Set a pace you can sustain without grabbing the rails.
+  - title: Walk hands-free
+    detail: Stay tall and drive through the whole foot each step.
+  - title: Hold the effort
+    detail: Adjust incline or speed to keep breathing deep but steady.
+safetyNotes: >-
+  Holding the handrails removes much of the training effect and skews your posture — lower the incline instead of
+  hanging on. Step onto the belt only after it is moving slowly.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167367-ielnjb/img-female-mtkomeqt4rwi.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167367-ielnjb/img-male-mtkolo4slp86.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167367-ielnjb/img-female-mtkomeqt4rwi.webp
+youtubeSearchQuery: Incline Treadmill Walk proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.662Z"
+updatedAt: "2026-09-02T22:42:58.795Z"

@@ -1,0 +1,63 @@
+id: lib-1788127156347-tc2gx8
+name: Suitcase Carry
+description: >-
+  Carry a heavy weight in one hand and walk with your torso dead level. The offset load makes the obliques fight lateral
+  flexion on every step, building the side strength most training misses. If your shoulder starts dropping toward the
+  weight, it is too heavy.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Forearms
+secondaryMuscles:
+  - Traps
+  - Abs
+  - Glutes
+equipment:
+  - dumbbells
+  - kettlebells
+tags:
+  - Carry
+  - Functional
+  - Grip
+  - Core
+  - Unilateral
+modality: resistance
+metValue: 6
+unilateral: always
+instructions:
+  - title: Pick up one side
+    detail: Deadlift a single weight with a flat back and stand tall.
+  - title: Level the torso
+    detail: Brace the obliques so the shoulders stay dead level.
+  - title: Walk the line
+    detail: Move with short steps, refusing to lean toward or away from the weight.
+  - title: Switch hands
+    detail: Set the weight down, swap sides, and repeat for the same distance or time.
+safetyNotes: >-
+  The moment the torso bends toward or away from the weight, the spine is being loaded sideways — end the set when you
+  can no longer stay level. Pick up and set down with a square hinge, not a sideways lean.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156347-tc2gx8/img-male-mtkw3l8mupvj.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156347-tc2gx8/img-male-mtkw3l8mupvj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156347-tc2gx8/img-female-mtkvp9nhfykg.webp
+youtubeSearchQuery: Suitcase Carry proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.653Z"
+updatedAt: "2026-09-03T02:12:17.510Z"

@@ -1,0 +1,73 @@
+id: lib-1788020771169-q699c7
+name: Dumbbell Reverse Fly
+description: >-
+  Dumbbell reverse fly targets the rear deltoids and upper back. Stand hinged at the hips, arms hanging with slight
+  elbow bend, then raise the weights out to the sides until they reach shoulder height before lowering with control.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Traps
+  - Rhomboids
+equipment:
+  - dumbbells
+tags:
+  - Upper Body
+  - Isolation
+  - Posture
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Shoulders: 0.55
+  Traps: 0.2
+  Rhomboids: 0.2
+  Lower Back: 0.05
+instructions:
+  - title: Hinge setup
+    detail: >-
+      Feet shoulder-width, slight knee bend, hinge at hips until torso is nearly parallel to floor. Keep back flat and
+      core braced.
+  - title: Grip and start
+    detail: Hold light dumbbells with neutral grip, arms hanging straight down below shoulders, slight elbow bend.
+  - title: Raise phase
+    detail: >-
+      Lead with elbows, raise arms out to sides until weights reach shoulder height. Squeeze shoulder blades together at
+      the top.
+  - title: Lower phase
+    detail: Slowly lower the dumbbells back to start position, resisting the descent for 3 seconds.
+  - title: Breathing
+    detail: Exhale on the way up, inhale on the way down.
+  - title: Common cue
+    detail: Think about pouring water out of two pitchers at the top of the movement.
+safetyNotes: >-
+  Keep neck neutral; avoid shrugging or using momentum. Start very light—rear delts fatigue quickly. If you feel strain
+  in front of shoulders, reduce range or lighten load.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  restSeconds: 60
+  estimatedDurationMinutes: 4
+  sets: 3
+  repSpeed: 3
+  reps: 11
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788020771169-q699c7/img-female-mtkdzm2306g7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788020771169-q699c7/img-male-mtkdxoht6hqs.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788020771169-q699c7/img-female-mtkdzm2306g7.webp
+youtubeSearchQuery: dumbbell reverse fly proper form
+provenance:
+  confidence: 0.6
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-29T16:26:11.280Z"
+updatedAt: "2026-09-02T17:45:19.586Z"

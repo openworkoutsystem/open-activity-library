@@ -1,0 +1,59 @@
+id: lib-1788127166838-l04nmq
+name: Bosu Squat
+description: >-
+  Squat standing on the dome of a Bosu — the unstable surface makes every stabilizer from ankle to hip negotiate the
+  descent. It is not a strength builder; it is balance-demanding leg work that sharpens control. Keep it bodyweight or
+  very light — the instability is the point.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Abs
+  - Abductors
+equipment:
+  - stability_ball
+tags:
+  - Balance
+  - Stability
+  - Squat
+  - Lower Body
+modality: flexibility
+metValue: 3.3
+instructions:
+  - title: Mount carefully
+    detail: Step onto the dome one foot at a time with support nearby.
+  - title: Find your feet
+    detail: Set feet hip-width and let the wobble settle.
+  - title: Squat with control
+    detail: Lower slowly to a comfortable depth with arms out for balance.
+  - title: Stand and repeat
+    detail: Drive back to standing without letting the knees cave.
+safetyNotes: >-
+  Getting on and off the dome is the sketchiest part — mount with support nearby. Do not chase load here; heavy weight
+  on an unstable surface trades all the benefit for risk.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166838-l04nmq/img-female-mtkm0v7shtbe.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166838-l04nmq/img-male-mtkm0ad0wjxg.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166838-l04nmq/img-female-mtkm0v7shtbe.webp
+youtubeSearchQuery: Bosu Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.140Z"
+updatedAt: "2026-09-02T21:30:14.290Z"

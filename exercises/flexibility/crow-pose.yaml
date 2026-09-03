@@ -1,0 +1,63 @@
+id: lib-1788131478832-ms04kz
+name: Crow Pose
+description: >-
+  The entry arm balance: knees perched on the backs of the upper arms, feet floating, weight entirely on the hands. It
+  builds wrist and shoulder strength, core compression, and the nerve to lean forward past the point that feels safe.
+  Look ahead of the hands, not down between them — the gaze steers the balance.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Abs
+secondaryMuscles:
+  - Triceps
+  - Forearms
+  - Hip Flexors
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Balance
+  - Core
+  - Strength
+  - Bodyweight
+modality: flexibility
+metValue: 3.3
+instructions:
+  - title: Set the hands
+    detail: Squat and plant the hands shoulder-width with fingers spread wide.
+  - title: Perch the knees
+    detail: Rise onto the toes and nestle the knees high on the backs of the upper arms.
+  - title: Shift forward
+    detail: Lean the weight into the hands until the feet feel light.
+  - title: Float the feet
+    detail: Lift one foot, then the other, and pull the heels toward the glutes.
+  - title: Hold the gaze
+    detail: Keep looking at a spot ahead of the hands to stay balanced.
+safetyNotes: >-
+  Warm up the wrists thoroughly — they carry all the load — and put a cushion in front of you for the inevitable forward
+  tips while learning.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478832-ms04kz/img-female-mtkmyzilvlou.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478832-ms04kz/img-male-mtkmy5bvub1y.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478832-ms04kz/img-female-mtkmyzilvlou.webp
+youtubeSearchQuery: Crow Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.096Z"
+updatedAt: "2026-09-02T21:56:46.692Z"

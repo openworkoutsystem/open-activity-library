@@ -1,0 +1,60 @@
+id: lib-1788127153357-hdftgo
+name: Dumbbell Fly
+description: >-
+  Arc the dumbbells out and together over the chest — stretch-focused chest isolation. The load is heaviest exactly
+  where the pecs are longest, which is what makes flys effective and also what makes them unforgiving with too much
+  weight. Think of hugging a barrel: elbows softly bent and fixed, the movement happening only at the shoulders.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Push
+  - Isolation
+  - Dumbbell
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Start at the top
+    detail: Lie on the bench with dumbbells pressed together over your chest, palms facing.
+  - title: Fix the elbows
+    detail: Set a soft bend in both elbows and keep that angle for the whole set.
+  - title: Open the arc
+    detail: Lower the dumbbells out to the sides until you feel a stretch across the chest.
+  - title: Sweep back together
+    detail: Squeeze the chest to bring the dumbbells back together over your chest.
+safetyNotes: >-
+  This is the classic pec-strain exercise: the danger is going too deep with too much weight in the stretched position.
+  Choose a load you can control at the bottom of the arc and stop the descent at chest level, not below it.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153357-hdftgo/img-female-mtjknh14ly36.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153357-hdftgo/img-male-mtjknfhwz7d9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127153357-hdftgo/img-female-mtjknh14ly36.webp
+youtubeSearchQuery: Dumbbell Fly proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:12.659Z"
+updatedAt: "2026-09-02T03:45:51.353Z"

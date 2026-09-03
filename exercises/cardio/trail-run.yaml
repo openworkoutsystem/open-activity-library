@@ -1,0 +1,64 @@
+id: lib-1788127167886-rbo5np
+name: Trail Run
+description: >-
+  Running on trails — varied terrain, climbs, and footing that keep your ankles and attention fully employed. Pace means
+  little out here; run by effort and let the terrain set the speed. Walking the steep climbs is standard practice, not
+  weakness.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Tibialis Anterior
+  - Abs
+equipment: []
+tags:
+  - Running
+  - Outdoor
+  - Endurance
+  - Cardio
+modality: cardio
+metValue: 9
+instructions:
+  - title: Run by effort
+    detail: Ignore pace and hold a steady breathing effort across the terrain.
+  - title: Shorten your stride
+    detail: Take quick, light steps so you can adjust to the footing.
+  - title: Hike the steeps
+    detail: Power-walk climbs that would spike your effort.
+  - title: Control the descents
+    detail: Look several steps ahead and keep your feet under you going down.
+safetyNotes: >-
+  Most trail falls happen on descents — slow down and watch your footing there. Carry water on longer routes; trail
+  miles take considerably more time than road miles.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167886-rbo5np/img-female-mtkw7jxe4db5.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167886-rbo5np/img-male-mtkw6zdi2ffb.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167886-rbo5np/img-female-mtkw7jxe4db5.webp
+youtubeSearchQuery: Trail Run technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.178Z"
+updatedAt: "2026-09-03T02:15:22.192Z"

@@ -1,0 +1,64 @@
+id: lib-1788127167762-kxuiun
+name: Hill Sprints
+description: >-
+  Sprints up a steep grade — maximal effort with less impact and nowhere to overstride. The hill forces a forward lean
+  and full hip drive, making it one of the safest ways to run truly fast. The walk back down is the built-in recovery.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Hip Flexors
+equipment: []
+tags:
+  - Sprint Intervals
+  - Running
+  - High-Intensity
+  - Outdoor
+  - HIIT
+modality: cardio
+metValue: 12.5
+instructions:
+  - title: Find a hill
+    detail: Pick a grade steep enough that sprinting 8 to 12 seconds is hard.
+  - title: Warm up fully
+    detail: Jog and run a few submaximal efforts up the hill first.
+  - title: Drive uphill
+    detail: Sprint hard with a forward lean, pumping the arms.
+  - title: Walk down
+    detail: Recover completely on the descent before the next rep.
+safetyNotes: >-
+  Lower hamstring risk than flat sprints, but still a maximal effort — warm up progressively and end the session when
+  your rep quality drops rather than grinding out slow ones.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167762-kxuiun/img-female-mtkonkzrkc1n.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167762-kxuiun/img-male-mtkomxktmsow.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167762-kxuiun/img-female-mtkonkzrkc1n.webp
+youtubeSearchQuery: Hill Sprints technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.055Z"
+updatedAt: "2026-09-02T22:43:53.263Z"

@@ -1,0 +1,60 @@
+id: lib-1788127174432-1clr7q
+name: Battle Ropes
+description: >-
+  Drive alternating or double waves down anchored heavy ropes — arm-driven engine work that spares the legs and spine.
+  It trains shoulder endurance, grip, and conditioning with almost no impact. The waves should reach the anchor; if they
+  die halfway, slow the tempo and hit harder.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Abs
+  - Forearms
+  - Back
+equipment:
+  - battle_ropes
+tags:
+  - HIIT
+  - High-Intensity
+  - Circuit Training
+  - Upper Body
+  - Low-Impact
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Set the stance
+    detail: Stand in a quarter squat holding one rope end in each hand with slack in the ropes.
+  - title: Brace the trunk
+    detail: Lock the torso in place so the arms move and the spine does not.
+  - title: Drive the waves
+    detail: Whip the arms alternately or together to send waves all the way to the anchor.
+  - title: Finish the interval
+    detail: Hold wave height for the full interval, then rest and repeat.
+safetyNotes: >-
+  The shoulders do sustained high-rep work — keep a slight knee bend and braced trunk so the arms drive while the spine
+  stays quiet. Shoulder fatigue arrives suddenly; end the interval before the waves turn into shrugs.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174432-1clr7q/img-female-mtklv3xlyvop.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174432-1clr7q/img-male-mtkluh39zj44.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127174432-1clr7q/img-female-mtklv3xlyvop.webp
+youtubeSearchQuery: Battle Ropes proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:33.724Z"
+updatedAt: "2026-09-02T21:25:46.092Z"

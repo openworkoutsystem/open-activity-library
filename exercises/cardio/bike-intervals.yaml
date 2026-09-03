@@ -1,0 +1,65 @@
+id: lib-1788127168381-lmjzi9
+name: Bike Intervals
+description: >-
+  Alternating hard and easy blocks on the bike — repeatable high intensity with no impact cost. The bike lets you hit
+  precise effort targets and recover exactly, rep after rep. Classic formats: 30 seconds on, 30 off, or 4 minutes hard,
+  3 easy.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Calves
+equipment:
+  - stationary_bike
+tags:
+  - Cycling
+  - Interval
+  - HIIT
+  - High-Intensity
+  - Low-Impact
+modality: cardio
+metValue: 8.8
+instructions:
+  - title: Warm up spinning
+    detail: Ride easy for five minutes, adding two or three short surges.
+  - title: Go hard
+    detail: Push the work interval at an effort you can just repeat.
+  - title: Spin easy
+    detail: Drop resistance and pedal lightly through the recovery block.
+  - title: Repeat and cool down
+    detail: Complete all rounds, then spin easy for five minutes.
+safetyNotes: >-
+  Zero impact doesn't mean zero cost — hard bike intervals stack fatigue quickly. Check saddle height before pushing big
+  resistance, and end the session when power falls off rather than grinding a dead cadence.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1200
+  estimatedDurationMinutes: 20
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168381-lmjzi9/img-female-mtklyabruqn6.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168381-lmjzi9/img-male-mtklxikw0csy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168381-lmjzi9/img-female-mtklyabruqn6.webp
+youtubeSearchQuery: Bike Intervals proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.672Z"
+updatedAt: "2026-09-02T21:28:13.927Z"

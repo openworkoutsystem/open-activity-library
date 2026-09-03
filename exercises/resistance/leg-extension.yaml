@@ -1,0 +1,59 @@
+id: lib-1788127160079-3f5z06
+name: Leg Extension
+description: >-
+  Sit in the machine and straighten the knees against the pad — direct quad isolation with no help from the hips. It is
+  the most targeted way to load the quadriceps, useful for hypertrophy volume and for rebuilding the muscle around a
+  cranky knee. Squeeze to full extension and control the lowering; the quads have nowhere to hide.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles: []
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Strength
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Adjust the machine
+    detail: Line your knee joint up with the machine's pivot and set the pad on your lower shins.
+  - title: Extend smoothly
+    detail: Straighten your knees to full extension without kicking or jerking.
+  - title: Squeeze the top
+    detail: Hold the fully extended position for a one-count and feel the quads contract.
+  - title: Lower with control
+    detail: Take two to three seconds down and stop before the stack touches.
+safetyNotes: >-
+  The open-chain load puts direct shear on the knee — with patellar tendon or ACL history, start light and avoid
+  snapping into the last degrees of extension. Never kick the weight up with momentum.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  estimatedDurationMinutes: 6
+  sets: 3
+  reps: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160079-3f5z06/img-female-mtjkofyercjv.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160079-3f5z06/img-male-mtjkoeimvc2z.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160079-3f5z06/img-female-mtjkofyercjv.webp
+youtubeSearchQuery: Leg Extension proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:19.379Z"
+updatedAt: "2026-09-02T03:45:57.200Z"

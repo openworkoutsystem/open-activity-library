@@ -1,0 +1,58 @@
+id: lib-1788131481205-nm577m
+name: Wall Walk
+description: >-
+  From a push-up position with feet at the wall, walk the feet up and the hands back until you stand in a handstand line
+  against it, then walk back down. It builds shoulder strength and endurance while teaching the stacked, hollow body
+  position handstand work depends on. Keep the ribs tucked so you climb into a line, not a banana.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+secondaryMuscles:
+  - Triceps
+  - Abs
+  - Chest
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - Push
+  - Functional
+modality: resistance
+metValue: 7
+instructions:
+  - title: Start prone
+    detail: Lie facing away from the wall and press up to a push-up position with your soles against it.
+  - title: Walk feet up
+    detail: Step your feet up the wall while walking your hands back toward it.
+  - title: Find the line
+    detail: Stop when your chest nearly faces the wall and your body forms one vertical line.
+  - title: Walk back down
+    detail: Reverse hand-by-hand and foot-by-foot with control until you return to the floor.
+safetyNotes: >-
+  Fatigue shows up fast in the shoulders halfway up the wall — stop the set while you can still walk down under control,
+  because collapsing mid-wall means landing on your head. Shorten the climb height before shortening the control.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 3
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481205-nm577m/img-female-mtkwyhpp5jzo.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481205-nm577m/img-male-mtkwy0n8di2u.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131481205-nm577m/img-female-mtkwyhpp5jzo.webp
+youtubeSearchQuery: Wall Walk proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:20.470Z"
+updatedAt: "2026-09-03T02:36:19.534Z"

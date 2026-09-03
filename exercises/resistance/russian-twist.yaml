@@ -1,0 +1,65 @@
+id: lib-1772742712430-8w44ua
+name: Russian Twist
+description: >-
+  The Russian twist is a dynamic core exercise that targets the obliques by rotating the torso side to side while
+  seated. It enhances rotational strength and coordination.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+secondaryMuscles:
+  - Abs
+  - Transverse Abdominis
+  - Hip Flexors
+equipment: []
+tags:
+  - Core
+  - Rotation
+  - Bodyweight
+  - Obliques
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+muscleActivationMap:
+  Obliques: 0.4
+  Abs: 0.2
+  Transverse Abdominis: 0.2
+  Hip Flexors: 0.2
+instructions:
+  - step: 1
+    text: Sit on the floor with knees bent, feet flat, and lean back slightly while keeping your back straight.
+  - step: 2
+    text: Clasp hands together or hold a weight, then rotate your torso to the right, bringing hands beside your hip.
+  - step: 3
+    text: Rotate to the left side, moving slowly and controlled, exhaling on each twist.
+safetyNotes: >-
+  Perform the movement slowly to avoid bouncing; use a wall for balance if needed. Common mistakes include not fully
+  extending or lowering the heels, or using momentum instead of controlled muscle contraction. This is a bodyweight
+  exercise - no weight load applies.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712430-8w44ua/img-female-mtku53nwhqu2.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712430-8w44ua/img-male-mtku4m48vw5a.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1772742712430-8w44ua/img-female-mtku53nwhqu2.webp
+youtubeSearchQuery: how to russian twist exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-05T20:31:51.754Z"
+updatedAt: "2026-09-03T01:17:28.549Z"

@@ -1,0 +1,58 @@
+id: lib-1788127170017-ulzpps
+name: Butterfly Stretch
+description: >-
+  Sit with the soles of the feet together and let the knees fall toward the floor — the classic groin and hip opener. It
+  stretches the adductors in a position you can hold and breathe through for minutes. Sitting tall on the sit bones
+  matters more than how low the knees go.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+secondaryMuscles:
+  - Lower Back
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Lower Body
+  - No Equipment
+  - Yoga
+modality: flexibility
+metValue: 2.3
+instructions:
+  - title: Sit tall
+    detail: Sit on the floor and bring the soles of your feet together in front of you.
+  - title: Draw heels in
+    detail: Slide the heels toward the hips to a distance you can hold comfortably.
+  - title: Let knees drop
+    detail: Relax the inner thighs and let gravity lower the knees toward the floor.
+  - title: Hinge if ready
+    detail: For more, hinge the chest forward from the hips with a straight back.
+safetyNotes: >-
+  Never press the knees down with your hands or bounce them — the groin responds badly to being forced. Sit on a folded
+  towel if your low back rounds.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170017-ulzpps/img-female-mtkmckjbo7jm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170017-ulzpps/img-male-mtkmbz0mvkuk.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170017-ulzpps/img-female-mtkmckjbo7jm.webp
+youtubeSearchQuery: Butterfly Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.309Z"
+updatedAt: "2026-09-02T21:39:20.343Z"

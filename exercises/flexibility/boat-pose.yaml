@@ -1,0 +1,59 @@
+id: lib-1788131478512-51b55h
+name: Boat Pose
+description: >-
+  The V-sit core hold: torso and legs lifted, balanced on the sit bones with the spine long. It builds isometric
+  strength in the abs and hip flexors that carries into nearly everything else. Keep the chest lifted — bend the knees
+  before you ever let the back round.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Quadriceps
+  - Lower Back
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Core
+  - Isometric
+  - Balance
+modality: flexibility
+metValue: 3
+instructions:
+  - title: Sit and lean
+    detail: Sit with knees bent and lean back until the weight rests on the sit bones.
+  - title: Lift the legs
+    detail: Raise the shins parallel to the floor, or straighten the legs into a full V.
+  - title: Reach the arms
+    detail: Extend both arms forward at shoulder height, palms facing each other.
+  - title: Lift the chest
+    detail: Pull the shoulders back and keep the spine long against the pull to round.
+  - title: Hold and breathe
+    detail: Breathe steadily and hold the shape until time is up.
+safetyNotes: If the lower back rounds or aches, bend the knees or hold behind the thighs rather than forcing straight legs.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478512-51b55h/img-male-mtklzr1vtyru.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478512-51b55h/img-male-mtklzr1vtyru.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478512-51b55h/img-female-mtklwpzbjmlj.webp
+youtubeSearchQuery: Boat Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:17.784Z"
+updatedAt: "2026-09-02T21:29:22.141Z"

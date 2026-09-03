@@ -1,0 +1,64 @@
+id: lib-1788127151571-sjrdpi
+name: Step-Up
+description: >-
+  Drive up onto a box with one leg — single-leg pressing strength with easy scaling by height. The working leg does
+  everything if you're honest about it: no push-off from the trailing foot, no bouncing off the floor. Start with a
+  knee-height box and raise it as control improves.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Calves
+  - Abs
+equipment:
+  - plyo_box
+tags:
+  - Lower Body
+  - Unilateral
+  - Bodyweight
+  - Functional
+  - Compound
+  - Calisthenics
+modality: resistance
+metValue: 4.5
+unilateral: always
+instructions:
+  - title: Plant the full foot
+    detail: Place your whole foot on the box with the heel fully supported.
+  - title: Drive through the heel
+    detail: Press through the top leg to lift your body up without pushing off the floor.
+  - title: Stand tall on top
+    detail: Finish fully upright on the box with the trailing knee driving up.
+  - title: Lower with control
+    detail: Step down slowly with the same leg leading, absorbing the descent.
+  - title: Finish the side
+    detail: Complete all reps on one leg before switching.
+safetyNotes: >-
+  The cheat is invisible until you look for it — a toe push from the floor leg turns this into a calf raise. If the box
+  wobbles or your knee dives inward on the drive, lower the height.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151571-sjrdpi/img-female-mtkvlcdtr5lo.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151571-sjrdpi/img-male-mtkvkphmshbv.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127151571-sjrdpi/img-female-mtkvlcdtr5lo.webp
+youtubeSearchQuery: Step-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:10.870Z"
+updatedAt: "2026-09-03T01:58:06.346Z"

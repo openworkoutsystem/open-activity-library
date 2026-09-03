@@ -1,0 +1,63 @@
+id: lib-1788215817500-pnz1t5
+name: Plank Jack
+description: >-
+  Hold a high plank and jump both feet out wide and back together while the hips stay level. It bolts a conditioning
+  interval onto a plank, so the core resists movement while the heart rate climbs, which makes it a strong circuit
+  filler or finisher. Keep the hips locked at shoulder height - if they pike or sag with each jump, slow the feet down.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Shoulders
+  - Abductors
+secondaryMuscles:
+  - Obliques
+  - Transverse Abdominis
+  - Glutes
+  - Quadriceps
+equipment: []
+tags:
+  - Core
+  - Cardio
+  - Plyometrics
+  - Bodyweight
+  - No Equipment
+modality: hybrid
+metValue: 6
+instructions:
+  - title: Start in plank
+    detail: >-
+      Set the hands under your shoulders in a high plank with the feet together and the body in one line from heels to
+      head.
+  - title: Brace the middle
+    detail: Squeeze the glutes and pull the ribs down so the lower back stays flat before a single foot moves.
+  - title: Jump the feet out
+    detail: Hop both feet out past shoulder width and land softly on the balls of the feet without letting the hips rise.
+  - title: Snap them back
+    detail: Bring the feet back together at the same pace and hold a steady rhythm for the whole set.
+safetyNotes: >-
+  The wrists absorb repeated impact in extension, so switch to fists or push-up handles if they ache. End the set the
+  moment the hips start piking or sagging, because a plank held badly under fatigue is where the lower back gets loaded.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 20
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817500-pnz1t5/img-female-mtkrbbg8l63x.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817500-pnz1t5/img-male-mtkrap2kj09j.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215817500-pnz1t5/img-female-mtkrbbg8l63x.webp
+youtubeSearchQuery: Plank Jack proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:56.776Z"
+updatedAt: "2026-09-02T23:58:19.645Z"

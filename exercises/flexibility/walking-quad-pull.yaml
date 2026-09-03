@@ -1,0 +1,58 @@
+id: lib-1788127171609-943j0q
+name: Walking Quad Pull
+description: >-
+  Heel to glute mid-stride while reaching tall with the free arm — quads and hip flexors opened up with a balance
+  challenge built in. The knees stay together and the pelvis stays tucked so the stretch lands on the thigh, not the low
+  back. Alternate legs down the floor.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Hip Flexors
+secondaryMuscles:
+  - Glutes
+  - Calves
+equipment: []
+tags:
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+modality: flexibility
+metValue: 3
+instructions:
+  - title: Step and grab
+    detail: Step forward, bend the trailing knee, and grab that ankle behind you.
+  - title: Pull heel in
+    detail: Draw the heel toward the glute with the knees close together.
+  - title: Reach tall
+    detail: Reach the free arm overhead and squeeze the glute of the stretched leg.
+  - title: Step through
+    detail: Release, take a stride, and repeat on the other leg.
+safetyNotes: >-
+  Grab the ankle, not the toes, and keep the pelvis tucked — arching the back to fake more range defeats the stretch.
+  Skip the full pull if deep knee flexion is painful and just march tall instead.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 45
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171609-943j0q/img-female-mtkwutjdqxn3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171609-943j0q/img-male-mtkwu4q1ib0w.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171609-943j0q/img-female-mtkwutjdqxn3.webp
+youtubeSearchQuery: Walking Quad Pull proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.900Z"
+updatedAt: "2026-09-03T02:33:28.710Z"

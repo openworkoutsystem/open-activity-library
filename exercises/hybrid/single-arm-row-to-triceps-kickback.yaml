@@ -1,0 +1,53 @@
+id: lib-1775591940105-5zek5o
+name: Single-Arm Row to Triceps Kickback
+description: HIIT back row + tricep extension combo.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+modality: hybrid
+metValue: 7
+unilateral: always
+instructions:
+  - title: Row
+    detail: Hinge, row dumbbell to hip.
+  - title: Kickback
+    detail: Extend arm back straight.
+  - title: Alternate Arms
+    detail: 20 reps/arm.
+safetyNotes: Neutral wrist, shoulder packed. Light for shoulder safety.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 2
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591940105-5zek5o/img-female-mtkuo2glutqc.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591940105-5zek5o/img-male-mtkunfxbef1k.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591940105-5zek5o/img-female-mtkuo2glutqc.webp
+youtubeSearchQuery: single arm row tricep kickback dumbbell HIIT
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:58:59.460Z"
+updatedAt: "2026-09-03T01:32:13.987Z"

@@ -1,0 +1,64 @@
+id: lib-1788127171367-w3h5rz
+name: World's Greatest Stretch
+description: >-
+  Lunge deep, drop the elbow toward the instep, then rotate the chest open — the whole warm-up in one move. It hits hip
+  flexors, hamstrings, adductors, and the thoracic spine in a single flowing rep. Move slowly through each position
+  rather than bouncing between them.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Hip Flexors
+  - Hamstrings
+secondaryMuscles:
+  - Glutes
+  - Adductors
+  - Obliques
+  - Shoulders
+equipment: []
+tags:
+  - Warm-Up
+  - Dynamic Stretching
+  - Mobility
+  - No Equipment
+  - Flexibility
+modality: flexibility
+metValue: 3
+unilateral: always
+instructions:
+  - title: Step long
+    detail: Take a long lunge step forward and plant both hands inside the front foot.
+  - title: Elbow to instep
+    detail: Sink the hips and reach the inside elbow down toward the front instep.
+  - title: Rotate open
+    detail: Sweep that hand to the ceiling, rotating the chest toward the front leg.
+  - title: Straighten briefly
+    detail: Rock back to straighten the front knee for a hamstring stretch.
+  - title: Switch sides
+    detail: Step through and repeat the sequence on the other leg.
+safetyNotes: >-
+  Drive the rotation from the mid-back, not by cranking the low back or yanking the arm. If the deep lunge pinches the
+  front hip, shorten the stance before adding rotation.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171367-w3h5rz/img-female-mtkxa7oxg1gq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171367-w3h5rz/img-male-mtkx9jfca6d0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127171367-w3h5rz/img-female-mtkxa7oxg1gq.webp
+youtubeSearchQuery: World's Greatest Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.659Z"
+updatedAt: "2026-09-03T02:45:26.433Z"

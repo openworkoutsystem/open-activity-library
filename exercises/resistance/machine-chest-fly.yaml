@@ -1,0 +1,72 @@
+id: lib-1788215814293-f07xtn
+name: Machine Chest Fly
+description: >-
+  Sit in a pec deck with your back flat against the pad and bring the handles together in front of your chest in a wide
+  arc. The fixed path removes all balance demand, which makes it the easiest way to train chest adduction to real
+  fatigue at the end of a pressing day. Squeeze the chest together at the middle rather than jamming the handles closed
+  with your hands.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+secondaryMuscles:
+  - Front Delts
+  - Serratus Anterior
+  - Biceps
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Push
+  - Machine Weights
+  - Resistance
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the seat
+    detail: >-
+      Adjust the seat so the handles sit level with the middle of your chest, and set the starting arms to a stretch you
+      can reach without your shoulders rolling forward.
+  - title: Anchor your back
+    detail: >-
+      Sit with your whole back and head on the pad, feet flat on the floor, and grip the handles with elbows slightly
+      bent and held at that angle throughout.
+  - title: Hug them together
+    detail: >-
+      Drive the handles toward each other in a wide arc using the chest, and pause for a beat when they meet in front of
+      your sternum.
+  - title: Open under control
+    detail: >-
+      Take two to three seconds letting the arms travel back out, stopping when you feel a firm chest stretch rather
+      than chasing maximum range.
+safetyNotes: >-
+  Setting the start position too far back forces the shoulder into deep external rotation under load, which is the main
+  injury risk on this machine - shorten the range if you feel it in the front of the shoulder. Keep the elbow angle
+  fixed so the movement stays a fly and does not turn into a press.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814293-f07xtn/img-female-mtkqcu527v5t.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814293-f07xtn/img-male-mtkqcbo8v32l.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215814293-f07xtn/img-female-mtkqcu527v5t.webp
+youtubeSearchQuery: Machine Chest Fly pec deck proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.581Z"
+updatedAt: "2026-09-02T23:31:31.790Z"

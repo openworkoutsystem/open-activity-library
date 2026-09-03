@@ -1,0 +1,63 @@
+id: lib-1788127167222-xq02da
+name: Walk
+description: >-
+  Easy, unhurried locomotion at a pace you could hold all day — the most underrated recovery and health tool there is.
+  It keeps blood moving through the legs, speeds recovery between hard sessions, and quietly stacks up daily energy
+  expenditure. Effort check: you should be able to breathe entirely through your nose.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Legs
+secondaryMuscles:
+  - Glutes
+  - Calves
+equipment: []
+tags:
+  - Walking
+  - Cardio
+  - Aerobic
+  - Outdoor
+  - Active Recovery
+modality: cardio
+metValue: 3.5
+instructions:
+  - title: Stand tall
+    detail: Walk with your head up and shoulders relaxed.
+  - title: Set an easy pace
+    detail: Move at a speed you could hold for hours without strain.
+  - title: Swing naturally
+    detail: Let your arms swing loosely at your sides.
+  - title: Finish the time
+    detail: Keep moving continuously for the full duration.
+safetyNotes: >-
+  Risk here is almost entirely environmental — traffic, curbs, and uneven pavement — so stay aware of your surroundings,
+  especially with headphones in.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167222-xq02da/img-female-mtkwq9jmappx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167222-xq02da/img-male-mtkwpmlfgof9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167222-xq02da/img-female-mtkwq9jmappx.webp
+youtubeSearchQuery: Walk proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.520Z"
+updatedAt: "2026-09-03T02:29:55.574Z"

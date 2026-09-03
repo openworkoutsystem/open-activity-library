@@ -1,0 +1,63 @@
+id: lib-1788127165823-mknhko
+name: Medicine Ball Slam
+description: >-
+  Raise the ball fully overhead and drive it into the floor with everything you have. Full-body power that loads the
+  lats and core through fast trunk flexion — and unlike most power work, you can repeat it all day. Hinge cleanly to
+  pick the ball up between reps.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Abs
+secondaryMuscles:
+  - Shoulders
+  - Triceps
+  - Glutes
+equipment:
+  - medicine_ball
+tags:
+  - Plyometrics
+  - Core
+  - High-Intensity
+  - Compound
+  - Functional
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Raise the ball
+    detail: Reach the ball fully overhead, rising onto the toes.
+  - title: Slam down hard
+    detail: Drive the ball into the floor just in front of your feet with the whole body.
+  - title: Hinge to retrieve
+    detail: Squat or hinge with a flat back to pick the ball up.
+  - title: Repeat with intent
+    detail: Reset and throw every rep at full effort.
+safetyNotes: >-
+  Use a dead-bounce slam ball — a rubber medicine ball can rebound straight into your face. The pickup is where backs
+  get tweaked; reset a flat spine on every single hinge.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165823-mknhko/img-female-mtkqiy9wcoov.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165823-mknhko/img-male-mtkqig15itli.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165823-mknhko/img-female-mtkqiy9wcoov.webp
+youtubeSearchQuery: Medicine Ball Slam proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.117Z"
+updatedAt: "2026-09-02T23:36:16.854Z"

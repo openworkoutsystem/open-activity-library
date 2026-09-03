@@ -1,0 +1,69 @@
+id: lib-1788215819523-uef2jx
+name: Stability Ball Hamstring Curl
+description: >-
+  Lie on your back with your heels on a stability ball, bridge the hips up, then bend the knees to roll the ball in
+  toward your glutes and control it back out. Unlike a machine curl it trains knee flexion and hip extension together
+  while the ball exposes any loss of control, which is why it shows up constantly in home and rehab programming. Hold
+  the hips high the entire set - the moment they sag, the hamstrings stop working.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Glutes
+secondaryMuscles:
+  - Calves
+  - Abs
+  - Lower Back
+equipment:
+  - stability_ball
+tags:
+  - Bodyweight
+  - Posterior Chain
+  - Lower Body
+  - Resistance
+  - Core
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Set your heels
+    detail: >-
+      Lie face up with your arms flat at your sides and both heels on top of the ball, legs straight and about hip-width
+      apart.
+  - title: Bridge the hips
+    detail: >-
+      Press through the heels and lift the hips until shoulders, hips, and heels form one straight line, then hold that
+      height.
+  - title: Curl the ball in
+    detail: Bend the knees and drag the ball toward your glutes with your heels, keeping the hips lifted as the knees fold.
+  - title: Roll out slowly
+    detail: >-
+      Take about three seconds straightening the legs back out without letting the hips drop, then start the next rep
+      from the bridge.
+safetyNotes: >-
+  Hamstring cramping is common in the first few sessions - shorten the range and build volume gradually instead of
+  pushing through a locked cramp. Roll out only as far as you can hold the bridge, because a dropping hip shifts the
+  load straight to the low back.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819523-uef2jx/img-female-mtkvac17mipp.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819523-uef2jx/img-male-mtkv9tbo7ffy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215819523-uef2jx/img-female-mtkvac17mipp.webp
+youtubeSearchQuery: Stability Ball Hamstring Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:58.805Z"
+updatedAt: "2026-09-03T01:49:32.222Z"

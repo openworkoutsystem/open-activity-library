@@ -1,0 +1,61 @@
+id: lib-1788131477467-xw237f
+name: Tree Pose
+description: >-
+  The classic standing balance: one foot pressed to the inner thigh or calf, hands at center or overhead. It trains
+  ankle and hip stability on the standing leg along with steady, single-point focus. Press the foot and thigh into each
+  other — that mutual pressure is what holds the pose.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Calves
+secondaryMuscles:
+  - Abductors
+  - Abs
+equipment: []
+tags:
+  - Yoga
+  - Balance
+  - Posture
+  - No Equipment
+modality: flexibility
+metValue: 2.5
+unilateral: always
+instructions:
+  - title: Root the standing leg
+    detail: Shift your weight into one foot and spread the toes.
+  - title: Place the foot
+    detail: Press the other sole into the inner thigh or calf, never the knee.
+  - title: Press both ways
+    detail: Push the foot and standing leg into each other to lock the position.
+  - title: Set the hands
+    detail: Bring the palms together at the chest or reach them overhead.
+  - title: Fix the gaze
+    detail: Hold one still point at eye level and breathe, then switch sides.
+safetyNotes: >-
+  Place the foot above or below the knee joint, never directly on it, and stand near a wall until the balance is
+  reliable.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 45
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477467-xw237f/img-female-mtkwas46alpz.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477467-xw237f/img-male-mtkwa0xwwmt0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131477467-xw237f/img-female-mtkwas46alpz.webp
+youtubeSearchQuery: Tree Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:16.729Z"
+updatedAt: "2026-09-03T02:17:52.613Z"

@@ -1,0 +1,75 @@
+id: lib-1773096603294-y90167
+name: Glute Bridge
+description: >-
+  Glute Bridges are executed by lying on your back with knees bent and feet flat, then lifting your hips toward the
+  ceiling by squeezing your glutes. This exercise activates and strengthens the posterior chain for better hip stability
+  and lower back support. It primarily targets the glutes, with secondary engagement of the hamstrings and core.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles: []
+equipment: []
+tags:
+  - Lower Body
+  - Hinge
+  - Glutes
+  - Core
+  - Beginner-Friendly
+  - Bodyweight
+  - Calisthenics
+modality: resistance
+metValue: 3.8
+muscleActivationMap:
+  Glutes: 0.5
+  Hamstrings: 0.2
+  Abs: 0.2
+  Lower Back: 0.1
+instructions:
+  - title: Lie Down Setup
+    detail: >-
+      Lie on back on a mat or floor, knees bent at 90 degrees, feet flat hip-width apart. Arms at sides, palms down.
+      Engage core to press lower back into ground, tilting pelvis slightly. This neutral spine protects back during
+      lift.
+  - title: Lift Hips
+    detail: >-
+      Drive through heels, squeezing glutes to lift hips toward ceiling until body forms straight line from knees to
+      shoulders. Keep feet flat and knees aligned. Inhale as you initiate lift for controlled rise.
+  - title: Hold and Squeeze
+    detail: >-
+      Pause at top for 1-2 seconds, maximally contracting glutes without overarching lower back. Shoulders and upper
+      back stay grounded. Exhale during hold to engage deeper.
+  - title: Lower Slowly
+    detail: >-
+      Lower hips back to start with control, taking 3 seconds to descend. Avoid touching floor fully between reps for
+      constant tension. Maintain core engagement throughout.
+  - title: Repetition Guidance
+    detail: >-
+      Perform 10-15 reps per set. Breathe steadily: inhale up, exhale down. For progression, add single-leg variation or
+      hold at top longer. Stretch glutes and hamstrings post-exercise.
+safetyNotes: >-
+  Avoid arching your lower back at the top; keep your feet flat and knees aligned. Common mistakes include not fully
+  engaging the glutes or pushing through the heels incorrectly. This is a bodyweight exercise - no weight load applies.
+trackableMetrics:
+  - key: reps
+    category: movement
+    isPrimary: true
+defaults:
+  estimatedDurationMinutes: 3
+  reps: 12
+  sets: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096603294-y90167/img-female-mtkbn8oswgcq.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096603294-y90167/img-male-mtkbl20tfjmy.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096603294-y90167/img-female-mtkbn8oswgcq.webp
+youtubeSearchQuery: glute bridge exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-09T22:50:02.567Z"
+updatedAt: "2026-09-02T16:39:42.506Z"

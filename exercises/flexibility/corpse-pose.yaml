@@ -1,0 +1,56 @@
+id: lib-1788131478994-kq76mz
+name: Corpse Pose
+description: >-
+  Deliberate stillness lying flat at the end of practice — the hardest pose to take seriously and the easiest to skip.
+  It trains the nervous system to actually down-shift, letting the body absorb whatever the practice just built. Let the
+  feet fall open, turn the palms up, and resist the urge to fidget.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Restorative Yoga
+  - Mind-Body
+  - Recovery
+  - Cool-Down
+modality: flexibility
+metValue: 1
+instructions:
+  - title: Lie flat
+    detail: Rest on the back with legs extended and arms a comfortable distance from the body.
+  - title: Release everything
+    detail: Let the feet fall open, turn the palms up, and unclench the jaw.
+  - title: Scan the body
+    detail: Move attention slowly from feet to head, softening each area you pass.
+  - title: Stay put
+    detail: Remain still and breathe naturally until the timer ends, then roll to one side to rise.
+safetyNotes: >-
+  Place a bolster under the knees if the lower back complains when flat, and cover up — the body cools quickly in
+  stillness.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 300
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478994-kq76mz/img-female-mtkmqp24n8xn.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478994-kq76mz/img-male-mtkmq02p2der.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131478994-kq76mz/img-female-mtkmqp24n8xn.webp
+youtubeSearchQuery: Corpse Pose yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.259Z"
+updatedAt: "2026-09-02T21:50:19.337Z"

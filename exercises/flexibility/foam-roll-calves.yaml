@@ -1,0 +1,57 @@
+id: lib-1788127172784-9sl85e
+name: Foam Roll Calves
+description: >-
+  Roll from ankle to knee, rotating the leg in and out to cover the inner and outer calf. Stack the free leg on top for
+  pressure the calf will actually notice — bodyweight alone is often too light here. Worth its time for runners and
+  anyone doing jump work.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles: []
+equipment:
+  - foam_roller
+tags:
+  - Foam Rolling
+  - Recovery
+  - Mobility
+  - Cool-Down
+modality: flexibility
+metValue: 2.5
+unilateral: optional
+instructions:
+  - title: Set the roller
+    detail: Sit with the roller under one calf and hands planted behind you.
+  - title: Stack for pressure
+    detail: Cross the other leg on top and lift the hips off the floor.
+  - title: Roll ankle to knee
+    detail: Travel slowly along the full length of the calf.
+  - title: Rotate the leg
+    detail: Turn the toes in and out to reach both heads of the muscle.
+safetyNotes: >-
+  Avoid parking heavy pressure directly on the Achilles tendon near the heel, and stay out of the crease behind the
+  knee. Pausing on a tender spot and pumping the ankle up and down works better than grinding.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 60
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172784-9sl85e/img-female-mtknojkylddb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172784-9sl85e/img-male-mtknnvse2e6c.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172784-9sl85e/img-female-mtknojkylddb.webp
+youtubeSearchQuery: Foam Roll Calves technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:32.076Z"
+updatedAt: "2026-09-02T22:16:38.564Z"

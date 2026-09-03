@@ -1,0 +1,58 @@
+id: lib-1788127149806-7qx9jx
+name: Single-Leg Glute Bridge
+description: >-
+  The glute bridge on one leg — the free leg holds still while the working glute does everything. It exposes and fixes
+  the side-to-side imbalance most people don't know they have. Level hips are the standard; when the pelvis drops, the
+  set is over.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Obliques
+equipment: []
+tags:
+  - Hinge
+  - Bodyweight
+  - Unilateral
+  - Posterior Chain
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+unilateral: always
+instructions:
+  - title: Set up
+    detail: Lie on your back with one foot flat and the other leg extended or knee hugged toward the chest.
+  - title: Drive through one heel
+    detail: Push through the planted heel and lift the hips until the body is straight from knee to shoulder.
+  - title: Keep hips level
+    detail: Hold the pelvis dead level — do not let the free side sag.
+  - title: Lower and repeat
+    detail: Lower under control, finish all reps, then switch legs.
+safetyNotes: >-
+  A dropping or rotating pelvis means the glute has given out and the low back is taking over — end the set there rather
+  than grinding out crooked reps.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149806-7qx9jx/img-female-mtkv64qph639.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149806-7qx9jx/img-male-mtkv5nlhv5ys.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149806-7qx9jx/img-female-mtkv64qph639.webp
+youtubeSearchQuery: Single-Leg Glute Bridge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.108Z"
+updatedAt: "2026-09-03T01:46:16.626Z"

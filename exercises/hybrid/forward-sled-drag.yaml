@@ -1,0 +1,65 @@
+id: lib-1788389639483-53whru
+name: Forward Sled Drag
+description: >-
+  Clip the strap to a belt or hold the handles behind you and walk forward, leaning into the load with the sled trailing
+  behind. Dragging forward works the posterior chain through long, powerful strides with no eccentric phase, so it
+  builds sprint drive and conditioning without the soreness. Keep the spine long and drive the floor back with every
+  step.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Calves
+  - Quadriceps
+  - Abs
+  - Forearms
+equipment:
+  - weight_plates
+tags:
+  - Functional
+  - Carry
+  - High-Intensity
+  - Lower Body
+modality: hybrid
+metValue: 8
+instructions:
+  - title: Set the load
+    detail: Load the sled so you can keep walking without stalling. Heavier is fine once the steps stay continuous.
+  - title: Take the strap behind you
+    detail: Face away from the sled with the strap on a belt or the handles held behind your hips, arms long.
+  - title: Lean and drive
+    detail: >-
+      Lean forward from the ankles with a long spine and drive the floor back with full strides, pushing through the
+      whole foot.
+  - title: Pace the trip
+    detail: Keep the strides rhythmic to the end of the lane, then rest fully before the next drag.
+safetyNotes: >-
+  Lean from the ankles with a long spine rather than folding at the waist; a rounded back against a heavy sled is where
+  forward drags go wrong. Use a harness or belt if hand-held handles pull the shoulders back. Start light enough that
+  the steps never stall.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 45
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788389639483-53whru/img-female-mtkp9ianruqi.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788389639483-53whru/img-male-mtkp8k4yp4z9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788389639483-53whru/img-female-mtkp9ianruqi.webp
+youtubeSearchQuery: Forward Sled Drag proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-09-02T22:53:58.751Z"
+updatedAt: "2026-09-02T23:00:56.261Z"

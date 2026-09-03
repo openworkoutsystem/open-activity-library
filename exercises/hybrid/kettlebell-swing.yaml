@@ -1,0 +1,64 @@
+id: lib-1788127150414-6shiiz
+name: Kettlebell Swing
+description: >-
+  Hike the bell back between the legs and snap the hips forward so it floats to chest height — power, conditioning, and
+  posterior chain in one move. The arms are ropes; the hips are the engine. Every rep finishes in a standing plank,
+  never a lean-back.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Abs
+  - Forearms
+equipment:
+  - kettlebells
+tags:
+  - Hinge
+  - Kettlebell
+  - Posterior Chain
+  - High-Intensity
+modality: hybrid
+metValue: 9.8
+instructions:
+  - title: Hike the bell
+    detail: Start with the bell a foot in front of you, hinge, and hike it back high between the legs.
+  - title: Snap the hips
+    detail: Drive the hips forward explosively so the bell floats up to chest height on straight-ish arms.
+  - title: Plank at the top
+    detail: Finish each rep standing tall with glutes and abs locked — do not lean back.
+  - title: Let it fall
+    detail: Let the bell swing back down and re-hinge as the forearms reach the hips.
+  - title: Park it safely
+    detail: End the set by letting the bell swing through and setting it down in front of you.
+safetyNotes: >-
+  The bell is powered by the hip snap, not lifted by the arms — a squatty arm-raise swing hammers the low back. Hinge,
+  don't squat, and never let the bell pull you into a back-bend at the top.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150414-6shiiz/img-female-mtkpdh9c04dw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150414-6shiiz/img-male-mtkpcpzno3nd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150414-6shiiz/img-female-mtkpdh9c04dw.webp
+youtubeSearchQuery: Kettlebell Swing proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.723Z"
+updatedAt: "2026-09-02T23:04:01.982Z"

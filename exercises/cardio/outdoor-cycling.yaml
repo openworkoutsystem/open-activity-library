@@ -1,0 +1,64 @@
+id: lib-1788127168127-zn51wk
+name: Outdoor Cycling
+description: >-
+  Riding outside — big low-impact aerobic volume with the scenery included. It builds the quads and the engine while
+  sparing the joints entirely, and it's one of the few activities most people can happily do for hours. Effort should
+  stay mostly conversational.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Calves
+equipment: []
+tags:
+  - Cycling
+  - Outdoor
+  - Cardio
+  - Endurance
+  - Aerobic
+modality: cardio
+metValue: 7.5
+instructions:
+  - title: Check the bike
+    detail: Confirm tire pressure, brakes, and saddle height before rolling out.
+  - title: Spin, don't grind
+    detail: Keep a cadence around 80 to 95 rpm in a comfortable gear.
+  - title: Ride predictably
+    detail: Hold your line, signal turns, and obey traffic rules.
+  - title: Hold steady effort
+    detail: Keep breathing conversational for most of the ride.
+safetyNotes: >-
+  Traffic is the real hazard — wear a helmet, use lights, and ride predictably. Knee pain on the bike is almost always a
+  saddle-height problem, so get the fit right before adding volume.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+  - key: distance
+    unit: meters
+    category: movement
+  - key: speed
+    unit: mph
+    category: load
+defaults:
+  durationSeconds: 1800
+  estimatedDurationMinutes: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168127-zn51wk/img-female-mtkqyonf6vb4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168127-zn51wk/img-male-mtkqy47z62aw.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127168127-zn51wk/img-female-mtkqyonf6vb4.webp
+youtubeSearchQuery: Outdoor Cycling proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:27.422Z"
+updatedAt: "2026-09-02T23:48:31.025Z"

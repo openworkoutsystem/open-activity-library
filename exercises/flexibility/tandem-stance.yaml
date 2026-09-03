@@ -1,0 +1,58 @@
+id: lib-1788127166329-bd2myb
+name: Tandem Stance
+description: >-
+  Stand heel-to-toe as if on a tightrope and hold. The narrow base removes the side-to-side stability you normally take
+  for granted, forcing the ankles and hips to work. Swap which foot leads — most people have a clearly harder side.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+  - Abductors
+secondaryMuscles:
+  - Tibialis Anterior
+  - Abs
+equipment: []
+tags:
+  - Balance
+  - Stability
+  - No Equipment
+  - Low-Impact
+modality: flexibility
+metValue: 2.5
+unilateral: optional
+instructions:
+  - title: Line up the feet
+    detail: Place one heel directly against the opposite toes.
+  - title: Stand tall
+    detail: Stack the hips and shoulders over the narrow base.
+  - title: Hold quietly
+    detail: Breathe normally and hold with minimal sway.
+  - title: Swap the lead
+    detail: Repeat with the other foot in front.
+safetyNotes: >-
+  Stand beside a wall — the narrow base fails sideways fast. This is a common fall-risk screen for a reason; older or
+  post-injury users should keep support within reach.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166329-bd2myb/img-male-mtkw5sh0rq88.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166329-bd2myb/img-male-mtkw5sh0rq88.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127166329-bd2myb/img-female-mtkw13ghybio.webp
+youtubeSearchQuery: Tandem Stance proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.620Z"
+updatedAt: "2026-09-03T02:13:59.901Z"

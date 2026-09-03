@@ -1,0 +1,62 @@
+id: lib-1788127149067-3ch1ol
+name: Hack Squat
+description: >-
+  Machine squat on a fixed track — quad-focused with the back supported. The angled sled removes the balance demand,
+  letting you take the quads close to failure safely. Foot placement steers the emphasis: lower on the platform hits
+  more quad, higher shifts toward the glutes.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Calves
+equipment:
+  - weight_machines
+tags:
+  - Squat
+  - Machine Weights
+  - Compound
+  - Lower Body
+  - Strength
+modality: resistance
+metValue: 5
+instructions:
+  - title: Load and position
+    detail: Set your shoulders under the pads with your back flat against the sled.
+  - title: Place your feet
+    detail: Put feet shoulder-width on the platform, lower for quads or higher for glutes.
+  - title: Unlock and descend
+    detail: Release the handles and lower until your thighs pass parallel.
+  - title: Drive up
+    detail: Press through the whole foot to just short of knee lockout.
+safetyNotes: >-
+  The fixed track means your knees can't self-adjust — if your knees hurt at depth, change foot position or cut range
+  rather than pushing through. Know where the safety catches are before your first heavy set.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149067-3ch1ol/img-female-mtko3rr80ogi.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149067-3ch1ol/img-male-mtko3095prvn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127149067-3ch1ol/img-female-mtko3rr80ogi.webp
+youtubeSearchQuery: Hack Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.375Z"
+updatedAt: "2026-09-02T22:28:29.213Z"

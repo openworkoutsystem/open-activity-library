@@ -1,0 +1,64 @@
+id: lib-1773327889335-hf4jio
+name: High Knees
+description: >-
+  High knees is a high-intensity cardio exercise performed by running in place with exaggerated knee lifts toward the
+  chest. It builds leg strength, improves coordination, agility, and cardiovascular endurance while serving as an
+  effective warm-up.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+  - Calves
+  - Hip Flexors
+secondaryMuscles:
+  - Abs
+  - Shoulders
+equipment: []
+tags:
+  - Cardio
+  - Bodyweight
+  - Warm-Up
+  - Plyometrics
+  - Conditioning
+  - Agility
+  - No Equipment
+modality: cardio
+metValue: 8
+instructions:
+  - title: Setup
+    detail: Stand tall with feet hip-width apart, knees slightly bent, arms relaxed at your sides, and core engaged.
+  - title: Execute
+    detail: >-
+      Drive your right knee up toward your chest while swinging your left arm forward and right arm back. Quickly
+      alternate with the left knee and opposite arm swing. Maintain a fast pace, upright posture, and pump arms
+      vigorously to match leg rhythm. Land softly on the balls of your feet.
+  - title: Complete
+    detail: Continue alternating for the prescribed duration, then rest before the next set.
+safetyNotes: >-
+  Keep your torso upright and core braced to avoid arching the lower back. Land softly on the balls of your feet to
+  minimize joint impact. If you have pre-existing knee, ankle, or back issues, consult a healthcare professional before
+  performing.
+trackableMetrics:
+  - isPrimary: true
+    key: duration
+    category: time
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889335-hf4jio/img-female-mtko8ju9b3p7.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889335-hf4jio/img-male-mtko82iq2fin.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773327889335-hf4jio/img-female-mtko8ju9b3p7.webp
+youtubeSearchQuery: how to High Knees exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-12T15:04:49.423Z"
+updatedAt: "2026-09-02T22:32:12.310Z"

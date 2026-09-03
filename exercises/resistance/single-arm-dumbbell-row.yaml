@@ -1,0 +1,68 @@
+id: lib-1788127155344-miydmw
+name: Single-Arm Dumbbell Row
+description: >-
+  Brace one knee and hand on a bench and row the dumbbell to your hip — the staple unilateral pull. With the spine
+  supported you can work the lats and mid-back hard, and the offset load makes the trunk resist rotation on every rep.
+  Pull the elbow along the ribs toward the hip, not straight up toward the armpit.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Forearms
+  - Obliques
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Pull
+  - Dumbbell
+  - Unilateral
+  - Compound
+  - Upper Body
+modality: resistance
+metValue: 4
+unilateral: always
+instructions:
+  - title: Brace on bench
+    detail: Place one knee and the same-side hand on a flat bench with the other foot planted.
+  - title: Set flat back
+    detail: Let the dumbbell hang straight down with your spine level from head to hips.
+  - title: Row to hip
+    detail: Pull the dumbbell up along your ribs toward the hip with the elbow staying close.
+  - title: Lower long
+    detail: Extend the arm fully so the lat gets a stretch at the bottom.
+  - title: Switch sides
+    detail: Complete all reps, then mirror the setup on the other side.
+safetyNotes: >-
+  Avoid twisting the torso to heave the weight up — rotation under load is how lower backs get tweaked on this lift.
+  Keep the spine level from head to hips for the whole set.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155344-miydmw/img-female-mtkulfcej48b.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155344-miydmw/img-male-mtkukrrk837l.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155344-miydmw/img-female-mtkulfcej48b.webp
+youtubeSearchQuery: Single-Arm Dumbbell Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.646Z"
+updatedAt: "2026-09-03T01:30:10.181Z"

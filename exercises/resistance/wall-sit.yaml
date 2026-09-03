@@ -1,0 +1,59 @@
+id: lib-1788127148900-a9vncd
+name: Wall Sit
+description: >-
+  Isometric squat hold against a wall — quad endurance with zero equipment. Thighs parallel, back flat on the wall, and
+  time does the rest. The honest version keeps the hands off the thighs; pressing down on your knees is resting.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+secondaryMuscles:
+  - Glutes
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Squat
+  - Isometric
+  - Bodyweight
+  - No Equipment
+  - Lower Body
+  - Calisthenics
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set your position
+    detail: Slide down a wall until your thighs are parallel and knees sit directly over your ankles.
+  - title: Flatten your back
+    detail: Press your whole back into the wall and keep feet flat on the floor.
+  - title: Hold and breathe
+    detail: Stay motionless for the full time while breathing steadily, hands off your thighs.
+  - title: Stand to finish
+    detail: Push through your feet to slide back up the wall under control.
+safetyNotes: >-
+  Holding your breath spikes blood pressure fast during long isometrics — keep breathing throughout. Knees drifting past
+  the toes shifts the load into the kneecap; keep shins vertical.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 45
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148900-a9vncd/img-female-mtkwxg2bmpde.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148900-a9vncd/img-male-mtkwwuk597s9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148900-a9vncd/img-female-mtkwxg2bmpde.webp
+youtubeSearchQuery: Wall Sit proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:08.207Z"
+updatedAt: "2026-09-03T02:35:30.643Z"

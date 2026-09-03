@@ -1,0 +1,69 @@
+id: lib-1788127152011-6wfi53
+name: Barbell Reverse Lunge
+description: >-
+  Reverse lunge under a barbell — heavy single-leg work with a stable torso. The bar on the upper back demands a rigid
+  brace while the back-stepping pattern keeps the front knee happy under real load. This is where single-leg strength
+  stops being accessory work and starts moving serious weight.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Adductors
+  - Lower Back
+  - Abs
+equipment:
+  - barbell
+  - squat_rack
+tags:
+  - Lower Body
+  - Unilateral
+  - Barbell
+  - Strength
+  - Compound
+modality: resistance
+metValue: 6
+unilateral: always
+instructions:
+  - title: Unrack the bar
+    detail: Set the bar on your upper back as for a back squat and step clear of the rack.
+  - title: Brace and step back
+    detail: Take a breath, brace the trunk, and step one foot straight behind you.
+  - title: Lower the knee
+    detail: Bend both knees until the rear knee hovers just above the floor with the torso tall.
+  - title: Drive through the front heel
+    detail: Push hard through the front foot to bring the back leg forward to standing.
+  - title: Reset each rep
+    detail: Re-brace at the top before every step; alternate legs or run one side at a time.
+safetyNotes: >-
+  A balance wobble with a bar on your back has real consequences — build the pattern with dumbbells first and load the
+  barbell version conservatively. Take the bar from a rack, keep the steps deliberate, and end the set the moment your
+  foot placement gets sloppy.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152011-6wfi53/img-female-mtjkne3dlxgg.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152011-6wfi53/img-male-mtjkncqh5cqn.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127152011-6wfi53/img-female-mtjkne3dlxgg.webp
+youtubeSearchQuery: Barbell Reverse Lunge proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:11.311Z"
+updatedAt: "2026-09-02T03:45:50.185Z"

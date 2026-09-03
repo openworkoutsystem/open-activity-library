@@ -1,0 +1,67 @@
+id: lib-1788127150120-zjb15i
+name: Sumo Deadlift
+description: >-
+  Wide stance, toes out, hands gripping inside the knees — a shorter-range deadlift that shifts the work toward the
+  hips, adductors, and quads. Get the knees pushed out over the toes before the bar leaves the floor. The bar still
+  travels a straight vertical line up the body.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+  - Adductors
+secondaryMuscles:
+  - Quadriceps
+  - Lower Back
+  - Traps
+equipment:
+  - barbell
+  - weight_plates
+tags:
+  - Hinge
+  - Barbell
+  - Compound
+  - Powerlifting
+  - Posterior Chain
+modality: resistance
+metValue: 6
+instructions:
+  - title: Take the stance
+    detail: Set the feet well outside shoulder width with toes angled out and shins near the bar.
+  - title: Grip inside
+    detail: Grip the bar with hands inside the knees, arms hanging straight down.
+  - title: Open the hips
+    detail: Push the knees out over the toes and pull your chest tall until the back is flat.
+  - title: Pull patiently
+    detail: Build tension into the bar, then drive the legs and spread the floor until lockout.
+  - title: Return the bar
+    detail: Hinge the bar back down the legs and reset fully before the next rep.
+safetyNotes: >-
+  The knees must track out over the toes — caving inward under load stresses the knees and hips. Sumo also punishes a
+  yanked start; wedge in and build tension before the bar breaks the floor.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 12
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150120-zjb15i/img-female-mtkvqcmqwz6g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150120-zjb15i/img-male-mtkvptcto3x5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127150120-zjb15i/img-female-mtkvqcmqwz6g.webp
+youtubeSearchQuery: Sumo Deadlift proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:09.425Z"
+updatedAt: "2026-09-03T02:01:59.682Z"

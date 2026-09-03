@@ -1,0 +1,72 @@
+id: lib-1788215813749-eareiq
+name: Cable Pull-Through
+description: >-
+  Face away from a low pulley with a rope between your legs, hinge at the hips until you feel the hamstrings stretch,
+  then stand up tall by driving the hips forward against the cable. It teaches the hip hinge with the resistance pulling
+  backward instead of down, so beginners can learn the pattern without a loaded spine. Think hips back, not chest down.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Lower Back
+  - Abs
+  - Adductors
+equipment:
+  - cable_machine
+tags:
+  - Compound
+  - Hinge
+  - Posterior Chain
+  - Resistance
+  - Strength
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Set the rope
+    detail: >-
+      Attach a rope to the lowest pulley setting, straddle the cable facing away from the stack, and reach between your
+      legs to grab one end of the rope in each hand.
+  - title: Walk it out
+    detail: >-
+      Step forward until the weight lifts off the stack, set your feet a bit wider than shoulder width, and stand tall
+      with arms hanging straight and knees slightly bent.
+  - title: Hinge back
+    detail: >-
+      Push your hips straight back and let the rope travel between your legs, keeping your back flat and your shins
+      vertical until you feel a strong hamstring stretch.
+  - title: Drive the hips
+    detail: >-
+      Snap the hips forward to stand up, squeezing the glutes hard at the top with ribs down, and let your arms stay
+      passive so this never becomes a row.
+safetyNotes: >-
+  Standing too close to the stack cuts the range short and turns the lift into a squat - walk out far enough that the
+  plates never rest between reps. Keep the spine neutral on the hinge; rounding under cable tension is where lower backs
+  get tweaked.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813749-eareiq/img-female-mtk9vgjucbnk.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813749-eareiq/img-male-mtk9uls986ng.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215813749-eareiq/img-female-mtk9vgjucbnk.webp
+youtubeSearchQuery: Cable Pull-Through proper form hip hinge
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:53.066Z"
+updatedAt: "2026-09-02T15:50:07.506Z"

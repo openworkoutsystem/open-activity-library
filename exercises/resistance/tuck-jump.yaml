@@ -1,0 +1,58 @@
+id: lib-1788127165307-cic3bw
+name: Tuck Jump
+description: >-
+  Jump maximally and pull the knees to the chest before landing quiet. A genuine fast-twitch demand — you need real
+  height and a rapid tuck to make room for the legs to extend again. Reserved for athletes who already own clean squat
+  jumps and silent landings.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hip Flexors
+  - Calves
+  - Abs
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Lower Body
+modality: resistance
+metValue: 9
+instructions:
+  - title: Jump maximally
+    detail: Explode straight up off both feet.
+  - title: Tuck the knees
+    detail: Pull the knees to the chest at the peak.
+  - title: Extend early
+    detail: Shoot the legs back down well before landing.
+  - title: Land tall
+    detail: Absorb softly and reset fully before the next rep.
+safetyNotes: >-
+  The tuck steals time from landing preparation — extend the legs early and land tall, not crumpled. Impact volume adds
+  up fast here; keep sets short and only jump fresh.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165307-cic3bw/img-female-mtkwio2us5r1.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165307-cic3bw/img-male-mtkwhwcdggs9.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165307-cic3bw/img-female-mtkwio2us5r1.webp
+youtubeSearchQuery: Tuck Jump technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.602Z"
+updatedAt: "2026-09-03T02:24:01.279Z"

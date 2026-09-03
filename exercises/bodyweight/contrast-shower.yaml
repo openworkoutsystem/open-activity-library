@@ -1,0 +1,52 @@
+id: lib-1788127175840-u6lqmk
+name: Contrast Shower
+description: >-
+  Alternate comfortably warm water with genuinely cold — a circulation nudge, a wake-up, and a low-cost recovery ritual.
+  Cold rounds stay short and warm rounds run longer; consistency matters far more than heroically cold temperatures. End
+  cold for alertness or warm before bed.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags:
+  - Recovery
+  - Active Recovery
+metValue: 1.5
+instructions:
+  - title: Start warm
+    detail: Shower at a comfortable warm temperature for two to three minutes.
+  - title: Go cold
+    detail: Turn the water cold for thirty to sixty seconds while breathing slow and steady.
+  - title: Alternate rounds
+    detail: Repeat the warm-cold cycle two to four times.
+  - title: Finish deliberately
+    detail: End on cold for alertness or on warm if it's close to bedtime.
+safetyNotes: >-
+  Sudden cold is a genuine cardiovascular stressor — anyone with heart disease, arrhythmia, or uncontrolled blood
+  pressure should clear it with a doctor first. Step the temperature down over sessions rather than shock-plunging on
+  day one.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 1
+  durationSeconds: 300
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175840-u6lqmk/img-female-mtkmpdewuh0k.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175840-u6lqmk/img-male-mtkmohha2oqv.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127175840-u6lqmk/img-female-mtkmpdewuh0k.webp
+youtubeSearchQuery: Contrast Shower technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:35.132Z"
+updatedAt: "2026-09-02T21:49:17.507Z"

@@ -1,0 +1,79 @@
+id: lib-1773096611844-l5fbwc
+name: Bulgarian Split Squat
+description: Single-leg squat variation for quads, glutes, and balance
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+equipment:
+  - dumbbells
+  - bench_flat
+tags:
+  - Compound
+  - Lower Body
+  - Unilateral
+modality: resistance
+metValue: 6
+muscleActivationMap:
+  Quadriceps: 0.4
+  Glutes: 0.3
+  Hamstrings: 0.2
+  Calves: 0.1
+instructions:
+  - title: Setup Position
+    detail: >-
+      Stand in front of a stable bench or step about knee-height. Place top of one foot on the bench behind you, laces
+      down. Position front foot forward so when lowered, front knee stays over ankle. Keep torso upright, hands on hips
+      or holding dumbbells for added challenge. Engage core for balance.
+  - title: Initiate Descent
+    detail: >-
+      Bend front knee to lower body, keeping rear leg relaxed on bench. Descend until front thigh is parallel to ground
+      or as low as mobility allows, ensuring back knee hovers near floor without touching. Inhale as you lower,
+      maintaining control to avoid knee collapse inward.
+  - title: Drive Upward
+    detail: >-
+      Push through front heel to straighten leg and return to start, squeezing glute of working leg at top. Keep chest
+      up and shoulders back; avoid arching lower back. Exhale forcefully during the upward phase for power. Perform 8-12
+      reps per side.
+  - title: Balance and Stability Cues
+    detail: >-
+      Focus on front knee tracking over second toe, not caving in. Keep hips square and level throughout; don't let rear
+      hip rotate. If unstable, hold onto a support initially. Breathe steadily to maintain focus and prevent dizziness.
+  - title: Repetition and Switch
+    detail: >-
+      Complete all reps on one leg before switching. Rest 30-60 seconds between sides. Progress by adding weight or
+      increasing depth as strength improves. Finish with light stretching for quads and hip flexors.
+safetyNotes: >-
+  Keep your front knee aligned over your toes and avoid letting it cave inward; maintain an upright torso. Common errors
+  include placing the back foot too far or leaning forward excessively.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  estimatedDurationMinutes: 3
+  reps: 8
+  sets: 4
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096611844-l5fbwc/img-female-mtjkm7k1g107.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096611844-l5fbwc/img-male-mtjkm68p4tlj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096611844-l5fbwc/img-female-mtjkm7k1g107.webp
+youtubeSearchQuery: bulgarian split squat tutorial proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 8
+createdAt: 1773461209341
+updatedAt: "2026-09-02T03:45:42.374Z"

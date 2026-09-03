@@ -1,0 +1,75 @@
+id: lib-1788215816159-y01yv0
+name: Renegade Row
+description: >-
+  Hold a high plank on two dumbbells and row one to your ribs while the rest of your body refuses to twist. It trains
+  the back and the anti-rotation core at the same time, so you get a pulling stimulus and a hard plank in one movement.
+  The row is the easy part - keeping the hips square is the actual exercise.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Abs
+secondaryMuscles:
+  - Obliques
+  - Biceps
+  - Shoulders
+equipment:
+  - dumbbells
+tags:
+  - Compound
+  - Pull
+  - Core
+  - Dumbbell
+  - Functional
+modality: resistance
+metValue: 5
+unilateral: always
+instructions:
+  - title: Set the plank
+    detail: >-
+      Place two hex dumbbells shoulder-width apart on the floor, grip them, and step back into a high plank with wrists
+      stacked under the shoulders.
+  - title: Widen the base
+    detail: >-
+      Take your feet wider than your hips, squeeze the glutes, and brace the abs so the body forms one line from head to
+      heels.
+  - title: Row one side
+    detail: >-
+      Shift weight slightly into the supporting hand and row one dumbbell to your ribs, driving the elbow back rather
+      than flaring it out.
+  - title: Stay square
+    detail: >-
+      Keep both hips level and pointed at the floor as you lower the dumbbell - if a hip rotates upward, the weight is
+      too heavy.
+  - title: Alternate cleanly
+    detail: Set the dumbbell down, reset your brace, and row the other side. One row per arm counts as one rep.
+safetyNotes: >-
+  Use flat-sided hex dumbbells only - round dumbbells can roll out from under a loaded wrist. Wide feet and a slow tempo
+  keep the low back from arching as the torso fights rotation, and anyone with wrist pain should use push-up bars or
+  skip the loaded version.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816159-y01yv0/img-female-mtktrjy4xvp4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816159-y01yv0/img-male-mtktqxtnn57s.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215816159-y01yv0/img-female-mtktrjy4xvp4.webp
+youtubeSearchQuery: Renegade Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:55.485Z"
+updatedAt: "2026-09-03T01:06:56.624Z"

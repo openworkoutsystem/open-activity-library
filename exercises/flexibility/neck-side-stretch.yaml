@@ -1,0 +1,58 @@
+id: lib-1788127170883-t96any
+name: Neck Side Stretch
+description: >-
+  Tip the ear toward the shoulder with gentle overpressure from the same-side hand — a direct stretch for the upper
+  traps. It is the two-minute answer to desk shoulders and phone neck. Anchoring the opposite shoulder down is what
+  makes the stretch actually land.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Neck
+  - Traps
+secondaryMuscles: []
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Posture
+  - Recovery
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Sit or stand tall
+    detail: Keep the spine long and both shoulders relaxed down.
+  - title: Anchor one side
+    detail: Reach the opposite hand toward the floor or grip the edge of your seat.
+  - title: Tip the head
+    detail: Lower the ear toward the free-side shoulder without rotating the face.
+  - title: Add light pressure
+    detail: Rest the free hand on the head and add only the weight of the hand.
+safetyNotes: >-
+  The neck needs the lightest touch of any stretch in the library — pressure beyond the weight of your hand risks
+  strain, not progress. Stop immediately if you feel tingling into the arm.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170883-t96any/img-male-mtkr9l6t49qd.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170883-t96any/img-male-mtkr9l6t49qd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170883-t96any/img-female-mtkqt4hx41nd.webp
+youtubeSearchQuery: Neck Side Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:30.175Z"
+updatedAt: "2026-09-02T23:56:59.249Z"

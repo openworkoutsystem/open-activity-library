@@ -1,0 +1,59 @@
+id: lib-1788127156072-mfsftb
+name: Band Row
+description: >-
+  Anchor a resistance band at chest height, or loop it around your feet, and row the handles to your ribs. Tension
+  climbs through the range, so the squeeze at the end of each rep does the work. It travels anywhere, which makes it the
+  pull you have no excuse to skip.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Forearms
+equipment:
+  - resistance_bands
+tags:
+  - Pull
+  - Resistance
+  - Upper Body
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Anchor the band
+    detail: Fix the band at chest height, or sit tall and loop it around your feet.
+  - title: Take out slack
+    detail: Step or scoot back until there is tension with the arms extended.
+  - title: Row to ribs
+    detail: Pull the handles to your lower ribs with the shoulder blades squeezing together.
+  - title: Return with control
+    detail: Resist the band on the way back out instead of letting it snap you forward.
+safetyNotes: >-
+  Inspect the band for nicks and tears before each use — a band that snaps under row tension comes straight back at your
+  face. Anchor it on something that cannot slide or release.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156072-mfsftb/img-female-mtjknui7ei4g.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156072-mfsftb/img-male-mtjknt7psn8n.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127156072-mfsftb/img-female-mtjknui7ei4g.webp
+youtubeSearchQuery: Band Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.377Z"
+updatedAt: "2026-09-02T03:45:53.817Z"

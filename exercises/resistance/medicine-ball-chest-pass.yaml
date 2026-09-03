@@ -1,0 +1,61 @@
+id: lib-1788127165958-e83rv7
+name: Medicine Ball Chest Pass
+description: >-
+  Fire the ball off the chest into a solid wall with both hands, catch the rebound, and repeat. Trains upper-body power
+  without the braking a bench press forces at lockout — you release the load instead of decelerating it. Intent is
+  everything: every throw at full speed.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Triceps
+secondaryMuscles:
+  - Shoulders
+  - Serratus Anterior
+equipment:
+  - medicine_ball
+tags:
+  - Plyometrics
+  - Upper Body
+  - Push
+  - Functional
+modality: resistance
+metValue: 6
+instructions:
+  - title: Face the wall
+    detail: Stand a few feet from a solid wall with the ball at your chest.
+  - title: Fire the ball
+    detail: Punch the ball off the chest as fast as possible.
+  - title: Catch the rebound
+    detail: Absorb the ball back to the chest with soft elbows.
+  - title: Repeat immediately
+    detail: Keep every pass at maximal speed.
+safetyNotes: >-
+  Stand close enough for a clean catch — long rebounds turn into jammed fingers. Keep the ball light; the goal is speed,
+  and a heavy ball just turns this into a slow push.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165958-e83rv7/img-female-mtkqhvjpbiyf.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165958-e83rv7/img-male-mtkqhf0i6om5.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165958-e83rv7/img-female-mtkqhvjpbiyf.webp
+youtubeSearchQuery: Medicine Ball Chest Pass proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:25.253Z"
+updatedAt: "2026-09-02T23:35:26.243Z"

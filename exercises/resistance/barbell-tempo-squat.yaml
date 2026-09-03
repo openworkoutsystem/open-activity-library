@@ -1,0 +1,65 @@
+id: lib-1788127148406-b3fnr9
+name: Barbell Tempo Squat
+description: >-
+  Back squat on a slow prescribed descent — control and time under tension. A three-to-five second lowering phase forces
+  perfect positions and builds the quads and trunk without maximal loads. The descent speed is the exercise; if you
+  can't keep the count, the bar is too heavy.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Abs
+  - Lower Back
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Squat
+  - Barbell
+  - Compound
+  - Strength
+  - Lower Body
+modality: resistance
+metValue: 5
+instructions:
+  - title: Set up braced
+    detail: Unrack the bar and take your normal squat stance with a full brace.
+  - title: Count the descent
+    detail: Lower over a strict three-second count, keeping the bar path over mid-foot.
+  - title: No pause needed
+    detail: Touch depth and reverse smoothly without dropping into a bounce.
+  - title: Stand normally
+    detail: Drive up at regular speed and reset your breath at the top.
+safetyNotes: >-
+  Fatigue arrives suddenly with tempo work — the last rep's descent is where form breaks, so leave a rep in the tank
+  rather than grinding. Cut the load well below your normal squat weight; the slow eccentric does the work.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 14
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148406-b3fnr9/img-female-mtjkn5m3kabs.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148406-b3fnr9/img-male-mtjkn44wiv23.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148406-b3fnr9/img-female-mtjkn5m3kabs.webp
+youtubeSearchQuery: Barbell Tempo Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.718Z"
+updatedAt: "2026-09-02T03:45:46.943Z"

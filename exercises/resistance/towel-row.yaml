@@ -1,0 +1,74 @@
+id: lib-1773096604085-7y2hxz
+name: Towel Row
+description: Bodyweight row using a towel for back and biceps
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+equipment: []
+tags:
+  - Compound
+  - Pull
+  - Upper Body
+  - Bodyweight
+  - Calisthenics
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Back: 0.4
+  Biceps: 0.3
+  Shoulders: 0.2
+  Abs: 0.1
+instructions:
+  - title: Anchor the Towel
+    detail: >-
+      Loop a sturdy towel around a stable pole, door handle, or bar at chest height. Hold both ends firmly with an
+      overhand grip, arms extended. Step back until towel is taut, feet shoulder-width, knees slightly bent. Lean back
+      slightly, engaging core for full-body tension.
+  - title: Retract Shoulders
+    detail: >-
+      Pull body toward anchor by bending elbows and retracting shoulder blades, squeezing upper back. Keep elbows close
+      to body, pulling until chest nears hands. Inhale during pull to stabilize. Maintain straight line from head to
+      heels.
+  - title: Controlled Release
+    detail: >-
+      Slowly extend arms to return to start, resisting the pull with back muscles. Exhale as you extend. Avoid shrugging
+      shoulders or arching back; focus on controlled eccentric phase for 3 seconds.
+  - title: Form and Breathing
+    detail: >-
+      Keep core braced and body rigid like a plank. Head neutral, eyes on anchor. Perform 10-15 reps. Breathe: inhale on
+      pull, exhale on release. Adjust foot position for resistance level.
+  - title: Complete Set
+    detail: >-
+      Finish reps, then stretch back and arms. Progress by angling body more horizontally. This builds posture without
+      equipment.
+safetyNotes: >-
+  Keep your body in a straight line and avoid shrugging your shoulders; engage your core throughout. Common errors
+  include using jerky movements or not fully extending the arms.
+trackableMetrics:
+  - key: reps
+    category: movement
+    isPrimary: true
+defaults:
+  reps: 15
+  estimatedDurationMinutes: 3
+  repSpeed: 3
+  sets: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604085-7y2hxz/img-female-mtkw6hn1x0xa.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604085-7y2hxz/img-male-mtkw5un5vuly.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773096604085-7y2hxz/img-female-mtkw6hn1x0xa.webp
+youtubeSearchQuery: towel rows exercise tutorial
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 5
+createdAt: 1773461209481
+updatedAt: "2026-09-03T02:14:32.637Z"

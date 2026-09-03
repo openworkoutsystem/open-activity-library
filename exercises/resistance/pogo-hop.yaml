@@ -1,0 +1,56 @@
+id: lib-1788127165687-b1ojip
+name: Pogo Hop
+description: >-
+  Quick, stiff-ankle bounces off the balls of the feet with barely-bent knees. Trains the Achilles and calf complex to
+  store and return energy — the tendon springiness that running depends on. Think bouncing on hot pavement: short,
+  springy ground contact every rep.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Calves
+secondaryMuscles:
+  - Tibialis Anterior
+  - Quadriceps
+equipment: []
+tags:
+  - Plyometrics
+  - High-Impact
+  - No Equipment
+  - Warm-Up
+modality: resistance
+metValue: 8
+instructions:
+  - title: Stand springy
+    detail: Set feet hip-width with knees nearly straight.
+  - title: Bounce on the balls
+    detail: Hop rapidly off the balls of the feet, heels barely kissing the floor.
+  - title: Stay stiff
+    detail: Keep the ankles rigid so the bounce comes from the tendons, not knee bend.
+  - title: Keep rhythm
+    detail: Hold a quick, even cadence for the full set.
+safetyNotes: >-
+  Ramp the volume slowly — the Achilles adapts slower than the calves feel like it does. Skip these entirely on a grumpy
+  Achilles or irritated plantar fascia.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165687-b1ojip/img-female-mtktnrl08ctw.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165687-b1ojip/img-male-mtktn8ja9x85.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127165687-b1ojip/img-female-mtktnrl08ctw.webp
+youtubeSearchQuery: Pogo Hop proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:24.982Z"
+updatedAt: "2026-09-03T01:04:00.197Z"

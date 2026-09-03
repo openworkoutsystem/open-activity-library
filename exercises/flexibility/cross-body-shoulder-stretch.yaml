@@ -1,0 +1,59 @@
+id: lib-1788127170380-xe9ku9
+name: Cross-Body Shoulder Stretch
+description: >-
+  Pull the arm straight across the chest — a simple stretch for the rear delt and the back of the shoulder capsule.
+  Overhead athletes and heavy pressers need this more than they think. Keep the shoulder pulled down away from the ear
+  so the stretch stays in the back of the joint.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Rear Delts
+secondaryMuscles:
+  - Shoulders
+  - Traps
+equipment: []
+tags:
+  - Static Stretching
+  - Flexibility
+  - Cool-Down
+  - Upper Body
+  - No Equipment
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Reach across
+    detail: Bring one arm straight across your chest at shoulder height.
+  - title: Hook the arm
+    detail: Use the opposite forearm to hug the arm just above the elbow.
+  - title: Pull gently
+    detail: Draw the arm toward the chest until the back of the shoulder stretches.
+  - title: Stay tall
+    detail: Keep the stretched-side shoulder down and the torso facing forward for the hold.
+safetyNotes: >-
+  Grabbing at the elbow joint itself and cranking can irritate it — hold above the elbow and pull with moderate
+  pressure. Shrugging the shoulder up during the hold moves the stretch out of the target.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170380-xe9ku9/img-female-mtkmxbhtquke.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170380-xe9ku9/img-male-mtkmwodadzpt.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127170380-xe9ku9/img-female-mtkmxbhtquke.webp
+youtubeSearchQuery: Cross-Body Shoulder Stretch proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:29.673Z"
+updatedAt: "2026-09-02T21:55:28.594Z"

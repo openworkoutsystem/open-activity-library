@@ -1,0 +1,60 @@
+id: lib-1788132443491-mlmj2t
+name: Seated Spinal Twist
+description: >-
+  Seated with one leg crossed over the other, you rotate the torso against the standing thigh — the classic deep seated
+  twist. It mobilizes the whole spine and stretches the outer hip and glute of the crossed leg. Lengthen tall on the
+  inhale, then rotate a little further on the exhale.
+experienceLevelRecommended: Beginner
+schemaVersion: 1
+primaryMuscles:
+  - Obliques
+  - Back
+secondaryMuscles:
+  - Glutes
+  - Lower Back
+equipment:
+  - yoga_mat
+tags:
+  - Yoga
+  - Mobility
+  - Static Stretching
+  - Low-Impact
+modality: flexibility
+metValue: 2.3
+unilateral: always
+instructions:
+  - title: Cross the leg
+    detail: Sit tall and step one foot over the opposite thigh, planting it flat outside the knee.
+  - title: Sit up tall
+    detail: Press both sit bones down and lengthen through the crown of the head.
+  - title: Hook and rotate
+    detail: Wrap the opposite elbow or forearm around the raised knee and turn the chest toward the bent leg.
+  - title: Twist with the breath
+    detail: Grow taller on each inhale and rotate gently on each exhale, leading from the ribs.
+safetyNotes: >-
+  Never crank into the twist with the arms — the leverage should deepen the stretch, not force it. Keep both sit bones
+  grounded and rotate from the mid-back rather than wrenching the lower back or neck.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443491-mlmj2t/img-female-mtkudqmjzor3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443491-mlmj2t/img-male-mtkud432a8io.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788132443491-mlmj2t/img-female-mtkudqmjzor3.webp
+youtubeSearchQuery: Seated Spinal Twist yoga pose
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:27:22.737Z"
+updatedAt: "2026-09-03T01:24:12.121Z"

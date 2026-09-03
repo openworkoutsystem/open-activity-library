@@ -1,0 +1,62 @@
+id: lib-1788127167097-lpp3i3
+name: Single-Leg Hop and Stick
+description: >-
+  Hop off one leg — forward, sideways, or in place — and freeze the landing dead still for a count. This is reactive
+  balance for sport: force arrives fast and the hip and ankle have to kill it instantly. The rep is not done until the
+  landing is silent and motionless.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Quadriceps
+secondaryMuscles:
+  - Calves
+  - Hamstrings
+  - Abductors
+equipment: []
+tags:
+  - Balance
+  - Stability
+  - Plyometrics
+  - Unilateral
+  - No Equipment
+modality: flexibility
+metValue: 3.3
+unilateral: always
+instructions:
+  - title: Balance on one leg
+    detail: Stand on one leg with a soft knee.
+  - title: Hop small
+    detail: Hop forward or sideways a modest distance.
+  - title: Stick the landing
+    detail: Freeze on landing with the knee over the toes, dead still.
+  - title: Hold, then repeat
+    detail: Hold for two seconds, reset, and hop again.
+  - title: Switch legs
+    detail: Match the work on the other side.
+safetyNotes: >-
+  A knee caving inward on landing is the red flag — shorten the hop until every landing sticks clean. Keep this early in
+  the session; reactive landings degrade badly under fatigue.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167097-lpp3i3/img-female-mtkutezyoabe.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167097-lpp3i3/img-male-mtkuswrnxdwq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127167097-lpp3i3/img-female-mtkutezyoabe.webp
+youtubeSearchQuery: Single-Leg Hop and Stick technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:26.388Z"
+updatedAt: "2026-09-03T01:36:23.521Z"

@@ -1,0 +1,54 @@
+id: lib-1774910686753-tk5pcb
+name: Dumbbell Hammer Curl
+description: Hammer curls with neutral grip for biceps and brachialis. Builds arm thickness and forearm strength.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - dumbbells
+tags:
+  - Dumbbell
+  - Strength
+modality: resistance
+metValue: 4
+unilateral: optional
+instructions:
+  - title: Setup
+    detail: Stand with dumbbells at sides, palms facing each other (neutral grip).
+  - title: Curl
+    detail: Curl both dumbbells up keeping palms facing in throughout. Elbows stay at sides.
+  - title: Squeeze
+    detail: Squeeze at the top, then lower under control.
+  - title: Tempo
+    detail: 2 seconds up, 3 seconds down. Don't swing.
+safetyNotes: Don't swing the weight. Keep elbows pinned to sides. Use controlled tempo.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910686753-tk5pcb/img-female-mtjl6oe65x38.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910686753-tk5pcb/img-male-mtjl5s04rvyq.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1774910686753-tk5pcb/img-female-mtjl6oe65x38.webp
+youtubeSearchQuery: "\"dumbbell hammer curl form\""
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-30T22:44:46.789Z"
+updatedAt: "2026-09-02T04:19:00.335Z"

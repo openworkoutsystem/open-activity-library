@@ -1,0 +1,72 @@
+id: lib-test-cable-row
+name: Seated Cable Row
+description: Cable row for mid-back thickness and biceps
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Traps
+equipment:
+  - cable_machine
+tags:
+  - Compound
+  - Pull
+  - Upper Body
+  - Back
+modality: resistance
+metValue: 5
+muscleActivationMap:
+  Back: 0.3
+  Rhomboids: 0.25
+  Traps: 0.25
+  Biceps: 0.1
+  Rear Delts: 0.05
+  Forearms: 0.05
+instructions:
+  - title: Setup
+    detail: >-
+      Sit on the cable row machine with your feet braced against the foot platforms and knees slightly bent. Select a
+      straight bar, V-bar, or rope attachment. Grasp the handle with a neutral or pronated grip, arms fully extended,
+      and torso upright.
+  - title: Pull
+    detail: >-
+      Exhale and pull the handle toward your lower chest or upper abdomen, driving elbows back past your torso. Squeeze
+      your shoulder blades together at the peak contraction while keeping your chest up and back straight.
+  - title: Extend
+    detail: >-
+      Inhale and slowly extend your arms back to the starting position, allowing your shoulder blades to fully protract
+      without rounding your back or locking your elbows.
+  - title: Repeat
+    detail: Repeat for the desired number of repetitions, maintaining control throughout.
+safetyNotes: >-
+  Keep back straight and chest up; avoid rounding shoulders or using momentum. Squeeze shoulder blades together at peak
+  contraction. Control the eccentric phase to prevent lower back strain.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    isPrimary: false
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  repSpeed: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-cable-row/img-female-mtku9uf6x7ep.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-cable-row/img-male-mtku94hoeq5p.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-test-cable-row/img-female-mtku9uf6x7ep.webp
+youtubeSearchQuery: seated cable row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 10
+createdAt: 1773461209914
+updatedAt: "2026-09-03T01:21:09.916Z"

@@ -1,0 +1,66 @@
+id: lib-1788215820023-aw066u
+name: Stability Ball Stir-the-Pot
+description: >-
+  Set your forearms on a stability ball in a plank and draw slow circles with the elbows while the rest of your body
+  stays completely still. The moving support turns a static plank into a rolling anti-rotation challenge, so the deep
+  core has to resist force from a new direction every few inches. Start with small circles - a shaking plank means the
+  circle is bigger than your control.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Obliques
+  - Transverse Abdominis
+secondaryMuscles:
+  - Front Delts
+  - Serratus Anterior
+  - Glutes
+equipment:
+  - stability_ball
+tags:
+  - Core
+  - Bodyweight
+  - Isometric
+  - Balance
+  - Functional
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Build the plank
+    detail: >-
+      Place both forearms on top of a stability ball and walk your feet back into a plank with shoulders, hips, and
+      heels in one line.
+  - title: Lock the brace
+    detail: Squeeze the glutes, tuck the ribs down, and press the forearms into the ball until nothing is sagging or piking.
+  - title: Stir the pot
+    detail: >-
+      Draw a slow circle about the size of a dinner plate with your forearms while the hips and shoulders stay perfectly
+      still.
+  - title: Reverse direction
+    detail: Finish your reps in one direction, then run the same number of circles the other way before you rest.
+safetyNotes: >-
+  Stop the set the moment the hips sag or the low back arches mid-circle, since that is where the spine takes the load
+  instead of the abs. Set the ball against a wall for the first few sessions so it cannot squirt out from under you.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820023-aw066u/img-female-mtkvdox50d3n.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820023-aw066u/img-male-mtkvd65r1j39.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788215820023-aw066u/img-female-mtkvdox50d3n.webp
+youtubeSearchQuery: Stability Ball Stir the Pot proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-31T22:36:59.309Z"
+updatedAt: "2026-09-03T01:52:09.329Z"

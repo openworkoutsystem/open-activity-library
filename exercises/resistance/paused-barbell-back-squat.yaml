@@ -1,0 +1,66 @@
+id: lib-1788127148268-e8u4rr
+name: Paused Barbell Back Squat
+description: >-
+  Back squat with a dead stop in the hole — kills the bounce, builds position strength. Pausing removes the stretch
+  reflex, so the quads and glutes have to produce force from a dead standstill in your weakest position. Count a full
+  two seconds at the bottom while staying completely braced.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Quadriceps
+  - Glutes
+secondaryMuscles:
+  - Hamstrings
+  - Lower Back
+  - Abs
+equipment:
+  - barbell
+  - squat_rack
+  - weight_plates
+tags:
+  - Squat
+  - Barbell
+  - Compound
+  - Strength
+  - Isometric
+modality: resistance
+metValue: 6
+instructions:
+  - title: Set up normally
+    detail: Take your standard back squat setup and brace before the descent.
+  - title: Descend under control
+    detail: Lower to full depth at a deliberate pace without diving into the hole.
+  - title: Hold the bottom
+    detail: Pause dead still for two full seconds while keeping your air and your brace.
+  - title: Drive from zero
+    detail: Stand up hard with no bounce or rock to start the rep.
+safetyNotes: >-
+  Use roughly 10-20% less weight than your normal squat — the pause removes the bounce most lifters unknowingly rely on.
+  Losing your breath during the hold collapses the brace exactly where the spine is most loaded, so exhale only after
+  you're past the sticking point.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 15
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148268-e8u4rr/img-female-mtkr3tbowxpv.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148268-e8u4rr/img-male-mtkr35qkmrir.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127148268-e8u4rr/img-female-mtkr3tbowxpv.webp
+youtubeSearchQuery: Paused Barbell Back Squat proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:07.571Z"
+updatedAt: "2026-09-02T23:52:30.197Z"

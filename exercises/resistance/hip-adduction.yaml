@@ -1,0 +1,58 @@
+id: lib-1788127160834-th0qwn
+name: Hip Adduction
+description: >-
+  Squeeze the knees together against the machine pads, working the adductors along the inner thigh. Strong adductors
+  stabilize the pelvis in squats and lunges, and they are among the most commonly strained muscles in sport — direct
+  work here is cheap insurance. Start conservative on the stretch setting and earn width over weeks.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Adductors
+secondaryMuscles: []
+equipment:
+  - weight_machines
+tags:
+  - Isolation
+  - Machine Weights
+  - Lower Body
+  - Strength
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Set the width
+    detail: Choose a start position that gives a light inner-thigh stretch, not a maximal one.
+  - title: Squeeze together
+    detail: Press your knees toward each other in one smooth motion.
+  - title: Hold the squeeze
+    detail: Pause a one-count with the pads nearly touching.
+  - title: Open slowly
+    detail: Resist the pads back to the start width under full control.
+safetyNotes: >-
+  Groin strains happen at end-range stretch under load — set the start width modestly and widen it gradually across
+  sessions, never mid-set.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160834-th0qwn/img-female-mtkodbs4en30.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160834-th0qwn/img-male-mtkocvnpq81k.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127160834-th0qwn/img-female-mtkodbs4en30.webp
+youtubeSearchQuery: Hip Adduction proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:20.139Z"
+updatedAt: "2026-09-02T22:35:54.658Z"

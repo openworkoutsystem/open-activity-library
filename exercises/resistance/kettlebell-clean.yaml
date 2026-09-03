@@ -1,0 +1,65 @@
+id: lib-1788127162439-h04w9n
+name: Kettlebell Clean
+description: >-
+  Hike the bell back and clean it to the rack position in one crisp arc. It builds hip power and grooves the position
+  every kettlebell press and squat starts from. The skill is taming the arc — keep the bell close and let it roll around
+  the wrist instead of flipping over and banging the forearm.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Forearms
+  - Biceps
+  - Abs
+  - Traps
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Hinge
+  - Compound
+  - Functional
+  - Strength
+modality: resistance
+metValue: 6
+unilateral: optional
+instructions:
+  - title: Hike the bell
+    detail: Hinge at the hips and swing the bell back between the legs with one hand.
+  - title: Drive and guide
+    detail: Snap the hips and keep the elbow close to the ribs as the bell travels up.
+  - title: Catch in rack
+    detail: Let the bell roll around the wrist and settle into the rack with a straight wrist.
+  - title: Re-hike and repeat
+    detail: Drop the bell back into the swing arc and start the next rep.
+safetyNotes: >-
+  The forearm bruise is a technique error, not a rite of passage — loosen the grip and let the bell roll around the hand
+  into the rack. Keep the wrist straight; a flexed wrist under a bell adds up fast.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 5
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162439-h04w9n/img-female-mtjkp1us19pm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162439-h04w9n/img-male-mtjkp0jgthxj.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127162439-h04w9n/img-female-mtjkp1us19pm.webp
+youtubeSearchQuery: Kettlebell Clean technique
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:21.731Z"
+updatedAt: "2026-09-02T03:56:21.143Z"

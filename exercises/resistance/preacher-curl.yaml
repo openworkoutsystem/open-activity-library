@@ -1,0 +1,60 @@
+id: lib-1788127158677-39hjfj
+name: Preacher Curl
+description: >-
+  Curl braced on the preacher pad — no cheating, pure biceps. The pad locks the upper arms in place, so momentum, torso
+  lean, and elbow drift are all removed from the equation. What is left is exactly how strong your biceps actually are.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - ez_curl_bar
+  - bench_adjustable
+tags:
+  - Isolation
+  - Upper Body
+  - Strength
+  - Weightlifting
+modality: resistance
+metValue: 3.5
+unilateral: optional
+instructions:
+  - title: Set the pad
+    detail: Sit at the preacher bench with armpits snug over the top of the pad and upper arms flat against it.
+  - title: Grip the bar
+    detail: Take the EZ bar with an underhand grip at the angled sections.
+  - title: Curl up
+    detail: Curl the bar toward your face while keeping the upper arms glued to the pad.
+  - title: Lower with control
+    detail: Lower slowly until the elbows are almost fully straight.
+safetyNotes: >-
+  The fully stretched bottom position under load is where biceps tears happen — lower under control, never bounce out of
+  the bottom, and stop shy of aggressive full extension when going heavy.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158677-39hjfj/img-female-mtktp1gq7k5w.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158677-39hjfj/img-male-mtktodd48um2.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127158677-39hjfj/img-female-mtktp1gq7k5w.webp
+youtubeSearchQuery: Preacher Curl proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:17.975Z"
+updatedAt: "2026-09-03T01:04:59.316Z"

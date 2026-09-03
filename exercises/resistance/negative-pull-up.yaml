@@ -1,0 +1,61 @@
+id: lib-1788127154926-vordma
+name: Negative Pull-Up
+description: >-
+  Jump or step to the top position, chin over the bar, then lower yourself as slowly as you can — building the pull-up
+  through its eccentric half. You are strongest lowering, so negatives let you train the full movement before you can
+  pull a single rep. Aim for a three-to-five second descent per rep.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+secondaryMuscles:
+  - Biceps
+  - Rhomboids
+  - Forearms
+equipment:
+  - pull_up_bar
+  - plyo_box
+tags:
+  - Pull
+  - Bodyweight
+  - Calisthenics
+  - Upper Body
+  - Strength
+modality: resistance
+metValue: 6
+instructions:
+  - title: Get to the top
+    detail: Use a box or a jump to start with your chin over the bar and elbows fully bent.
+  - title: Squeeze and hold
+    detail: Pause a beat at the top with shoulder blades pulled down and chest toward the bar.
+  - title: Lower on a count
+    detail: Descend as slowly as you can, fighting for every inch over three to five seconds.
+  - title: Finish at straight arms
+    detail: Reach a full hang, then step back up and repeat.
+safetyNotes: >-
+  Slow eccentrics produce serious soreness — start with just a few quality reps per session and build up, or the first
+  week will wreck your arms. When you can no longer control the descent, the set is over; free-falling the last reps
+  strains the elbows and shoulders.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 10
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154926-vordma/img-female-mtkr8si17uas.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154926-vordma/img-male-mtkr89dfcn7a.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127154926-vordma/img-female-mtkr8si17uas.webp
+youtubeSearchQuery: Negative Pull-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:14.232Z"
+updatedAt: "2026-09-02T23:56:21.790Z"

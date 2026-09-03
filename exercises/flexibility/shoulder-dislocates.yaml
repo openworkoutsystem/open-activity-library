@@ -1,0 +1,60 @@
+id: lib-1788127172280-vh9wf4
+name: Shoulder Dislocates
+description: >-
+  Pass a dowel or band overhead and behind the body with straight arms — the classic shoulder range keeper. The grip
+  starts wide enough that the pass is smooth, then narrows slowly over weeks as the shoulders open. Nothing maintains
+  overhead mobility for pressing and snatching quite like it.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Shoulders
+  - Rotator Cuff
+secondaryMuscles:
+  - Chest
+  - Traps
+equipment: []
+tags:
+  - Mobility
+  - Warm-Up
+  - Dynamic Stretching
+  - Flexibility
+modality: flexibility
+metValue: 2.5
+instructions:
+  - title: Grip wide
+    detail: Hold the dowel or band in front of the thighs with a very wide overhand grip.
+  - title: Raise overhead
+    detail: Lift it overhead with both elbows locked straight.
+  - title: Pass behind
+    detail: Continue the arc behind you until it reaches the hips or your end range.
+  - title: Return forward
+    detail: Reverse the same path back to the start under control.
+  - title: Narrow gradually
+    detail: Move the hands in only when a full pass feels easy.
+safetyNotes: >-
+  Never force through a sticking point — if the pass stalls, widen the grip immediately rather than bending the elbows
+  or shrugging through. Narrowing too fast is the classic way people tweak a shoulder with this drill.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 2
+  durationSeconds: 40
+  estimatedDurationMinutes: 2
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172280-vh9wf4/img-female-mtkug8lep8t4.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172280-vh9wf4/img-male-mtkufmbjrlli.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127172280-vh9wf4/img-female-mtkug8lep8t4.webp
+youtubeSearchQuery: Shoulder Dislocates proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:31.572Z"
+updatedAt: "2026-09-03T01:26:08.565Z"

@@ -1,0 +1,53 @@
+id: lib-1775591944094-8ulgb3
+name: Dumbbell Hammer Curl to Shoulder Press
+description: HIIT bicep curl to overhead press combo.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Biceps
+  - Shoulders
+secondaryMuscles:
+  - Triceps
+equipment:
+  - dumbbells
+tags:
+  - HIIT
+  - Dumbbell
+modality: hybrid
+metValue: 7
+unilateral: optional
+instructions:
+  - title: Hammer Curl
+    detail: Palms in, curl to shoulders.
+  - title: Press
+    detail: Press overhead.
+  - title: Lower
+    detail: Reverse motion.
+safetyNotes: Core braced, no arching back. Careful on press with shoulder history.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 1
+  reps: 20
+  repSpeed: 2
+  estimatedDurationMinutes: 1
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591944094-8ulgb3/img-female-mtkn6ehzxwft.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591944094-8ulgb3/img-male-mtkn5py41e48.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1775591944094-8ulgb3/img-female-mtkn6ehzxwft.webp
+youtubeSearchQuery: hammer curl shoulder press dumbbell Pamela Reif
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-04-07T19:59:03.452Z"
+updatedAt: "2026-09-02T22:02:33.929Z"

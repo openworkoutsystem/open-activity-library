@@ -1,0 +1,62 @@
+id: lib-1788127155783-43uep5
+name: Machine Row
+description: >-
+  A guided rowing pattern against the machine's fixed path. It makes mid-back overload simple — no hinge to hold and no
+  balance demand — so it is a good place to push hard sets safely. Set the chest pad so your arms reach full stretch at
+  the start of each rep.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Back
+  - Rhomboids
+secondaryMuscles:
+  - Biceps
+  - Rear Delts
+  - Forearms
+equipment:
+  - weight_machines
+tags:
+  - Pull
+  - Machine Weights
+  - Compound
+  - Upper Body
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Adjust the machine
+    detail: Set the seat and chest pad so the handles sit at full arm's reach.
+  - title: Grip and sit tall
+    detail: Take the handles with a proud chest and shoulders down.
+  - title: Pull to torso
+    detail: Drive the elbows back and squeeze the shoulder blades together.
+  - title: Return slowly
+    detail: Let the handles travel forward under control to a full stretch.
+safetyNotes: >-
+  Set the range so the stack never slams and the start position doesn't drag your shoulders into a painful stretch.
+  Avoid rocking the torso off the pad to move heavier weight.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 7
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155783-43uep5/img-male-mtkqootxjjmm.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155783-43uep5/img-male-mtkqootxjjmm.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127155783-43uep5/img-female-mtkqfeetkyu4.webp
+youtubeSearchQuery: Machine Row proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:15.087Z"
+updatedAt: "2026-09-02T23:40:44.609Z"

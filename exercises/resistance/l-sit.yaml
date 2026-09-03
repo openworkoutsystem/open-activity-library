@@ -1,0 +1,60 @@
+id: lib-1788131480099-6rk0bz
+name: L-Sit
+description: >-
+  Legs held straight out at ninety degrees while the hips float off the floor — a total-body isometric. It demands
+  pressing strength through locked arms, relentless core compression, and hip flexor strength most people have never
+  trained. Push the floor away hard and depress the shoulders to buy your hips the height they need.
+experienceLevelRecommended: advanced
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Hip Flexors
+secondaryMuscles:
+  - Triceps
+  - Shoulders
+  - Quadriceps
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - Isometric
+  - Strength
+modality: resistance
+metValue: 4
+instructions:
+  - title: Set the hands
+    detail: Sit with legs extended and place your palms flat beside your hips, fingers forward.
+  - title: Press and lift
+    detail: Lock your elbows, push the floor away, and lift your hips and heels off the ground.
+  - title: Compress hard
+    detail: Pull your thighs up toward your chest and point the toes to keep the legs at ninety degrees.
+  - title: Hold and breathe
+    detail: Keep the shoulders pressed down away from the ears and take short breaths through the hold.
+safetyNotes: >-
+  Wrists take the full load in extension — warm them up and elevate onto fists or parallettes if they ache. Build time
+  with tucked legs before demanding the full L position.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 3
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480099-6rk0bz/img-female-mtkre3gyolj3.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480099-6rk0bz/img-male-mtkrdehthyog.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480099-6rk0bz/img-female-mtkre3gyolj3.webp
+youtubeSearchQuery: L-Sit proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:19.360Z"
+updatedAt: "2026-09-03T00:00:29.421Z"

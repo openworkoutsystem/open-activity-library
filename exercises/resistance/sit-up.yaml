@@ -1,0 +1,56 @@
+id: lib-1788131479474-jozwfq
+name: Sit-Up
+description: >-
+  The classic full sit — shoulder blades to knees and back down under control. It trains the abs through a long range of
+  motion with the hip flexors assisting the top half. Lead with the ribs curling toward the pelvis rather than yanking
+  the head forward.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+secondaryMuscles:
+  - Hip Flexors
+  - Obliques
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Core
+  - No Equipment
+modality: resistance
+metValue: 3.8
+instructions:
+  - title: Set your start
+    detail: Lie on your back with knees bent, feet flat, and fingertips lightly touching your temples.
+  - title: Curl up
+    detail: Exhale and curl your torso up until your chest approaches your knees.
+  - title: Reach the top
+    detail: Sit tall for a beat with your abs still braced.
+  - title: Lower with control
+    detail: Roll back down one vertebra at a time until your shoulder blades touch the floor.
+safetyNotes: >-
+  Keep the hands light at the temples — pulling on the head strains the neck. If your low back complains, shorten the
+  range to a crunch instead of anchoring the feet harder.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 15
+  estimatedDurationMinutes: 5
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479474-jozwfq/img-female-mtkuxq4pmaeh.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479474-jozwfq/img-male-mtkux4v6li8i.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131479474-jozwfq/img-female-mtkuxq4pmaeh.webp
+youtubeSearchQuery: Sit-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:18.735Z"
+updatedAt: "2026-09-03T01:39:45.217Z"

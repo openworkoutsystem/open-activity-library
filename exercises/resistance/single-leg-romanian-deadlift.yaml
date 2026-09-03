@@ -1,0 +1,78 @@
+id: lib-1773372063530-10l80a
+name: Single-Leg Romanian Deadlift
+description: >-
+  A unilateral bodyweight hinge movement targeting the hamstrings and glutes while improving balance and posterior chain
+  strength. Shoulder-safe alternative to weighted hinges for your cut program.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Hamstrings
+  - Glutes
+secondaryMuscles:
+  - Shoulders
+equipment: []
+tags:
+  - Strength
+  - Lower Body
+  - Hinge
+  - Balance
+  - Glutes
+  - Calisthenics
+modality: resistance
+metValue: 5
+unilateral: always
+muscleActivationMap:
+  Hamstrings: 0.4
+  Glutes: 0.3
+  Abs: 0.15
+  Calves: 0.1
+instructions:
+  - title: Starting Position
+    detail: >-
+      Stand tall on your right leg with a slight bend in the knee, hands on hips or arms extended forward for balance.
+      Engage your core and keep your back flat.
+  - title: Hinge Forward
+    detail: >-
+      Push your hips back as you hinge forward at the hips, lowering your torso toward the ground while extending your
+      left leg straight behind you. Keep your left leg in line with your spine—do not let it drop.
+  - title: Reach Bottom Position
+    detail: >-
+      Lower until your torso is near parallel to the ground or you feel a strong hamstring stretch. Keep your gaze down
+      and neck neutral to avoid tech-neck strain.
+  - title: Drive Back Up
+    detail: >-
+      Push through your right heel to reverse the hinge, squeezing your glutes and hamstrings to return to the starting
+      position without arching your back.
+  - title: Repeat
+    detail: Complete reps on one leg before switching. Move slowly to maintain control.
+safetyNotes: >-
+  Avoid if you have acute hamstring strains. Keep shoulders packed down away from ears—stop if left shoulder pain
+  occurs. Use a wall for balance if needed. Exhale on the way up."
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  restSeconds: 60
+  repSpeed: 3
+  estimatedDurationMinutes: 4
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773372063530-10l80a/img-female-mtkv4ydjsvkb.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773372063530-10l80a/img-male-mtkv4bqlyqt0.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1773372063530-10l80a/img-female-mtkv4ydjsvkb.webp
+youtubeSearchQuery: single leg romanian deadlift bodyweight proper form tutorial shoulder safe
+provenance:
+  confidence: 1
+  lastReviewedAt: "2026-03-18T03:38:12.703Z"
+  reviewCount: 1
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-03-13T03:21:03.677Z"
+updatedAt: "2026-09-03T01:45:21.837Z"

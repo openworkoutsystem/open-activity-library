@@ -1,0 +1,60 @@
+id: lib-1788131480690-0niuda
+name: Dive Bomber Push-Up
+description: >-
+  Swoop from a pike position down through a low push-up and up into an upward-dog line, then reverse the path. It works
+  the chest, shoulders, and triceps through constantly changing angles while mobilizing the spine, hips, and hamstrings.
+  Imagine sliding your chest under a low fence and back again — the bar stays low the whole way.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Chest
+  - Shoulders
+  - Triceps
+secondaryMuscles:
+  - Abs
+  - Lower Back
+  - Hamstrings
+equipment: []
+tags:
+  - Calisthenics
+  - Bodyweight
+  - Push
+  - Mobility
+  - Compound
+modality: resistance
+metValue: 4.5
+instructions:
+  - title: Start in pike
+    detail: Set hands and feet wide of a normal push-up with hips pushed high toward the ceiling.
+  - title: Dive forward
+    detail: Bend the elbows and sweep your chest forward, skimming just above the floor.
+  - title: Rise to up-dog
+    detail: Press your chest up and forward until your arms are straight and hips are low.
+  - title: Reverse the arc
+    detail: Push back through the same low path to return to the high pike.
+safetyNotes: >-
+  The up-dog finish extends the low back under load — keep the glutes engaged and shorten the arc if your lumbar spine
+  pinches. Shoulders should stay away from the ears through the dive.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  reps: 8
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480690-0niuda/img-female-mtkbi3gv825j.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480690-0niuda/img-male-mtkbgl61ggqd.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788131480690-0niuda/img-female-mtkbi3gv825j.webp
+youtubeSearchQuery: Dive Bomber Push-Up proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T23:11:20.004Z"
+updatedAt: "2026-09-02T16:35:43.051Z"

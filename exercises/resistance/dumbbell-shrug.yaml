@@ -1,0 +1,59 @@
+id: lib-1788127159523-1esfnq
+name: Dumbbell Shrug
+description: >-
+  Elevate the shoulders straight up under load — direct trap work. The movement is small and vertical: straight up
+  toward the ears, pause, straight down. Rolling the shoulders in circles adds nothing except wear on the joint.
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles:
+  - Traps
+secondaryMuscles:
+  - Forearms
+equipment:
+  - dumbbells
+tags:
+  - Isolation
+  - Dumbbell
+  - Upper Body
+  - Strength
+  - Grip
+modality: resistance
+metValue: 3.5
+instructions:
+  - title: Stand tall
+    detail: Hold heavy dumbbells at your sides with arms straight and chest up.
+  - title: Shrug straight up
+    detail: Lift the shoulders directly toward the ears as high as they will go.
+  - title: Pause at top
+    detail: Hold the top squeeze for a full second.
+  - title: Lower fully
+    detail: Let the shoulders sink to a full stretch before the next rep.
+safetyNotes: >-
+  Never roll the shoulders forward or backward under load, and avoid jerking heavy weight up with the neck — the traps
+  respond to a strict pause at the top, not to momentum.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 12
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159523-1esfnq/img-female-mtkec7qma20n.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159523-1esfnq/img-male-mtkeapjtbk7q.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127159523-1esfnq/img-female-mtkec7qma20n.webp
+youtubeSearchQuery: Dumbbell Shrug proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:18.826Z"
+updatedAt: "2026-09-02T17:55:07.353Z"

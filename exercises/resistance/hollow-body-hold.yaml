@@ -1,0 +1,56 @@
+id: lib-1788127157562-00t8ue
+name: Hollow Body Hold
+description: >-
+  Lying on your back with the low back pressed down, arms and legs hover off the floor in a shallow dish shape. It is
+  the gymnastic brace position — the same trunk shape that makes handstands, pull-ups, and heavy lifts solid. Lower the
+  arms and legs only as far as the low back can stay pinned.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Abs
+  - Transverse Abdominis
+secondaryMuscles:
+  - Hip Flexors
+  - Quadriceps
+equipment: []
+tags:
+  - Core
+  - Isometric
+  - Calisthenics
+  - No Equipment
+modality: resistance
+metValue: 3.3
+instructions:
+  - title: Pin the back
+    detail: Lie on your back and press the lumbar spine firmly into the floor.
+  - title: Lift into the dish
+    detail: Raise the shoulders and legs a few inches so only the low back and hips touch down.
+  - title: Extend the levers
+    detail: Reach the arms overhead and straighten the legs only as far as the back stays pinned.
+  - title: Hold and breathe
+    detail: Maintain the shape with steady shallow breaths for the full hold.
+safetyNotes: >-
+  If the low back lifts off the floor, bend the knees or bring the arms to the sides — a shorter lever done right beats
+  a long one done wrong. Neck strain means you are pulling with the head instead of curling from the ribs.
+trackableMetrics:
+  - key: duration
+    unit: seconds
+    isPrimary: true
+    category: movement
+defaults:
+  sets: 3
+  durationSeconds: 30
+  estimatedDurationMinutes: 6
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157562-00t8ue/img-male-mtki4z8mde5r.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127157562-00t8ue/img-male-mtki4z8mde5r.webp
+youtubeSearchQuery: Hollow Body Hold proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:16.865Z"
+updatedAt: "2026-09-02T19:41:27.643Z"

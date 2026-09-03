@@ -1,0 +1,64 @@
+id: lib-1788127163311-gtnv5n
+name: Single-Arm Kettlebell Swing
+description: >-
+  The swing done one-handed — the same ballistic hip snap, now with an offset load the trunk has to resist. It adds
+  anti-rotation and grip demand to everything the two-hand swing trains. Square shoulders every rep; the hips power the
+  float, not the arm.
+experienceLevelRecommended: intermediate
+schemaVersion: 1
+primaryMuscles:
+  - Glutes
+  - Hamstrings
+secondaryMuscles:
+  - Obliques
+  - Forearms
+  - Lower Back
+  - Shoulders
+equipment:
+  - kettlebells
+tags:
+  - Kettlebell
+  - Hinge
+  - Unilateral
+  - Posterior Chain
+modality: hybrid
+metValue: 9.8
+unilateral: always
+instructions:
+  - title: Hike with one hand
+    detail: Hinge and swing the bell back between the legs with the shoulders square.
+  - title: Snap the hips
+    detail: Stand up fast and let the bell float to chest height.
+  - title: Resist the twist
+    detail: Keep both shoulders level and facing forward through every rep.
+  - title: Switch arms
+    detail: Swap hands between sets or with a controlled pass at the top.
+safetyNotes: >-
+  The offset load will try to rotate the trunk and pull the shoulder forward — keep the shoulder packed and the hips
+  square. It's still a hinge: the arm is a rope, not a lever.
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  sets: 3
+  reps: 10
+  estimatedDurationMinutes: 8
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163311-gtnv5n/img-female-mtkumpzxluvx.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163311-gtnv5n/img-male-mtkum4zba97p.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1788127163311-gtnv5n/img-female-mtkumpzxluvx.webp
+youtubeSearchQuery: Single-Arm Kettlebell Swing proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-30T21:59:22.605Z"
+updatedAt: "2026-09-03T01:31:11.072Z"

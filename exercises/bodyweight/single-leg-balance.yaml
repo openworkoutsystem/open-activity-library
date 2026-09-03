@@ -1,0 +1,35 @@
+id: lib-1787797555565-jbbx6r
+name: Single-Leg Balance
+description: ""
+experienceLevelRecommended: beginner
+schemaVersion: 1
+primaryMuscles: []
+secondaryMuscles: []
+equipment: []
+tags: []
+trackableMetrics:
+  - key: reps
+    isPrimary: true
+    category: movement
+  - key: weight
+    unit: lbs
+    category: load
+defaults:
+  estimatedDurationMinutes: 3
+  sets: 1
+  reps: 30
+imageUrl: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797555565-jbbx6r/img-female-mtkv0qr5r3hd.webp
+imageUrlMale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797555565-jbbx6r/img-male-mtkuos7m1pg1.webp
+imageUrlFemale: >-
+  https://storage.googleapis.com/openworkoutsystem.firebasestorage.app/exercise-images/lib-1787797555565-jbbx6r/img-female-mtkv0qr5r3hd.webp
+youtubeSearchQuery: how to Single-Leg Balance exercise proper form
+provenance:
+  confidence: 0.5
+  citations: []
+  reviewCount: 0
+  contributorCount: 1
+usageCount: 0
+createdAt: "2026-08-27T02:25:55.608Z"
+updatedAt: "2026-09-03T01:42:05.233Z"
